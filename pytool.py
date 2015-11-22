@@ -45,34 +45,32 @@ def cross_validation(filename):
 
 
 class SimilarityCalculator:
-    def __init__(self,alpha=1,beta=0):
+    def __init__(self,alpha=1,beta=0,filename='qrels-treceval-2014.txt'):
         self.alpha = alpha
         self.beta = beta
-
-    
+        self.build_map(filename)
+        
     # This function is static function
     # returnining two number of map data structure.
     # One is to access cluster information by pmcid,
     # and the other is to access pmcid by cluster.
-    def build_map(filename):
-        clusterToId = {}
-        idToCluster = {}
+    def build_map(self,filename):
+        self.clusterToId = {}
+        self.idToCluster = {}
 
         data = pd.read_csv(filename,sep='\t')
     
         for index,elm in data.iterrows():
             if elm['relevancy'] == 2 or elm['relevancy'] == 1:
-                if not elm['question'] in clusterToId: 
-                clusterToId[elm['question']] = []
-            clusterToId[elm['question']].append(elm['pmcid'])
+                if not elm['question'] in self.clusterToId: 
+                    self.clusterToId[elm['question']] = []
+                self.clusterToId[elm['question']].append(elm['pmcid'])
+                
+                if not elm['pmcid'] in self.idToCluster:
+                    self.idToCluster[elm['pmcid']] = []
+                self.idToCluster[elm['pmcid']].append(elm['question'])
 
-            if not elm['pmcid'] in idToCluster:
-                idToCluster[elm['pmcid']] = []
-                idToCluster[elm['pmcid']].append(elm['question'])
-            else:
-                idToCluster[elm['pmcid']].append(elm['question'])
-
-        return (clusterToId,idToCluster)
+        return (self.clusterToId,self.idToCluster)
 
 
     # This function provides the method to calculate similarity between two different documents.
@@ -85,6 +83,47 @@ class SimilarityCalculator:
     # that contains document2
     def get_document_clique_similarity(self,pmcid1,pmcid2):
         pass
+
+    # This function calculates document similarity by counting how many nodes
+    # they share
+    def method1(self,pmcid1,pmcid2):
+        cluster1 = self.idToCluster[pmcid1]
+        cluster2 = self.idToCluster[pmcid2]
+
+        pmcid_list1 = []
+        pmcid_list2 = []
+
+        for clu1 in cluster1:
+            l = clusterToId[clu1]
+            for j in l:
+                if not j in pmcid_list1:
+                    pmcid_list1.append(j)
+        for clu2 in cluster2:
+            l = clusterToId[clu2]
+            for j in l:
+                if not j in pmcid_list1:
+                    pmcid_list2.append(j)
+
+        cnt = 0
+        for i in pmcid_list1:
+            if i in pmcid_list2:
+                cnt += 1
+
+        m = min(len(pmcid_list1),len(pmcid_list2))
+        return cnt
+
+    # This function calculates document similarity by distance between two nodes
+    # in the relevance network.
+    def method2(self,pmcid1,pmcid2):
+        pass
+
+    #
+    def method3(self,pmcid1,pmcid2):
+        cluster = self.idToCluster[pmcid2]
+
+        pmcids = []
+        for clu in cluster:
+            clusterToId[clu]
 
     # Return the score calculated by cosine similarity between doc1 and doc2
     # The score is calculated by summing up the two functions, get_document_document_similarity
