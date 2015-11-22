@@ -42,28 +42,6 @@ def cross_validation(filename):
     training.to_csv('training.csv',sep='\t')
     test.to_csv('test.csv',sep='\t')
 
-        
-# This function provides two number of map data structure.
-# One is to access cluster information by pmcid,
-# and the other is to access pmcid by cluster.
-def build_map(filename):
-    clusterToId = {}
-    idToCluster = {}
-
-    data = pd.read_csv(filename,sep='\t')
-    
-    for index,elm in data.iterrows():
-        if elm['relevancy'] == 2 or elm['relevancy'] == 1:
-            if not elm['question'] in clusterToId: 
-                clusterToId[elm['question']] = []
-            clusterToId[elm['question']].append(elm['pmcid'])
-            if not elm['pmcid'] in idToCluster:
-                idToCluster[elm['pmcid']] = []
-                idToCluster[elm['pmcid']].append(elm['question'])
-            else:
-                idToCluster[elm['pmcid']].append(elm['question'])
-
-    return (clusterToId,idToCluster)
 
 
 class SimilarityCalculator:
@@ -71,7 +49,30 @@ class SimilarityCalculator:
         self.alpha = alpha
         self.beta = beta
 
-        
+    
+    # This function is static function
+    # returnining two number of map data structure.
+    # One is to access cluster information by pmcid,
+    # and the other is to access pmcid by cluster.
+    def build_map(filename):
+        clusterToId = {}
+        idToCluster = {}
+
+        data = pd.read_csv(filename,sep='\t')
+    
+        for index,elm in data.iterrows():
+            if elm['relevancy'] == 2 or elm['relevancy'] == 1:
+                if not elm['question'] in clusterToId: 
+                clusterToId[elm['question']] = []
+            clusterToId[elm['question']].append(elm['pmcid'])
+
+            if not elm['pmcid'] in idToCluster:
+                idToCluster[elm['pmcid']] = []
+                idToCluster[elm['pmcid']].append(elm['question'])
+            else:
+                idToCluster[elm['pmcid']].append(elm['question'])
+
+        return (clusterToId,idToCluster)
 
 
     # This function provides the method to calculate similarity between two different documents.
