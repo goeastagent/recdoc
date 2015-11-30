@@ -84,6 +84,21 @@ class SimilarityCalculator:
     def get_document_clique_similarity(self,pmcid1,pmcid2):
         pass
 
+    # Obtaining Term Vector of document whose pmcid id is 'pmcid'
+    def get_term_vector(self,pmcid):
+        pass
+
+    # 
+    def merge_terms(self,pmcid):
+        cluster = self.idToCluster[pmcid]
+        term_vec = []
+        
+        for c in cluster:
+            ids = self.clusterToId[c]
+            for pid in ids:
+                m = get_term_vector(pid)
+            
+
     # This function calculates document similarity by counting how many nodes
     # they share
     def method1(self,pmcid1,pmcid2):
