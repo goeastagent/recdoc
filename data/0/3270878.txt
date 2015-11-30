@@ -1,0 +1,4 @@
+Correction: Dong, J. et al. Integrated Evaluation of Urban Development Suitability Based on Remote Sensing and GIS Techniques–A Case Study in Jingjinji Area, China. Sensors 2008, 8, 5975–5986
+
+
+We found that formula (1) was incorrect in our paper published in Sensors in 2008 [1]. Therefore, formula (1) is corrected as follows:(1)UDSI=∑i=1nWi*Ci

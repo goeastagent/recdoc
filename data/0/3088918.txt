@@ -1,0 +1,47 @@
+HYPEREOSINOPHILIC SYNDROME: CUTANEOUS INVOLVEMENT AS THE SOLE MANIFESTATION
+
+Hypereosinophilic syndrome (HES) encompasses a group of leukoproliferative disorders with variable involvement of the internal organs. More than half of all patients have cutaneous involvement. In a minority of the reported cases, skin involvement has been the only manifestation of HES . We report one such rare case of HES, with cutaneous involvement as the sole manifestation.
+
+Hypereosinophilic syndrome (HES) is a rare disorder. The reported cases have usually been associated with systemic involvement. We report our first case of HES with only cutaneous lesions.
+A 33-year-old female presented with itchy skin lesions of 8 years’ duration. The lesions had initially been restricted to the exposed extremities but later became generalized. There was history of complete gestational remission and postpartal exacerbation.
+Histopathological examination done 2 years earlier from a papule on the back had revealed upper dermal noncaseating epitheloid granuloma with Langhans giant cell and lymphocytes. A tentative diagnosis of sarcoidosis was made. Angiotensin-converting enzyme level was normal. Her complete blood count (CBC) showed eosinophilia; the absolute eosinophil count had gradually increased from 2725 cells/mm3 to 6000 cells/mm3 over 2 years.
+At presentation, the patient showed generalized thickening of the skin with multiple skin-colored to erythematous papules and plaques [Figure 1], an atrophic plaque over the right cheek, infiltration of ear pinna [Figure 2], angioedema of the dorsum of the hands, and lichenification of the dorsal aspects of the hands and feet.
+Multiple skin-colored/erythematous papules and plaques
+Infiltration of ear pinna
+Repeat biopsy from a papule revealed nonspecific upper dermal mixed cell granuloma [Figure 3]. The peripheral smear showed eosinophilia. Bone marrow aspiration revealed normal erythropoiesis, adequate megakaryocytes, and normal eosinophil precursors (ruling out clonal proliferation of eosinophils); there were no atypical cells. Investigations, including motion for ova and cyst and special staining for fungus, were negative. Her IgE level was 80 IU (normal 0-100 IU) and the IgG level was 1487 ng/dl (normal 700-1600 ng/dl). The lymphocyte count was 1244 cells/mm3. Antinuclear antibody and rheumatoid factor were negative. Endocrine evaluation was within normal limits. ECG and ECHO were normal. The patient refused to undergo endomyocardial biopsy. CT chest was normal.
+Upper dermal mixed cell granuloma (H&E stain, 100×)
+Finally, after ruling out reactive causes of eosinophilia and clonal proliferation of cells, we arrived at the diagnosis of HES with cutaneous involvement as the sole manifestation. The patient was started on steroids, with resolution of skin lesions within a week and concomitant decrease in the AEC.
+HES is a group of leukoproliferative disorder in which more than half of all patients have cutaneous involvement. In a minority of reports, skin involvement is the only manifestation of HES.[1]
+HES encompasses a group of leukoproliferative disorders sharing three features; these are:[2]
+Sustained eosinophilia, i.e., AEC>1500 cells/mm 3, persisting for more than 6 monthsAbsence of other causes of eosinophiliaSigns and symptoms of organ involvement
+Sustained eosinophilia, i.e., AEC>1500 cells/mm 3, persisting for more than 6 months
+Absence of other causes of eosinophilia
+Signs and symptoms of organ involvement
+The eosinophilia is hypothesized to be due to the involvement of myeloid cells, with interstitial chromosomal deletion on band 4q12 leading to the creation of a FIP1L1-PDGFRA fusion gene. Also hypothesized is an increase in IL-5 produced by clonally expanded T cell population.[3]
+Multiple organs are infiltrated with eosinophils, where they inflict tissue damage through the release of granule proteins, including eosinophil peroxidase, major basic protein, eosinophil-derived neurotoxin, and eosinophil cationic protein.
+HES is a multisystem disease with involvement of various organs [Table 1]. Major symptoms are fatigue, myalgia, cough, breathlessness, sweating, and pruritus.[4]
+Systemic involvement
+Mucocutaneous manifestations include the following:
+Common manifestations
+PruritusUrticariaDermatographismAngioedemaErythematous papules, plaques, and nodulesNonspecific rash
+Pruritus
+Urticaria
+Dermatographism
+Angioedema
+Erythematous papules, plaques, and nodules
+Nonspecific rash
+Uncommon manifestations
+Aquagenic pruritus[5]Splinter hemorrhagesPalpable purpuraLivedoid discolorationWells syndrome[6]ErythrodermaEosinophilic vasculitisAcral necrosis[7]PetechiaeErythema annulare centrifugumMucosal ulceration and erythema
+Aquagenic pruritus[5]
+Splinter hemorrhages
+Palpable purpura
+Livedoid discoloration
+Wells syndrome[6]
+Erythroderma
+Eosinophilic vasculitis
+Acral necrosis[7]
+Petechiae
+Erythema annulare centrifugum
+Mucosal ulceration and erythema
+The diagnosis of HES is made when there is sustained elevation of eosinophils of >1500 cells/mm3 for more than 6 months, after ruling out other causes of reactive eosinophilia by histopathological evaluation and imaging studies for internal organ involvement. Corticosteroids were once the initial drug of choice; they produce a reduction of eosinophil count within 48 hours. The latest drug found to be effective is imatinib,[11] a platelet-derived growth factor blocker.
+Our patient presented with pruritic skin lesions and persistent eosinophilia (raised AEC). After excluding other causes of reactive eosinophilia, a tentative diagnosis of HES with cutaneous involvement as the sole manifestation was made.[1] The patient was started on steroids, with which she showed remarkable improvement (fall in AEC). HES should be a differential diagnosis for all cases with persistent eosinophilia. A full workup must be done to exclude other causes of reactive eosinophilia and systemic involvement since a failure to diagnose the condition early may lead to irreversible cardiac damage.

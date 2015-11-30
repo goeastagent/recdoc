@@ -1,0 +1,7 @@
+Errata
+
+
+Goodarzi MO, Jones MR, Chen Y-DI, Azziz R. First evidence of genetic association between AKT2 and polycystic ovary syndrome. Diabetes Care 2008;31:2284–2287
+In the print version of the article listed above, errors occurred that involve genetic variant labeling. In the first paragraph of the results section, the sentence beginning “The presence of the G allele …” should instead read “The presence of the C allele. …” In addition, the labeling in Table 2 of the alleles for variants rs11671439, rs8100018, and rs2304188 is incorrect. The corrected version of Table 2 appears below. The errors do not affect the scientific conclusions. The online version reflects these changes.
+SNP location and frequency data
+MAF, minor allele frequency.

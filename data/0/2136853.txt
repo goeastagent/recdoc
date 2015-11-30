@@ -1,0 +1,4 @@
+IMMUNOREACTIONS INVOLVING PLATELETS 
+
+ Theoretical equations have been derived, using the methods of statistical mechanics, for associations between platelets, antibody, quinidine, and complement, based on a model of an immunoreaction described in the preceding paper of this series. The two cases considered (i.e. the possibilities that quinidine can attach first to antibody or platelets) lead to the same final equations. The comparison of the theoretical results with experimental results is contained in the preceding paper. 
+

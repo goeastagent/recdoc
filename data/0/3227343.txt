@@ -1,0 +1,9 @@
+Abstracts of Poster Presentations - (Benign and Malignant Thyroid Disease)
+
+
+S. Wu
+Nuclear Medicine, Xinhua Hospital, Shanghai, China
+Objective: In China,99Tcm thyroid planar imaging was the most popular way to evaluate the residue thyroid after thyroidectomy. This study wanted to observe the difference between 99Tcm thyroid scan and I131 scan after radioiodine therapy in thyroid cancer.
+Materials and Methods: Total 103 histologically proven papillary thyroid cancer (PTC) patients(pts) in recent 2-year were collected into the study(42 male,61 female, age 44.5±14.4y). The images were respectively interpreted by 2 nuclear medicine doctors with a 5-point method, unknown the patients information. The data were analyzed by Logistic Regression.
+Results: 34/103 (33%) pts had the same score in two scan, especially the high score (≥3).But it was been up regulated in I131 scan in other 69(67%) pts. And most of the pts who had small score(0-1) in 99Tcm scan would be higher in I131 whole-body scan.9 pts even showed lung and lymph nodes metastases in I131 scan, which were confirmed by CT and more than one year follow-up. The giving doses (OR=1.135,95% CI 1.026-1.255) and the level of blood triiodothyronine (T3) (OR=0.001,95% CI 0.0-0.206) had relationship with thyroid stimulating hormone.
+Conclusion: 99Tcm thyroid planar imaging may not suitable for evaluating residue thyroid compared with I131 scan.

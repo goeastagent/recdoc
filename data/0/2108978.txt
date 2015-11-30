@@ -1,0 +1,4 @@
+RNA SYNTHESIS BY EXOGENOUS RNA POLYMERASE ON CYTOLOGICAL PREPARATIONS OF CHROMOSOMES
+
+ Cytological preparations of Drosophila polytene chromosomes serve as templates for RNA synthesis carried out by exogenous RNA polymerase (Escherichia coli). Incorporation of labeled ribonucleoside triphosphates into RNA may be observed directly by autoradiography. Because of the effects of rifampicin, actinomycin D, ribonuclease, high salt, and the requirement for all four nucleoside triphosphates, we conclude that the labeling observed over chromosomes is due to DNA-dependent RNA polymerase activity. Using this method, one can observe RNA synthesis in vitro on specific chromosome regions due to the activity of exogenous RNA polymerase. We find that much of the RNA synthesis in this system occurs on DNA sequences which appear to be in a nondenatured state. 
+

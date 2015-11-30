@@ -1,0 +1,4 @@
+The role of shear forces in arterial branching
+
+A new optimality principle for the branching angles of blood vessels in the cardiovascular system is proposed: the principle of minimum drag. The results are examined in the light of general observations and compared with those obtained from the principles of minimum work and minimum volume. It is shown that in some aspects the new principle is equally consistent with observations, and, in other aspects, it is perhaps more plausible than the other two principles.
+

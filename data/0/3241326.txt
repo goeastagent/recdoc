@@ -1,0 +1,5 @@
+Erratum
+
+
+Murphy HR, Kumareswaran K, Elleri D, Allen JM, Caldwell K, Biagioni M, Simmons D, Dunger DB, Nodale M, Wilinska ME, Amiel SA, Hovorka R. Safety and efficacy of 24-h closed-loop insulin delivery in well-controlled pregnant women with type 1 diabetes: a randomized crossover case series. Diabetes Care 2011;34:2527–2529
+In the print version of the article listed above, the glucose target range in the third line of the stub column in Table 1 should have read 63–140 mg/dL rather than 63–40 mg/dL. The online version reflects these changes.

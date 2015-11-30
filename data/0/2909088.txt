@@ -1,0 +1,5 @@
+Errata
+
+
+American Diabetes Association. Nutrition recommendations and interventions for diabetes: a position statement of the American Diabetes Association. Diabetes Care 2008;31(Suppl. 1):S61–S78
+In the print version of the article listed above, on page S65 in the paragraph under the subheading, “Amount and type of carbohydrate,” the following sentence is incorrect: “However, 1-year follow-up data from a small weight-loss trial (20) indicate, among the subset with diabetes, that the reduction in fasting glucose was 21 mg/dl (1.17 mmol/l) and 28 mg/dl (1.55 mmol/l) for the low-carbohydrate and low-fat diets, respectively, with no significant difference for change in A1C levels.” The correct sentence should read: “However, 1-year follow-up data from a small weight-loss trial (20) indicate, among the subset with diabetes, that the reduction in fasting glucose was 21 mg/dl (1.17 mmol/l) and 28 mg/dl (1.55 mmol/l) for the low-fat and low-carbohydrate diets, respectively, with no significant difference for change in A1C levels.” The online version reflects these changes.

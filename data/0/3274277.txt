@@ -1,0 +1,4 @@
+Correction: Ngo, T.D. LinkMind: Link Optimization in Swarming Mobile Sensor Networks. Sensors 2011, 11, 8180–8202
+
+
+The author’s affiliation was wrong in [1]. The “National University of Brunei” and should be “University of Brunei Darussalam”.

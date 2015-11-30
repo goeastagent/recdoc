@@ -1,0 +1,5 @@
+Re: JSLS 2003;7:211-218 Symptoms and Antireflux Medication  Use  Following  Laparoscopic  Nissen Fundoplication: Outcome at 1 and 4 Years
+
+
+The fourth sentence on medication use in the results section contained several inaccurate values and should have read as follows (corrected values are in bold):
+The subgroup of patients taking medications at late follow-up used fewer medications after follow-up (1.8 medications/person preoperatively vs 0.4 medications/person at late follow-up [P<0.00001]) and reported a mean savings of $115±$88 per person per month from their preoperative medication costs (P<0.01).

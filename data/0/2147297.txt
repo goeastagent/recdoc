@@ -1,0 +1,4 @@
+THE OXYGEN EQUILIBRIUM OF THE HEMOGLOBIN OF THE EEL, ANGUILLA ROSTRATA
+
+ Kawamoto had reported that eel hemoglobin has a hyperbolic oxygen equilibrium function, with n in the Hill equation equal to 1. On the basis of Kawamoto's data and with new measurements, it is shown that the equilibrium function is in fact S-shaped, as in most other vertebrates, and n in Hill's equation equals 1.8. 
+

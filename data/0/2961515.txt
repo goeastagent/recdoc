@@ -1,0 +1,40 @@
+2,7-Dihydr­oxy-3,6-dimethoxy­phenanthrene from Dehaasia longipedicellata            
+
+The hydr­oxy groups in the title compound, C16H14O4, are each hydrogen bonded to the adjacent meth­oxy O atom; one of the two hydr­oxy groups is additionally linked to the O atom of the meth­oxy group of another mol­ecule, forming a linear chain.
+
+For related compounds isolated from other plants, see: Bhandari et al. (1985 ▶); Mujumder et al. (1985 ▶); Theuns et al. (1985 ▶); Zurinah Mahmud et al. (1992 ▶). For the crystal structure of 2,3-dimeth­oxy-6,7-methyl­enedioxy­phenanthrene, see: Wang et al. (2007 ▶).         
+                  C16H14O4                                                   M                           r = 270.27Monoclinic,                                                    a = 11.6268 (2) Å                           b = 7.2207 (1) Å                           c = 16.5351 (2) Åβ = 109.196 (1)°                           V = 1311.00 (3) Å3                                                   Z = 4Mo Kα radiationμ = 0.10 mm−1                                                   T = 100 (2) K0.30 × 0.25 × 0.05 mm               
+C16H14O4                        
+                           M                           r = 270.27
+Monoclinic,                         
+                           a = 11.6268 (2) Å
+                           b = 7.2207 (1) Å
+                           c = 16.5351 (2) Å
+β = 109.196 (1)°
+                           V = 1311.00 (3) Å3                        
+                           Z = 4
+Mo Kα radiation
+μ = 0.10 mm−1                        
+                           T = 100 (2) K
+0.30 × 0.25 × 0.05 mm
+                  Bruker SMART APEX diffractometerAbsorption correction: none15710 measured reflections2991 independent reflections2671 reflections with I > 2σ(I)                           R                           int = 0.020               
+Bruker SMART APEX diffractometer
+Absorption correction: none
+15710 measured reflections
+2991 independent reflections
+2671 reflections with I > 2σ(I)
+                           R                           int = 0.020
+                                             R[F                           2 > 2σ(F                           2)] = 0.046                           wR(F                           2) = 0.150                           S = 1.102991 reflections237 parameters14 restraintsAll H-atom parameters refinedΔρmax = 0.42 e Å−3                        Δρmin = −0.23 e Å−3                                       
+                           R[F                           2 > 2σ(F                           2)] = 0.046
+                           wR(F                           2) = 0.150
+                           S = 1.10
+2991 reflections
+237 parameters
+14 restraints
+All H-atom parameters refined
+Δρmax = 0.42 e Å−3                        
+Δρmin = −0.23 e Å−3                        
+Data collection: APEX2 (Bruker, 2007 ▶); cell refinement: SAINT (Bruker, 2007 ▶); data reduction: SAINT; program(s) used to solve structure: SHELXS97 (Sheldrick, 2008 ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 ▶); molecular graphics: X-SEED (Barbour, 2001 ▶); software used to prepare material for publication: publCIF (Westrip, 2008 ▶).
+Crystal structure: contains datablocks I, global. DOI: 10.1107/S1600536808014451/bt2712sup1.cif            
+Structure factors: contains datablocks I. DOI: 10.1107/S1600536808014451/bt2712Isup2.hkl            
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report            

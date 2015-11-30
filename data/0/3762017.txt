@@ -1,0 +1,70 @@
+NIPPV after Surfactant Treatment for RDS Reduces the Need for Mechanical Ventilation at 7 Days of Age and BPD in Preterm Infants: Interpret Results with Caution
+
+
+Despite advances in respiratory care of preterm neonates, bronchopulmonary dysplasia (BPD) remains a major morbidity.[12] Central to its pathogenesis are lung immaturity and the use of mechanical ventilation.[3] Therefore, it has been hypothesized that earlier extubation and use of non-invasive ventilation (NIV) may decrease the adverse effects associated with intubation and mechanical ventilation but there is no consensus on what is the “best NIV” technique to be used post-extubation. This study by Ramanathan et al.[4] compared the effect of early extubation to nasal intermittent positive pressure ventilation (NIPPV) and nasal continuous positive airway pressure (NCPAP) on the need for mechanical ventilation via endotracheal tube (MVET) at 7 days of age in preterm infants less than 30 weeks’ gestation post-intubation, surfactant administration, and extubation.
+Multicenter randomized controlled trial in the USA.
+Preterm infants born between 260/7 to 296/7 weeks’ gestational age (GA).
+Intubated and received surfactant at or soon after birth (within 60 minutes) for respiratory distress.
+Infants with birth weight<600 grams.
+Postnatal age>120 minutes.
+Infants who did not require intubation and surfactant administration within 60 minutes of birth.
+Outborn infants.
+Infants with Apgar score of 0 at 1 minute of age.
+Infants with major congenital anomalies.
+Stabilized on NCPAP using T-piece resuscitator (Neo-Puff);
+Poractantalfa at dose of 200 mg/kg administered within 60 minutes of age at the discretion of the local clinical care team.
+Post-surfactant administration, infants stabilized on synchronized intermittent mandatory ventilation (SIMV) mode.
+Peak inspiratory pressure (PIP) adjusted to deliver tidal volume of 4 to 7 ml/kg, positive end expiratory pressure (PEEP) between 5 to 7 cms H2O, pressure support of 30% to 50% of delta pressure, inspiratory time of 0.35 to 0.45 s with a flow termination sensitivity set at 10% of peak flow and rate adjusted to keep PCO2 in the target range but not to exceed 40 breaths/minute (bpm) during SIMV.
+Supplemental oxygen to maintain saturation between 84% to 92%.
+Ventilator settings adjusted to maintain pH between 7.25 to 7.45, and PCO2 between 40 to 60 mm Hg.
+Caffeine citrate commenced as soon as possible or before extubation.
+All infants could be extubated from higher ventilator settings but mandatory trial of extubation at mean airway pressure<6 cm H2O and FiO2 <0.3 for 12 hours.
+Interface
+Nasal or nasopharyngeal prongs.
+Generator
+Avea ventilator or SiPAP device (CareFusion, Yorba Linda, CA, USA).
+Settings
+PIP set at 10 to 15 cms H2O above PEEP, PEEP set at 5 cms H2O, inspiratory time 0.5 s and back up or mandatory rate at 30 to 40 bpm.
+NIPPV not synchronized.
+Maintained on NIPPV for a minimum period of 24 hours after extubation.
+Weaning
+PEEP of 5 cms H2O with back up rate<10 bpm, FiO2 <0.3 for 6 to 12 h, and <4 apneic episodes per hour requiring stimulation or <2 episodes requiring bag mask ventilation.
+May be weaned to nasal cannula with flow restricted to 2 litres/minute.
+Interface
+Nasal prongs.
+Generator
+Bubble CPAP, SiPAP with no back-up rate or conventional ventilator CPAP.
+Settings
+PEEP 5 cms H2O to a maximum of 8 cms H2O.
+Infants remained on NCPAP for at least 72 hours or for as long as there was a need for supplemental oxygen during the first week of life.
+Reintubation criteria
+>4 episodes of apnea/hour requiring stimulation.
+>2 episodes of apnea/hour requiring bag/mask ventilation.
+FiO2>0.60 to maintain SpO2 between 84% to 92%.
+pH<7.25 and PCO2>65 torr on two consecutive blood gases drawn 2 hours apart.
+Following reintubation infants remained intubated for at least 24 hours.
+Infants requiring >30% oxygen could be briefly intubated, surfactant administered and extubated to the assigned treatment in both groups and not considered extubation failure.
+Up to 2 additional doses of surfactant allowed every 12 hours during the first 48 hours of age.
+Caffeine was continued even if infants required reintubation.
+Need for MVET at 7 days of age.
+Number of surfactant doses.
+Days on SIMV, NIPPV, and CPAP.
+Duration of supplemental oxygen.
+Mortality.
+Short-term neonatal morbidities: Pneumothorax, pulmonary hemorrhage, patent ductus arteriosus, intraventricular hemorrhage (>grade II), periventricular leukomalacia, necrotizing enterocolitis (≥stage II), spontaneous intestinal perforation, retinopathy of prematurity (>stage II) and BPD (defined as need for ventilatory support or supplemental oxygen at 36 weeks PMA).
+Incidence of physiological BPD (defined as any infant requiring >30% oxygen to maintain.
+SpO2 between 90% and 96 % or on positive pressure support or, in case of infants requiring <30% oxygen, the need for any supplemental oxygen to maintain SpO2>90% after room air challenge for 30 minutes at 36±1 week PMA or at discharge.
+Incidence of postnatal steroids used for prevention or treatment of BPD.
+Growth (weight at 36 weeks and/or discharge) and length of hospital stay.
+Randomization was stratified according to center and GA (260/7 to 276/7 and 280/7 to 296/7 weeks) using sequentially numbered, sealed opaque envelopes.
+No blinding.
+Primary outcome was available for all enrolled infants.
+A total of 110 preterm infants were enrolled [NIPPV (N=53) and NCPAP (N=57)]. There was a statistically significant decrease in the need for MVET at 7 days of age and in both clinical and physiologic BPD in the NIPPV compared to NCPAP group [Table 1]. More infants were extubated by 2 hours in the NIPPV group (P=0.006). No differences in mortality, other short-term morbidities and length of hospital stay were noted.
+Main respiratory outcomes*
+In this pragmatic randomized controlled trial of early extubation of infants treated with surfactant, NIPPV was associated with decreased need for MVET at 7 days of age and incidence of both clinical and physiological BPD. However, the results should be interpreted with caution as there are several concerns regarding this study.
+Even though the authors report no differences in the baseline characteristics between the 2 groups, significantly more infants in the NIPPV group were extubated by 2 hours of age (Table 2 in the article by Ramanathan et al.[4]). This may be reflective of either milder lung disease in the infants or that investigators were more aggressive in extubating infants in the NIPPV versus NCPAP group as the mode of intervention could not be blinded (performance bias). The more prolonged time of MVET prior to first extubation in the NCPAP group may have confounded the results as longer duration of MVET may have lead to more lung injury. Even at 12 hours of age more infants in the NIPPV group were extubated compared to the NCPAP group even though the difference was not statistically significant. This suggests that the 2 groups were not comparable in regards to their respiratory status in the first 12 hours of birth.
+Further 16 % of study population [NIPPV group (N=4) and NCPAP group (N=14)] were never extubated prior to 7 days and therefore never received the intervention. The analysis for primary outcome should have been performed in infants who had an attempt to extubation (per-protocol analysis) rather than intention-to-treat analysis. This again suggests that the lung disease may be more severe in 14 infants in the NCPAP group.
+Other limitations include exclusion of infants who are at highest risk of developing BPD (<26 weeks GA), reasons for failure to extubate not presented and use of a variety of machines/equipment to provide the two interventions.
+In summary the benefits of NIPPV as compared to NCPAP needs to be confirmed in other studies prior to being accepted as the standard of care. Further research is needed to identify the optimal device, settings and timing for initiation of NIPPV.
+Ramanathan R, Sekar KC, Rasmussen M, Bhatia J, Soll RF. Nasal intermittent positive pressure ventilation after surfactant treatment for respiratory distress syndrome in preterm infants <30 weeks’ gestation: A randomized controlled trial. J Perinatol 2012;32:336-43.
+ClinicalTrials.gov number, NCT00486850.

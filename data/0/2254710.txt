@@ -1,0 +1,13 @@
+Blood pressure and fertility
+
+lebrasn@rockefeller.edu
+
+A target of blood pressure–lowering drugs harbors the unexpected ability to release GPI-anchored proteins. Gen Kondoh (Kyoto University, Kyoto, Japan), Junji Takeda (Osaka University, Osaka, Japan), and colleagues reveal that this enzyme, ACE, is both a peptidase and GPIase in one multifunctional package.ACE's peptidase activity is well studied—it cleaves and activates angiotensin, which up-regulates blood pressure through hormonal changes. But Kondoh did not expect to find ACE in his screen for proteins that release GPI-anchored proteins from the cell surface.
+Figure Sperm–egg binding (left) is lost when ACE GPIase activity is missing (right).KONDOH/MACMILLAN
+Sperm–egg binding (left) is lost when ACE GPIase activity is missing (right).
+KONDOH/MACMILLAN
+GPI deficiencies cause severe problems in fertility and development. GPI also links the prion protein to membranes. But the activities that release these linkages were not well-known. Now, Kondoh shows that a region of ACE distinct from its peptidase domain has this ability. Soluble prion protein protects against scrapie, so ACE, especially a peptidase-inactive form, may be a useful disease treatment.
+As ACE was found in a mouse testicular preparation, the group examined sperm lacking the ACE GPIase activity. The mutant sperm were infertile and unable to release several GPI-linked proteins from their surface.
+Anchored proteins were partly protected from ACE cleavage if they were in lipid rafts. By keeping GPI-linked fertilization factors in rafts, their release could be delayed until the raft disruption that occurs during capacitation. 
+Reference:
+Kondoh, G., et al. 2005. Nat. Med. doi:10.1038/nm1179

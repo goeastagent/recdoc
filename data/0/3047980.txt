@@ -1,0 +1,38 @@
+Optimizing weight control in diabetes: antidiabetic drug selection
+
+Which antidiabetic drugs provide optimal weight control in patients with type 2 diabetes?
+Metformin reduces weight gain, and may cause weight loss, when given alone or in combination with other drugs. Pioglitazone and rosiglitazone use is associated with weight gain. Use of the glucagon-like peptide-1 (GLP-1) analogs, liraglutide and exenatide, is associated with weight loss. Dipeptidyl peptidase-4 (DPP-4) inhibitors are considered weight-neutral. Results with insulin therapy are conflicting. Insulin detemir provides weight control along with glycemic control.
+Weight gain is considered an inevitable part of good glycemic control using conventional modalities of treatment such as sulfonylureas.1Use of metformin, weight-sparing insulin analogs such as insulin detemir, and liraglutide, should be encouraged as monotherapy, or in combination with other drugs.
+Weight gain is considered an inevitable part of good glycemic control using conventional modalities of treatment such as sulfonylureas.1
+Use of metformin, weight-sparing insulin analogs such as insulin detemir, and liraglutide, should be encouraged as monotherapy, or in combination with other drugs.
+
+Definition: Weight control is an important aspect of diabetes treatment, and can improve glycemic control and cardiovascular risk factors per se.1,2 The term “diabesity” is used to define the pathogenic relationship between diabetes and obesity.3
+Incidence: Glycemic control using conventional drugs is usually associated with weight gain.3 A head-to-head comparison of various treatment modalities regarding the incidence of weight gain has not been done.
+Economics: No published study has addressed the direct cost of weight gain during diabetes treatment. However, weight loss has been shown to reduce medical and pharmaceutical costs in patients with diabetes.4 Drugs which are relatively more cost-effective, such as sulfonylureas, may not end up being cheaper if they increase the overall costs of therapy, and studies are needed to address this issue.
+Level of evidence: Systemic reviews, meta-analysis, randomized controlled trials, guidelines.
+Search sources: PubMed, Cochrane Library, Google Scholar.
+Outcomes: Both physicians and patients seek:
+Minimum weight gain in patients of normal weight
+Weight loss in overweight patients
+Consumer summary: Patients with diabetes tend to gain weight when given antidiabetic drugs. There is good evidence that metformin, insulin detemir, and newer drugs such as liraglutide prevent weight gain when prescribed alone, or in combination with other drugs.
+Systematic reviews5,6 and meta-analysis have concluded that pioglitazone and rosiglitazone lead to weight gain. The combined use of metformin and the thiazolidinediones shows controversial results related to weight gain.
+Sulfonylurea use is linked to significant weight gain.7 Addition of sulfonylureas to metformin is also associated with weight gain, but to a lesser degree, according to meta-analysis. 8 A meta-analysis has shown that a combination of sulfonylureas and insulin does not lead to weight gain.9
+Metformin has been shown to reduce weight, as compared with sulfonylureas, in meta-analysis.10 Metformin, when used as cotherapy, also mitigates the weight gain seen with sulfonylureas and repaglinide.11
+Alpha-glucosidase inhibitors have an insignificant effect on weight, as per a meta-analysis of 41 studies.12 A randomized controlled trial shows that voglibose coadministration can reduce the weight gain associated with pioglitazone use.13
+Other meta-analysis shows that the DPP-4 inhibitors, such as vildagliptin and sitagliptin, are weight-neutral,14 while the GLP-1 analogs, ie, liraglutide and exenatide, are associated with weight loss.
+Insulin detemir is the only insulin to show weight loss or reduced weight gain consistently in overweight patients in meta-analysis.15 Results with other insulin preparations are conflicting.16 Insulin glargine use causes more weight gain than Neutral Protamine Hagedorn insulin.17
+Weight control and glycemic control should be aimed for
+Weight gain may mitigate the benefits achieved by glycemic control
+Try to combine regimes with metformin, but keep a watch for contraindications and side effects of metformin
+Avoid using a combination of medications which cause weight gain
+Avoid overdosage of insulin, which may lead to weight gain by causing hypoglycemia and increased snacking.
+Reinforce diet and physical activity as effective methods of glycemic and weight control1
+Optimal choice of antidiabetic drugs can help avoid excessive weight gain5
+Specialist referral will rarely be needed to optimize weight control.
+Measure weight, waist and hip circumference, and watch for edema regularly in all patients with diabetes
+Presence of edema or waist gain should prompt a review of antidiabetic, as well as other, medications.
+If possible, discontinue or replace thiazolidinediones if excessive weight gain occurs with their use, or is to be avoided
+Reduce the dose of insulin, especially rapid-acting insulin if patients complain of excessive weight gain associated with hypoglycemia
+Shift to insulin detemir if indicated
+Add/increase the dose of metformin, to maximally tolerated levels
+Use GLP-1 analogs, such as liraglutide and exenatide, if weight gain is an issue.

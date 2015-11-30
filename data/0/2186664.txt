@@ -1,0 +1,4 @@
+Human B cell differentiation. II. Pokeweed mitogen-responsive B cells belong to a surface immunoglobulin D-negative subpopulation
+
+Surface immunoglobulin D (IgD)-positive lymphocytes precoated with monoclonal anti-delta antibody were selectively removed from blood mononuclear cell preparations by "panning" and by fluorescence- activated cell sorter. The depletion of sIgD+ cells did not significantly affect plasma cell responses to pokeweed mitogen PWM). PWM-responsive B cells lacking sIgD and mouse erythrocyte receptors preferentially sedimented in lower density fractions of a discontinuous Percoll gradient, and sIgD-negative B cells were found to have a larger mean diameter than IgD-positive cells. We conclude that PWM-responsive B cells represent a distinct subpopulation of relatively large cells that have ceased to express receptors for mouse erythrocytes and surface IgD.
+

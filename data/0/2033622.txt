@@ -1,0 +1,4 @@
+The cytotoxic activity of Taxol in primary cultures of tumour cells from patients is partly mediated by Cremophor EL.
+
+In patient tumour samples the activity in vitro of Taxol corresponded fairly well to the known clinical activity and Taxol showed low cross-resistance to standard cytotoxic drugs. However, the Taxol solvent Cremophor EL--ethanol was considerably active alone, whereas paclitaxel formulated in ethanol was less active. Taxol thus seems to contain two components active against patient tumour cells in vitro.
+

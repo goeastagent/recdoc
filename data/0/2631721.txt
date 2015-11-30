@@ -1,0 +1,4 @@
+Engineering infection control through facility design.
+
+Many medical centers have modified their facility design to provide a safer environment for patients. From an infection control perspective, the primary objective of hospital design is to place the patient at no risk for infection while hospitalized. We describe historical landmarks about hospital design, modern facility design, and specific designs to prevent acquisition and spread of infections such as tuberculosis and aspergillosis.
+

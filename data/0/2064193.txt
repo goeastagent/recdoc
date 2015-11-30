@@ -1,0 +1,8 @@
+Linking secretion and cell cycle
+
+rabiya@nasw.org
+
+The end of mitosis triggers the export of the Chs2p chitin synthase from the ER to the bud neck, report Zhang et al. on page 207. The Chs2p chitin synthase lays down the primary septum, which divides mother and daughter yeast cells. Previous work showed that Chs2p arrives at the neck in late telophase, but what controls the timing was unknown.
+Chitin synthase (yellow) prematurely localizes to the bud neck at metaphase if the mitotic kinase is inactivated (bottom).
+Zhang et al. found that the timing of Chs2p localization to the neck correlated with the destruction of the mitotic kinase, Clb2p. Mutations in the mitotic exit network, which normally destroys Clb2p, prevented chitin synthase localization, though the myosin that constricts the neck localized normally. Direct inactivation of Clb2p restored chitin synthase localization, suggesting that the loss of mitotic kinase activity activated the synthase's movement.
+The chitin synthase was restricted to the ER during metaphase when Clb2p activity was at its peak, but premature destruction of Clb2p triggered synthase movement to the neck. This relocalization required the secretory pathway. The transport of other secretory pathway cargos was not affected by Clb2p activity. The destruction of the mitotic kinase thus specifically ensures that the septum forms at the end of mitosis when cell separation is necessary. Zhang et al. are now looking for the mechanism that links mitosis and secretion. 

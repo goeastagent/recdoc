@@ -1,0 +1,4 @@
+BIOLOGICAL PROPERTIES OF RIBONUCLEIC ACID FROM VIRULENT AND ATTENUATED POLIOVIRUS
+
+ Concentrates of type I poliovirus were extracted with phenol by Gierer and Schramm's method. The infectivity of these extracts in tissue culture and mice appeared to be associated with viral RNA. Studies on neurovirulence based on the "t" marker and intraspinal pathogenicity in mice demonstrated that the viral progeny of RNA isolated from virulent viruses had the "t+" character and were highly neurotropic for mice. Conversely, RNA extracted from attenuated virus gave rise to a progeny of "t" type which were avirulent for mice. The results suggest that the infective RNA from type, I poliovirus carries the genetic information which determines the degree of neurovirulence. 
+

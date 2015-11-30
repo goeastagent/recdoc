@@ -1,0 +1,7 @@
+A comparison between impedance plethysmography and thermodilution for the measurement of cardiac output in pre-operative haemodynamic optimization
+
+
+New developments in Impedance Plethysmography (IP) (IQ, Renaissance Technology, PA, USA) have been reported to allow accurate measurement of cardiac output in patients on the intensive care unit.
+Ten patients on the ICU admitted pre-operatively for haemodynamic optimization were prospectively studied. Each patient had measurement of cardiac output by a thermodilution right heart catheter technique and also by IP. Data sets were obtained during the procedure of haemodynamic optimization. Data was analyzed using regression analysis for the differences between cardiac output measurements between the two techniques, depending on both the patient and the absolute level of cardiac output.
+Ten patients were analyzed with a total of 51 pairs of cardiac output measurements. Thermodilution cardiac outputs were obtained between 4.1 l/min and 10.5 l/min. Regression analysis revealed a significant difference between cardiac output measurements for the two techniques (P < 0.0001). Differences existed when the data was analyzed between patients and also when looking at different measurements for individual patients.
+IP would be ideal non-invasive tool for the measurement of cardiac output in ICU patients. This study suggests, however, that there are major differences between the cardiac outputs obtained from thermodilution and IP for pre-operative patients on the ICU.

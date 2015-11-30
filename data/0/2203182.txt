@@ -1,0 +1,5 @@
+Rhodopsin of the Larval Mosquito
+
+Dr. White's present address is the Department of Biology, University of Massachusetts, Boston, Massachusetts 02116.
+ Larvae of the mosquito Aedes aegypti have a cluster of four ocelli on each side of the head. The visual pigment of each ocellus of mosquitoes reared in darkness was characterized by microspectrophotometry, and found to be the same. Larval mosquito rhodopsin (λmax = 515 nm) upon short irradiation bleaches to a stable photoequilibrium with metarhodopsin (λmax = 480 nm). On long irradiation of glutaraldehyde-fixed tissues or in the presence of potassium borohydride, bleaching goes further, and potassium borohydride reduces the product, retinal, to retinol (vitamin A1). In the presence of hydroxylamine, the rhodopsin bleaches rapidly, with conversion of the chromophore to retinaldehyde oxime (λmax about 365 nm). 
+

@@ -1,0 +1,7 @@
+Quantification of Plasma Cell-Free DNA1 in Predicting Therapeutic Efficacy of Sorafenib on Metastatic Clear Cell Renal Cell Carcinoma
+
+PURPOSE: The objective of this study is to determine whether or not plasma cfDNA levels can predict efficacy of sorafenib in patient with metastatic cRCC.
+MATERIALS AND METHODS: Plasma cfDNA levels were quantified by quantitative real-time PCR at six different time-points (before treatment, 4 weeks, 8 weeks, 12 weeks, 16 weeks, and 24 weeks) in 18 metastatic cRCC patients receiving sorafenib, as assessed by CT examination according to RECIST 1.1.
+RESULTS: A significantly lower plasma cfDNA level, measured from 8 weeks to 24 weeks, was found in patients with remission or stable disease than in those with progression. Higher levels in plasma cfDNA levels during the course of treatment indicated poor outcome. For predicting progression, a sensitivity of 66.7% was achieved at 100% specificity using cfDNA levels at 8 weeks.
+CONCLUSIONS: Monitoring of plasma cfDNA levels during the course of sorafenib therapy could identify metastatic cRCC patients who are likely to exhibit a poor response at an early stage.
+

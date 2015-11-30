@@ -1,0 +1,4 @@
+A CYTOCHEMICAL STUDY OF CYTOPLASMIC BASIC PROTEINS IN THE ASCIDIAN OOCYTE
+
+ The cytoplasm of young oocytes of the ascidians contains high concentrations of proteins which are stainable with alkaline fast green at pH 8.1 and above. These proteins cannot be stained even with acid dyes at low pH unless RNA is removed. Deamination and formalin blockage of amino groups is incapable of destroying the net positive charge on these protein molecules in the presence of RNA, but these treatments destroy the charge if RNA is removed. It is therefore concluded that basic proteins and RNA exist as a nucleoprotein complex in the ribosomes of these young oocytes. The detectable RNA of the mature oocytes and unfertilized eggs shows no evidence of being associated with basic proteins. 
+

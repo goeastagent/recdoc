@@ -1,0 +1,4 @@
+Metal speciation in environmental and biological systems.
+
+Metal ions form complexes with naturally occurring complexing agents or ligands released from industrial activity. The metal complexes are thereby mobilized and transported in environmental and biological systems. The impact of such metal complexes depends on the metal complex species that are kinetically and thermodynamically stable in these homogeneous and heterogeneous systems. The distribution of metal complex species in these complex systems can be calculated from available formation constant data. This article describes the importance of verifying the validity of these calculations by employing experimental techniques that can speciate metal complexes.
+

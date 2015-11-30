@@ -1,0 +1,5 @@
+Errata
+
+
+Huang ES, O'Grady M, Basu A, Winn A, John P, Lee J, Meltzer D, Kollman C, Laffel L, Tamborlane W, Weinzimer S, Wysocki T, the Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group. The cost-effectiveness of continuous glucose monitoring in type 1 diabetes. Diabetes Care 2010;33:1269–1274
+In the research design and methods section in the print version of the article listed above, the acronym JDRF has been incorrectly expanded as Juvenile Diabetes Research Federation. The correct expansion of the acronym JDRF is Juvenile Diabetes Research Foundation. The online version reflects these changes.

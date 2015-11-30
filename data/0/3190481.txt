@@ -1,0 +1,5 @@
+Serum procalcitonin in sepsis
+
+
+Sir,
+I read the recent publication on significance of serum procalcitonin (PCT) in sepsis with great interest.[1] Sudhir et al. concluded, “PCT is among the most promising sepsis markers, capable of complementing clinical signs and routine lab parameters suggestive of severe infection”.[1] There are some issues in this publication. First, the author had used the immunochromatographic test for the semi-quantitative detection of PCT. This poses several problems. The PCT result can be only a semi-quantitative data and might not be probable for further statistical analysis (such as calculation on mean). Also, the quality control of this specific tool is still questionable. Second, in the women subjects, there can be several confounding factors affecting the PCT level. This should be well controlled and discussed.

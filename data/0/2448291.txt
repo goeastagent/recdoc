@@ -1,0 +1,4 @@
+Preoperative measurement of haemoglobin concentration.
+
+Haemoglobin concentrations were estimated in 1158 patients admitted to hospital for elective surgical procedures. Haemoglobin concentration below 10 g/dl was not seen in male patients who were fit and healthy, or had mild or severe non life threatening systemic diseases. In female patients haemoglobin concentration below 10 g/dl was seen in 0.3% of normal fit healthy patients, 2% of patients with mild systemic diseases, 6.4% of patients with severe, non life threatening diseases, and 18.7% of those with severe incapacitating diseases. Routine haemoglobin measurement is unnecessary in fit healthy patients, or in those with mild systemic disease (American Society of Anesthesiologists grades 1 or 2), but should be done in those with more severe systemic diseases (American Society of Anesthesiologists grades 3, 4 or 5).
+

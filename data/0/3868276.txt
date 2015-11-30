@@ -1,0 +1,5 @@
+Erratum: GaAs nanopillar-array solar cells employing in situ surface passivation
+
+
+Nature Communications4: Article number: 1497 10.1038/ncomms2509 (2013); Published: 02192013; Updated: 07042013.
+The labels for the x axis and optical absorption scale bar in Fig. 1c of this Article were inadvertently displaced during the production process. The correct version of Fig. 1 appears below.

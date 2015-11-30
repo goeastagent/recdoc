@@ -1,0 +1,4 @@
+Shear forces and blood vessel radii in the cardiovascular system
+
+What mathematical or physiological principles govern the radii of blood vessels in the cardiovascular system and by what mechanisms are those principles implemented? This question is studied in the contexts of fluid dynamics and physiology of the cardiovascular system, and a possible answer is examined in the light of empirical data.
+

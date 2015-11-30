@@ -1,0 +1,4 @@
+Clinical Manifestations of Hyper IgE Syndromes
+
+Over the last 4 years, three genetic etiologies of hyper IgE syndromes have been identified: STAT3, DOCK8, and Tyk2. All of these hyper IgE syndromes are characterized by eczema, sinopulmonary infections, and greatly elevated serum IgE. However, each has distinct clinical manifestations. Mutations in STAT3 cause autosomal dominant HIES (Job’s syndrome), which is unique in its diversity of connective tissue, skeletal, and vascular abnormalities. DOCK8 deficiency is characterized by severe cutaneous viral infections such as warts, and a predisposition to malignancies at a young age. Only one individual has been identified with a hyper IgE phenotype associated with Tyk2 deficiency, which is characterized by nontuberculous mycobacterial infection. The identification of these genetic etiologies is leading to advances in understanding the pathogenesis of these syndromes with the goal of improving treatment.
+

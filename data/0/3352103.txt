@@ -1,0 +1,194 @@
+Complicated skin, skin structure and soft tissue infections - are we threatened by multi-resistant pathogens?
+
+Tissue infections or skin, skin structure, and deep seated soft tissue infections are general terms for infections of the entire skin layer including the subcutaneous and muscle tissue layers and their respective fascia structures. Infections of the different mediastinal fascias (mediastinitis) and retroperitoneal fascia infections also belong to this category. Due to the variability of their clinical presentation, skin and soft tissue infections can be classified according to different features. The following aspects can be used for classification:
+- anatomical structures
+- pathogens
+- necessity for urgent treatment
+- extent of infection
+The incidence of skin and soft tissue infections in which MRSA (methicillin-resistent Staphylococcus aureus) is involved has been steadily increasing over the past 15 years. These wounds should be treated according to the same open treatment principles as other infected wounds. Since these infections are often superficial contaminations, antibiotic therapy is not indicated. If systemic infection occurs in form of MRSA sepsis, antibiotic therapy is indicated.
+Several recent reports identified MRSA as the leading pathogen in SSTIs. It also causes 20% to 50% of diabetes-associated foot infections in several countries and is associated with worse outcomes than other pathogens.
+
+Infection of the following anatomical structures is possible:
+- Skin (bacteria, viruses, yeasts, dermatophytes and parasites)
+- Subcutaneous tissue (e.g. nosocomial subcutaneous infections). The multilayer infection of skin and subcutaneous tissue is defined as cellulitis.
+- Deep connective tissue layers (fasciitis)
+- Muscle, e.g. Streptococcus myositis; myonecrosis from gas gangrene
+Specific pathogens cause certain diseases:
+- For example Herpes viruses, such as the herpes simplex virus types I and II (diseases: orolabial herpes, genital herpes, eczema herpeticum)
+- Papilloma viruses (diseases: warts/condylomata)
+- e.g. yeast infections with Candida spp. (diseases: thrush, tinea)
+- Clostridium perfringens: myonecrosis, so-called gas gangrene
+The British microbiologist Kingston developed a therapeutically relevant classification in 1990 for surgical patients, which is based on the urgency for a surgical intervention (see Kingston and Seal 1990).
+The term "complicated skin and skin structure infections" developed as a result of multinational pharmaceutical trials by the American Food and Drug Administration (FDA). Such infections are defined according to the following criteria:
+1. Advanced infection which requires an extensive surgical intervention (e.g. debridement) on devitalized tissue, abscess drainage, removal of foreign bodies that facilitate infection or operative fascia incision.
+2. The infection process shows evidence of deeper soft tissue, fascia or muscle involvement.
+3. Severe concomitant systemic and/or localized disease is present that prevents an adequate response to therapy. These include, amongst others:
+- Diabetes mellitus
+- bacteremia
+- cellulitis that involves more than 3% of the body surface area
+- steroid therapy (> 7.5 mg per day prednisolone equivalent)
+- neutropenia (granulocytes < 500/mm3)
+- liver cirrhosis (Child classification B or C)
+- burns (> 10% body surface area)
+- radiation therapy (local or systemic)
+- history of alcoholism (> 6 months)
+- organ transplant recipient
+- malnutrition
+- immunosuppressive therapy
+In order to determine the severity of infection, it is important to distinguish between limited and diffuse, spreading infection. It is also important to determine whether the infection occurred in the hospital (nosocomial) or in an outpatient setting. Methicillin - resistent Staphylococcus aureus (MRSA) emerged in the 1960s as a cause of infection among patients exposed to the bacteria in health care settings. More recently in the United States MRSA infections have been reported among persons without such exposure (community - acquired MRSA) with an incidence ranging from 15 to 74 percent (Moran 2006). In most European countries the incidence of community- acquired MRSA is below 5%.
+The term subcutaneous tissue infection is a general term for several different disease processes. These include:
+1. subcutaneous abscesses (furuncle/carbuncle)
+2. paronychia
+3. acne inversa
+4. anal abscess
+5. iatrogenic injection abscesses, inguinal injection abscesses in intravenous drug abusers (IVDA)
+6. surgical site infections
+7. self-inflicted injury
+8. Diabetic foot syndrome
+9. necrotizing fasciitis types I/II
+10. clostridial myonecrosis
+11. scalp phlegmon/orbital phlegmon
+12. pressure ulcer
+13. skin/soft tissue infections with MRSA
+14. radiation damage
+15. Erysipelas, cellulitis (Phlegmone)
+Subcutaneous tissue infections develop mostly via microbial invasion when the skin's barrier function is no longer intact. Pathogens can enter the skin in areas of local trauma, abrasions or psoriatic, eczematous or tineal lesions. The extent of destruction can vary greatly. Rarely, such infections can result from G.I. tract fistulas, hematogen, or iatrogen.
+Tissue infections occur at any age and both men and women are affected. Skin and soft tissue infections are very common. They account for 5-10% of the patient collective in surgical clinics (Kujath 1999).
+Approximately 2/3 of patients have a severe systemic disease associated with immunosuppression (malnutrition, s./p. transplantation, steroid therapy, diabetes mellitus).
+Resistent pathogens occur infrequently (Lipsky 2005). Nevertheless antibiotic - resistant strains of pathogenic bacteria are increasingly prevalent in hospitals and in the community. Three classes of antibiotic - resistant pathogens are emerging as major threats to public health (Fischbach 2009).
+First Methicillin resistant Staphylococcus aureus (MRSA) is estimated to cause 19.000 deaths per year in the United States (Klevens 2007). Apart from their high mortality rate MRSA infections lead to an estimated 4 billions US - dollar of additional costs per year. Furthermore, the rising prevalence of MRSA increases the likelihood that vancomycin - resistant S. aureus (VRSA) will become a new scourge in hospitals.
+Pathogens from the second class, multidrug resistant (MDR) and pandrug - resistant (PD) gram negative bacteria, are less prevalent than MRSA, but they pose the severe threat of infections that are truly untreatable. These strains of Acinetobacter baumanii, Escherichia coli, Klebsiella pneumoniae, and Pseudomonas aeruginosa are resistant to some (MDR) or all (PDR) of the antibiotic classes commonly used to treat gram negative bacteria: penicillins, cephalo sporins, carbapenems, monobactams, quinolons, aminoglycosides, tetracyclins and polymyxins (Falagas 2005).
+The third class comprises MDR and extensively drug resistant (XDR) strains of Mycobacterium tuberculosis, which are a rising threat in the developing world.
+As a result of the increasing problem of resistant pathogens it is necessary to take a wound culture for microbiological identification.
+Furuncles develop from hair folliculitis. Furuncles differ from folliculitis in that the purulent softening and dissolution are more pronounced. Predominant pathogens are Staphyloccus aureus, rarely Pseudomonas aeruginosa (Whirlpool dermatitis).
+Treatment includes drainage (e.g. after incision) of the purulent mass. In patients without underlying immunosuppressive disease antibiotic therapy is not indicated.
+Clusters of folliculitis foci are called carbuncles. Infection spreads throughout the subcutaneous tissue and leads to severe clinical symptoms. Pathogens include Staphylococcus aureus (Pseudomonas aeruginosa) as well as Corynebaterium acnes. Treatment consists of surgical incision. Antibiotics are only indicated in case of systemic acne treatment.
+Definition: Abscess on a thumb, finger or toe developing at the base of a nail.
+This type of localized cellulitis is usually the result of minor scratch and puncture wounds (e.g. from garden work).
+The cardinal signs of inflammation are present in the finger (dolor, rubor, calor, tumor and functio laesa). Complications of paronychia are tendovaginitis, osteoarthritis and osteitis. As a result of the anatomical connective tissue structure of the fingers and thumb, the infection-induced swelling can inhibit circulation and even cause appendage death. Commmon pathogens include Staphylococcus aureus (60%), group A Streptococci, and -depending on the mechanism of injury- gram negative pathogens such as E. coli, Enterobacter cloace and Pseudomonas aeruginosa.
+Immediate incision, drainage and immobilization. Supportive antiinfective therapy is recommended with a second-generation oral cephalosporin or an aminopenicillin combined with a β-lactamase inhibitor or clindamycin.
+Synonyms: dermatitis follicularis et perifollicularis conglobata, pyodermia fistulans significa and hidadrenitis suppurativa.
+Acne inversa is a special form of acute and chronic inflammation of sebaceous and apocrine glands, which causes follicular occlusion (Slade 2003).
+The infection spreads throughout the subcutaneous tissue but does not penetrate the muscle fascia. Predilection sites include the axilla, the medial surface of the thighs and the perineal and gluteal regions. The infection often occurs in the sagittal axis (sweat gland zones, front and back). Even pilonidal sinus is classified as a form of acne inversa.
+The disease presents with abscess formations filled with pus. Persistent lesions lead to scarring and formation of sinus tracts. The skin is hyperpigmented. The accompanying smell is often unpleasant.
+The method of choice is a complete excision of infected tissue, i.e. a radical excision of affected skin and subcutaneous tissue. The infection does not involve the fasciae of the underlying muscle. The indication for surgery depends on the patient's subjective level of suffering. After surgical excision, skin defects can be covered with skin flap or mesh graft transplantations. Long-term therapy should include retinoid treatment.
+Staphylococcus aureus is predominant in the initial phase of the disease. Streptococcus milleri, Bacteroides fragilis, and B. melaninogenicus are also frequently isolated. In the later course resistant pathogens (MRSA, ESBL) are identified more often. Antibiotics have been shown to be ineffective (Breuninger 2001).
+As a result of the extremely high risk of recurrence, patients often undergo several incisions, which result in disfiguring scar tissue. Persisting infection can lead to complete destruction of the diseased tissue, e.g. in the anogenital region. (Figure 1)
+Severe perianal acne inversa (hidradenitis suppurativa). This disease may lead to incontinence without surgical intervention with sanitation of the perianal region.
+Iatrogenic abscesses occur via microbial contamination during the application of intramuscular injections. The incidence is 1:10,000 with the use of disposable syringes and needles. Repeated injections with a mixture of NSAR and cortisone increase the risk of abscess development.
+If the infection is located deep within the muscle, the symptoms are often masked. An increase in inflammatory markers coupled with a diffuse pressure sensation are often the only signs of infection. In patients with this combination of symptoms who have received i.m. injections, ultrasound and/or CT scans are indicated in order to localize the infection. Localized abscesses can be treated via ultrasound-guided drainage; otherwise, surgical abscess treatment including local debridement, lavage and drainage should be performed. Antibiotic treatment should only be initiated if inflammatory markers are elevated (CRP > 50 mg/l, WBC > 10,000/nl, temperature > 38.5°C).
+A special form of infectious needle abscess occurs in intravenous drug abusers (IVDA). As a result of the immediate access offered by the inguinal vessels, these are the first choice for IVDA. (Figure 2) The high contamination of the inguinal region facilitates the formation of localized abscesses, cellulitis, and destruction of the large vessels (common femoral artery and vein). Possible infectious complications are (Mackenzie 2000):
+32 year old intravenous drug abuser; multipe scars on the right leg; two acute inflammations on the left lower extremity.
+1. septic venous thrombosis with infected thrombi in the legs/pelvic region
+2. destruction of the common femoral artery (pseudoaneurysm)
+3. retrovascular abscess formation extending into the retroperitoneum
+4. systemic infection leading to endocarditis, meningitis and sepsis
+Predisposing factors for the spreading of infection are malnutrition, concomitant alcoholism and other diseases such as hepatitis C or HIV and sometimes tuberculosis. (Markowitz 1997).
+- CT for retrovascular abscesses and retroperitoneal involvement
+- Duplex sonography on the femoral artery and vein
+- Hepatitis and HIV serological studies
+Microbiologic studies reveal gram positive, gram negative and anaerobic pathogens. Most cases are due to polymicrobial infections (Hendriksen 1994).
+Surgical treatment includes source control of the infectious focus with abscess drainage and debridement of necrotic tissue. In case of septic venous thrombosis, it should be treated by thrombectomy. Arterial vessel destruction requires replacement by venous grafts. Calculated antimicrobial therapy should be initiated primarily with an acylureidopenicillin combined with a β-lactamase inhibitor; after microbiological identification of the pathogen, therapy should be changed according to the resistogram.
+Unfortunately, this patient collective is characterized by a high rate of relapse. Even after inguinal vessels are destroyed, patients continue to inject. American sources report high amputation rates (> 15%) and a very high disease related mortality in the long-term. (Ebright 2002).
+Since the implementation of antibiotic prophylaxis, the incidence of postoperative wound infections has been steadily decreasing over the past three decades. The overall incidence is 0,4 - 2,1% (Manian 2003). The Center of Disease Control defined criteria for diagnosis and classification of surgical site infection. Classification includes 1.) superficial incisional infection, 2.) deep incisional infection, and 3.) organ space infection.
+The occurrence of postoperative wound infections depends on wound characteristics as well as additional risk factors (see below). Patient-related and pre-/intraand postoperative risk factors that may influence the risk of surgical site infections are distinguished. Statistically significant patient-related risk factors include:
+- age > 10 years
+- ASA classification
+- diabetes mellitus
+- neutropenia
+- dialysis patients
+- malnutrition
+- drug abuse
+- patients infected with MRSA
+These have been verified by many studies.
+Preoperative risks include:
+- > 2 days of preoperative hospitalization,
+- incorrect antibiotic choice and application,
+- wound classification according to Cruse: contaminated/infectious
+- foreign body (implant)
+- High operative risk
+The most important intraoperative risk factors are:
+- emergency operations
+- operation length > 2 hours
+- blood transfusion, hemorrhage
+- intraoperative complications
+- use of diathermy
+- low O2
+- hypothermia
+- inexperienced operating team
+In some US hospitals MRSA has become the predominant pathogen in surgical site infections (28,5%), MSSA are isolated in 20% of cases and aerobic gram negative bacilli (Pseudomonas aeruginosa, Enterobacter spp, Serratia spp and Proteus spp) in 21%. In Germany the incidence of MRSA associated surgical site infections is about 3-5%. Risk factors are significantly associated with age > 70 years, duration of surgery > 4 h, duration of antibiotic treatment > 1 day and the incidence of MRSA surgical site infections (Manian 2003).
+These infections often present as a painful swelling of the operative wound with erythema and elevated inflammatory markers. The treatment of choice is to open the wound and let it heal by secondary intention. In all postoperative wound infections gram stains as well as aerobic and anaerobic cultures should be obtained. Antibiotic therapy is only indicated in exceptional cases (immunosuppression, sepsis).
+In the course of open treatment the wound can be considered free from relative amount of bacteria within 4-5 days. In bigger wounds (CDC type 2-3) a VAC closure for 3 - 5 days may be helpful. Delayed primary closure may be indicated because of cosmetic considerations. The treatment of MRSA infected wounds is the same as in infections with other pathogens.
+Following the basic principles of operative hygiene and warranting antibiotic prophylaxis if indicated (see risk factors) are the most important factors for the prevention of surgical site infection.
+The word "decubitus" is derived from the latin word "decumbere" which means "to lie down". The term "pressure ulcer" commonly used in Angloamerican literature emphasizes the etiology of such ulcers.
+Decubital ulcers are typical diseases of the severely ill and occur in up to 20% of geriatric patients. Due to the better understanding of etiology and the underlying risk factors, prevention has become of utmost importance. Thus, incidence has decreased significantly over the past few years (Norton 1989).
+Pressure, shearing forces, friction and excess moisture are important factors responsible for the formation of decubital ulcers. Muscles and subcutaneous tissues are more sensitive to pressure than the dermis. In animal experiments, a constant pressure burden of 60 mmHg for only 2 hours led to signs of degeneration in muscle fibers. At pressures of 200 mmHg for more than 16 hours, skin necrosis developed (Allmann 1989). In areas of protruding bone structures such as the shoulder blade, sacrum, or trochanter major, pressures between 100-150 mmHg can manifest themselves on a standard mattress. With pressure gradients of that magnitude, the partial pressure of oxygen approaches zero in the affected tissues. Since the skin over the sacrum is highly immobile, this region is subject to high shearing forces. Without changes in position, the body weight can lead to reduced circulation and necrosis in subcutaneous tissues. From the nursing perspective, it is agreed that this phase should not last more than 2 hours. With extensive ventilation therapy in the prone position, patients may develop decubital ulcers over the cheek bones and shoulder joint.
+Clinically, erythema is present primarily over bony prominences and later develops into desquamation and epidermolysis. Necrosis usually extends into the subcutaneous tissues. Microinfections lead to superinfections of necrosis that extend into the deep layers of muscle and the fascia of the periost. In late stages, osteitis can occur. In 1959, Campbell defined 7 stages of the disease (Campbell 1959). This classification is useful as it correlates with the surgical interventions that are necessary.
+All kind of pathogens are found in infected decubital ulcers: gram positive, gram negative and especially anaerobic bacteria (Livesley 2002).
+One can assume that one in 20 patients will develop bacteremia and sepsis as a result of a decubital ulcer. In case of systemic infection, antibiotic therapy is required based on the results of microbiological culture.
+Strategies of prevention are a recognized standard in patient care nowadays. Every nursing home and hospital should thus have guidelines on ulcer risk assessment and prevention. Commercial pillows are available for soft patient positioning. In high risk patients, alternating pressure mattresses should be used or even laminar-flow-beds. However, re-positioning of patients on a 2-hour basis is essential in ventilated patients. Especially in chronically ill patients with advanced catabolism and occlusive vessel disease of the internal iliac arteries, decubital ulcers cannot always be avoided.
+Initially, sufficient debridement of the entire necrotic area should be performed. After wound cleaning is complete, plastic surgery to cover skin defects can be attempted. Several methods are available:
+- Transposition flap
+- Fasciocutaneous flap
+- Rotation flap
+- musculocutaneous gluteal flap
+The term diabetic foot syndrome is used to describe the damage resulting from long-term diabetic illness. Infectious complications are often present.
+SSTIs occur at all anatomic sites, but the foot is most frequently affected in diabetic patients. The development of a diabetic foot syndrome is multifactorial. Contributing factors include polyneuropathy and diabetic angiopathy with its characteristic media sclerosis. The degeneration of sensomotory fibers and autonomic fibers associated with diabetic neuropathy are synergistic effects in the pathogenesis. As a result of the neurogenic changes, the internal muscular structure statics are dysregulated and the entire motor function of the foot is disturbed (Caputo 1994).
+As a result of decades of damage from diabetes mellitus, the diabetic foot shows characteristic signs including atrophic, scaly skin and decreased sweat secretion. Mechanical stress causes hyperkeratosis, especially in exposed areas in the plantar region. Changes to the internal structure of the interdigital muscles lead to a distinctive "claw" positioning of the toes causing disproportionate strain in the plantar region and especially on the metatarsal head. In addition to bone atrophy, the internal muscles of the foot degenerate as well. The further clinical course is influenced essentially by three factors:
+1. mechanical stress
+2. bacterial infection
+3. compartment syndrome (see Figure 3)
+65 year old women: insulin dependent diabetes mellitus for (!!!) 38 years. Inflammation and swelling of the foot. Compartment syndrome with intramuscular pressure of 48 mm Hg. Without immediate surgical intervention an amputation will be imperative.
+Because of the resultant foot deformation and alterations in weight distribution, pressure ulcers develop that often remain unnoticed by the patients as a result of their diminished sensibility. Bacteria can then enter the subcutaneous tissue via small skin lesions.
+Under these conditions infections develop easily, often reaching catastrophic proportions. The consecutive increase in tissue pressure combined with a decrease in the partial pressure of oxygen results in a compartment syndrome, which threatens the vitality of the entire extremity within a short amount of time. (Figure 3)
+Every infection in a diabetic foot threatens the entire extremity. A neurological examination must be performed. Native x-rays of the foot are important to rule out osteitis and osteomyelitis. If angiopathy is suspected, angiography is indicated.
+A standardized technique used to obtain microbiologic cultures from sites of pedal infection is pivotal for the accurate identification of pathogens. Because 40 to 90% of all diabetic foot infections are due to polymicrobial infections by aerobic and anaerobic organisms, both aerobic and anaerobic cultures should be obtained. Cultures taken from the surface of the wound and/or purulent exudate usually interfere with the true pathogenic flora. The average number of isolates per infection among patients hospitalized with pedal infection is 3 - 5. Staphylococci and streptococci are most common, but infections due to gram negative bacilli and/or anaerobes occur in approximately 50% of cases. Commonly isolated aerobic gram negative bacilli include Proteus sp, Klebsiella sp, E. coli and Pseudo monas sp (Grayson 1995).
+Antimicrobial-resistant organisms, especially Methicillin-resistant S.aureus (MRSA), are increasingly isolated in nosocomial infections (Anderson 2007). Several recent reports identified MRSA as the leading pathogen in SSTIs (Fridkin 2005). It also causes 20% to 50% of diabetes-associated foot infections in several countries and is associated with worse outcomes than other pathogens (Nather 2008). The most recent data from Europe could not confirm these findings (Shaper 2010). The incidence of MRSA in nosocomial infections in Europe is about 15%. In community-acquired infections MRSA incidence is below 5%.
+Treatment must be adjusted according to the stage of infection (PEDIS classification) (Lipsky 2004).
+1. In case of microlesions with small ulcerative changes, conservative therapy including stressreduction on the foot and local treatment is indicated.
+2. In locally limited, superficial infections, local debridement must be performed. Effective treatment requires sufficient pressure mitigation (Hanke 2001).
+3. Destructive infections require treatment in an inpatient setting. Failure to remove necrotic, infected tissue and drain purulent collections increases the risk of amputation. The goal is to relieve the purulent infection via operative debridement and to remove infected tissue. This is the most secure way to prevent an imminent amputation. Especially in case of very advanced infections, it is important to rule out a phlegmonous infection of the plantar fascia in the differential diagnosis. In case of osteitis with joint involvement, only a limited resection is indicated. The initial debridement must be performed independently of the status of arterial circulation with revascularisation postponed until sepsis is controlled.
+Further supportive surgical measures include revascularization with the respective interventional catheter methods (balloon dilation, PTA, stent) or reconstructive methods (TEA, autologous venous bypass, prosthetic vessel). Operative reconstructions peripherally are only successful if peripheral circulation is intact.
+In diabetic foot infections antibiotic therapy is indicated after identification of the pathogen. Even if there is evidence of infection with predominantly gram positive bacteria, rare resistant pathogens must be considered, especially when the patient has already been pretreated with antibiotics. In simple cases, oral aminopenicillins coupled with a β-lactamase inhibitor or a fourth-generation fluoroquinolone is recommended. In moderate to severe cases, acylaminopenicillins with a β-lactamase inhibitor, a carbapenem or a combination of clindamycin and a third-generation cephalosporin or a fourth-generation fluoroquinolon can be implemented.
+If nosocomial sepsis is suspected and methicillin resistant staphylococci are a common component of the hospital's microbiologic flora, Daptomycin or Linezolid should be included in the empiric antibiotic regimen.
+The prognosis of diabetic foot infection is poor. 60% of patients experience a recurrence within 5 years that requires an amputation. The goal of all operative therapy is to preserve a functional foot as long as possible. If extensive destruction is present, an amputation is often inevitable.
+The incidence of skin and soft tissue infections in which MRSA (methicillin-resistent Staphylococcus aureus) is involved has been steadily increasing over the past 15 years. These wounds should be treated according to the same open treatment principles as other infected wounds. Since these infections are often superficial contaminations, antibiotic therapy is not indicated. If systemic infection occurs in form of MRSA sepsis, antibiotic therapy is indicated. The following therapeutic options are available:
+1. The cyclic lipopeptide Daptomycin (Cubicin®) 4 mg/kg (Rybak 2006).
+2. The oxazolidinon Linezolid (Zyvoxid®) 2 × 600 mg (Lipsky 2004).
+3. Combination therapy with vancomycin and rifampicin/fosfomycin
+Several clinical trials have been carried out to compare linezolid versus vancomycin for MRSA SSTI treatment. Of 1077 patients randomized to receive either linezolid or vancomycin, 1052 patients (537 in the linezolid arm and 515 in the vancomycin arm) received one or more doses of study drug and comprised the intent-to-treat population. In the per-protocol population, the rate of clinical success was similar in both groups (P = .249). The rate of success was significantly higher in linezolid-treated patients in those patients with confirmed MRSA infection (P = .048). The authors concluded that linezolid is an effective alternative to vancomycin for the treatment of SSTI caused by MRSA (Itani 2010).
+Considering the current available data there is no significant difference between linezolid and vancomycin in the treatment of MRSA skin and soft tissue infections. A trend towards higher effectiveness of linezolid has been observed. More data will be required to determine if linezolid is superior to vancomycin for the treatment of MRSA SSTIs (Dodds 2009). The comparison between linezolid and the new glycopeptides suggests a higher success rate for linezolid (Logmann 2010). There are no systematic reviews on the effectiveness of Daptomycin.
+Patients with skin and soft tissue infections with evidence of MRSA contamination should be isolated according to the hygiene standards in the respective clinic.
+The essential principle for the eradication of an MRSA infection is obtaining wound closure. Wound closure is possible despite MRSA colonization as long as the wound edges are clean. (see Figure 4a, 4b, 4c)
+72 year old women with a complicated intra abdominal infection after sigmoidectomy with anastomotic insufficiency followed by a Hartmann procedure. After 4 weeks on ICU the patient develloped a MRSA infection of the open abdominal wound.
+Closure of the open abdomen by a meshgraft; persisting infection with MRSA for 6 month.
+Six weeks post reanastomosis of the colon (descend -rectostomy) and total closure of the abdominal wall. After this procedure and healing of the surgical wound no MRSA could be identified.
+Necrotizing fasciitis is a life-threatening soft tissue infection characterized by rapidly spreading necrosis of the fascia involved. In 1979 six diagnostic criteria were presented by Fisher (Fisher 1979):
+1. extensive necrosis of the fascia with extension to the overlying skin
+2. moderate to severe systemic intoxication with reduced mental status
+3. lack of primary muscle involvement
+4. no evidence of clostridial infection in microbiological culture
+5. no evidence of large vessel occlusion as the causative mechanism
+6. infiltration of leucocytes, local necrosis of the fascia and the surrounding tissue as well as microvascular thrombosis on histological examination
+The most common mechanism of infection development is via peripheral skin lesions that serve as entry sites. There have, however, been cases of necrotizing fasciitis that occurred as a result of infection with the chicken pox or vibrio species. Guiliano classifies necrotizing fasciitis into two forms:
+Type 1: synergistic anaerobic-aerobic mixed infections (e.g. Fournier's gangrene)
+Type 2: necrotizing fasciitis as the result of group A Streptococcus (GAS) infection only (Bisno 1996).
+In recent years there have been advances in understanding of GAS as pathogens in invasive infections. GAS has the ability to invade cells and to persist intracellularly. (Stevens 1999). A key discovery has been the detection of GAS pili -like cell surface structures which enable cell adherence and biofilm formation. During initial GAS proliferation upregulation of several virulence genes takes place. In severe invasive infections GAS organisms adapt to their host environment by altering their transcriptome, expressing virulence factors that facilitate penetration of local tissue barriers in order to enable vascular dissemination. Further host defence is inhibited and other molecules are expressed to contribute to soft tissue damage (Olson 2008). The outbreak of the disease is promoted by non steroidal anti-inflammatory drugs (Veenstra 2001).
+The diagnosis of necrotizing fasciitis is clinical:
+- severe pain ("pain out of proportion"). Pain subsides only after sensory neurons are destroyed.
+- diffuse erythema
+- marked edema
+- livid, "map-like" lesions with central necrosis (see Figure 5)
+40 year old women with encephalitis disseminata and anti TNF α therapy. After shaving of the axilla she develloped a fulminant septic shock with MOF, due to GAS bacteriemia. The black livid efflorescence looks like a map showing the typical picture of necrotising fasciitis. The progress of the skin alteration occured within 2 -3 hours.
+- reduced mental status, disorientation, somnolence
+- lymphadenopathy is uncommon
+Further possible apparative diagnostics include ultrasound, which often shows a hypoechogenic border around the fascial structure. Native x-rays reveal gas formation in 20-30% of patients. Edema and necrosis zones can also be seen in CT scans, which are, however, not indicated, as they are too time-consuming in such cases.
+The most important differential diagnosis are clostridial myonecrosis (gas gangrene), streptococcal myositis, and severe necrotizing erysipelas. Even when a staphylococcal/streptococcal toxic shock syndrome is diagnosed, an accompanying necrotizing fasciitis must be considered. Clinical evidence of the disease can be confirmed via histological examination, which shows characteristic thrombi in the vessels that supply the fascia as well as typical fascial necrosis (fibrillolysis) permeated by inflammatory cells.
+First-line treatment is early radical excision of the necrotic fascia. Especially for necrotizing fasciitis, the principle of the planned re-debridement should be followed. Amputation is rarely necessary. Adjuvant treatment such as hyperbaric oxygenation has not proven to be effective.
+The lethality of the infection is reported to be 2073%. The prognosis is clearly dependent on the time between onset of infection and surgical intervention.
+A special form of necrotizing fasciitis is Fournier's gangrene, which was first described in 1883 by the French Jean Alfred Fournier (gangrène foudroyante de la verge).
+This infection is always a polymicrobial infection that occurs in preformed fascial compartments of the pelvis, for example Colles', Dartos' and Buck's fascia. Causes include infections of the urogenital tract and perineal infections. Postoperative occurrence after gynacological, proctological, and urological procedures is also possible. Since women have the same fascial structures as men, women can also suffer from Fournier's gangrene. (Herzog 1987Eckmann 1997).
+Diagnosis is based on clinical symptoms dominated by exuberant pain. There is often a large discrepancy between the superficial skin necroses and the massive deep infection.
+The treatment of Fournier's gangrene is the same surgical procedure as in necrotizing fasciitis. Additionally these patients should undergo laparoscopic creation of a colostoma of the sigmoid colon in order to prevent further spreading of infection. After localized healing has occurred, plastic reconstruction of the infected area should be attempted. (Czymek 2009).
+The prognosis depends on the timing and extent of surgical intervention. In advanced disease, lethality rates exceed 30%. As symptoms are often masked in women, and diagnosis is often delayed in women, the lethality in females is at least twice as high.
+Severe mixed infections with and without involvement of Clostridium perfringens leads to gas formation in subcutaneous fat in up to 40% of cases. In most cases, clinical assessment of subcutaneous emphysema is more significant than the results of x-ray imaging. Often, all of these severe mixed infections are summarized by the term NSTI (necrotizing soft tissue infection). The surgical procedure and antibiotic regimen are the same as for necrotizing fasciitis.

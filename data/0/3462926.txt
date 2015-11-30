@@ -1,0 +1,4 @@
+Erratum to: Serum levels of cytokines and C-reactive protein in acute ischemic stroke patients, and their relationship to stroke lateralization, type, and infarct volume
+
+
+Throughout the manuscript, the unit expressing the levels of cytokines was erroneously written as μg/ml (micrograms per milliliter). The reported values were actually in pg/ml (picograms per milliliter).

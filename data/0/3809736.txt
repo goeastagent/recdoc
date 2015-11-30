@@ -1,0 +1,4 @@
+The Cubic Functions for Spline Smoothed L, S and M Values for BMI ReferenceData of Japanese Children
+
+
+Vol.20, No. 2 (2011), p. 47 in the right column; the formula [2] should havebeen as follows: [(Q/M)L–1]/LS

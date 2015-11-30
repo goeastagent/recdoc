@@ -1,0 +1,4 @@
+Polymorphonuclear neutrophils express the common acute lymphoblastic leukemia antigen
+
+Monoclonal antibodies J5, VIL-A1, and BA-3, known to react with the common acute lymphoblastic leukemia antigen (CALLA) were found to specifically stain normal human polymorphonuclear neutrophils (PMN). The antigen detected on PMN had a molecular weight (95,000-110,000 mol wt) close to that of CALLA (95,000-100,000 mol wt) and thus these surface membrane antigens are likely related, if not identical. The fluorescent staining intensity of PMN is comparable to that of CALLA- positive leukemic cells and the presence of PMN in patient samples could potentially produce false-positive results in diagnosis.
+

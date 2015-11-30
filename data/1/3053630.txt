@@ -1,0 +1,4 @@
+Relationship between the result of preoperative pulmonary function test and postoperative pulmonary complications.
+
+Good preoperative screening and evaluation of patients undergoing surgery is necessary because it serves to identify the individual who is at risk of increased intra-operative and postoperative morbidity and mortality. The retrospective study was done in an attempt to determine if abnormalities in preoperative pulmonary function, detected by routine pulmonary function tests, would predict which patients would suffer from pulmonary complications following surgery. Pulmonary complications in the postoperative period included fever, atelectasis and respiratory failure. The overall incidence of pulmonary complications from our 78 patients undergoing surgery was 37 percent based on clinical criteria. This incidence was high in patients with FEV1 less than 1.0 L/sec, MVV less than 40% of predicted value and PCO2 more than 45 mmHg.
+

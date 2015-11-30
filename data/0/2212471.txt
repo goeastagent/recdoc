@@ -1,0 +1,7 @@
+Correction
+
+
+Leong et al. Vol. 187, No. 10, May 18, 1998. Pages 1681–1687.
+The authors regret that two sentences citing the data in reference 10 were incorrectly worded. The sentences appear on p. 1681, lines 17–20 of the right column, and p. 1685, lines 35–37 of the left column. The corrected versions follow.
+[p. 1681] In support of this hypothesis, Farrell et al. (10) have shown that mouse CMV lacking the m144 gene is less virulent in vivo.
+[p. 1685] This scenario could potentially explain the decreased virulence of mouse CMV virus lacking m144 (10).

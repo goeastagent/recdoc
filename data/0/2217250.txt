@@ -1,0 +1,12 @@
+empty
+
+
+
+Page 302
+Due to a typesetting error, the [ATP] column was deleted from Table . The corrected table appears below:
+Page 304, right column, lines 1–6 of paragraph 2.
+Due to an editorial error, parenthetical citation for Fig. 5 appears as A. The corrected sentence is given here:
+The [Ca2+]i dependence of the AdA-liganded channel Po in the absence of ATP (Figs. 5 B and 6) was well fitted by the biphasic Hill equation (Eq. 2) with Kact, Hact, Kinh, and Hinh comparable with those for the channel activated by InsP3, but with a Pmax decreased to ∼0.4 (Table  H).
+Page 305, left column, lines 1–6 of paragraph 2.
+Due to an editorial error, the row citation for Table  was deleted. The corrected sentence is given here:
+When the concentration of AdA was reduced from 100 to 20 nM in the absence of ATP, the channel became more sensitive to Ca2+ inhibition (Fig. 7), with only Kinh reduced while the other Hill equation parameters remained similar to those observed in 100 nM AdA (Table , row I).

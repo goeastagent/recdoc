@@ -1,0 +1,9 @@
+Family history scoring system shows Familial Colorectal Cancer Type X syndrome individuals and Amsterdam I individuals have comparable risk for developing colon cancer
+
+
+A points-based scoring system defines levels of familial risk for colorectal neoplasia. More than 7 points defines a high-risk group that should undergo colonoscopy every 3 years. Family History Scoring was applied to families fulfilling Amsterdam I criteria and familial colorectal cancer type X to compare colon cancer risk.
+Amsterdam I (AmI) and familial type X (famX) families identified from Jagelman Registry database were scored. Affected probands (AP), unaffected probands (UP), affected sibling (AS), and unaffected sibling (US) of the proband, and a child of each sibling were scored. Median, range, and standard deviation were compared for each syndrome to determine level of risk.
+200 patients were included. 181 matched AmI criteria with genetic testing, 19 matched criteria for famX. 37 families with an AP and 12 with an UP matched AmI criteria. 4 with an AP and 3 with an UP that matched criteria for famX. Level of risk for the two syndromes were compared (Table 1). Median family history score was 12 points for individuals fulfilling AmI criteria and 14 for famX. Total mean was 12.8 for AmI and 13.5 for famX. Median was compared between the two syndromes (Figure 1), to assess level of risk.
+Comparing level of risk for AmI and famX (X) syndrome using Family History Scoring
+Comparing median score of AmI and famX syndrome using Family History Scoring
+Family history scoring system has shown that families fulfilling Amsterdam I criteria and familial type X share similar familial risk level for developing colon cancer. Both show dominant inheritance, but molecular pathways differ.

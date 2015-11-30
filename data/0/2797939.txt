@@ -1,0 +1,5 @@
+Errata
+
+
+Gentile MT, Vecchione C, Marino G, Aretini A, Di Pardo A, Antenucci G, Maffei A, Cifelli G, Iorio L, Landolfi A, Frati G, Lembo G. Resistin impairs insulin-evoked vasodilation. Diabetes 2008;57:577–583
+In the research design and methods subsection “Chronic resistin treatment” in the print version of the article listed above, the in vivo dose used in the experiment is reported incorrectly in the sentence “In some mice, resistin (1 μg/min) or vehicle was administered chronically for 28 days by osmotic minipumps implanted subcutaneously (Alzet).” The correct in vivo dose is 1 μg/day. The online version reflects these changes.

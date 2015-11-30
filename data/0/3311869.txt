@@ -1,0 +1,248 @@
+Preventing unintentional injuries to children under 15 years in the outdoors: a systematic review of the effectiveness of educational programs
+
+Unintentional injuries to children in the outdoors have a significant impact on child mortality, development and healthcare costs. This paper presents the findings of a systematic review about the effectiveness of programs that provided information, advice or education about the prevention of unintentional injuries to children under 15 years during outdoor play and leisure.
+A structured search strategy was conducted in a range of databases. All report titles and abstracts were screened using pre-defined criteria. Included reports were quality appraised using a modified Graphical Appraisal Tool for Epidemiological studies (GATE) tool. All quality appraisals and data extraction were checked by a second reviewer. If not provided in the original reports, ORs and mean differences were calculated, where sufficient data were available.
+Twenty-three studies met the inclusion criteria. There was a paucity of robust study designs. The majority of studies only reported a short-term follow-up of intermediate outcome measures. Only two studies measured injury rates; both reported a reduction, but both studies also had considerable methodological weaknesses. The five studies that measured the use of protective equipment reported mixed results, although there is some evidence that suggests that more extensive educational programs (such as health fairs and media campaigns) increase their use. The 20 studies that measured behaviour, attitude or knowledge outcomes reported highly mixed results.
+Methodological weaknesses of the included studies limit support for a particular course of action. To better inform policy and practice, future research should (1) use robust study designs and (2) not rely on short-term proxy outcome measures.
+
+Unintentional injuries to children have a significant impact on child mortality, morbidity and healthcare costs. Globally, unintentional injury contributes to the top 15 causes of death across all age groups of children aged 0–19 years.1 The most common causes of death due to unintentional injury in Europe are road traffic injuries (37%), drowning (15%), poisoning (8%), falls (5%) and fires (4%).2 In England and Wales, unintentional injury is the leading cause of death in children aged 1–14 years. Annually, more than two million children aged 0–14 years are taken to the accident and emergency departments of UK hospitals after being unintentionally injured, although numbers are steadily decreasing.3 About half of these occur in the home, with those under 5 years most likely to be injured at home. As they get older, children are increasingly at risk for injury outside the home.34 Data about injuries sustained in outdoor environments while at play or leisure activities are available but are not broken down in ways that fully illuminate our focus. However, we do know that most injuries to children under 15 years during outdoor play and leisure are caused by falls, both in the home and outside the home, with crushing or striking injuries as the next most common causes. More than 33 000 children under 15 years were injured in public playgrounds in 2002.5 Other potentially dangerous outdoor leisure activities relate to fireworks, roller blading, skateboarding, caving, climbing and water sports, and locations include playgrounds and farms.5–7
+It is known that higher levels of injury morbidity and mortality are found among those from more deprived backgrounds, although, to date, there has been little robust research about the impact of interventions to decrease ‘general leisure’ injuries in different socioeconomic groups.8 Previous systematic reviews in the field have focused on interventions to improve children's safety in outdoor environments when working on farms910 or have been limited to one type of educational intervention (eg, group education) where little evidence was located relating to children.11 A further systematic review (with a broad focus across road, home and leisure environments) included studies published between 1975 and 2000 but identified only what the authors defined as ‘some’ evidence about the effectiveness of interventions to decrease unintentional injuries to children in leisure environments.12 To address these identified gaps in synthesised evidence and provide an up-to-date synthesis of the effectiveness of interventions, this paper presents the findings of a systematic review about the effectiveness of programs that provided information, advice or education about the prevention of unintentional injuries to children under 15 years during outdoor play and leisure. The review was conducted as part of a series of reviews on the prevention of unintentional injuries to children on the road and in the home (reported elsewhere1314) in accordance with a review protocol (see supplementary file #1) agreed upon by the commissioning body (Centre for Public Health Excellence, National Institute for Health and Clinical Excellence). The review's focus on outdoor environments reflected the outcome of a stakeholder consultation process used by the commissioning body in the development of the project's scope.15 The review's inclusion and exclusion criteria are shown in table 1.
+Review inclusion and exclusion criteria
+ Designated outdoor play and leisure spaces (eg, playgrounds and skateboard parks)
+ Other non-designated external environments (eg, canals, construction sites, fields and farmyards)
+ Play and leisure activities at home
+ Play and leisure activities on roads or pavements (including any bicycle helmet mass-media campaigns already covered by studies in a linked review)
+ Design or modification of the physical environment, including environmental or engineering solutions to improve safety
+ Safety and risk (including risk assessment)
+ Safety clothing and protective equipment (information could be delivered via one-to-one or group-based verbal information, print media (eg, leaflets, posters), new media (eg, internet-based social networking sites), email and text messaging or mass-media campaigns)
+Safety education that does not cover unintentional injury prevention related to play and leisure activities
+Formal, competitive sports (where supervising adults are likely to be present)
+Workforce training, support and capacity-building in relation to preventing unintentional injuries in children and young people under 15 years
+Policy and legislation covering safety education, equipment and inspection standards
+A search strategy using text words and thesaurus headings relating to the provision of information, advice and education to children about the prevention of unintentional injuries during outdoor activities was used in a range of databases (box 1). Filters for publication year (from 1990 to September 2009) and English language were applied. Websites and the citations of included studies were also searched. The full search strategy, which was also designed to locate studies for potential inclusion in a parallel cost-effectiveness review and review of qualitative research on barriers and facilitators to implementation, is shown in supplementary file #2.
+Medline
+PsycINFO
+ISI Web of Knowledge Social Science Citation Index (SSCI)
+Science Citation Index Expanded (SCI-EXPANDED)
+Health Management Information Consortium (HMIC)
+CINAHL
+Applied Social Science Index and Abstracts (ASSIA)
+The Cochrane Library database of systematic reviews
+EconLit
+EMBASE
+EPPI-Centre
+ERIC
+TRoPHI
+DoPHER
+Bibliomap
+Centre for Reviews and Dissemination databases
+Database of Abstracts of Reviews of Effects (DARE)
+National Health Service Economic Evaluations Database (NHSEED)
+NHS Economic Evaluation Database (HTA)
+SPORTDiscus
+All report titles and abstracts (where available) were screened independently by one reviewer (MP, RG or LC) for inclusion according to a pre-defined checklist of criteria. A sample of 20% was screened independently by a second reviewer (MP, LC or HH). Uncertainty over inclusion was resolved by discussion. The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) flow chart (including the studies identified for the cost-effectiveness review and review of qualitative research) is shown in figure 1.
+PRISMA flow chart.
+Included reports were quality-appraised independently by one reviewer (MP or HH), and 100% of these appraisals were checked by a second reviewer (MP, RG or HH) using a checklist based on the GATE quality appraisal tool.1516 Each criterion was rated as ‘++’ (minimal risk of bias), ‘+’ (potential sources of bias remained) or ‘−’ (significant sources of bias persisted). The overall validity of each study was also rated using a similar system: ‘++’ (all or most of the quality criteria were fulfilled), ‘+’ (some of the quality criteria were fulfilled but judged as being unlikely to have altered the study's conclusions) or ‘−’ (few or none of the quality criteria were fulfilled). The results of the quality appraisal in full are shown in supplementary file #3.
+All included reports were read independently by one of two reviewers (MP or HH), and data were extracted into evidence tables. All data extractions were checked by a second reviewer (MP, RG or HH), and any discrepancies were discussed and addressed to ensure consistency. In addition to data on the core outcomes of interest, research methods used and statistical analyses conducted, data about sample characteristics and the components of programs were extracted.
+ORs and mean differences (with 95% CIs) comparing intervention and control groups are either taken directly from those reported by authors or calculated by the review team where sufficient data were available. In many reports, the limited data prevented calculation of a common metric across studies. Effect sizes are shown wherever these were reported or were calculable.
+There was a large number of similar outcomes reported within some individual reports (eg, different measurements of attitudes towards the supervision of toddlers in water). These risked becoming overwhelming to the reader. Therefore, where we judged outcomes to relate to the same aspect, we pooled these within that study. We judged this to be a better approach than selecting a single outcome on any topic, as this was likely to be an arbitrary selection. For outcomes to be pooled within a study in this way, we assessed the direction (to ensure that it was the same) and magnitude of the ORs (to ensure that it was not a large difference), and 95% CIs were checked to ensure that there was overlap between the outcomes to be pooled within a study. If these conditions were not met, ORs were reported individually. If they were met, ORs were pooled within studies using a random-effects model to maintain any heterogeneity.
+For use of protective equipment, there was a reasonable homogeneity of outcomes measured and sufficient data in three of the five studies to allow pooling of ORs within studies. Similarly, for behaviour, attitude and knowledge outcomes, homogeneity between outcomes measured allowed pooling of ORs within 5 of the 19 studies.
+The reporting of injury outcomes was insufficient to allow any form of statistical pooling across studies. In meta-analysis, it is assumed that individual ORs are independent of one another; however, this is not the case with some outcomes, as the same participants are included in the calculation of a number of ORs from pooling within studies (see above). Therefore, ORs for behaviour, attitude and knowledge outcomes and use of protective equipment outcomes were not pooled across studies. The large amount of heterogeneity between study outcomes would also have hindered synthesis across studies. In particular, the heterogeneity in the outcome measures used and insufficient reporting of data meant that a graphical summary of behaviour, attitude and knowledge outcomes across studies was not feasible.
+All ORs and mean differences are reported as either ‘intervention versus control’ (where a study's design included a control group) or ‘after versus before’ (where a study's design did not include a control group). Thus, an OR above 1 shows that a desirable outcome occurred following the intervention. This effect is considered to be statistically significant (at p<0.05) if the 95% CI does not include 1. A mean difference above zero shows a desirable direction of effect.
+Twenty-three reports met the inclusion criteria. Two reported randomised controlled trials (RCTs), three reported cluster RCTs, seven reported controlled before and after (CBA) studies and 11 reported before and after (BA) studies. Two studies were rated ‘++’, eight were rated ‘+’ and 13 were rated ‘−’. Table 2 provides the details of the study design, quality appraisal rating, program components (eg, safety topics covered and the mode of delivery) and study context. Programs included in the review used a range of methods to provide information, advice and education about injury prevention. Figure 2 provides an overview of these program components and their use, either alone or in combination.
+Included study characteristics
+Frederick and Barlow17/BA (−)/UK
+6–7 years (outdoors, home and road safety)
+55/NR (2 months)
+Frederick et al18/CBA (+)/UK
+10–11 years (outdoors, home and road safety)
+1119/1085 (5 months)
+Attitudes, knowledge
+Tenn and Dewis19/
+CBA (−)/Canada
+13–17 years (outdoors and road safety)
+Discussion about injury scenarios, linking emotions and risk, decision-making, communication and relationships with friends
+106/NR* (4 months)
+Attitudes, knowledge
+Obstacle course for ‘experiencing the difficulties associated with being disabled’
+‘Famous sports star’ visits class to talk about sport, equipment and protective behaviours
+Video on safety relating to bike, motorbikes, and driving and cliff jumping and diving
+Heck et al20/
+BA (−)/USA
+6–8 years (playground safety)
+239/239 (1 week)
+Morrongiello and Mark21/cRCT (+) (randomisation by school class; analysis at level of individual)/Canada
+7–12 years (playground safety)
+239/222 (1 month (averaged))
+Azeredo and Stephens-Stidham22/
+CBA (−)/USA
+5–14 years (outdoors, home, and road safety)
+Bicycle fair and helmet giveaway
+‘Approximately’ 6300/NR (2 weeks)
+Behaviour,
+attitudes,
+knowledge
+Smoke alarm giveaway
+Within-class focus on seatbelt use
+Letters home to parents
+Talks at parent-teacher meetings
+Greene et al23/
+CBA (−)/USA
+6–9 years (playground, water, road, and weapons safety)
+General structure and function of the brain and spinal cord
+1400/NR (1 week)
+Conflict resolution and weapons safety
+Asher et al24/
+RCT (+)/USA
+24–42 months (water safety)
+162/142 (immediate)
+Moran and Stanley25/
+BA (−)/New Zealand
+2–4 years (water safety)
+Children were taught to swim
+106/105 (immediate)
+Adults received information on child cardio-pulmonary resuscitation
+Terzidis et al26/
+CBA (+)/Greece
+5–15 years (water safety)
+1400/1348 (1 month)
+Attitudes,
+knowledge
+Richards et al27/
+CBA (−)/USA
+3–11 years (playground, water, road and weapons safety)
+495/NR (1 week)
+Kendrick et al28/
+cRCT (++) (randomisation by school; analysis at level of individual)/UK
+7–10 years (outdoors, home and road safety)
+459/391 (4 months)
+McCallum et al29/
+BA (−)/USA
+8–13 years (farm safety)
+1781†/NR (3 months)
+Equipment use, behaviour
+Gielen et al30/
+BA (+)/USA
+7–8 years (outdoors, home and road safety)
+Walk-through of a home destroyed by fire
+410/281 (immediate)
+Use of child-size battery operated vehicles to drive through the model village
+Wehner and Sutton31/
+BA (−)/USA
+6–9 years (playground, water, road, weapons and sports safety)
+6973/6644 (6 weeks (approximate))
+Injuries, knowledge
+Wesner32/
+CBA (+)/Canada
+11–13 years (spinal cord safety education)
+663/392 (2 weeks)
+Equipment use, knowledge
+Mayer et al33/
+RCT (++)/USA
+0–10 years (garden safety)
+80/65 (1 month)
+Morrongiello and Matheis34/cRCT (+) (randomisation by school class; analysis at level of individual)/Canada
+6–11 years (playground safety)
+258/258 (2 months)
+Forjuoh et al35/
+BA (−)/USA
+0–12 years (helmet use)
+Distribution and fitting of helmets
+Intervention overseen by community coalition of individuals and organisations
+345/NR (at the end of the 2-year intervention period)
+Solis36/
+BA (−)/USA
+4–13 years (outdoors, home and road safety)
+Miniature ‘smoke house’
+108/NR (immediate)
+‘Safety town’
+Bennett et al37/
+BA (+)/USA
+1–14 years (water safety)
+3251/832 (at the end of the 3-year intervention period)
+Equipment use, knowledge
+Treser et al38/
+BA (−)/USA
+0–15 years (water safety)
+424/NR (at the end of the 3-year intervention period)
+D'Argenio et al39/
+BA (−)/Italy
+NR (firework safety)
+NR (immediate)
+“n remained almost constant at post-test and follow-up.”19
+Sample size is taken from outcome measurements, as baseline data were not reported by the authors.
+(++), all or most of the quality criteria have been fulfilled; (+), some of the quality criteria have been fulfilled, but where this is judged as being unlikely to alter the study's conclusions; (−), few or none of the quality criteria have been fulfilled. BA, before and after study (with no control group); CBA, controlled before and after study; cRCT, cluster RCT; NA, not applicable; NR, not reported; RCT, randomised controlled trial.
+Program components, areas of safety covered and study quality. F, farm safety; Fi, firework safety; G, garden safety; H, home safety; O, outdoor safety; P, playground safety; R, road safety; S, sports safety; SC, spinal cord safety; W, water safety.
+Included studies predominantly used intermediate outcome measures such as knowledge or attitudes. Twenty studies measured behaviour, attitude and knowledge outcomes, while only five measured the use of protective equipment, and only two measured injury rates.
+The diversity of approaches to providing information, advice and education in the included programs, together with differences in the extent of the programs and measurement of outcomes in different studies, provided a significant challenge for synthesis. Reporting our synthesis rigorously has therefore meant that we have had to report ‘mixed results’ for many of the outcomes of interest.
+The synthesis of the effectiveness of programs is presented under five headings: injury rates; use of protective equipment; and safety behaviour, attitude and knowledge. An overview of the direction and strength of the effect of programs and whether outcomes were observed or self-reported is shown in table 3. Similar programs are reported together (those with the shortest follow-up time reported first) to aid understanding of the effectiveness of different types of programs. Key details about the context in which the programs were implemented are also reported in order to inform understanding of the applicability of programs in local contexts.
+Overview of study results showing the number of outcomes and the direction and statistical significance of effect
+1↑*
+2↓*
+2↑
+1↓
+3↑↑
+1↑
+3↑↑*
+7↑*
+2↓*
+The number of outcomes reported by a study (or the summary effect size where this was possible to calculate) is specified before the strength and direction of effect; for example 2↑ indicates that two statistically non-significant effects in the desired direction were reported. Statistical significance is defined as a (Pooled) OR where the 95% CI does not include 1, or p<0.05. All outcomes were self-reported unless otherwise indicated.
+Observed outcomes.
+Statistically significant effect in the desired direction.
+Statistically non-significant effect, but in the desired direction.
+Statistically non-significant effect, but in the opposite direction to that desired.
+BA, before and after study (with no control group); CBA, controlled before and after study; cRCT, cluster RCT; RCT, randomised controlled trial.
+Only two studies, both of which were BA studies rated ‘−’, measured the impact of programs on injury rates. The total number of paediatric head and neck injuries (both absolute and proportional) was reduced in the county in which a head and spinal cord injury education program (‘Think First for Kids’) was delivered in schools to children aged 6–9 years. In the first year of the program, 47 (73%) of 64 paediatric trauma admissions were due to a head and/or back injury. This proportion fell to 42 (65%) of 65, then 29 (51%) of 57, in the subsequent 2 years.31
+A program designed to reduce the number of firework-related injuries to children over the New Year period (‘Capodanno Senza Danno’–‘New Year Without Harm’) reported firework-related emergency room consultations for children under 15 years in the 18 emergency rooms of the Naples region (43, down from 119 in the previous year).39 It was reported that ‘the most dramatic change occurred in 10–12-year-olds, among whom the rate dropped from 45.9/100 000 residents to 22.3/100 000 residents’,39 but no further data are presented to allow comparison of this claim with other injury rate changes. Confounding events, such as heavy rainfall over the New Year period in the year the study was conducted, may also have accounted for the reduction in injury rates.
+Figure 3 shows a forest plot of the postintervention versus preintervention effect sizes of three of the five studies that evaluated the impact of programs on the use of protective equipment. Due to heterogeneity, it was not possible to pool ORs across studies for this outcome. Evidence for the effect of these programs suggests that there is a moderate increase in the use of protective equipment; however, for three studies, this finding was not statistically significant.
+Effect sizes for use of protective equipment (postintervention vs preintervention).
+No statistically significant difference in children's use of knee/elbow pads or helmets (while rollerblading or skateboarding, based on self-reporting of protective equipment use) was reported following a brain and spinal cord injury education program (Think First for Kids) delivered in schools to children aged 11–13 years.32 A statistically significant increase in the use of life jackets by children when boating (based on parental reporting of protective equipment use) was reported following a statewide drowning prevention campaign (‘Stay on Top of It’) that was aimed at adults and children.37 However, an evaluation of a related drowning prevention campaign (based on observation of protective equipment use) reported no statistically significant post-program difference in the use of life jackets,38 but it is unclear why the outcomes of these two related programs differ.
+Two further studies, both of which were BA studies rated ‘−’, did not report sufficient data to allow effect sizes to be calculated (table 4). The effect of a coalition of community organisations (the Waco Traffic Safety District Helmet Promotion Coalition) on protective equipment use (based on observation of protective equipment use) is mixed. A statistically significant increase in the use of helmets by children when skateboarding (in all observed locations) was reported but not when in-line skating or riding a scooter.35 A statistically significant increase in children's use of helmets when they were skateboarding, in-line skating and riding scooters in car parks was also reported but not when children were engaged in these activities in playgrounds or on cycle paths.35 A statistically significant increase in children's post-program helmet use when engaged in these activities alone was reported but not when with any other group of either children or adults.35
+Changes in use of protective equipment following programs
+McCallum et al29/
+BA (−)/USA
+8–13 years—after versus before
+Use of eye protection when riding an all-terrain vehicle: p<0.001
+Use of helmet when riding an all-terrain vehicle: p>0.001
+Forjuoh et al35/
+BA (−)/USA
+Children (ages NR), helmet use (after vs before) when:
+ Skateboarding (p=0.01; increase of 166%)
+ In-line skating (p=0.56; decrease of 25%)
+ Scooter riding (p=0.15; decrease of 68%)
+Children (ages NR), helmet use (after vs before) in:
+ Car parks (p=0.03; increase of 63%)
+ Playgrounds (p=0.09; decrease of 49%)
+ Cycle paths (p=0.22; increase of 104%)
+Children (ages NR), helmet use (after vs before) when:
+ Alone (p<0.0001; increase of 179%)
+ With other children (p=0.22; decrease of 23%)
+ With adults (p=0.66; increase of 30%)
+BA, before and after study (with no control group); NR, not reported.
+The other BA study, in a rural setting, reported a statistically significant difference post-program (based on self-reporting of protective equipment use) in the use of eye protection and helmets on farms when riding or driving an all-terrain vehicle (table 4). This change followed a program that used oral presentations and activities based on the ‘Progressive Farmer’ safety lesson plans.29
+Table 5 (available online only) provides an overview of the impact of programs on safety behaviour in the five studies that measured this outcome. Two of these studies reported water safety outcomes.2224 The first reported statistically significant improvements in water safety behaviour and problem-solving skills (to avoid participating in risky behaviours) in 5–11-year-old children who had participated (over the course of 18 weeks) in a series of lessons covering a range of safety issues in the outdoors, on the road and in the home.22 The second (a randomised study) observed children's poolside behaviour following oral presentations (delivered to children aged 2–4 years during the course of swimming lessons), reporting a minor improvement when the 12-week training group was compared with no intervention but a slight deterioration when this group was compared with the 8-week training group.24
+Observational data for the effect of a series of classroom oral presentations on playground safety were measured by one BA study.20 A reduction in unsafe behaviour on climbing frames and slides for 6–8-year-old children was reported, with the exception of an increase in unsafe behaviour on climbing frames among 6–7-year-old children.20
+Evidence for the effect of programs on behaviour in other environments is mixed. There was no evidence of effect in a randomised study of a safety education video designed to improve parents' safety behaviour in the garden.33 A statistically significant improvement following oral presentations and activities based on the Progressive Farmer safety lesson plans was reported for a range of safety behaviours among children aged 8–13 years on farms.29
+Table 6 (available online only) provides an overview of the impact of programs on safety attitudes in the eight studies that measured this outcome. A statistically significant difference between intervention and control groups in attitudes towards safety in the outdoors was reported for a program that covered a range of safety issues in the outdoors, on the road and in the home.22 Similarly, a statistically significant improvement in attitudes in the intervention group was reported following delivery of the Injury Minimisation Program for Schools (covering safety in outdoor, home and road environments) over the course of a school year.18
+Programs addressing attitudes towards water safety reported mixed results. The Injury Minimisation Program for Schools evaluation18 and the swimming school intervention aimed at the parents of toddlers25 reported a statistically significant improvement in attitudes in the intervention groups. However, while an evaluation of a school-based program designed to improve water safety reported improved water safety attitudes in children aged 4–6 years, this improvement was non-significant in children aged 6–11 years.26
+Two studies, both cluster RCTs rated ‘+’, reported the impact of an oral presentation and activities,21 and a video34 (both focusing on playground activities) on children's attitudes to playground safety. Statistically significant differences that favoured the intervention group were reported across a range of measures, including a change in one or more safety attitudes21 and the rejection of behaviours that were both targeted and not targeted by the program34 (see table 6 online for the full list). Fear and vulnerability regarding high-risk playground behaviours were reported to be statistically significant predictors for decreases in risk taking for both moderate- and high-risk behaviours.34
+An untitled program covering safety in a range of environments and including both experiential activities and visits from sporting personalities was delivered to children (described as having a combination of social and academic problems) aged 13–17 years. The program was delivered by trained volunteers aged 17–19 years. It was reported that there were no statistically significant differences between intervention and control groups on any attitudinal measures relating to safety.19
+A BA study (rated ‘−’) of a day-long health fair where 30 community organisations and 10 hospital departments had exhibits reported a slight improvement in safety attitudes when swimming or diving and towards wearing a helmet when taking part in ‘wheeled activities’.36
+Table 7 (available online only) provides an overview of the impact of programs on safety knowledge in the 12 studies that measured this outcome. Evidence for the effect on water safety knowledge of programs that included an oral presentation component is mixed. Improvements in water safety knowledge are reported by three CBA studies in children aged 5–14,22 6–823 and 4–12 years26 and one BA study in children aged 6–9 years.31 However, two CBA studies and one BA study also report no improvement in water safety knowledge in children aged 6–7,17 10–1118 and 12–15 years.26 The use of an oral presentation in conjunction with a specially constructed ‘safety village’ (designed to raise children's awareness of safety issues) was evaluated by one BA study30 (rated ‘+’). In contrast to the results from children in the higher socioeconomic groups, a statistically significant improvement in water safety knowledge in children aged 7–8 years from lower socioeconomic groups was reported following the program.30
+A statistically significant improvement in parents' knowledge of a statewide media drowning prevention campaign's safety messages was reported by one BA study (rated ‘+’).37
+Improvements in knowledge of brain and spinal cord anatomy and injuries following oral presentations on the subject were uniformly reported by three CBA studies.232732 This improvement was statistically significant in the evaluation of the Think First for Kids program, which was the only program of the three studies to also use a video.32
+Improvements in safety knowledge in relation to a variety of activities in the outdoors are reported in studies of programs that used oral presentations222330 (see table 7 online for full details). However, a number of studies also reported no improvement in safety knowledge following the program concerned, in relation to fireworks17 and general outdoor safety.19 One cluster RCT (rated ‘++’) evaluating the ‘Risk Watch’ injury prevention program, which was delivered by teachers and covered safety both in the home and outdoors, found no evidence of effect regarding children's (aged 7–10 years) knowledge about preventing falls in the outdoors.28
+This systematic review, based on explicit and policy-relevant review questions, was conducted according to a pre-defined review protocol and used explicit search strategies (developed and conducted by an information specialist) of a wide range of electronic databases to identify relevant studies. In considering this review, it is important to keep in mind the limitations of the included studies as summarised by the quality appraisal ratings shown in table 2. It is also important to consider that study designs without a control group (such as BA studies) substantially limit the extent to which program effects can be discerned from outcomes that would have occurred whether or not the program was implemented.
+The two studies that measured injury rates following a program both reported a reduction in injuries,3139 although neither study design supported statistical analysis. Both evaluations were BA studies, making attribution of the outcomes to the programs problematic, especially when the extensive confounding factors reported in one study39 are considered. The same study also had a very short follow-up period (24 h) that was focused on a particular set of risks from fireworks that were traditionally used over the New Year period.39
+In the absence of data on injury outcomes, reporting of the use of protective equipment is a reasonable proxy. The five studies that measured the use of protective equipment following a program reported mixed results. Use of helmets and knee/elbow pads did not increase following a program using an oral presentation and video,32 but there is evidence from a weaker BA study that, following health fairs and the distribution of helmets, the use of helmets increases in some contexts.35 Two studies evaluated closely related statewide drowning prevention campaigns as having different outcomes3738; however, the study appraised as methodologically stronger reported a statistically significant increase in children's life jacket use.37
+Behaviour, attitude and knowledge outcomes, although intermediate outcome measures, can still provide useful evidence to inform decision making about the design of unintentional injury prevention programs. The more extensive oral presentation programs, delivered over the course of a school year18 or covering a wide range of injury prevention areas on the road, as well as in the home and the outdoors,22 reported statistically significant changes in children's behaviour and attitudes towards safety in the outdoors.1822 Statistically significant changes in children's playground safety attitudes were also reported following programs that used an oral presentation and activities to focus on particular aspects of risky playground behaviour21 and by using a video about risky playground behaviour that was designed to evoke fear.34 Statistically significant changes in a range of safety behaviours on farms were reported following an oral presentation and activities.29 However, there was no evidence of effect on parents' behaviour following a program that used a video about garden safety.33
+The effect of programs on changes in children's knowledge about safety in outdoor environments is highly mixed and, unfortunately, does not allow any pattern related to a program type to be discerned. However, it should be noted that, of the 12 studies that measured knowledge outcomes, the study using the most rigorous comparative design (a cluster RCT, rated ‘++’) reported no evidence of effect regarding children's knowledge about preventing falls in the outdoors following delivery of the Risk Watch program.28
+Few outcomes were measured in a manner that would inform decision making about the impact of outdoor injury prevention programs on health inequalities. One study reported a statistically significant improvement in water safety knowledge in the lower socioeconomic groups following a program involving an oral presentation and a safety village.30 A further study reported no significant difference in attitudinal measures following a peer-delivered education program for children aged 13–17 years who had a combination of academic and social problems.19 Also, few studies reported any differences in the effect of programs in boys and girls. Given the greater incidence and severity of unintentional injuries in boys, which further increase with age,3 this is a significant gap in the evidence base.
+The paucity of robust study designs used to evaluate the programs included in this systematic review significantly limits the extent to which outcomes can be attributed to the delivery of information, advice or education in the programs concerned. In this review, 13 of the 23 included studies were appraised as being methodologically weak (‘−’). In addition, intermediate outcome measures (such as safety behaviour, attitude and knowledge) were often followed up only a short period after the delivery of the program, limiting the extent to which the evidence base provides robust support for a particular course of action. The heterogeneity of the outcome measures used in the studies included in this review inhibited statistical synthesis of effect size, necessitating a narrative synthesis of the included studies' findings.
+The body for whom this systematic review was conducted did not issue final guidance due to the lack of effectiveness evidence and the potential for interventions to decrease physical activity and play (http://www.nice.org.uk/guidance/index.jsp?action=byID&o=12066). However, the methodological issues identified in the included studies can inform the design of future studies in the field. Methodological weaknesses, in particular, the high number of studies that did not include a control group (11 of the 23 included studies used BA designs), suggest that researchers in the field either have a limited knowledge of a robust study design or lack the resources to implement them. Furthermore, the prevalence of proxy outcomes (safety behaviour, attitude and knowledge) measured in the short term by the included studies suggests a belief by researchers that these are sufficient for evaluation. The synthesis presented here strongly suggests that proxy outcome measures are not sufficient to inform guidance about the effectiveness of programs. To better inform guidance, future research in the field should
+adopt an experimental approach, with randomised allocation of participants to intervention and control groups;
+use primary outcome measures of interest (eg, injury rates, classified according to acknowledged injury classification systems) rather than proxy and self-reported outcomes;
+measure long-term outcomes (eg, at periods of 6 months or more following the intervention);
+report results by gender, ethnic group and socioeconomic group so that guidance on interventions that reduce inequalities in health can be better informed.
+There is some evidence from studies conducted up to the year 2000 that suggests that interventions to reduce unintentional injuries to children in leisure environments can be effective. However, up-to-date evidence on the effectiveness of educational interventions that target child injuries in the outdoors has not been systematically reviewed and synthesised.
+There is evidence that suggests that more extensive educational programs (such as health fairs and media campaigns) increase use of protective equipment. However, the methodological weaknesses of relevant studies substantially limit the basis for policy making. To better inform policy and practice, future research should use robust study designs and not rely on short-term proxy outcome measures.

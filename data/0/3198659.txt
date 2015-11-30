@@ -1,0 +1,197 @@
+JSNT-Guidelines for the Management of Severe Head Injury (Abridged edition)
+
+The aim of this article is to introduce the principal part of the JSNT-guidelines for the management of severe head injury in adults. The JSNT-guidelines were developed in 2000 by the Guidelines Committee of the Japan Society of Neurotraumatology (JSNT) based on the results of literature review and the Committee consensus. The guidelines updated in 2006 consist of 7 topics pertaining not only to prehospital care, initial, ICU and surgical management, but also the management of pediatric and geriatric patients. The JSNT-guidelines are of practical nature accounting for the difference in the medical system and conditions in Japan, but in their essence they are similar to those of Western countries. Reports on the application of these guidelines indicate their positive affect on the results of management of severe head injury.
+
+In the era of evidence-based medicine, two major sets of guidelines for the management of severe head injury were published from the Brain Trauma Foundation (BTF, USA) and European Brain Injury Consortium (EBIC) in 1996 and 1997 had a great impact on the development of the Japanese guidelines[12].
+In Japan, according to the demographics conducted by the Ministry of Health, Labour and Welfare in 1997, the most frequent cause of death in the population aged 1-24 years was accidents, which also remained among the top 3 causes of death in those aged 25-39 years[3]. Moreover, about half of the deaths caused by accidents resulted from head injuries. Since 2 to 10 times more the number of those who died suffer serious physical, neurological, or psychological damage even if they remained alive, head injuries are considered to inflict immeasurable damage to society[456].
+Recent laboratory and clinical studies on head injuries have shown that hypoxia and hypotension immediately after injury greatly affect secondary brain damage. This means that the outcome may differ widely depending on the management at the early stage after injury. On the basis of what has been observed and reported so far, guidelines for the management of severe head injury have been already issued in Western countries. In Japan, a nationwide survey of the management of severe head injury conducted in 1998 revealed significant varieties of management and quite individualized strategies at major hospitals[7]. In addition, 10 neurosurgical emergency centers began collecting data in 1998 within the Traumatic Coma Data Bank Project in Japan (JTCDB)[45]. By 2000, 721 patients with Glasgow Coma Score (GCS) of less than 8 or less were enrolled in this database. The age distribution of those patients showed two peaks, one at 15- to 25-year-old and the other at 55- to 65-year-old. As for the cause of head injuries, traffic related injuries were the leading cause (61%) followed by falls (29%). In traffic related injuries, 31% of the patients occurred in pedestrian, 26% in motor cyclists, 24% in bicyclists and 19% in four wheeler occupants[8].
+As Japanese society differs in many aspects from the western (for example reflected by the different epidemiology of head injury) and among these differences not least are the specifics of medical insurance and health care systems, at the 21st Annual Meeting of the Japan Society of Neurotraumatology (March 1998) was decided to develop practical guidelines to improve the management of patients with severe head injury in our country.
+The objective of this article is to convey to the broader, English speaking neurosurgical community the principal part of the JSNT-guidelines for management of severe head injury and provide some initial data on the impact of its application.
+In 1998, the Guideline Committee on the management of severe head injury was initiated by the JSNT. The committee members performed a critical review of the national and international publications over the past 10 years between March 1988 and October 1999 and compared them with the contents of US and European guidelines[3] (Table 1). Through discussion, the Guideline Committee finally decided to develop guidelines based on a combination of critical literature review and committee consensus. It was also decided to itemize the contents as much as possible and to arrange the items in order of reliability (Table 2). In these guidelines, “be appropriate” is the strongest expression, followed by “be often to do”. The JSNT-guidelines were first published as a supplement of the official journal of the JSNT in October 2000[3]. The first edition of the JSNT- guidelines consisted of 7 topics and one addendum.
+Literature accepted for the Japanese guidelines
+Grades of recommendations in the guidelines
+Topics of Japanese guidelines, 1st and 2nd editions
+In 2006, 6 years after the publication of the 1st edition, a revision of the JSNT-guidelines was published in the official journal of the JSNT, Neurotraumatology[9]. On the basis of a questionnaire survey on the application status of the 1st edited JSNT-guidelines, 5 new minor-topics including managements of mild and moderate head injuries were added for the 2nd edition of the guidelines (Table 3). The present guidelines are the essential part of the 2nd edited version of the JSNT-guidelines.
+1-1 Prehospital care
+The objective of prehospital care is to minimize secondary brain damage._For this purpose, it is appropriate to perform the treatment essential for the maintenance of life and promptly transport the patients to an appropriate medical institution based on the degree of emergency and severity (load and go).
+1-2 Criteria for transport to special facilities, transport methods, and information methods
+It is important to abide by 3 principles: (i) accurate assessment of severity, (ii) appropriate selection of hospital, and (iii) prompt transport.
+1-3 Role of neurosurgeons in team care at an expert facility
+It is appropriate for a neurosurgeon to take the initiative throughout the entire care of head injuries, including the initial diagnosis and treatment and pre- and postoperative management.
+2-1 Initial examination and treatment of injuries
+(1)Primary survey to secure the stability of general condition(1)If the GCS score is 8 or less, it is appropriate to secure the airway by endotracheal intubation, etc. It is appropriate to protect the cervical spine during the procedure.(2)On the primary evaluation, it is appropriate to examine for the following neurological signs, in particular; GCS, pupillary findings, and hemiparesis.(2)Secondary evaluation for close examination of the injury(1)If severe disturbance of consciousness with a GCS score of 8 or less, a rapid decrease in the level of consciousness, or signs of cerebral hernia are observed, CT is performed at the beginning of the secondary evaluation.(2)It is appropriate to examine the following during the secondary assessment of the head:(a)Injuries and depressed fracture concealed under the hair(b)Black eyes (?) or Battle's sign due to cranial base fracture(c)Ocular or orbital injuries(d)Cerebrospinal fluid leakage via the external auditory meatus or nostrils.
+Primary survey to secure the stability of general condition
+(1)If the GCS score is 8 or less, it is appropriate to secure the airway by endotracheal intubation, etc. It is appropriate to protect the cervical spine during the procedure.(2)On the primary evaluation, it is appropriate to examine for the following neurological signs, in particular; GCS, pupillary findings, and hemiparesis.
+If the GCS score is 8 or less, it is appropriate to secure the airway by endotracheal intubation, etc. It is appropriate to protect the cervical spine during the procedure.
+On the primary evaluation, it is appropriate to examine for the following neurological signs, in particular; GCS, pupillary findings, and hemiparesis.
+Secondary evaluation for close examination of the injury
+(1)If severe disturbance of consciousness with a GCS score of 8 or less, a rapid decrease in the level of consciousness, or signs of cerebral hernia are observed, CT is performed at the beginning of the secondary evaluation.(2)It is appropriate to examine the following during the secondary assessment of the head:(a)Injuries and depressed fracture concealed under the hair(b)Black eyes (?) or Battle's sign due to cranial base fracture(c)Ocular or orbital injuries(d)Cerebrospinal fluid leakage via the external auditory meatus or nostrils.
+If severe disturbance of consciousness with a GCS score of 8 or less, a rapid decrease in the level of consciousness, or signs of cerebral hernia are observed, CT is performed at the beginning of the secondary evaluation.
+It is appropriate to examine the following during the secondary assessment of the head:
+(a)Injuries and depressed fracture concealed under the hair(b)Black eyes (?) or Battle's sign due to cranial base fracture(c)Ocular or orbital injuries(d)Cerebrospinal fluid leakage via the external auditory meatus or nostrils.
+Injuries and depressed fracture concealed under the hair
+Black eyes (?) or Battle's sign due to cranial base fracture
+Ocular or orbital injuries
+Cerebrospinal fluid leakage via the external auditory meatus or nostrils.
+2-2 Recognition and treatment of a life-threatening brain herniation
+A GCS score of 8 or less, rapid exacerbation of the GCS score by 2 or more, anisocoria, hemiparesis, etc., often indicate life-threatening brain herniation.
+3-1 Imaging examination and monitoring
+(1)CT scanning is routinely performed in all patients with severe head injury and provides very important information with important therapeutic implications, also allowing early estimation of prognosis.(2)MRI is not available at many facilities as an acute period emergency examination, however it is often more useful than CT, particularly regarding the following:(1)Early diagnosis of parenchymal lesions of the brain(2)Diagnosis of cranial base lesions(3)Diagnosis of diffuse brain injuries (diffuse axonal injury)
+CT scanning is routinely performed in all patients with severe head injury and provides very important information with important therapeutic implications, also allowing early estimation of prognosis.
+MRI is not available at many facilities as an acute period emergency examination, however it is often more useful than CT, particularly regarding the following:
+(1)Early diagnosis of parenchymal lesions of the brain(2)Diagnosis of cranial base lesions(3)Diagnosis of diffuse brain injuries (diffuse axonal injury)
+Early diagnosis of parenchymal lesions of the brain
+Diagnosis of cranial base lesions
+Diagnosis of diffuse brain injuries (diffuse axonal injury)
+3-2 Indications for ICP monitoring
+(1)The ICP monitoring is appropriate in patients with:(a)GCS score of 8 or less(b)Hypotension (systemic arterial blood pressure < 90mmHg)(c)Abnormal CT scans, e.g. midline shift, compressed basal cisterns(2)The ICP monitoring is appropriate in patients receiving barbiturate or hypothermia therapy.(3)Ventricular, parenchymal or subdural catheter connected to a catheter tip strain gauge is a reliable method of monitoring ICP.(4)ICP monitoring may be not indicated in patients with severe head injury and a normal CT scan.(5)ICP monitoring may be done in patients with altered level of consciousness due to heavy sedation.
+The ICP monitoring is appropriate in patients with:
+(a)GCS score of 8 or less(b)Hypotension (systemic arterial blood pressure < 90mmHg)(c)Abnormal CT scans, e.g. midline shift, compressed basal cisterns
+GCS score of 8 or less
+Hypotension (systemic arterial blood pressure < 90mmHg)
+Abnormal CT scans, e.g. midline shift, compressed basal cisterns
+The ICP monitoring is appropriate in patients receiving barbiturate or hypothermia therapy.
+Ventricular, parenchymal or subdural catheter connected to a catheter tip strain gauge is a reliable method of monitoring ICP.
+ICP monitoring may be not indicated in patients with severe head injury and a normal CT scan.
+ICP monitoring may be done in patients with altered level of consciousness due to heavy sedation.
+Fifteen to 20 mmHg is appropriate to start aggressive treatment.
+60 to 70 mmHg or more is appropriate.
+3-4 Surgical treatment (external decompression, internal decompression)
+Decompressive craniectomy may be performed after the removal of a hematoma such as an acute subdural hematoma.
+If the ICP exceeds 30 mmHg even after general treatment to control it or if there is clear deterioration of neurological symptoms such as a decrease in the level of consciousness, resection at the site of the brain contusion is often performed to prevent secondary brain damage.
+3-5 Sedation, pain control, immobilization
+Midazolam
+Since midazolam reduces the cerebral blood flow and cerebral oxygen consumption, it tends to be used safely and effectively for anesthesia and sedation of patients with increased ICP.
+Propofol
+(1)Propofol provides satisfactory sedation with severe head injuries under controlled respiration. Moreover, allows early neurological evaluation because of rapid emergence.(2)It is generally contraindicated in the intensive care of children.
+Propofol provides satisfactory sedation with severe head injuries under controlled respiration. Moreover, allows early neurological evaluation because of rapid emergence.
+It is generally contraindicated in the intensive care of children.
+Dexamedetomidine
+It allows the checking of the level of consciousness and is also expected to(?) have protective effect on the brain.
+Vacuronium
+Since vacaronium has a shorter duration of action than pancrunium, it facilitates neurological diagnosis and tends to be used widely.
+3-6 Elevation of the head
+Elevation of the head is useful for the control of the ICP, and the head angle is often adjusted to 15-30 degrees.
+3-7 Hyperventilation therapy
+(1)If there is no increase in the ICP (< 20mmHg), it is appropriate to maintain PaCO2 at 25 mmHg or above by endotracheal intubation and controlled respiration.(2)If the ICP cannot be controlled at 20 mmHg or less even by reducing the PaCO2 to 30-35 mmHg, the PaCO2 may be reduced to 25-30 mmHg, but it is appropriate to discontinue hyperventilation at this level as quickly as possible.
+If there is no increase in the ICP (< 20mmHg), it is appropriate to maintain PaCO2 at 25 mmHg or above by endotracheal intubation and controlled respiration.
+If the ICP cannot be controlled at 20 mmHg or less even by reducing the PaCO2 to 30-35 mmHg, the PaCO2 may be reduced to 25-30 mmHg, but it is appropriate to discontinue hyperventilation at this level as quickly as possible.
+3-8 Mannitol, glycerol, diuretics
+(1)The appropriate administration of mannitol or glycerol is useful for the control of ICP.(2)It is appropriate for the serum osmolarity before administration to be 310 mOsm or less.(3)An effective dose is usually 0.25-1.0 g/kg.
+The appropriate administration of mannitol or glycerol is useful for the control of ICP.
+It is appropriate for the serum osmolarity before administration to be 310 mOsm or less.
+An effective dose is usually 0.25-1.0 g/kg.
+3-9 Barbiturate therapy
+(1)Barbiturate therapy may be effective when intracranial hypertension could not be controlled with the maximum of standard treatment.(2)Generally, 2-5 mg/kg of pentobarbital or 2-10 mg/kg of thiopental as a bolus, followed by continuous infusion of 0.5-3 mg/kg /hour/of pentobarbital or 1-6 mg/kg/hour of thiopental, is recommended under EEG monitoring.
+Barbiturate therapy may be effective when intracranial hypertension could not be controlled with the maximum of standard treatment.
+Generally, 2-5 mg/kg of pentobarbital or 2-10 mg/kg of thiopental as a bolus, followed by continuous infusion of 0.5-3 mg/kg /hour/of pentobarbital or 1-6 mg/kg/hour of thiopental, is recommended under EEG monitoring.
+3-10 Steroids
+While the negative view that glucocorticoids are ineffective for the treatment of head injuries is reported, prednisolone or bethamethasone may, in practice, be administered intravenously.
+3-11 Hypothermia (brain hypothermia)
+(1)Although hypothermia reduces the intracranial pressure, it does not improve the outcome.(2)Concerning hypothermia, no consensus has been reached regarding the target body temperature, duration, temperature recovery method, patient selection (except age), etc.
+Although hypothermia reduces the intracranial pressure, it does not improve the outcome.
+Concerning hypothermia, no consensus has been reached regarding the target body temperature, duration, temperature recovery method, patient selection (except age), etc.
+3-12 Therapeutic procedure for increased intracranial pressure
+(1)If ICP remained at 15-25 mmHg or less, head elevation, administration of osmotic diuretics and hyperventilation (PaCO2 30-35 mmHg) are recommended.(2)In the case of refractory ICP elevation over 20-25 mmHg, barbiturate, hypothermia and/or surgical decompression (internal or external) may be performed.
+If ICP remained at 15-25 mmHg or less, head elevation, administration of osmotic diuretics and hyperventilation (PaCO2 30-35 mmHg) are recommended.
+In the case of refractory ICP elevation over 20-25 mmHg, barbiturate, hypothermia and/or surgical decompression (internal or external) may be performed.
+3-13 Anticonvulsants
+(1)Anticonvulsants may be administered to the following patients:(1)Patients showing abnormal CT with parenchymal lesions(2)Patients with early epilepsy(3)Young patients(2)Phenytoin, carbamazepine, zonisamide, and phenobarbital are often used.(3)Since early epilepsy deteriorates brain injured patients, it is appropriate to prevent it by using anticonvulsants.
+Anticonvulsants may be administered to the following patients:
+(1)Patients showing abnormal CT with parenchymal lesions(2)Patients with early epilepsy(3)Young patients
+Patients showing abnormal CT with parenchymal lesions
+Patients with early epilepsy
+Young patients
+Phenytoin, carbamazepine, zonisamide, and phenobarbital are often used.
+Since early epilepsy deteriorates brain injured patients, it is appropriate to prevent it by using anticonvulsants.
+3-14 Nutrition
+(1)Enteral or parenteral nutrition should be initiated early in order to attain full caloric replacement by day 7 after injury.(2)The blood glucose level should be controlled within the range of 100-200 mg/dl.
+Enteral or parenteral nutrition should be initiated early in order to attain full caloric replacement by day 7 after injury.
+The blood glucose level should be controlled within the range of 100-200 mg/dl.
+4-1 Closed depressed fracture
+(1)Depression over 1 cm, or underlying cerebral contusion(2)Cosmetic deformity (in the forehead)(3)Compression of dural venous sinus
+Depression over 1 cm, or underlying cerebral contusion
+Cosmetic deformity (in the forehead)
+Compression of dural venous sinus
+However, the efficacy of elevation in decreasing the incidence of epilepsy has not been established.
+4-2 Open depressed fracture
+If there is dural tear, it is important to perform promptly dural closure.
+(1)A markedly contaminated wound(2)Severe contusion or comminuted fracture(3)Exposure of brain parenchyma or leakage of cerebrospinal fluid(4)Intracerebral bone fragments(5)Uncontrolled hemorrhage related to bone fragments (damage of venous sinus, etc.)(6)1-cm or greater depression or severe brain laceration(7)cosmetic deformity
+A markedly contaminated wound
+Severe contusion or comminuted fracture
+Exposure of brain parenchyma or leakage of cerebrospinal fluid
+Intracerebral bone fragments
+Uncontrolled hemorrhage related to bone fragments (damage of venous sinus, etc.)
+1-cm or greater depression or severe brain laceration
+cosmetic deformity
+Surgery within 24 hours is appropriate. Operative delay greater than 48 hours from injury dramatically increases infection rate.
+4-3 Penetrating injuries
+All penetrating injuries are indicated for surgery, but a gunshot wound, which causes extensive brain damage, is often not regarded as an indication.
+Surgery should be performed as promptly as possible.
+(1)Removal of the object penetrating the brain before entry into the operation room must be avoided.(2)It is appropriate to perform a craniotomy in the area around the penetrating object and carefully remove bone fragments.(3)It is appropriate to perform tight closure of the dura using the pericranium or fascia.
+Removal of the object penetrating the brain before entry into the operation room must be avoided.
+It is appropriate to perform a craniotomy in the area around the penetrating object and carefully remove bone fragments.
+It is appropriate to perform tight closure of the dura using the pericranium or fascia.
+4-4 Acute epidural hematoma
+(1)A hematoma thickness greater than 1 ~ 2 cm.(2)A hematoma volume greater than 20 ~ 30 ml. (posterior fossa hematoma volume greater than 15~20 ml)(3)Follow-up CT scanning is required within 24 hours of the injury.
+A hematoma thickness greater than 1 ~ 2 cm.
+A hematoma volume greater than 20 ~ 30 ml. (posterior fossa hematoma volume greater than 15~20 ml)
+Follow-up CT scanning is required within 24 hours of the injury.
+Surgery performed as soon as possible is appropriate.
+4-5 Acute subdural hematoma
+(1)A hematoma with a thickness greater than 1 cm.(2)A hematoma with a definite mass effect or neurological deficit.(3)Rapidly progressive neurological deterioration.
+A hematoma with a thickness greater than 1 cm.
+A hematoma with a definite mass effect or neurological deficit.
+Rapidly progressive neurological deterioration.
+Surgery performed as soon as possible is appropriate.
+(1)Large craniotomy with hematoma evacuation is the principle.(2)Hematoma irrigation with trephination is a treatment option.(3)No consensus regarding the effectiveness of external decompression.
+Large craniotomy with hematoma evacuation is the principle.
+Hematoma irrigation with trephination is a treatment option.
+No consensus regarding the effectiveness of external decompression.
+4-6 Intracerebral hematoma, brain contusion
+(1)A hematoma (hyperdense area on CT) with a diameter of 3 cm or greater.(2)Diffuse contusion-induced edema.(3)Disappearance of the basal or perimesencephalic cisterns.(4)Rapidly progressive neurological deterioration.(5)Uncontrollable increase in the ICP (≥30mmHg)
+A hematoma (hyperdense area on CT) with a diameter of 3 cm or greater.
+Diffuse contusion-induced edema.
+Disappearance of the basal or perimesencephalic cisterns.
+Rapidly progressive neurological deterioration.
+Uncontrollable increase in the ICP (≥30mmHg)
+(1)It is appropriate to consider early surgery.(2)In patients with hematoma of the temporal or temporoparietal area, surgery may be considered before neurological deterioration.
+It is appropriate to consider early surgery.
+In patients with hematoma of the temporal or temporoparietal area, surgery may be considered before neurological deterioration.
+(1)Craniotomy with removal of the hematoma is appropriate.(2)Indications for extensive decompressive craniectomy alone or in combination with hematoma removal and internal decompression may be evaluated. However, there is no consensus regarding the effectiveness of external decompression.
+Craniotomy with removal of the hematoma is appropriate.
+Indications for extensive decompressive craniectomy alone or in combination with hematoma removal and internal decompression may be evaluated. However, there is no consensus regarding the effectiveness of external decompression.
+4-7 Diffuse brain injuries
+Diffuse brain injuries such as those in patients remaining comatose immediately after injury despite the absence of a space-occupying lesion on CT should be treated conservatively.
+4-8 Traumatic cerebrovascular disorders
+Traumatic cerebrovascular disorders are often accompanied by intracranial lesions and multiple injuries, and their management is often difficult.
+Hemorrhagic (vascular rupture, arteriovenous fistula, pseudoaneurysm, etc.) or non-hemorrhagic head and neck vascular lesions (wall irregularity, narrowing or obstruction of vessels, etc.)
+It is appropriate to initiate treatment as soon as possible.
+(1)Since life-threatening bleeding may occur from hemorrhagic lesions, early treatment should be considered. Direct surgery or endovascular treatment is selected depending on the situation, their combination is often effective.(2)In non-hemorrhagic lesions, it is appropriate to initiate heparin administration to prevent new cerebral infarction. In the subacute stage, the administration of an antiplatelet agent should be considered.
+Since life-threatening bleeding may occur from hemorrhagic lesions, early treatment should be considered. Direct surgery or endovascular treatment is selected depending on the situation, their combination is often effective.
+In non-hemorrhagic lesions, it is appropriate to initiate heparin administration to prevent new cerebral infarction. In the subacute stage, the administration of an antiplatelet agent should be considered.
+4-9 Traumatic cerebrospinal fluid leakage
+(1)Persistent CSF leakage that cannot be stopped by conservative treatment in 1-3 weeks.(2)Recurrent or delayed CSF leakage.
+Persistent CSF leakage that cannot be stopped by conservative treatment in 1-3 weeks.
+Recurrent or delayed CSF leakage.
+(1)Surgery is generally performed after conservative treatment.(2)Surgery should be planned promptly for recurrent or delayed cases.(3)It is appropriate to consider early surgery.
+Surgery is generally performed after conservative treatment.
+Surgery should be planned promptly for recurrent or delayed cases.
+It is appropriate to consider early surgery.
+Duroplasty is performed by craniotomy. Intradural approach is generally the procedure of choice.
+4-10 Fracture of the optic canal, optic nerve injury
+(1)Surgery is often indicated for patients with light perception, clear evidence of fracture, and visual impairment.(2)Patients initially with only mild visual impairment are often treated surgically if they show progressive impairment associated with the fracture.(3)Patients completely blind immediately after injury are usually considered to have no surgical indications.
+Surgery is often indicated for patients with light perception, clear evidence of fracture, and visual impairment.
+Patients initially with only mild visual impairment are often treated surgically if they show progressive impairment associated with the fracture.
+Patients completely blind immediately after injury are usually considered to have no surgical indications.
+(1)Very early surgery may be considered with close monitoring of visual acuity recovery.(2)Optic nerve decompression within 1-2 weeks is appropriate.(3)Surgery 30 days or more after injury is ineffective and undesirable.
+Very early surgery may be considered with close monitoring of visual acuity recovery.
+Optic nerve decompression within 1-2 weeks is appropriate.
+Surgery 30 days or more after injury is ineffective and undesirable.
+Other 3 topics regarding “Management of craniofacial injuries”, “Management of pediatric and geriatric patients”, and “Management of mild or moderate head injuries - risk factors for deterioration” were omitted from the present report due to the limited space.
+Since the US BTF-guidelines published in 2000, guidelines for the management of severe head injury have also been produced in several European countries such as Italy and United Kingdom (UK) and Asian countries such as Japan and Taiwan[123101112]. The US (BTF), UK (NICE) and Taiwan guidelines are based on evidence in the literature. However, despite the update of guidelines, the evidence available for the management of severe head injury was scarce. In US guidelines (3rd edition), only the use of steroids and antiseizure prophylaxis out of 14 guidelines recommendations were categorized as class I evidence[13]. The NICE and Taiwan guidelines also recommend only 2 items (selection of patients for CT and cervical spine imaging in the NICE, and prophylactic hyperventilation and steroids in the Taiwan) as a class I evidence[1112]. On the other hand, the European (EBIC) and Japanese guidelines are based on committee consensus and expert opinion[239]. In Japan, there are marked regional variations in facilities that can treat patients with severe head injuries. Under these circumstances, it was agreed that the guidelines should be more practical and should incorporate the Japanese clinical studies and expert opinions compared to BTF-guidelines (Table 1). However, the actual recommendations in Japanese guidelines are quite similar to those in the BTF and NICE guidelines. The value of the Japanese guidelines for the management of severe head injury lies in widespread use, not only in university hospitals and critical care centers with ICU, but also in smaller general hospitals on the basic management of severe head injury. The US guidelines have been translated into over 15 different languages, and applied in Europe, South America, and parts of China[13]. In most Asian countries including Japan, not only epidemiological data but also medical insurance and clinical systems are quite different from those in US.
+Accordingly, the JSNT-guidelines should be addressed to all neurosurgical emergency hospitals in Asian countries.
+Tokutomi et al[14] studied the impact of the Japanese guidelines (1st edition) on the care and outcomes of patients with severe head injury (Table 4). Overall mortality dropped from 52% in the pre-guideline group to 44% in the post-guideline group. These findings indicate that the Japanese guideline-based managements can significantly improve patient outcome.
+Summary of the care and outcomes of patients before and after implementation of the Japanese guidelines for the management of severe head injury11
+The Japan Society of Neurotraumatology has conducted activities of JTCDB with cooperation by the Japanese Council of Traffic Science. The data accumulated in the database would be useful for the transition of these JSNT-guidelines to more evidence-based ones. This 2nd edition of the JSNT-guidelines is the result of analysis on the status in Japan of 2006, and their constant revision according to the future development of medical science and care is anticipated. Within a few years, we are planning to publish the 3rd revised edition.
+The Japanese guideline-based managements for the patients with severe head injury promote the quality of care and improved outcome following injury in Japan.

@@ -1,0 +1,4 @@
+Measurement of vehicle particulate emissions.
+
+A constant volume sampler (CVS) compatible auto exhaust particulate sampling system has been built which samples exhaust isokinetically at constant temperature. This system yields internally consistent results and is capable of frequent and convenient operation.
+

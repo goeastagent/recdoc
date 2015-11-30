@@ -1,0 +1,8 @@
+The blood shifts during the pressure volume curve
+
+
+The pressure volume (PV) curve of the respiratory system is drawn assuming that the gas volume displacements (?Vgas) are equals to the lung and chest wall changes (?Vcw). In this study we compared ?Vgas and ?Vcw during static PV curve obtained by supersyringe (PVgas) and by OEP (PVcw) [1].
+In eight sedated and paralyzed ALI/ARDS patients (5 M/3 F, age 75 ± 13 years, BMI 25.6 ± 3 kg/m2, PaO2/FiO2 222 ± 67 mmHg), the PV curves were obtained by the supersyringe method. A mathematical correction was applied to the gas volume injected or withdrawn by the syringe to avoid mistakes due to temperature, humidity, pressure and gas exchange [2]. To study the deflation phase, avoiding the inflation effects, for each PV curve the difference between the total static compliance (TSC) of PVgas and TSC of PVcw, was added to the deflation limb of PVcw.
+(1) Inflation phase: the ?Vgas was always higher than the Vcw, the discrepancy between ?Vgas and ?Vcw was at TSC -193.72 ± 145.56 ml, which was correlated to airway pressure product time of inflation (P < 0.001, r2 = 0.87) and to the ratio between esophageal and airway pressure variations (?Pes/?Paw) (P < 0.01, r2 = 0.91).
+(2) Deflation phase: the ?Vgas was equal, lower or higher than the ?Vcw, this discrepancy was correlated to central venous pressure (P < 0.01, r2 = 0.7) and time to deflation (P < 0.05, r2 = 0.8).
+The discrepancy between ?Vgas and ?Vcw was correlated to time to perform the PV curve, airway pressure reached, mechanical property of the respiratory system and hemodynamic conditions. We think that the discrepancy can be due to the blood shifts (OUT and INTO the thorax).

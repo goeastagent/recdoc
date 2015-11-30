@@ -1,0 +1,25 @@
+Abstracts of the 16th Annual Meeting ofThe Israel Society for Neuroscience Eilat, Israel, November 25–27, 2007
+
+The Israel Society for Neuroscience—ISFN—was founded in 1993 by a group of Israeli leading scientists conducting researchin the area of neurobiology. The primary goal of the society was to promote and disseminate the knowledge and understandingacquired by its members, and to strengthen interactions between them. Since then, the society holds its annual meeting everyyear in Eilat usually during December. At this annual meetings, the senior Israeli neurobiologists, their teams, and their graduatestudents, as well as foreign scientists and students, present their recent research findings in platform and poster presentations, andthe program of the meeting is mainly based on the 338 received abstracts which are published in this volume. The meeting alsooffers the opportunity for the researchers to exchange information with each other, often leading to the initiation of collaborativestudies. Both the number of members of the society and those participating in the annual meeting is constantly increasing, and itis anticipated that this year about 600 scientists will convene at the Princess Hotel in Eilat, Israel.
+Further information concerning the Israel Society for Neuroscience can be found at http://www.isfn.org.il.
+Committee:
+Shlomo Rotshenker (President)
+Hebrew University of Jerusalem
+Talma Brenner
+Hadassah–Hebrew University Medical Center
+Yoram Rami Grossman
+Ben Gurion University of the Negev
+Mmouna Maroun
+University of Haifa
+Yoel Yaari
+Hebrew University of Jerusalem
+Gal Yadid
+Bar-Ilan University
+Zvi Wollberg (Past President)
+Tel Aviv University
+Lili Anglister (Treasurer)
+Hebrew University of Jerusalem
+Michal Gilady (Administrator)
+Rishon Le Zion
+
+Aggregation of the amyloid-beta (A-beta) peptide in the extracellularspace of the brain is central to Alzheimer's disease(AD) pathogenesis. Recent findings have shown thatsynaptic activity promotes release of A-beta through vesicleexocytosis. However, the relationship between vesicularrelease of A-beta and neurotransmitter release remainsobscure. Current hypothesis of AD suggests that elevatedneuronal activity leads to increased extracellular concentrationof A-beta, which in turn triggers reduction in thenumber, strength, and plasticity of synaptic connections,eventually resulting in memory impairments. Accordingto this hypothesis, decreased synaptic activity should promotememory function through reducing A-beta level. However,on the other hand, memory-related forms of synapticplasticity are manifested as increase in synaptic activity.To understand this paradox, we study the relationshipbetween different patterns of synaptic activity, A-beta release,and synaptic transmission using FM-based functionalimaging at the level of single synapse and in synaptic networks.Our results show that acute accumulation of endogenouslyreleased A-beta enhances presynaptic activity for singlespikes that mimic background activity through increasingrelease probability and the number of functional presynapticterminals. However, A-beta does not affect presynapticactivity associated with temporally correlated burstof spikes. These results suggest that A-beta might be a keymolecule transforming hippocampal synapses to a low-passfilter mode, resulting in decreased short-term facilitation oftransmitter release during bursts. We hypothesize that elevationof background presynaptic activity by A-beta mightbe a trigger for homeostatic down-regulation in the numberand plasticity of synapses and, eventually, memory declinein AD.

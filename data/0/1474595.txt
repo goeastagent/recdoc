@@ -1,0 +1,4 @@
+Blood lead and blood pressure: analysis of cross-sectional and longitudinal data from Canada.
+
+Analysis of data collected during the Canada Health Survey of 1978-1979 indicated a positive relationship between blood lead and blood pressure, but so weak that the range of lead-related variation among members of the general public was estimated to be at most 3.0 mm Hg of diastolic pressure. Even so, a blood lead level in excess of the median value of 10 micrograms/dL entailed a 37% higher risk of having diastolic pressure above 90 mm Hg. In a longitudinal study of lead foundry workers, an association was found between short-term changes in an individual's blood lead level and contemporary changes in diastolic pressure; this remained significant after allowance for age (or time) trends and for effects attributable to changes in body weight. Short-term changes in urinary cadmium levels were similarly predictive of diastolic pressure.
+

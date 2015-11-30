@@ -1,0 +1,4 @@
+Discoidin I, an endogenous lectin, is externalized from Dictyostelium discoideum in multilamellar bodies
+
+Discoidin I, a soluble lectin synthesized by aggregating Dictyostelium discoideum and implicated in their adhesion to the substratum, is localized in multilamellar bodies both intracellularly and upon externalization. These structures also contain a glycoconjugate that binds discoidin I. The multilamellar bodies apparently serve to package the lectin for externalization, and may then gradually release it to function extracellularly.
+

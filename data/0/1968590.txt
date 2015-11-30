@@ -1,0 +1,4 @@
+The effect of pH on the aerobic and hypoxic cytotoxicity of SR4233 in HT-29 cells.
+
+We have observed that low pH can substantially potentiate the cytotoxic effect of the bioreductive drug SR4233 in aerobic HT-29 human tumour cells. No such potentiation was observed under hypoxic conditions. This pH effect might be relevant both to the therapeutic effectiveness and to the normal tissue toxicity of this new agent.
+

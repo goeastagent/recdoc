@@ -1,0 +1,4 @@
+The fate of released histamine: reception, response and termination.
+
+Histamine released from ECL cells elicits responses from a variety of cellular targets in the vicinity. Three sets of receptors are involved (H1, H2 and H3). Receptor occupation is promptly transduced into cellular responses. The responses, in turn, are terminated by diverse mechanisms: enzymatic inactivation, cellular uptake and desensitization at the receptor level. Under specific pathological conditions, histamine effects could be exaggerated by the presence of derivatives that may be of marginal relevance under physiological conditions.
+

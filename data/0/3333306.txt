@@ -1,0 +1,8 @@
+Comparison of ultrasound muscle thickness measurements in ICU patients in muscle groups known to undergo atrophy vs muscle groups that do not undergo atrophy
+
+
+To determine if ultrasound can detect muscle atrophy in muscles that are known to undergo muscle atrophy in ICU patients, measured as decrease in muscle thickness.
+Twelve women, mean age 55 ± 14 years old, who entered the ICU for diverse reasons, and were not under mechanical ventilation, did not received corticosteroids and/or muscle relaxants, and received either total parenteral nutrition or enteral nutrition at 30 kcal/kg/day with 1 g prot/kg/day were chosen. All patients had 1 hour of bedside passive physicotherapy. Ultrasound measurements were taken at the moment of admission and at the moment of disclosure from the unit. The intercostal muscle group thickness was measured at the 6th intercostals space, and the biceps brachialis muscle thickness, at is point of maximum width. Both sets of measurements were recorded and analyzed with the unpaired t-test.
+The mean ICU stay was 14.2 ± 3.3 days. In the following table are summarized the recordings.
+The P value for the intercostal muscle group did not show any statistical significant difference, while the P value for the biceps brachialis showed a statistical significant difference.
+Ultrasound can detect a decrease in muscle thickness in muscle groups known to show muscle atrophy in patients that enter the ICU. This decrease in thickness is not seen in muscle groups that do not undergo muscle atrophy.

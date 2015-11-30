@@ -1,0 +1,10 @@
+TRANSCON 2011 36th Annual National Conference ofIndian Society of Blood Transfusion and Immunohematology (ISBTI): 30th Oct - 1st Nov 2011, Panchkula, Haryana: Free Papers
+
+
+Elhence P, Chaudhary RK, Nityanand S and Katharia R
+Department of Transfusion Medicine, SGPGI, Lucknow, India
+Background: Platelet transfusion support is mainstay of management in patients with hematological oncology and aplastic anemia. Repeated platelet transfusions lead to immune platelet refractoriness. The approach of identification of HLA, platelet-specific antigen antibodies and then issuing antigen-negative platelets is tedious, as thousands of typed donors are required. Transfusion of platelet cross match compatible to platelet can be used as an alternative.
+Aims: To study the usefulness of platelet cross match in patients requiring Single donor platelets (SDPs).
+Material and Methods: A total of 58 SDP transfusion episodes in patients with hematological oncology and aplastic anemia were evaluated for outcome of transfusion by corrected platelet count increment (CCI) at 24 hr, post transfusion. CCI ¡Ý 4500 plt X m2/ul was considered an adequate response. Demographic and other clinical data was collected. Modified antigen capture Elisa (MACE I and II, GTI diagnostics) was used for platelet cross matching, using pre transfusion patient sera sample and platelets from respective SDP transfused.
+Result: Of the 58 SDP transfusion episodes, inadequate response was observed in 15 (25.8%). Platelet cross match was positive in 10 out 15 (66.6%) SDP transfusion episodes with inadequate response and in 2 out of 43 (4.65%) SDP transfusion episodes with adequate response. The Sensitivity, specificity, positive predictive value and negative predictive value of platelet cross match for assessment of clinical transfusion outcome was 66.6%, 95.3%, 83.3% and 89.9% respectively.
+Conclusion: Selecting platelet cross match compatible donors for immune refractory patients can improve the transfusion outcome.

@@ -1,0 +1,4 @@
+Maintenance of Obesity Following Hypophysectomy in the Obese Hyperglycemic Mouse (ob/ob)
+
+In order to examine the role of the pituitary in the obese-hyperglycemic syndrome, obese (ob/ob) and nonobese sibling (OB/?) mice were sham-operated or hypophysectomized by a parapharyngeal method at 60 to 90 days of age and subsequently weighed for nine weeks. Completeness of hypophysectomy was assessed by microscopic examination of stained serial sections of the brain and attached hypophyseal capsule. Complete hypophysectomy resulted in a moderate weight loss in the obese mice and attenuated further increases in adiposity, but it failed to eliminate the adiposity already established prior to surgery as determined from Lee index values. We tentatively conclude that neither the pituitary nor the target organs it controls represent the site of the primary genetic abnormality that maintains the obesity of the ob/ob.
+

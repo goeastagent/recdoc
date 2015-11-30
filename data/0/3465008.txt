@@ -1,0 +1,82 @@
+Endovascular minimally invasive treatment of the intracranial aneurysms – first 124 cases
+
+Introduction: Since May 2005, we have started to treat the intracranial aneurysms endovascular way as an alternative minimally invasive technique to the classic neurosurgery treatment.
+Objective: Studying the patients’ demographics, clinical presentation, aneurysm size and configuration, type of coils used for embolization, the percentage of compaction and recanalization (especially in patients who presented with subarachnoid hemorrhage), and immediate complications.
+Methods and Results: An all-inclusive retrospective review of every patient who underwent coils embolization (stent or balloon assisted included) of saccular aneurysms from May 2005 to September 2011 was performed. A total of 116 patients (46 men and 60 women) and 124 aneurysms were treated. A total of 96 patients (41 men and 55 women) underwent follow-up femoral cerebral angiograms (mean follow-up was 25 months and the longest was at 37 months). Five patients required intra-arterial abciximab due to thrombus formation. Four patients had aneurysm rupture while the coil was being advanced. Eleven patients were treated during vasospasm peak. Seven patients had recanalization at 12 months follow-up.
+Discussion: The average hospitalization period was of 4 days. There is a close relation between Hunt and Hess scale score before treatment and post interventional neurological status. Due to subarachnoid hemorrhage, the vasospasm remains a threat to the patient’s neurological status. The treatment of cerebral aneurysms with endosacular embolization by coils is a safe and durable option. The risk of recanalization or re-rupture in our cohort is small compared to series published elsewhere. Larger series of patients are needed to support our evidence.
+
+The definition of the cerebral aneurysms: A brain aneurysm, also called a cerebral or intracranial aneurysm, is an abnormal bulging outward of one of the arteries in the brain. The word aneurysm comes from the Latin language (that means dilatation) and they can develop on one or many arteries of the brain [1].
+Classification of the intracranial aneurysms can be made depending on morphology, size, topography and etiology. 
+Most of the intracranial aneurysms are true aneurysms that have all the layers of the normal vessel at the wall level. The fake aneurysms or pseudo aneurysms, on the contrary, do not have all the 3 layers and the inner lumen diameter of the vessel that has the aneurysm could even remain unchanged in certain cases. They could be solitaire (70-75%) or multiple (25-30%) and most often they could be developed at the level of Willis polygon [2].
+The most common localtions of intracranian aneurysms
+Symptoms of brain aneurysms. Most of the aneurysms remain undetected until they rupture, bleeding into the brain [3].
+Rarely, they could have a mass effect on the nearby neurological structures and be discovered on CT (Computerized Tomography, sometimes called a CAT scan), MRI (Magnetic Resonance Imaging).
+Very rare: discovered by chance on CT, MRI or angiography.
+Cerebral aneurysm and ruptured cerebral aneurysm
+Ruptured cerebral aneurysm symptoms. Sometimes patients describing "the worst headache in my life" are actually experiencing one of the symptoms of brain aneurysms related to having a rupture [1]. Other ruptured cerebral aneurysm symptoms include:
+• Nausea and vomiting 
+• Stiff neck or neck pain 
+• Blurred vision or double vision 
+• Pain above and behind the eye 
+• Dilated pupils 
+• Sensitivity to light 
+• Loss of sensation 
+ Some patients (up to 50%) could have reduced symptoms in the beginning because of a small fissure of the aneurysm, and after days or even weeks rupture can occur and the symptoms become stronger [4]. These patients should be submitted to emergency investigations as MRI and angio-MRI. 
+Subarachnoid hemorrhage after aneurysm rupture
+Unruptured cerebral aneurysm symptoms
+Before an aneurysm ruptures, patients often experience no symptoms of brain aneurysms. In about 40 percent of cases, people with unruptured aneurysms will experience some or all of the following cerebral aneurysm symptoms:
+• Peripheral vision deficits 
+• Thinking or processing problems
+• Speech complications 
+• Perceptual problems 
+• Sudden changes in behavior 
+• Loss of balance and coordination 
+• Decreased concentration 
+• Short-term memory difficulty 
+• Fatigue [5]
+Because the symptoms of brain aneurysms can also be associated with other medical conditions, diagnostic neuroradiology is regularly used to identify both ruptured and unruptured brain aneurysms [2].
+Diagnosis of Brain Aneurysms
+The diagnosis of a ruptured cerebral aneurysm is commonly made by finding signs of subarachnoid hemorrhage on a CT scan. If the CT scan is negative but a ruptured aneurysm is still suspected, a lumbar puncture is performed to detect blood in the cerebrospinal fluid (CSF) that surrounds the brain and spinal cord. To determine the exact location, size and shape of an aneurysm (ruptured or unruptured), neuroradiologists will use either cerebral angiography or tomographic angiography.
+The incidence of the aneurysm rupture: There are statistics made after necropsy that revealed incidence between 0,4-10% aneurysms in the general population [6]. The incidence of the subarachnoid hemorrhage in the Western Europe is 6-10/100000 citizens per year, having a peak in the 6th decade. There are countries like Finland or Japan where the incidence is far higher, of about 15 /100.000 per year. The subarachnoid hemorrhage is responsible for ¼ of the deaths by cerebrovascular disease. The ratio women/men is of 1,6/2 [6].
+The aneurysms treatment: The main goals of treatment once an aneurysm has ruptured are to stop the bleeding and potential permanent damage to the brain and to reduce the risk of recurrence. Unruptured brain aneurysms are sometimes treated to prevent rupture. The surgical treatment by clipping was until nowadays the main curative method both for ruptured or unruptured aneurysms. To get to the aneurysm, surgeons must first remove a section of the skull, a procedure called a craniotomy. The surgeon then spreads the brain tissue apart and places a tiny metal clip across the neck of the aneurysm to stop blood flow into the aneurysm. After clipping the aneurysm, the bone is secured in its original place, and the wound is closed. The modern endovascular way of treating aneurysms appeared after introducing in practice the controlled detachable coils [7] that fill the aneurysms. Endovascular therapy is a minimally invasive procedure that accesses the treatment area from within the blood vessel. In the case of aneurysms, this treatment is called coil embolization, or "coiling" [1]. In contrast to surgery, endovascular coiling does not require open surgery. Instead, physicians use real-time X-ray technology, called fluoroscopic imaging, to visualize the patient's vascular system and treat the disease from inside the blood vessel.
+The classic method, aneurysm clipping
+The new method, aneurysms coiling
+The results of the largest study in the world that compares the two methods (were published in Lancet, on October 26, 2002. The International Subarachnoid Aneurysm Trial - or ISAT - is the only multi-center, prospective randomized trial comparing the safety and efficacy of endovascular coil treatment and surgical clipping for the treatment of ruptured brain aneurysms. The primary objective of ISAT was to determine whether the endovascular treatment compared with the neurosurgical treatment reduced the proportion of the patients dependent or dead, defined by a modified Rankin score of 3-6. A total of 9559 patients with aneurysmal subarachnoid hemorrhage were screened, and 2143 (22.4%) were randomly assigned to surgical or endovascular groups. Enrollment was prematurely halted by the study steering committee after the results of a planned interim analysis by the data monitoring committee (DMC). One-year follow-up data were available for 1594 (74%) of the 2143 patients. 
+The study found that, in patients equally suited for both treatment options, endovascular coil treatment produces substantially better patient outcomes than surgery in terms of survival free of disability at one year. The relative risk of death or significant disability at one year for patients treated with coils was of 22.6% lower than in surgically treated patients, an absolute risk reduction of 6.9% [1,8,9]. From this moment on, the endovascular treatment became the first choice as long as we will have this option. 
+Endovascular treatment of brain aneurysms involves insertion of a catheter (small plastic tube) into the femoral artery in the patient's leg and navigating it through the vascular system, into the head and into the aneurysm. Tiny platinum coils are threaded through the catheter and deployed into the aneurysm, blocking the blood flow into the aneurysm and preventing rupture. The coils are made of platinum so that they can be visible via X-ray and be flexible enough to conform to the aneurysm shape. This endovascular coiling, or filling, of the aneurysm is called embolization and can be performed under general anesthesia or light sedation.
+Detachable platinum coils are used to occlude (fill) intracranial aneurysms, significantly reducing the incidence of aneurysm rupture or re-rupture. The coil is attached to a delivery wire and fed through a microcatheter into the aneurysm. The delivery wire allows the physician to reposition or withdraw the coil to ensure ideal placement. Once properly positioned within the aneurysm, the coil is detached from the delivery wire using an electrolytic detachment process.
+The coil electrolytic detachment process
+Until now, we have used materials from the Boston Scientific Company: bare platinum coils GDC, GDC 3D and GDC 360, and also covered coils with PGLA- Matrix, Matrix 2; and from the Micrus Company: bare platinum coils Micrusphere, Deltaplush and Deltapaque and also covered coils-Cerecyte. We have also used vascular remodeling techniques when treating wide neck aneurysms. Balloon remodeling was used from EV3 (hypreform and hyperglide) and also stents from the Boston Scientific Company (Neuroform II and III). 
+Balloon remodeling technique
+Stent remodeling technique
+We have studied the patients’ demographics, clinical presentation, aneurysm size and configuration, type of coils used for embolization, the percentage of compaction and recanalization (especially in patients who presented with subarachnoid hemorrhage), the immediate complications due to the procedure used. We also want to implement the ISAT results in Romanian guidelines, and finally the aneurysms embolization to become the first choice in aneurysms treatment.
+A total of 116 patients (46 men and 60 women) and 124 aneurysms were treated.
+A total of 96 patients – 83% - (41 men and 55 women) underwent follow-up femoral cerebral angiograms (mean follow-up was of 25 months and the longest was of 37 months).
+Five patients (4,3%) had recanalization at 12 months follow-up.
+Two patients died (1,7%) because of thrombus formation 48 hours after the embolization and 1 patient died (0,9%) because of vasospasm post procedure. The mortality rate was finally of 2,6% in our group. 
+Two patients (1,7%) had aneurysm rupture while the coil was being advanced but no neurological deficit after the procedure.
+Five patients (4,3%) required intra-arterial abciximab due to thrombus formation but no neurological deficit after the procedure.
+The average hospitalization period was of 4 days (between 38 and 1 day).
+There is a close relation between Hunt and Hess scale score before the treatment and post interventional neurological status. Due to subarachnoid hemorrhage, although treated endovascular, the vasospasm remains a threat for the patient’s neurological status.
+The following two cases have been treated:
+First case:
+• On 17 September 2009, a female patient, 55 years old, came to the hospital with nausea, sensitivity to light, severe headache, psychomotor disorder, GCS=12 pct. 
+• Computer Tomography: massive subarachnoid hemorrhage 
+• Digital Substraction Angiography: Anterior Communicating Artery aneurysm
+Digital subtraction angiography that revealed an anterior communicating artery aneurysm
+The neurosurgeons decided to operate the patient and they performed the surgery on September 19. She came to angiography control on September 22, 2009. We noticed a big residual sac.
+Post surgery angiography: partial clipping of the aneurysm. The clip’s color is yellow
+After a discussion with the neurosurgeons and the ICU doctors, we decided to embolize the residual sac of the aneurism with coils. On 24 September 2009, we embolized the aneurysm without any complications.
+Control angiography after embolization with coils inside the rest of the aneurysm
+Second case: 
+On 15 June 2009, a 54-year-old male patient came to the hospital having GCS = 7 and Hunt and Hess 3.
+• CT: subarachnoid hemorrhage in the basal cisterns and panventricular effraction
+• Digital subtraction angiography revealed 3 aneurysms
+Digital subtraction angiography that revealed a basilar tip aneurysm, an anterior communicating artery aneurysm and a right internal carotid artery
+After embolization all the 3 aneurysms are totally occluded with coils
+We completely embolized in one session all the 3 aneurysms without any incidents. We were not sure which one was ruptured and we had to treat them all.
+The treatment of cerebral aneurysms with coils is a safe and durable option with a mortality rate of 2,6% and a risk of recanalization in our cohort of 4,3%.
+The interventional neuroradiology can complete the aneurysm treatment in the cases in which the neurosurgery was not enough.
+The intraprocedural complications are often not correlated with clinical complications.
+Multiple aneurysms patients can be cured in one session.
+Larger series of patients treated with this method are needed to support our evidence. 

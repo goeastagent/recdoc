@@ -1,0 +1,34 @@
+Prevalence of pre-diabetes, diabetes, pre-hypertension, and hypertension in children weighing more than normal
+
+Prevalence of pre-diabetes, diabetes, pre-hypertension (pre-HT), and hypertension (HT) in children weighing more than normal.
+Three- to eighteen-year old children weighing more than normal were included. Pathological short children were excluded. According to Centre for Disease Control (CDC), children are grouped into overweight (OW) and obese (OB). Indian B.P. reference tables are used for defining HT and pre-HT.[2] HbA1c by HPLC (BIO RAD) method was used to define pre-diabetes and diabetes.[3] Children with HbA1c ≥6.5 were subjected for Glucose Tolerance Test (GTT). C-peptide assay was done to rule out (r/o) IDDM.
+When we compare this with our earlier presentation at PEDICON 2011, we found that hypertension (HTN) (22.9% vs. 23.07%) is not significantly different but pre-HTN (28.09% vs. 33.9%), pre-diabetes mellitus (pre-DM) (3.7% vs. 64.3%), and diabetes mellitus (DM) (0.35% vs. 3.8%) are significantly high in this study.
+(1) Prevalence of HT (22.90% vs. 23.07%) is similar in both groups but pre-HT (33.9% vs. 28.09%) is high in this study. (2) Significant rise in prevalence of diabetes (3.84% vs. 0.35%) and pre-diabetes (64.33% vs. 3.7%) is seen in this study. (3) This change is because of using HbA1c as screening tool in children weighing more than normal.
+
+Worldwide prevalence of childhood overweight (OW) and obesity increased from 4.2% (1990) to 6.7% (2010) and it will reach 9.1% by 2020.[1] About 18 million children from Asia are OW and obese (OB) in 2010.[1] This rise is double in developing countries than developed countries.[1] Obesity in childhood is associated with a wide range of serious health complications and an increased risk of premature illness and death later in life.[23]
+In clinical practice, we realized that HbA1c as a screening tool is very important in diagnosing pre-diabetes and diabetes. Hence, we decided to analyze our institutional data.
+Prevalence of pre-diabetes, diabetes, pre-hypertension (pre-HT), and hypertension (HT) in children weighing more than normal.
+Inclusion criteria:
+Children between 3 and 18 years weighing more than normal who attended Samrat Endocrine Institute.
+Children between 3 and 18 years weighing more than normal who attended Samrat Endocrine Institute.
+Exclusion criteria:
+Pathological short children were excludedChildren with hemoglobinopathiesAnemic children with hemoglobin <9 g%.
+Pathological short children were excluded
+Children with hemoglobinopathies
+Anemic children with hemoglobin <9 g%.
+Totally, 286 children were qualified for analysis.
+According to Centre for Disease Control (CDC), children are grouped into OW (BMI Centile from 85th to 95th centile) and OB (95th and above).[4] Indian B.P. reference tables are used for defining HT (≥95th centile for age and height ) and pre-HT (90-95centile for age and height).[5] The blood pressure (BP) of 120/80 mm Hg is considered pre-HT even if B.P. centile normal for age and height. HbA1c by HPLC (BIO RAD) method was used to define pre-diabetes and diabetes.[67] Pre-diabetes is defined as whose HbA1c is equal to or greater than 5.7 and less than 6.5. Diabetes is suspected when HbA1c equal to or greater than 6.5. Children with HbA1c ≥ 6.5 were subjected for Glucose Tolerance Test (GTT). Diabetes is defined as HbA1c ≥6.5 and positive OGTT.[67] C-peptide assay was done to rule out (r/o) IDDM.[8]
+Study observations
+Out of 286 children, 43% (123) were normotensive, 33.9% (97) were pre-hypertensive, 23% (66) were hypertensive [Figure 1].
+Prevalence of normotension, prehypertension and hypertension
+Out of 286 children 31.8% (91) were found to have normal HbA1c, 64.3% (184) were found to have pre-diabetes, 3.8% (11) were found to have type 2 diabetes [Figure 2].
+Prevalence of normoglycemia, prediabetes and diabetes
+When we compare this with our earlier presentation at PEDICON 2011, we found that HTN (22.9% vs. 23.07%) is not significantly different but pre-HTN (28.09% vs. 33.9%), Pre-diabetes mellitus (pre-DM) (3.7% vs. 64.3%), and diabetes mellitus (DM) (0.35% vs. 3.8%) are significantly high in this study. It is possible that we might have missed many early diabetics in our earlier presentation at pedicon 2011 as we have not used HbA1c as a screening tool.
+Advantages of HbA1c as a screening tool are as follows:
+Will help in detecting more numbers of early diabetics.Can be done at any time of the day irrespective of meal status.HbA1c assay done by HPLC (BIO RAD) is stable and reproducible.It is an important tool for counseling of parents and patients especially adolescents in our day-to-day practice.We also realized that once we diagnose OW and OB kids with type 2 DM and screen their parents, some of them accidently found to have type 2 DM.HbA1c is cost-effective and better than HOMA-IR index.
+Will help in detecting more numbers of early diabetics.
+Can be done at any time of the day irrespective of meal status.
+HbA1c assay done by HPLC (BIO RAD) is stable and reproducible.
+It is an important tool for counseling of parents and patients especially adolescents in our day-to-day practice.
+We also realized that once we diagnose OW and OB kids with type 2 DM and screen their parents, some of them accidently found to have type 2 DM.
+HbA1c is cost-effective and better than HOMA-IR index.

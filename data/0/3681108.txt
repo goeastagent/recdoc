@@ -1,0 +1,71 @@
+A Study to Evaluate the Efficacy of Various Topical Treatment Modalities for Alopecia Areata
+
+Alopecia Areata (AA) is a common form of non-scarring hair disorder of unclear etiology. The disease may have serious psychological effect.
+The objective is to assess the therapeutic effect and side effects of various topical modalities for the treatment of AA.
+Open, randomized, comparative study.
+For this study, 30 patients were included of all age groups and both sexes having localized (<5 patches and <25% scalp involvement) alopecia, with no underlying disease or family history, and who had not received any treatment before. They were treated sequentially with 5 different combination regimes for 3 months. The response was assessed subjectively as well as objectively by the “Severity of Alopecia Tool Score”.
+Chi-square test.
+Out of the 5 modalities studied, the Intralesional and Topical Steroids were the most effective with no significant side effects.
+Among the various topical modalities used for the treatment of AA, the most effective are the Intralesional and Topical steroids with no significant side-effects.
+
+Hair has an immense aesthetic value in human beings and loss of hair from the scalp can cause severe psychological harm. Alopecia Areata (AA) is defined as circumscribed, non-scarring hair loss without destruction of the pilar units.[1] It affects about 2% of new patients attending dermatology clinics.[2]
+AA is a common disease of unknown origin. It seems to represent a heterogeneous syndrome. It affects males and females equally and strikes all ages, although it is more common in children and young people. Approximately 60% patients develop AA before the age of 20 years.[2]
+The exact etiology is not known, but the possible responsible factors may be autoimmunity,[3] atopic state,[45] patient's genetic constitution,[6] non-specific immune reactions, emotional stress, and numerous psychological factors.[78] Patients may have one or multiple patches at any hair-bearing site of the body. AA is known to be associated with other autoimmune disorders such as asthma, atopy, diabetes mellitus, and hypertension. In 1989, based on associated conditions and the course of illness, Ikeda classified AA into four types as common, atopic, pre-hypertensive, and autoimmune type.[9]
+In AA, the hair follicle, in response to some unknown signal or injury, is suddenly precipitated into premature telogen and then the cycles are shortened in which it is repeatedly arrested part way through anagen. The hair loss produces cosmetic concern, loss of self-esteem, and alteration in self-image. There are a number of treatments that induce hair growth in AA with variable results and possible side effects. Therefore, the present study was undertaken to compare the therapeutic efficacy of various modalities and to assess their safety in the treatment of AA.
+Thirty patients of all age groups and both sexes clinically diagnosed as AA who presented for the first time with localized (<5 patches and <25% scalp involvement) alopecia over the scalp, with no underlying disease or family history and who had not received any treatment before were selected for this study. Diagnosed cases already on treatment, family history of AA, underlying disease, AA involving other areas other than the scalp, alopecia with more than 5 patches and >25% scalp involvement were excluded.
+A detailed history was taken with reference to the onset, duration, and progress of the lesion, history of similar lesions in the past, family, and any other relevant skin or systemic disease. Dermatological examination of the lesions was carried out with respect to morphology, distribution, and nail involvement. All patients were informed regarding the nature of disease, course, prognosis, and the probable adverse effects of the treatment modalities. After an informed consent, the following regimes were recommended sequentially.
+5 different regimes were used:
+Regime I Intralesional Steroid (Inj. Triamcinolone acetonide10 mg/ml)
+
+6 patients were included in each group. Each patient was followed up at monthly intervals of 4 weeks, 8 weeks, and 12 weeks and response to treatment was evaluated subjectively and objectively.
+The end point of the study was 3 months. Subjective evaluation was performed by examination of the patch for any hair growth.
+Grading was carried out based on subjective assessment as follows:
+Grade I slight improvement, barely noticeable (up to 25%)Grade II moderate improvement, noticeable (25-50%)Grade III obvious improvement (51-75%)Grade IV marked improvement (>75%)
+Grade I slight improvement, barely noticeable (up to 25%)
+Grade II moderate improvement, noticeable (25-50%)
+Grade III obvious improvement (51-75%)
+Grade IV marked improvement (>75%)
+Objective evaluation was carried out based on SALT scoring, that is “Severity of Alopecia Tool Score”.
+SALT scoring – This calculation is based on a scoring system. The scalp is divided into the following 4 areas:
+Vertex: 40% (0.4) of scalp surface area.Right profile of scalp: 18% (0.18) of scalp surface area.Left profile of scalp: 18% (0.18) of scalp surface area.Posterior aspect of scalp: 24% (0.24) of scalp surface area.
+Vertex: 40% (0.4) of scalp surface area.
+Right profile of scalp: 18% (0.18) of scalp surface area.
+Left profile of scalp: 18% (0.18) of scalp surface area.
+Posterior aspect of scalp: 24% (0.24) of scalp surface area.
+Percentage of hair loss in any of these areas is the percentage hair loss multiplied by percent surface area of the scalp in that area.
+SALT score is the sum of percentage of hair loss in all the above-mentioned areas.
+The results were analyzed and tabulated. A P < 0.05% was considered as significant.
+Of the 30 patients enrolled in the study, 18 (60%) were males and 12 (40%) were females. There was slight male preponderance (1.5:1). The majority, 14 patients (>40%), belonged to the age group of 21-30 years, 10 patients (>30%) were below 20 years, and 6 patients (<20%) were above 30 years.
+Significant improvement as far as hair growth was considered was seen with both intralesional and topical steroids.
+No other modality except anthralin showed side effects such as erythema and pruritus.
+The results of our study are shown in Tables 1-3.
+Comparison of various treatment regime by chi-square test-subjective evaluation
+Response to treatment based on severity of alopecia tool score-objective assessment
+Adverse effects
+In our study, the incidence of AA was found to be 0.38% of all the patients presenting to the dermatology clinic Moshell[2] in 1991 in their study stated that AA affects about 2% of new patients attending the dermatology clinic.
+The majority, 14 patients (>40%), in our study were in the age group of 21-30 years, 10 patients (>30%) were below 20 years, and 6 patients (<20%) were above 30 years. Of the total, 18 (60%) were males and 12 (40%) were females, with a male to female ratio of 1.5:1. Sharma et al. in 1996 reported a male to female ratio of 1:0.57.[5]
+The only predictable factor about the progress of AA is its unpredictability.[10] Although the course is unpredictable, the chance of not recovering from the initial attack is estimated to be only one in 150.[11]
+Our study compared the various modalities containing the following:
+Steroids: Topical and intralesional.Potassium channel openers: Minoxidil.Contact irritants: Anthralin, salicylic acid.
+Steroids: Topical and intralesional.
+Potassium channel openers: Minoxidil.
+Contact irritants: Anthralin, salicylic acid.
+Triamcinolone acetonide10 mg/ml is injected intralesionally so as to let the drug pass the barrier zone and establish a subepidermaldepot, thus allowing a higher concentration of the drug to act at the site of the disease.[12] Adverse effects include pain, atrophy, headache, hyper/hypopigmentation, anaphylaxis,[13] and hemorrhage at the puncture site.
+AA is a T-cell-mediated response, and corticosteroids are known to exert a strong inhibitory effect on the activation of T-lymphocytes. Side effects include local folliculitis, tachyphylaxis, and so on.[14]
+Minoxidil increases the duration of the anagen growth phase.[15] In addition, it opens the potassium channels. Adverse effects of Minoxidil include irritant dermatitis and allergic contact dermatitis.
+It induces extracellular generation of oxygen free radicals, which induce irritation. In addition, the reactive oxidants are potent proliferative and immunosuppressive agents that inhibit chemotaxis, interleukin 2 production, and cytotoxic activity of natural killer cells.[16] Short contact therapy is recommended to avoid irritation, although some degree of irritation may be necessary for a therapeutic response.[17]
+We compared five currently available topical modalities for the treatment of AA. As far as the subjective assessment was concerned, the grading of response was carried out according to the percentage improvement in the lesions.
+When the response to the five regimes was compared and studied, 100% patients on Regime I (Inj. Triamcinolone acetonide10 mg/ml [Figure 1]) and Regime II (Betamethasone dipropionate 0.05% lotion [Figure 2]) showed grade IV improvement at the end of 4 weeks and 8 weeks, respectively, followed by Regime IV [Figure 3], and then Regimes III and V [Figures 4 and 5]. Regime I and II showed statistically significant response compared with the other regimes.
+Regime I - Intralesional steroid day 0, 1st follow up, 3rd follow up
+Regime II - Topical steroid day 0, 1st follow up, 3rd follow up
+Regime IV - Anthralin day 0, 1st follow up, 3rd follow up
+Regime III - Minoxidil day 0, 1st follow up, 3rd follow up
+Regime V - Placebo day 0, 1st follow up, 3rd follow up
+Abell and Munro in 1973 reported hair regrowth in 92% of the patients at 4-6 weeks with Triamcinolone acetonide (using the Porto-jet injector) compared with 7% in control subjects injected with isotonic saline,[18] whereas our study showed 100% improvement.
+A study carried out by Fiedler in 1992 showed similar response using Betamethasone dipropionate cream, which is similar to our study.[16]
+In the present study, Regime III (Minoxidil5% lotion) showed 33.33% improvement in patients in grades I, II, and IV, whereas a study by Price with 5% Minoxidil achieved a cosmetic response with terminal hair regrowth.[19] The present study showed less-satisfactory response compared with the other study.
+Regime IV (Anthralin1.15%+ Salicylic Acid 1.15% + Coal tar 5.3% ointment) showed improvement in 16.66% patients with grades I and II and in 66.66% patients with grade IV improvement, indicating an additive effect of the drugs compared with a study carried out by Shabnam Madani, cosmetically acceptable hair growth was reported to vary from 20% to 25% in 3 months with anthralin1% cream.[10]
+Regime V (placebo) showed improvement in 33.33% patients with grades I, II, and III, indicating that hair growth may occur in AA even without the use of any active treatment modality.
+The differences were compared by Chi-square test [Table 1].
+For the objective assessment, the difference in the SALT score on day 0 and at the end of 3 months of treatment for all the regimes was taken. After Analysis Of Variance (ANOVA) table and calculating the P value, the difference in mean reduction SALT score in the five regimes was statistically significant. There was significant change in SALT scoring on the 1st, 2nd and 3rd follow-ups [Table 3]. Here too, Regimes I and II showed more standard deviation and difference in the SALT scores at day 0 and at the end of the 1st follow-up and 2nd follow-up. Hence, the findings of objective assessment matched those of subjective assessment, i.e., intralesional and topical steroids were the most superior treatment modality. Adverse effects were observed only in 4 patients (66.66%) in Regime IV; anthralin showed adverse effects such as Erythema and Pruritus. None of the other treatment modalities showed any adverse effects [Table 3].
+We concluded that AA constituted a major hair disorder presenting to the dermatologist. Among the currently available topical modalities for the treatment of AA, the best response was to the intralesional and topical steroids, followed by anthralin, salicylic acid 1.15%, and coal tar 5.3% ointment combination. Minoxidil did not show any better results than placebo. A minimum of 3 months is required for the response. It was also observed that there were no significant side effects with the various treatment modalities except for anthralin, salicylic acid, and coal tar combination. Hence, the ideal approach may be to initiate the treatment with the more effective modalities such as intralesional and topical steroids and later on maintain with anthralin combination.

@@ -1,0 +1,4 @@
+Correction: Reactome: a knowledge base of biologic pathways and processes
+
+
+The published version of this article [1] inadvertently omitted a citation to the Nucleic Acids Research study in which Reactome was first described [2]. In addition, the author list included Dr Geeta Joshi-Tope. Upon her request, we are removing Dr Joshi-Tope as an author; a corrected author list has been provided with this Correction.

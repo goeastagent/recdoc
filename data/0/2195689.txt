@@ -1,0 +1,5 @@
+empty
+
+
+The authors regret an error in the second sentence of the legend to Fig. 1, which misstated the number of HIV-infected patients used for the illustration. The corrected text appears below and does not change the conclusions reported in the article.
+Illustrated are the results (mean ± SEM) of 17 cocultures of heterologous PMNs or PBMCs (each 2 × 106) from low risk HIV-seronegative volunteers with 13 separate HIV-infected patients' mononuclear cells (2 × 106) in medium containing or lacking 10% IL-2. An additional 4 HIV-infected patients' mononuclear cells cocultured with cells from HIV-seronegative volunteers yielded low or no detectable p24 antigen and were not used for the illustration or analysis. The results are from seven separate experiments.

@@ -1,0 +1,4 @@
+THE EXPERIMENTAL PRODUCTION OF DOUBLE PEAKS IN CHARA ACTION CURVES AND THEIR RELATION TO THE MOVEMENT OF POTASSIUM
+
+ The action curve in Chara seems to depend (as in Nitella) on the outward movement of K+ from the sap. Presumably the increase in permeability in the inner protoplasmic surface and the outward movement of K+ destroy the concentration gradient of K+ across the inner protoplasmic surface. Hence the outwardly directed P.D. disappears, causing the rise (spike) of the action curve. The outer protoplasmic surface is normally insensitive to K+. But when it is made sensitive to K+ by treatment with guanidine the outwardly moving K+ sets up a positive P.D. on reaching the outer surface and this causes the action curve to fall, producing a peak. Then the curve has 2 peaks, the second being due to the process of recovery. The action curve thus comes to resemble that of Nitella in which the outer protoplasmic surface is normally sensitive to K+. 
+

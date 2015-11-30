@@ -1,0 +1,52 @@
+Sleep disorders in Parkinson's disease: Diagnosis and management
+
+
+A large majority (upto 96%) of patients with Parkinson's disease (PD) suffer from various sleep-related problems.[12] Sleep disturbances, as assessed by validated scales like the Parkinson's disease sleep scale (PDSS)[3] usually correlate with disease severity and the Hoehn and Yahr staging.[4]
+The main factors responsible for disturbed sleep in PD have been classified by Barone et al, into the following four subcategories:[5] 1) PD-related motor symptoms, including nocturnal akinesia, early-morning dystonia, painful cramps, tremor and difficulty turning in bed; 2) treatment-related nocturnal disturbances with drugs like levodopa, other dopamine agonists, antidepressants; 3) psychiatric symptoms, including hallucinations, vivid dreams, depression, dementia, insomnia, psychosis and panic attacks; 4) other sleep disorders, including insomnia, rapid eye movement behavioral disorder (REM-BD), restless legs syndrome (RLS), periodic leg movements (PLMS) and excessive daytime sleepiness (EDS). Other common problems among these patients like poor sleep hygiene, nocturia and pain further worsen sleep quality.
+Over the last few years, a bedside scale, the PDSS for sleep disturbances specifically for PD has been developed, validated and employed for screening.[3] The following sleep-related issues are included in this scale:
+Overall quality of night's sleep (item 1)Sleep onset and maintenance insomnia (items 2 and 3)Nocturnal restlessness (items 4 and 5)Nocturnal psychosis (items 6 and 7)Nocturia (items 8 and 9)Nocturia motor symptoms (items 10-13)Sleep refreshment (item 14)Daytime dozing (item 15)
+Overall quality of night's sleep (item 1)
+Sleep onset and maintenance insomnia (items 2 and 3)
+Nocturnal restlessness (items 4 and 5)
+Nocturnal psychosis (items 6 and 7)
+Nocturia (items 8 and 9)
+Nocturia motor symptoms (items 10-13)
+Sleep refreshment (item 14)
+Daytime dozing (item 15)
+This, along with the widely accepted sleepiness scale, the Epworth Sleepiness Scale is an ‘easy to apply’ instrument for identifying sleep-related problems in PD.[6] In addition, for specific assessment for RBD, the RBD clinical questionnaire can be used.[7] [Table 1]
+Approach to sleep-related problems in patients with PD
+RLS is diagnosed by specific criteria laid down by the international RLS study group:[8]
+Urge to move legs, usually accompanied or caused by uncomfortable and unpleasant sensations in the legs.Symptoms begin or worsen during periods of rest or inactivity such as lying or sitting.Symptoms are partially or totally relieved by movement, such as walking or stretching, at least as long as the activity continues.Symptoms are worse in the evening or at night than during the day or only occur in the evening or night.
+Urge to move legs, usually accompanied or caused by uncomfortable and unpleasant sensations in the legs.
+Symptoms begin or worsen during periods of rest or inactivity such as lying or sitting.
+Symptoms are partially or totally relieved by movement, such as walking or stretching, at least as long as the activity continues.
+Symptoms are worse in the evening or at night than during the day or only occur in the evening or night.
+The diagnosis of PLMD can be suspected clinically, typically with the bed partner complaining of jerky limb movements occurring periodically every few seconds or minutes. This does, however, need to be confirmed through an overnight polysomnography.[9]
+Although treatment strategies essentially remain the same for RLS and PLMD in PD as in other patients, with dopamine agonists and Levodopa, the main challenge often is to control symptoms, when patients are already on high doses of these agents for PD. Improvement of RLS symptoms following bilateral subthalamic nucleus stimulation in patients with PD, has been reported.[10]
+RBD is a disorder manifesting with elaborate motor activity with dream mentation during REM sleep with intermittent loss of REM sleep atonia. The following the diagnostic criteria laid down in the International Classification of Sleep disorders (ICSD-R) and criteria B and C are the minimal, required for RBD diagnosis:[11]
+The patient has a complaint of violent or injurious behavior during sleep.Limb or body movement is associated with dream mentation.At least one of the following occurs:Harmful or potentially harmful sleep behaviorsDreams appear to be “acted out”Sleep behaviors disrupt sleep continuityPolysomnographic monitoring demonstrates at least one of the following electrophysiological measures during REM sleep:Excessive augmentation of chin electromyography (EMG) toneExcessive chin or limb phasic EMG twitching, irrespective of chin EMG activity and one or more of the following clinical features during REM sleep:Excessive limb or body jerkingComplex, vigorous or violent behaviorsAbsence of epileptic activity in association with the disorder
+The patient has a complaint of violent or injurious behavior during sleep.
+Limb or body movement is associated with dream mentation.
+At least one of the following occurs:
+Harmful or potentially harmful sleep behaviorsDreams appear to be “acted out”Sleep behaviors disrupt sleep continuity
+Harmful or potentially harmful sleep behaviors
+Dreams appear to be “acted out”
+Sleep behaviors disrupt sleep continuity
+Polysomnographic monitoring demonstrates at least one of the following electrophysiological measures during REM sleep:
+Excessive augmentation of chin electromyography (EMG) toneExcessive chin or limb phasic EMG twitching, irrespective of chin EMG activity and one or more of the following clinical features during REM sleep:Excessive limb or body jerkingComplex, vigorous or violent behaviorsAbsence of epileptic activity in association with the disorder
+Excessive augmentation of chin electromyography (EMG) tone
+Excessive chin or limb phasic EMG twitching, irrespective of chin EMG activity and one or more of the following clinical features during REM sleep:
+Excessive limb or body jerkingComplex, vigorous or violent behaviorsAbsence of epileptic activity in association with the disorder
+Excessive limb or body jerking
+Complex, vigorous or violent behaviors
+Absence of epileptic activity in association with the disorder
+Upto half of all patients with RBD can progress to develop PD and other neurodegenerative conditions (multiple system atrophy, diffuse lewy body dementia) nearly 10-50 years after onset of RBD symptoms.[1213]
+Treatment of RBD is relatively simple since a vast majority (>90%) of patients show good response to small doses (0.25-3 mg) of Clonazepam.[14] Another agent which can be useful is melatonin; however, the purity of available preparations of this drug remains an issue.
+Studies have shown that sleep apnea is not commoner in patients with PD than in the general population.[15] However, this being a common disorder, especially in the elderly, who may also suffer from cardiovascular comorbidities. The diagnosis is suspected from a history of excessive snoring, excessive daytime somnolence and witnessed apneas and needs to be established by polysomnography studies.
+Treatment, as in all patients with obstructive sleep apnea, is with continuous positive airway pressure (CPAP).
+The main problems related to circadian sleep rhythms are irregular sleep wake patterns, mainly resulting from the widely prevalent problem of EDS in patients with PD, which results in multiple naps in the daytime and disrupted and inadequate nighttime sleep. Dopaminergic therapy has been shown to be related with activity rest rhythm alterations, mainly early morning awakenings among patients with PD.[16] The other rhythm disorder which could be encountered is advanced sleep phase syndrome, in which sleep onset shifts to much earlier than usual with very early morning awakening. This can result from an exaggeration of the propensity for the elderly to develop some advancement in sleep phase.
+These problems can be addressed by stressing the need for proper sleep hygiene with fixed sleep schedules and minimal allowance for daytime napping.
+Nearly 30% patients with PD may suffer from insomnia, resulting from the general tendency of the elderly to lose a continuous consolidated period of sleep every night, compounded by motor problems of PD, nocturia, medication effect, any other primary sleep disorders and most of all coexistent depression.[17]
+Treatment should be targeted firstly toward improving physical activity with regular sleep schedules, improving sleep hygiene. Simultaneously, a good history should always be taken to look for primary sleep disorders and causes of secondary insomnia, mainly depression.
+EDS in PD can be multifactorial. The various causes which may cause disrupted nighttime sleep, as discussed above should be the main target. Sleep apnea should especially be looked for.
+The following table summarizes a brief approach toward diagnosis and management of sleep disorders:

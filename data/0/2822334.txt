@@ -1,0 +1,100 @@
+EXERCISE TESTING IN ASSESSMENT AND MANAGEMENT OF PATIENTS IN CLINICAL PRACTICE - PRESENT SITUATION
+
+
+To review recent scientific advances in exercise testing methods and results that is important for a clinical practioner.
+To understand the utility and limitations of different methods of exercise testing.
+To understand appropriate method in assessment and management of patients.
+To appreciate that exercise testing results can have greater clinical meaning when interpreted in context of relevant patient information.
+To understand that additional study is required to further characterize both current and future roles of exercise testing in clinical medicine.
+The need of the hour is to understand the different methods used worldwide to asses the patients exercise performance and response in clinical practice.
+Clinical Exercise Testing (CET) is increasingly gaining importance in clinical medicine, by helping the clinician to objectively evaluate the physiological functions. The result helps to predict the outcome and mortality in different clinical circumstances.
+Simple test are easily performed but limits physiological understanding.
+More comprehensively performed tests may provide detail information and understanding but is costly and demanding. The clinician has to choose the type of test to perform for a particular patient
+Commonly the following test is performed worldwide:-6 min walk testShuttle Walk TestExercise Induced Bronchoconstriction TestCardiac Stress TestClinical Exercise Test (CET)
+6 min walk test
+Shuttle Walk Test
+Exercise Induced Bronchoconstriction Test
+Cardiac Stress Test
+Clinical Exercise Test (CET)
+It is a safe simple and practical test of sub maximal functional capacity, which measures the maximum distance walked by a subject in 6 minutes. Advantage of this test is that it provides an acceptable index of functional disability and correlates with oxygen uptake measured during comprehensive testing. This test gives very limited information regarding physiological contributors to activity related symptoms or about mechanism of exercise limitation. Currently this test is used in lung transplantation, lung volume reduction surgery, pulmonary rehabilitation and in predicting mortality in cardiac patients and patients with pulmonary vascular disorders.
+It measures the distance walked by a patient in a 10 meter course, being paced by an audio signals from a cassette. The intensity of exercise reached is comparable to test performed on a treadmill, as the walking speed is progressively increased until the patient reaches exhaustion. Modification of maximal SWT for determination of endurance performance – similar to maximal and constant (sub maximal) cycle ergometry may be done.
+In this physical activity triggers acute airway narrowing in patients with heightened airway responsiveness. In susceptible patients EIB typically occurs 5 to 10 minutes after exercise. and generally resolves in 20 to 30 minutes. In some clinical situation where bronchial challenge is unavailable or not diagnostic EIB should be undertaken.
+Common protocols to be followed include exercise on treadmill or cycle ergometry at a workload of 60 %to 80% of predicted maximum or the intensity that will elicit a heart rate of 80% of predicted maximum for 6 to 8 minutes. The goal is to produce ventilation equal to those attained during activity to produce symptom of EIB.
+15% percent decrease in FEV1 following exercise is diagnostic of EIB. And 10-15 % decrease in FEV1 would be suggestive of EIB.
+Common type of exercise testing, the primary purpose of which is diagnosis and management of myocardial infarction. Bruce protocol is commonly used and the single most reliable indication of ischemia is ST segment depression. During this test ECG and BP is measured, but the utility may be enhanced by concurrent measurement of ventilator parameters and respiratory gas exchange.
+CET involves the measurement of respiratory gas exchange i.e. oxygen uptake, carbon dioxide, minute ventilation, other variables while monitoring ECG, blood pressure, pulse oximetry and exertion perceived (Borg Scale) during a maximal symptom limited incremental test on a cycle ergo meter or treadmill. Simultaneous measurement of blood gasses and spirometry provides with more detail information on gas exchange and ventilation. CET provides a global assessment of integrative exercise responses which are not adequately reflected by measurement of individual organ system function on rest. Peak oxygen uptake remains the gold standard for exercise capacity.
+It has tradionaly been undertaken with an incremental stepwise or ramp control protocol to exhaustion. In patients of COPD, acute response to an inhaled bronchodilator was assessed using various exercise tests. The authors found endurance time with a constant – workload exercise (80% of maximal work rate)was the most responsive end point to the effect of bronchodilator showing 19% improvement in exercise duration time. Arterial blood gasses measured at 5 minute constant – work exercise testing may give practical and cost effective alternative when arterial oxygen saturation, PaO2, alveolar –arterial oxygen pressure difference and ratio of physiological dead space to tidal volume are required.
+Evaluation of Exercise Intolerence
+Evaluation of Unexplained exertional Dysponea
+Evaluation of patients of cardiovascular diseases
+Evaluation of Patients of respiratory diseases
+- COPD
+- ILD
+- Pulmonary Vascular Diseases
+- Cystic Fibrosis
+Preoperative evaluation
+Evaluation for transplantation and Lung Volume Reduction Surgeries
+Pulmonary Rehabilitation
+Impairment disability
+Table 1 to 11 illustrates the indication, contraindication and guidelines laid down by various international authorities for cardio pulmonary exercise testing in clinical setting.
+Cardiopulmonary exercise test is a helpful tool for evaluation of the disease and management in clinical practice and rapidly evolving in one of the important investigative and diagnostic test. There are different methods used in various clinical setting. The clinical exercise testing a simple and easy to perform test for a pulmonologist as compared to the other conducted tests and relatively more simpler and cost effective test, which needs to be more frequently used in our day to day clinical practice in relevant patients.
+Overview of Cardiopulmonary Exercise Testing
+Definition of abbreviations : CPET = Cardiopulmonary exercise testing; CXR = chest X-ray; ECG; electrocardiogram; PFTs = pulmonary function tests.
+Indications for Cardiopulmonary Exercise Testing
+Determination of functional impairment or capacity (peak Vo2)
+Determination of exercise-limiting factors and pathophysiologic mechanisms.
+Assessing contribution of cardiac and pulmonary etiology in coexisting disease.
+Symptoms disproportionate to resting pulmonary and cardiac tests.
+Unexplained dyspnea when initial cardiopulmonary testing is nondiagnostic.
+Functional evaluation and prognosis in patients with heart failure
+Selection for cardiac transplantation
+Exercise prescription and monitoring response to exercise training for cardiac rehabilitation.
+(special circumstance; i.e. pacemakers)
+Functional impairement asessment (see specific clinical applications)
+Chronic obstructive pulmonary disease
+Establishing exercise limitation(s) and assessing other potential contributing factors, especially occult heart disease (ischemia)
+Determination of magnitude of hypoxemia and for O2 prescription
+When objective determination of therapeutic intervention is necessary and not adequately addressed by standard pulmonary function testing.
+Interstitial lung diseases
+Detection of early (occult) gas exchange abnormalities
+Overall assessment/ monitoring of pulmonary gas exchange
+Determination of magnitude of hypoxemia and for O2 prescription
+Determination of potential exercise-limiting factors
+Documentation of therapeutic response to potentially toxic therapy
+Pulmonary vascular disease (careful risk-benefit analysis required)
+Cystic fibrosis
+Exercise-induced bronchospasm
+Preoperative evaluation
+Lung resectional surgery
+Elderly patients undergoing major abdominal surgery
+Lung volume resectional surgery for emphysema (currently investigational)
+Exercise evaluation and prescription for pulmonary rehabilitation
+Evaluation for impairment-disability
+Evaluation for lung, heart-lung transplantation
+Definition of abbreviations : Vo2 = oxygen consumption Reference 20
+Absolute and Relative Contraindications for Cardiopulmonary Exercise Test
+References 21, 22 and 23.
+Exercise patient with supplemental O2.
+Indications for Exercise Termination
+Definition of abbreviations : ECG = electrocardiogram; Spo2 = arterial oxygen saturation as indicated by pulse oximetry.
+References 22, 24, 25 and 26.
+Usual Cardiopulmonary Exercise Response Patterns
+Definition of abbreviations : AT = anaerobic threshold; COPD = chronic obstructrutive pulmonary disease; HR = heart rate; ILD = interstitial disease; MVV = maximal voluntary ventilation; P(A-a)O2 = alveolar-arterial difference for oxygen pressure; VD/VT = ratio of physiologic dead space to tidal volume; VE = minute ventilation; Vco2 = carbon dioxide output; Vo2 max = maximal oxygen uptake; Vo2 peak = peak oxygen uptake. References 37, 38 and 28
+Decreased, normal, and increased are with respect to the normal response.
+Measurements during Cardiopulmonary Exercise Testing
+Definition of abbreviations : ABGs = Arterial blood gases; AT = anaerobic threshold; BP = Blood pressure; ECG = electrocardiogram; fR = respiratory frequency; HR = heart rate; P(A-a)O2 = alveolar-arterial difference for oxygen pressure; Paco2 = arterial carbon dioxide pressure; Pao2 = arterial oxygen pressure; PET-co2 = end-tidal Pco2; PETo2, = end-tidal Po2; RER = respiratory exchange ratio; Sao2 = arterial oxygen saturation; Spo2 = arterial oxygen saturation as indicated by pulse oximetry; Vco2 = carbon dioxide output; VE = minute ventilation; VD/VT = ratio of physiologic dead space to tidal volume; Vo2 = oxygen uptake; VT = tidal volume; WR = work rate. 31
+Suggested normal guidelines for interpretation of Cardiopulmonary Exercise Testing
+References 27, 28, 30, 35, 22 and 32
+* Maximum or peak cardiopulmonary responses except for anaerobic threshold and VE/Vco2 at AT.
+Integrative approach to the interpretation of Cardiopulmonary exercise testing results
+Definition of abbreviations : CPET = cardiopulmonary exercise testing; HR = heart rate; Sao2 = arterial oxygen saturation; Ve = minute ventilation; Vo2 = oxygen uptake.
+Reference 27
+Cardiopulmonary Exercise Response Patterns
+Definition of abbreviations : AT = anaerobic threshold; COPD = chronic obstructrutive pulmonary disease; HR = heart rate; ILD = interstitial disease; MVV = maximal voluntary ventilation; P(A-a)O2 = alveolar-arterial difference for oxygen pressure; VD/VT = ratio of physiologic dead space to tidal volume; VE = minute ventilation; Vco2 = carbon dioxide output; Vo2 max = maximal oxygen uptake; Vo2 peak = peak oxygen uptake. References 37, 36, 28
+* Decreased, normal, and increased are with respect to the normal response.
+Selected reference values for maximal incremental cycle exercise test
+Definition of abbreviations : AT = Anaerobic threshold; HR = heart rate; Ve = minute ventilation; Vo2 = oxygen uptake.
+Data from Referenes 32, 33 and 34
+Age (A) : years; height (H) : centimeters; weight (W), kilograms.
+Predicted weight men : 0.79 × H − 60.7. Predicted weight women: 0.65 × H − 42.8. When actual weight > predicted, the predicted weight should be used in the equations. Wasserman and colleagues introduced new corrections factors (34, 28), which have not yet been published in peer reviewed journals.
+^ See Lange-Andersen and coworkers (345).

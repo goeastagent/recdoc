@@ -1,0 +1,10 @@
+Usefulness of Syndromic Surveillance for Early Outbreak Detection in Small Islands: The Case of Mayotte
+
+To present the usefulness of syndromic surveillance for the detection of infectious diseases outbreak in small islands, based on the experience of Mayotte.
+Mayotte Island, a French overseas department of around 374 km2 and 200 000 inhabitants is located in the North of Mozambique Channel in the Indian Ocean (Figure 1).
+In response to the threat of the pandemic influenza A(H1N1)2009 virus emergence, a syndromic surveillance system has been implemented in order to monitor its spread and its impact on public health (1). This surveillance system which proved to be useful during the influenza pandemic, has been maintained in order to detect infection diseases outbreaks.
+Data are collected daily directly from patients’ computerized medical files that are filled in during medical consultations at the emergency department (ED) of the hospital Center of Mayotte (2). Among the collected variables, the diagnosis coded according to ICD-10 is used to categorize the syndromes. Several syndromes are monitored including the syndromic grouping for conjunctivitis and unexplained fever.
+For early outbreak detection, a control chart is used based on an adaptation of the Cusum methods developed by the CDC within the framework of the EARS program (3).
+Each week, about 700 patients attend the ED of the hospital. The syndromic surveillance system allowed to detect an outbreak of conjunctivitis from week 10 (Figure 2). During the epidemic peak on week 12, conjunctivitis consultations represented 5% of all consultations. The data of the sentinel practitioner network confirmed this epidemic and the laboratory isolated Enterovirus (4). At the same time, an unusual increase of unexplained fever was detected.
+Due to its geographical and socio-demographical situation, the population of Mayotte is widely exposed to infectious diseases. Even on a small island, syndromic surveillance can be useful to detect outbreak early leading to alerts and to mobilize a rapid response in addition to others systems.
+

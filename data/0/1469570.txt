@@ -1,0 +1,4 @@
+Selected new developments in computational chemistry.
+
+Molecular dynamics is a general technique for simulating the time-dependent properties of molecules and their environments. Quantum mechanics, as applied to molecules or clusters of molecules, provides a prescription for predicting properties exactly (in principle). It is reasonable to expect that both will have a profound effect on our understanding of environmental chemistry in the future. In this review, we consider several recent advances and applications in computational chemistry.
+

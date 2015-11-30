@@ -1,0 +1,6 @@
+The Application of Diffusion- and Perfusion-Weighted Magnetic Resonance Imaging in the Diagnosis and Therapy of Acute Cerebral Infarction
+
+Recommended by Lizhi Sun
+This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Diffusion- and perfusion-weighted magnetic resonance imaging (DWI and PWI) was applied for stroke diagnose in 120 acute (< 48 h) ischemic stroke patients. At hyperacute (< 6 h) stage, it is     difficult to find out the infarction zone in conventional T1 or T2 image, but it is easy in DWI,     apparent diffusion coefficient (ADC) map; when at  3–6-hour stage it is also easy in PWI,     cerebral blood flow (CBF) map, cerebral blood volume (CBV) map, and mean transit time (MTT) map;     at acute (6–48 h) stage, DWI or PWI is more sensitive than conventional T1 or T2 image too.     Combining DWI with ADC, acute and chronic infarction can be distinguished. Besides,     penumbra which should be developed in meaning was used as an indication or to evaluate the     therapeutic efficacy. There were two cases (< 1.5 h) that broke the model of penumbra because abnormity was found in DWI but not that in PWI, finally they recovered without any sequela.
+

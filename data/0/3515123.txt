@@ -1,0 +1,42 @@
+Sodium penta­fluoro­phenyl­borate
+
+The crystal structure of the title compound, Na[(C6F5)BH3], is composed of discrete anions and cations. The sodium cations are surrounded by four anions with three short Na⋯B [2.848 (8), 2.842 (7) and 2.868 (8) Å] and two short Na⋯F contacts [2.348 (5) and 2.392 (5) Å], forming a three-dimensional network. The anion is the first structural example of a pentafluorophenyl ring carrying a BH3 group.
+
+For synthetic background, see: Schnurr et al. (2011 ▶). For a description of the Cambridge Structural Database, see: Allen (2002) ▶.
+Na+·C6H3BF5−Mr = 203.88Monoclinic, a = 4.6813 (10) Åb = 6.1986 (16) Åc = 12.993 (3) Åβ = 92.995 (17)°V = 376.51 (15) Å3Z = 2Mo Kα radiationμ = 0.24 mm−1T = 173 K0.21 × 0.18 × 0.03 mm
+Na+·C6H3BF5−
+Mr = 203.88
+Monoclinic, 
+a = 4.6813 (10) Å
+b = 6.1986 (16) Å
+c = 12.993 (3) Å
+β = 92.995 (17)°
+V = 376.51 (15) Å3
+Z = 2
+Mo Kα radiation
+μ = 0.24 mm−1
+T = 173 K
+0.21 × 0.18 × 0.03 mm
+STOE IPDS II two-circle-diffractometerAbsorption correction: multi-scan (MULABS; Spek, 2009 ▶ and Blessing, 1995 ▶) Tmin = 0.951, Tmax = 0.9932267 measured reflections775 independent reflections601 reflections with I > 2σ(I)Rint = 0.116
+STOE IPDS II two-circle-diffractometer
+Absorption correction: multi-scan (MULABS; Spek, 2009 ▶ and Blessing, 1995 ▶) Tmin = 0.951, Tmax = 0.993
+2267 measured reflections
+775 independent reflections
+601 reflections with I > 2σ(I)
+Rint = 0.116
+R[F2 > 2σ(F2)] = 0.058wR(F2) = 0.138S = 1.01775 reflections119 parameters1 restraintH-atom parameters constrainedΔρmax = 0.37 e Å−3Δρmin = −0.45 e Å−3
+R[F2 > 2σ(F2)] = 0.058
+wR(F2) = 0.138
+S = 1.01
+775 reflections
+119 parameters
+1 restraint
+H-atom parameters constrained
+Δρmax = 0.37 e Å−3
+Δρmin = −0.45 e Å−3
+Data collection: X-AREA (Stoe & Cie, 2001 ▶); cell refinement: X-AREA; data reduction: X-AREA; program(s) used to solve structure: SHELXS97 (Sheldrick, 2008 ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 ▶); molecular graphics: XP in SHELXTL (Sheldrick, 2008 ▶); software used to prepare material for publication: SHELXL97.
+Click here for additional data file.
+Crystal structure: contains datablock(s) I, global. DOI: 10.1107/S1600536812042584/ng5300sup1.cif
+Click here for additional data file.
+Structure factors: contains datablock(s) I. DOI: 10.1107/S1600536812042584/ng5300Isup2.hkl
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report

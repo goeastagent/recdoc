@@ -1,0 +1,11 @@
+Controlling the disease in MYH-associated polyposis
+
+
+MYH-Associated Polyposis (MAP) is an autosomal recessive condition caused by bi-allelic mutations in MYH. Individuals with MAP tend to develop numerous polyps in their colon and rectum and have an increased risk of developing colorectal cancer. Recommendations for MAP treatment vary in the literature ranging from frequent surveillance colonoscopy to prophylactic surgery depending on polyp burden. The aim of this study was to report the management and outcome of a single institution series of patients with MAP.
+Patients with biallelic mutations in MYH were accrued over 23 years from a query of a comprehensive polyposis database using Cologene© software. Demographics, family history, upper and lower endoscopy frequency, polyp burden, and cancer data, and treatment were recorded.
+Thirty-four patients from 26 families with MAP were included. There were 24 cancers in 14 patients. Four of the patients had multiple cancers (14 total), each with a rectal cancer plus a more proximal cancer. 3 patients had more than 2 colorectal cancers. Of the 24 colorectal cancers, 10 (42%) were right sided and 14 (58%) were left sided. Most cancers (90%) were stage I or II and 10% were stage III as shown in Table 1.
+Demographic Details
+All patients also had colorectal adenomas. Median polyp number is 20 (range 1-115) for patients with solitary cancer and for multiple cancers median was 100 (range 50-120) (Table 2).
+Cancer Details
+All patients with cancer had a resection. Four patients underwent segmental colectomy, 5 underwent a colectomy with ileorectal anastomosis, and 5 were treated with total proctocolectomy (4 with ileal anal pouch and one with an end ileostomy). There have been no deaths from colon or rectal cancer and no recurrence at a mean follow-up of 96 months.
+MAP is associated with an increased risk of colorectal cancer, but appropriate surveillance and surgical intervention prevents cancer-related deaths.

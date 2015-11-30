@@ -1,0 +1,62 @@
+CHURG–STRAUSS SYNDROME
+
+Churg–Strauss syndrome (CSS) is a rare granulomatous necrotizing small vessel vasculitis characterized by the presence of asthma, sinusitis, and hypereosinophilia. The cause of this allergic angiitis and granulomatosis is unknown. Other common manifestations are pulmonary infiltrates, skin, gastrointestinal, and cardiovascular involvement. No data have been reported regarding the role of immune complexes or cell mediated mechanisms in this disease, although autoimmunity is evident with the presence hypergammaglobulinemia, increased levels of IgE and Antineutrophil cytoplasmic antibody (positive in 40%). We report the case of a 27-year-old lady presenting with painful swelling of predominantly lower limbs with extensive vesicles and ecchymotic patches and fever shortly after stopping systemic steroids taken for a prolonged duration (2002--2010). The aim of this case report is to point to the possibility of CSS in patients presenting with extensive skin lesions masquerading as Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis Syndrome (SJS/TENS).
+
+Churg–Strauss syndrome (CSS) is a small and medium vessel vasculitis characterized by eosinophilic infiltration of organs with necrotizing vasculitis and interstitial and perivascular granulomas. Three phases have been described in the natural history of the disease (prodromal, eosinophilic, and vasculitic phases) although they do not always occur successively. Initial records show CSS is a condition highly responsive to steroids.
+American College of Rheumatology (ACR) has proposed six criteria for CSS—four being necessary for CSS to be diagnosed with 85% sensitivity and 99.7% specificity. Even though allergic asthma, rhinosinusitis and eosinophilia is a part of CSS,[1–6] most reports consider this vasculitis a disease by itself or a variant of asthma which occurs from immune system interference such as with the use of medications such as leukotrienes or inhaled corticosteroids—both conditions resulting from sudden withdrawal of oral steroids in chronic severe asthma. The condition must be distinguished from aspirin-induced asthma (AIA), mould-induced allergy allergic bronchopulmonary aspergillosis (ABPA), allergy to drugs (such as minocycline) and parasitic infections.
+A 27-year-old lady was admitted in our hospital (in August 2010) with a painful rash of her lower limbs along with swelling. Similar rash was evident in her right arm. She gave a history of trivial trauma to her right leg 3 days before she noticed swelling of her right leg. The swelling was associated with a hemorrhagic rash and progressed quickly to involve the other limbs. She also had fever from the beginning prompting the local physician to prescribe a non steroidal antiimflammatory drugs (NSAID). There was no history of cough or breathlessness.
+Our lady also had a long past history of asthma (diagnosed in 2002). Subsequently she was put on oral steroids on the suspicion of ABPA based on a bronchial lavage smear positive for Aspergillus in another institute. Between 2002 and early 2010, she was admitted several times there with symptoms of refractory rhinosinusitis and nasal polyposis requiring Functional endoscopic sinus surgery on multiple occasions. Her nasal biopsy was negative for fungus or Wegener's granulomatosis and her serology including Antineutrophil cytoplasmic antibody (ANCA) was negative. Oral steroids were continued till June 2010 and thereafter she was switched to inhaled steroids on the advise of a Pulmonologist.
+Her asthma appeared well controlled.
+On admission she had an extensive ecchymotic rash with blistering, involving predominantly lower limbs [Figure 1].
+Showing skin lesion on presentation
+Examination of her respiratory system revealed scattered few rhonchi.
+Examination of other systems were normal.
+Relevant investigations showed Hb 9.0 WBC 22600 (Eosinophils 70%) ESR 103 Urea/creatinine/ LFT: normal. INR 1.45/ APTT 30 (deranged). Blood Bactec cultures from both hands were negative. Dengue serology was negative. ANCA negative. ANF negative. IgE markedly raised > 2500 units. Urine routine: no active sediments/ casts/ proteinuria seen.
+Imaging studies: CXR [Figure 2] showed increased bronchovascular markings. USG whole abdomen was normal. Echocardiography: normal study. CT thorax revealed scattered few nodular infiltrates. With peribronchial thickening [Figure 3]. No bronchiectasis favouring ABPA was seen.
+Chest X-ray shows prominent bronchovascular markings
+CT showing scattered nodular opacities
+Suspecting SJS/TENS following NSAID we proceeded with a skin biopsy.
+Bone marrow biopsy and FIPL1, Platelet derived growth factor receptor (PDGFR) study was done to exclude hyper eosinophilic syndrome. PDGFR mutation was not detected.
+However, the skin biopsy [Figure 4] showed normal epidermis. Dermis showed eosinophilic and neutrophilic infiltration of the wall of the vessels with leukocytoclasis resulting in extravasation of RBCs. The features were of leukocytoclastic vasculitis.
+Skin biopsy (H & E stain) showing features of leucocytoclastic vasculitis
+Overall the features of hypereosinophilia with markedly raised IgE and leukocytoclastic vasculitis favored the diagnosis of CSS. This was supported by the strong history of her long-standing asthma and rhinosinusitis with nasal polyposis (ACR criteria). She was commenced on systemic steroids (initially high dose methyl prednisolone followed by oral prednisolone). To this she responded favorably—her skin rash and fever settled, ESR was down to 11 and eosinophils 7%.
+She was discharged on prednisolone 30 mg/day.
+Churg–Strauss syndrome was first described in 1951 by Churg and Strauss.[1]
+It is a rare systemic vasculitis (2.5 cases/100 000 adults/year) occurring exclusively in people with asthma and is associated with blood and tissue eosinophilia. The most commonly involved organ is the lung followed by the skin. CSS, however, can affect any organ system of the body.
+The clinical features develop in several sequential phases: (not always distinguishable)[78]
+Prodromal phase: Characterized by atopic disease, allergic rhinitis and asthma. Occurs in 2nd and 3rd decades.Eosinophilic phase: Peripheral blood eosinophilia and eosinophilic infiltration of many organs and commonly lung, seen.Vasculitic phase: Can have life-threatening sequelae and heralded by constitutional symptoms. Skin involvement common.
+Prodromal phase: Characterized by atopic disease, allergic rhinitis and asthma. Occurs in 2nd and 3rd decades.
+Eosinophilic phase: Peripheral blood eosinophilia and eosinophilic infiltration of many organs and commonly lung, seen.
+Vasculitic phase: Can have life-threatening sequelae and heralded by constitutional symptoms. Skin involvement common.
+Asthma is the cardinal feature of CSS and precedes vasculitic phase.[9] It presents as a chronic severe form and requires frequent or long-term courses of systemic steroids. Upper airway abnormality in the form of allergic rhinitis, recurrent sinusitis, and nasal polyposis is fairly common.[10]
+Involvement of skin is a frequent feature of the vasculitic phase and presents as tender subcutaneous nodules, palpable purpura and hemorrhagic lesions.[11]
+Cardiac and neurological involvement is often seen; cardiac complications in the form of infarction and arrythmias is responsible for 50% of deaths.[12] Early diagnosis and treatment prevents organ damage and mortality. However confirming the diagnosis is difficult as individual manifestations occur in isolation and lung parenchymal involvement is not universal. Moreover, although classified as vasculitis, ANCA positivity is seen in only 40%-60% of patients. To add to the problem there is no laboratory tests specific for CSS.
+The laboratory abnormalities are nonspecific and includes eosinophilia, high IgE, raised acute phase reactants, hypergammaglobulineamia. Therefore, a diagnostic criteria specified by ACR is most commonly used for diagnosis. [Table 1]. A minimum of four criteria is required for a confident diagnosis of CSS. Our patient satisfies four.
+Diagnostic criteria for Churg–Strauss syndrome
+The major histopathology findings of CSS are as follows:
+a)eosinophilic infiltration of tissue[13];b)extensive areas of necrosis;c)eosinophilic/giant cell vasculitis; andd)interstitial/pervascular necrotizing granuloma.
+eosinophilic infiltration of tissue[13];
+extensive areas of necrosis;
+eosinophilic/giant cell vasculitis; and
+interstitial/pervascular necrotizing granuloma.
+Skin biopsy typically reveals leukocytoclastic vasculitis[11] with eosinophilic infiltrates.
+Untreated CSS has a very dismal prognosis.
+Treatment regimen is based on FFS (five factor score) highlighting organ involvement.[14]
+FFS includes following five factors:
+Cardiac involvementGastrointestinal (GI) disease (bleeding, perforation, pancreatitis)Renal insufficiency (Creatinine > 1.6 mg/dl)Proteinuria (> 1gm/day)Central nervous system (CNS) involvement (mononeuritis, polyneuropathy)
+Cardiac involvement
+Gastrointestinal (GI) disease (bleeding, perforation, pancreatitis)
+Renal insufficiency (Creatinine > 1.6 mg/dl)
+Proteinuria (> 1gm/day)
+Central nervous system (CNS) involvement (mononeuritis, polyneuropathy)
+FFS is scored 0-2 (0=no factor, 1=1 factor, 2=>1 factor present).
+Our patient had a score of 0.
+Primary therapy of CSS is systemic glucocorticoids[15]
+In addition, immunosuppressants such as cyclophosphamide is required in patients with
+FFS2[16]FFS1 with cardiac or CNS involvement[17]FFS0 with ANCA positivity (risk of renal complications in future).[18]
+FFS2[16]
+FFS1 with cardiac or CNS involvement[17]
+FFS0 with ANCA positivity (risk of renal complications in future).[18]
+The duration of treatment is prolonged with induction of remission (steroids alone or in combination with cyclophosphomide) followed by maintenance treatment sometimes lasting for 12–18 months or longer (azathioprine being the preferred agent with steroids).
+Prognosis with current series is encouraging with survival rate of 70% at 5 years.[6] Of the five factors cardiac and GI involvement appears to have the worst prognosis.[6]
+We report a case of a rare disease (CSS) presenting primarily with only skin involvement with no major organ affection at presentation (FFS0) simulating as SJS/TENS. The response to steroids was dramatic.

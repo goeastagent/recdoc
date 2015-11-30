@@ -1,0 +1,8 @@
+CORRECTION
+
+
+Volume 126, No. 3, September 5, 2005. Pages 193–204.
+The original version of this article contained a few errors. The concentration for PIP2 used to attenuate rundown was 0.3 μM, not 3 μM, as was stated several places in the text.
+In Materials and Methods, p. 194, under the section “Electrophysiology,” “3 μM sonicated PIP2” should read “0.3 μM sonicated PIP2.”
+In Results, p. 195, under the section “Controlling Rundown of P/Q-type Channels,” “a low concentration (3 μM) of PIP2” should read “a low concentration (0.3 μM) of PIP2.”
+Also, in Results, p. 196, at the end of the first paragraph, “PIP2 (3 μM) in inside-out patches” should read “PIP2 (0.3 μM) in inside-out patches.”

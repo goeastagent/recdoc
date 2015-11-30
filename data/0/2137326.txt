@@ -1,0 +1,4 @@
+COLICINE K 
+
+ The synthesis of colicine K by the colicinogenic bacillus E. coli K235 has been studied in the chemostat. It has been found that colicine production is influenced by the pH of the medium, by the nature of the primary carbon source, and by the generation time of the microorganism. 
+

@@ -1,0 +1,164 @@
+Peri-operative renal protection: The strategies revisited
+
+Postoperative acute renal failure (ARF) is a serious complication which can result in a prolonged hospital stay and a high mortality and morbidity. Underlying renal disease, cardiac diseases, nephrotoxin exposure and renal hypoperfusion are the possible predisposing risk factors which can create a high probability for the development of ARF. The incidence of ARF is highest after major vascular, cardiac and high-risk thoraco-abdominal surgery. Among the various renal protection strategies, adequate peri-operative volume expansion and avoidance of hypovolemia is the most accepted and practiced strategy. Numerous bio-markers of renal injury are used to estimate the presence and extent of renal insult and various new are currently under trial. Traditional pharmacological interventions like dopamine, diuretics and calcium antagonists are not currently the first line of reno-protective agents. The new non-pharmacological and pharmacological methods may improve outcome in renal transplantation, contrast-induced nephropathy and in various other settings of ARF. The current review is an attempt to refresh the knowledge and put forth the various renal protection strategies during the peri-operative period.
+
+In the recent past cardiac and pulmonary diseases have been given due priority by the anesthesiologists around the world whenever such patients present for any surgical procedure. Less research is being carried out presently in this arena but one cannot attribute it to more research in other areas. In the last three decades peri-operative acute renal failure (ARF) remains a serious complication, resulting in high morbidity and mortality rates.[1] Very few research studies have been carried out to establish the predictors of renal injury and their management. Acute tubular necrosis accounts for 20–25% of all cases of hospital-acquired renal failure.[2] Renal dysfunction after surgery may result in a mortality of up to 60%.[2] The chances of full recovery i.e. without leading to development of chronic renal failure in surgical settings are only 15%.[2] The most important elements in preserving renal function are peri-operative optimization of hemodynamics and intravascular volume and avoidance or cautious use of drugs and nephrotoxins.[2]
+The need for revisiting these renal protection strategies was felt as the renal protection provided during the intra-operative period carries on to the postoperative period as well. The strategies are of immense significance to the surgeons also, as they have to manage such patients during the postoperative period. However, in a tertiary care center, renal protection is a multidisciplinary task by the involvement of various specialties during the peri-operative and postoperative period. For the present article a PUBMED and MEDLINE search was conducted using keywords: acute renal failure, acute tubular necrosis, renal protection, nephrotoxins, peri-operative renal protection strategies, and so on. Apart from indexed journals, peer-reviewed non-indexed journals were also analyzed. In-depth analysis was carried out by assessing the titles, abstracts, and/or the full-text papers retrieved from the electronic database, and manual searches for possible inclusion according to the predefined selection criteria.
+ARF is defined as rapid decline in renal function (within 48 h) resulting in accumulation of nitrogenous waste products mainly blood urea nitrogen (BUN) and creatinine in blood. The quantitative estimation of serum creatinine is a universally accepted marker of renal failure and is indicated by a rise in serum creatinine ≥ 0.3 mg/dl or a rise of 1.5-fold value from the baseline.[3]
+An international interdisciplinary collaborative group, the acute dialysis qualitative initiative (ADQI)[4] has recently formulated a standard grading system for acute renal dysfunction. [Table 1]
+The RIFLE classification of acute renal dysfunction
+The acronym RIFLE defines three grades of increasing severity of acute renal dysfunction.[4]
+R- Risk, I – Injury, F – Failure and two outcome variables L- Loss and E – End stage that are based on the changes in serum creatinine or urine output.
+Renal failure is caused by a multitude of mechanisms and can be summarized as pre-renal, renal and post-renal failure. The causes can be classified as pre-renal, renal and post-renal [Table 2].
+The etiological factors of acute renal failure [5]
+Many of the drugs and chemicals can act as nephrotoxins in an already compromised renal status. The mechanism of nephrotoxicity varies for individual drugs and a detailed discussion is beyond the purview of the present article. However, many of the strategies preventing nephrotoxicity of these drugs have been explained later in the article. Great care has to be taken while administering these therapeutic agents in patients considered being at risk of possible development of renal failure. These include:
+Antibiotics – aminoglyocosides, cephalosporins, amphotericin-B, penicillin sulphonamidesCalcium (hypercalcemia)Chemotherapeutic/immunosuppressive agents–cisplatin, cyclosporine, tacrolimus, methotrexate, nitrosoureaContrast agentsNon-steroidal anti-inflammatoryPigments – hemoglobin myoglobin
+Antibiotics – aminoglyocosides, cephalosporins, amphotericin-B, penicillin sulphonamides
+Calcium (hypercalcemia)
+Chemotherapeutic/immunosuppressive agents–cisplatin, cyclosporine, tacrolimus, methotrexate, nitrosourea
+Contrast agents
+Non-steroidal anti-inflammatory
+Pigments – hemoglobin myoglobin
+Among the renal causes of acute renal failure, acute tubular necrosis (ATN) is the commonest cause and as such deserves a special mention here.[5] Clinically, the course of ischemic ATN is characterized by four phases[6] which can be briefly described as:
+Initiation phase: This is the first phase of ATN and may last from a few hours to days and is characterized by decreased renal blood flow (RBF) leading to decreased GFR and finally decreased flow of filtrate in tubules due to obstruction by casts composed of shed epithelial cells and necrotic debris. The end results of these pathological changes cause back leak of glomerular filtrate through injured tubular epithelium. The prolonged duration of ischemia can be very detrimental to renal tissue and its consequences can be devastating [Figure 1].Extension: It refers to a continuum of ischemic injury and inflammation of renal parenchyma and tubules.Maintenance phase: This phase can last from one to two weeks and is characterized by intrarenal vasoconstriction and medullary ischemia mediated through tubulo-glomerular feedback and deregulated release of vasoactive substance from injured endothelial cells.Recovery phase: It is characterized by tubular epithelial cells’ repair and regeneration as well as a gradual return of GFR towards pre-morbid level. It may take several days to weeks.
+Initiation phase: This is the first phase of ATN and may last from a few hours to days and is characterized by decreased renal blood flow (RBF) leading to decreased GFR and finally decreased flow of filtrate in tubules due to obstruction by casts composed of shed epithelial cells and necrotic debris. The end results of these pathological changes cause back leak of glomerular filtrate through injured tubular epithelium. The prolonged duration of ischemia can be very detrimental to renal tissue and its consequences can be devastating [Figure 1].
+Extension: It refers to a continuum of ischemic injury and inflammation of renal parenchyma and tubules.
+Maintenance phase: This phase can last from one to two weeks and is characterized by intrarenal vasoconstriction and medullary ischemia mediated through tubulo-glomerular feedback and deregulated release of vasoactive substance from injured endothelial cells.
+Recovery phase: It is characterized by tubular epithelial cells’ repair and regeneration as well as a gradual return of GFR towards pre-morbid level. It may take several days to weeks.
+Prolonged ischemia
+The predictors of renal injury in surgical patients have been observed by various research studies and can possibly be classified into preoperative, intra-operative and postoperative factors [Table 3].[2]
+The various predisposing factors responsible for acute kidney injury during the preoperative, intra-operative and postoperative period
+Besides, many patients are undergoing cardiac surgery nowadays. These are high-risk patients and are more prone to develop ARF during the peri-operative period. Several factors contribute to the development of ARF during cardiac and vascular surgery[2] and these include:
+Systemic inflammatory response syndrome (SIRS) triggered by major surgery results in cell- mediated and cytotoxic injury.During cardiopulmonary bypass (CPB) surgery, renal hypoperfusion outside the limits of auto regulatory reserve may cause development of ARFATN may be exacerbated by renal embolic injury due to thrombus, air, lipid and tissue; aortic atheroma may get disrupted by operative manipulation.Renal excretion of haem derivatives produced by hemolysis in prolonged surgery may result in renal tubular injury.Administration of large dose of contrast in endovascular surgery and in non-elective cardiac surgery results in toxic injury
+Systemic inflammatory response syndrome (SIRS) triggered by major surgery results in cell- mediated and cytotoxic injury.
+During cardiopulmonary bypass (CPB) surgery, renal hypoperfusion outside the limits of auto regulatory reserve may cause development of ARF
+ATN may be exacerbated by renal embolic injury due to thrombus, air, lipid and tissue; aortic atheroma may get disrupted by operative manipulation.
+Renal excretion of haem derivatives produced by hemolysis in prolonged surgery may result in renal tubular injury.
+Administration of large dose of contrast in endovascular surgery and in non-elective cardiac surgery results in toxic injury
+Numerous biomarkers of renal injury are used to estimate the presence and extent of renal injury and failure and include:
+Cystatin C[7]A sensitive marker for GFR.KIM – I (Kidney Injury Molecule I)[89]A novel marker for human renal proximal tubule injury. Biomarker of acute kidney injury in renal transplant recipients.Urine Interleukin (IL) – 18[10]An early diagnostic marker for acute kidney injury and predicts mortality in the ICU.NGAL (Neutrophil Gelatinase-associated Lipocalin)[11]A marker for acute renal injury after cardiac surgery.
+Cystatin C[7]
+A sensitive marker for GFR.
+KIM – I (Kidney Injury Molecule I)[89]
+A novel marker for human renal proximal tubule injury. Biomarker of acute kidney injury in renal transplant recipients.
+Urine Interleukin (IL) – 18[10]
+An early diagnostic marker for acute kidney injury and predicts mortality in the ICU.
+NGAL (Neutrophil Gelatinase-associated Lipocalin)[11]
+A marker for acute renal injury after cardiac surgery.
+Numerous strategies and techniques have been used from time to time for prevention of acute renal insult during surgical procedures, especially during major surgeries where wide hemodynamic fluctuations and fluid shifts are common observations. The main objectives of these renal protection strategies can be summarized as:
+To identify and optimize patients at risk.To develop an appropriate anesthetic plan.Peri-operative usage of sensitive and specific monitoring tools of renal functions.To adopt efficacious interventions if renal function starts to deteriorate.
+To identify and optimize patients at risk.
+To develop an appropriate anesthetic plan.
+Peri-operative usage of sensitive and specific monitoring tools of renal functions.
+To adopt efficacious interventions if renal function starts to deteriorate.
+Further, these preventive strategies can be organized into two main types:
+Primary prevention
+Strategies to reduce the occurrence of renal injury in patients without evidence of acute renal dysfunction.
+Secondary prevention
+Avoidance of additional renal injury in the setting of established acute renal dysfunction
+On a whole these strategies vary from application of non-pharmacological methods to administration of specific pharmacological agents and thus can be broadly classified into:
+Non-pharmacological interventionsPharmacological interventions
+Non-pharmacological interventions
+Pharmacological interventions
+Various non-pharmacological methods of preventing renal insult include:[2]
+Intravascular volume expansion – euvolemiaMaintenance of renal blood flow (RBF) and renal perfusion pressureAvoidance of nephrotoxic agentsStrict glycemic controlAppropriate management of postoperative complicationsIschemic and pharmacological preconditioning.[5]
+Intravascular volume expansion – euvolemia
+Maintenance of renal blood flow (RBF) and renal perfusion pressure
+Avoidance of nephrotoxic agents
+Strict glycemic control
+Appropriate management of postoperative complications
+Ischemic and pharmacological preconditioning.[5]
+Optimization of the hemodynamic status and correction of any volume deficit minimizes residual functional impairment of kidney. The newer terms are:
+Volume-responsive acute kidney injury (AKI) (Pre-renal azotaemia)[12]Volume-non-responsive AKI. Real hypovolemia is the most common cause of volume-responsive AKI.
+Volume-responsive acute kidney injury (AKI) (Pre-renal azotaemia)[12]
+Volume-non-responsive AKI. Real hypovolemia is the most common cause of volume-responsive AKI.
+Volume status monitoringThe intravascular volume status should be monitored with mean arterial pressure (MAP), urinary output, central venous pressure (CVP) and in certain rare high-risk circumstances pulmonary artery wedge pressure (PAWP) should be monitored as well. The goal of monitoring includes keeping these parameters within a specified targeted range [Table 4].[1314]Type of fluid therapyIt has been observed that intravenous hydration with saline was more effective than unrestricted oral fluid intake.[15] Controversies have always existed in literature about infusion of colloids and crystalloids. The dilemma still remains hugely unanswered.
+Volume status monitoring
+The intravascular volume status should be monitored with mean arterial pressure (MAP), urinary output, central venous pressure (CVP) and in certain rare high-risk circumstances pulmonary artery wedge pressure (PAWP) should be monitored as well. The goal of monitoring includes keeping these parameters within a specified targeted range [Table 4].[1314]
+Type of fluid therapy
+It has been observed that intravenous hydration with saline was more effective than unrestricted oral fluid intake.[15] Controversies have always existed in literature about infusion of colloids and crystalloids. The dilemma still remains hugely unanswered.
+The specified targeted range of various vital parameters during the peri-operative period
+The SAFE (Saline Versus Albumin Fluid Evaluation) study indicates that albumin is safe albeit not more effective than saline, for fluid resuscitation.[16] On the other side, hexaethyl starch (HES) has a negative effect on coagulation and the development of renal dysfunction is another major concern associated with its use. In a recent trial a ‘modern’ HES preparation with a low molecular weight and low molar substitution and a human albumin solution given in cardiac surgery patients with preoperative compromised kidney function showed that this type of HES solution had no negative influence on kidney integrity.[17] In a comprehensive Cochrane review there is some evidence that colloids (HES) may be associated with a higher incidence of AKI than Ringer's lactate in critically ill patients.[2]
+The sustained administration of isotonic saline before and after radiocontrast injection seems to be more protective than an equivalent volume of hypotonic saline and saline.[18] The incidence of CIN (defined as an increase of 25% of serum creatinine from baseline within 48 h) might decrease with intravenous (IV) sodium bicarbonate as was seen in recent trials as compared with saline.[1920] It was noted that surgical patients receiving contrast benefited from the use of the lowest possible volume of non-ionic, iso-osmolar contrast in conjunction with isotonic IV fluids.[2]
+Renal blood flow depends on both cardiac output and systemic arterial pressure. Initial approach should be to reverse hypovolemia. Inotropic therapy should be started for management of low cardiac output. A vasopressor such as norepinephrine is an excellent first-line vasopressor agent. Vasopressin and Terlipressin may be useful agents in the treatment of postoperative catecholamine-resistant vasodilatory shock. Minimum MAP of 65–75 mm Hg is often targeted in clinical practice, however, a higher target may be necessary in patients with pre-existing hypertension.[2] It has been found that absolute hypotension (systemic blood pressure less than 90 mmHg is associated with development of AKI.[21] But in many patients the episodes of hypotension are absent. This form of AKI is called normotensive ARF[2223] as auto-regulation of renal function is maintained at MAP 80–160 mm Hg. Hypotensive anesthesia is strictly contraindicated in CRF.
+Minimizing peri-operative exposure to nephrotoxic drugs is crucial in the prevention of ARF. Angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) interfere with auto-regulation of renal blood flow and glomerular filtration rate.[24] Therefore, patients chronically treated with ACE inhibitors have an increased risk of postoperative renal dysfunction. Non-steroidal anti-inflammatory drugs (NSAIDs) causes acute inhibition of cyclooxygenase (Type I or II) and can reduce GFR as well as peripheral blood flow.[24] Antibiotics commonly associated with acute interstitial nephritis include Cephalosporins, Aminoglycosides and Vancomycin. Aminoglycosides like gentamicin can cause ATN and the use of once daily dosing reduces the incidence of tubular cell toxicity. Dosing should be based on creatinine clearance and peak and trough of drug levels.[2526] Amphotericin B is also considered to be potentially nephrotoxic but its lipid formulations are less nephrotoxic. The use of aprotinin during coronary artery bypass grafting (CABG) surgery may be associated with an increased risk of ARF requiring dialysis.
+Strict glycemic control using intensive insulin therapy has improved survival and reduced the incidence of ARF requiring renal replacement therapy. Peri-operative hyperglycemia during cardiac and vascular surgery is associated with increased renal morbidity and overall mortality.[2]
+Prompt diagnosis and management of acute cardiac dysfunction, hemorrhage, sepsis, rhabdomyolysis and intra-abdominal hypertension are essential to prevent development of ARF. Rhabdomyolysis is a devastating complication which can precipitate ARF and such patients should be treated with aggressive intravascular volume expansion, diuretic therapy and urinary alkanization. Intra-abdominal hypertension is associated with diminished renal perfusion and may precipitate ischemic ATN.[27] Timely recognition followed by decompresssive laparotomy may provide the optimal management.
+The concept of preconditioning is based on the principle that short periods of injury (i.e. ischemia) followed by reperfusion temporarily increase the resistance to further ischemic damage. It has been shown to occur in several organ systems including the brain, spinal cord, liver and kidney. Volatile anesthetics are also capable of producing preconditioning. Anesthetic preconditioning also occurs in endothelial and smooth muscles cells, implying the possibility that anesthetic preconditioning could have beneficial effects on a number of different organs in protecting against ischemic injury, including the kidney. Its role as a therapeutic strategy to prevent the development of ARF requires laboratory and clinical investigation.
+Cardiovascular surgeries have increased in recent times and so have the possibilities of acute renal injury in such patients. Numerous strategies can be of great help in reducing the incidence of possible acute renal injury in these patients. These include but are not limited to:
+Cardiac surgery:
+By limiting the duration of CPBBy maintaining adequate flow and perfusion pressureAvoidance of excessive hemodilutionAvoidance of red cell transfusionExtracorporal leucodepletion and hemofiltrationOff-pump surgery may theoretically offer renal protection[29]Vascular surgeryendovascular aneurysm repair and open repair of abdominal aortic aneurysm, both are associated with worsening renal dysfunction in patients with pre-existing renal insufficiency.[30]
+By limiting the duration of CPB
+By maintaining adequate flow and perfusion pressure
+Avoidance of excessive hemodilution
+Avoidance of red cell transfusion
+Extracorporal leucodepletion and hemofiltration
+Off-pump surgery may theoretically offer renal protection[29]
+Vascular surgery
+endovascular aneurysm repair and open repair of abdominal aortic aneurysm, both are associated with worsening renal dysfunction in patients with pre-existing renal insufficiency.[30]
+Currently no drug therapy exists that has proven general protective properties against the development of ARF in the peri-operative settings. However, drugs used for renal protection [Table 5] are categorized as:
+Various categories of reno-protective agents
+Vasodilators definitely have a very protective role in maintenance of renal tissue integrity by preserving the blood flow. These classes of agents can be classified further into various subgroups and their clinical characteristics include:
+Dopamine agonistDopamine[3233]-increases renal blood flow-increases GFR-however, there is no role of low-dose dopamine in renal protection[34–36]Fenoldopam (selective dopamine I receptor)-it dilates renal and splanchnic vasculature[37]-dose is 0.03–0.1 ugm/kg/h[38]-it can produce more significant reduction in creatinine value than dopamine.Adenosine antagonists (theophylline)[39]-these agents act by attenuation of the intra-renal vasoconstriction after the administration of radio-contrast media-increase in GFR.Calcium Channel Blockers[40]-Induces preglomerular arteriolar dilatation leading to increased renal blood flow and GFR.Sodium nitroprusside-Its administration during the re-warming phase of CPB in patients undergoing CABG decreases the incidence of postoperative ARF.
+Dopamine agonist
+Dopamine[3233]
+-increases renal blood flow-increases GFR-however, there is no role of low-dose dopamine in renal protection[34–36]
+increases renal blood flow
+increases GFR
+however, there is no role of low-dose dopamine in renal protection[34–36]
+Fenoldopam (selective dopamine I receptor)
+-it dilates renal and splanchnic vasculature[37]-dose is 0.03–0.1 ugm/kg/h[38]-it can produce more significant reduction in creatinine value than dopamine.
+it dilates renal and splanchnic vasculature[37]
+dose is 0.03–0.1 ugm/kg/h[38]
+it can produce more significant reduction in creatinine value than dopamine.
+Adenosine antagonists (theophylline)[39]
+-these agents act by attenuation of the intra-renal vasoconstriction after the administration of radio-contrast media-increase in GFR.
+these agents act by attenuation of the intra-renal vasoconstriction after the administration of radio-contrast media
+increase in GFR.
+Calcium Channel Blockers[40]
+-Induces preglomerular arteriolar dilatation leading to increased renal blood flow and GFR.
+Induces preglomerular arteriolar dilatation leading to increased renal blood flow and GFR.
+Sodium nitroprusside
+-Its administration during the re-warming phase of CPB in patients undergoing CABG decreases the incidence of postoperative ARF.
+Its administration during the re-warming phase of CPB in patients undergoing CABG decreases the incidence of postoperative ARF.
+Diuretics were once the most commonly used reno-protective agents and till date they are regarded as one the most common weapons to counter the insults of acute renal failure. They are classified according to their site and mechanism of action and include:
+Loop diuretics[41–43]-They can convert oliguric acute kidney injury to non-oligruic form-Decrease volume load in AKI patients-Frusemide is the most common drug of this class and dose should not exceed 1000 mg/kg. However, a recent review has concluded that loop diuretics were neither associated with better recovery of renal function nor improved survival rate.[4445]Osmotic diureticsThe most commonly used osmotic diuretic is mannitol which is extremely useful in certain clinical situations such as-In rhabdomyolysis[46–48]In peri-operative cardiovascular surgery (added in bypass pump prime)In renal transplant– decreases incidence of post-transplant AKI[4950]Leads to volume depletion and hypernatremia - can increase hyper-osmolarity, volume expansion and hyperkalemia.
+Loop diuretics[41–43]
+-They can convert oliguric acute kidney injury to non-oligruic form-Decrease volume load in AKI patients-Frusemide is the most common drug of this class and dose should not exceed 1000 mg/kg. However, a recent review has concluded that loop diuretics were neither associated with better recovery of renal function nor improved survival rate.[4445]
+They can convert oliguric acute kidney injury to non-oligruic form
+Decrease volume load in AKI patients
+Frusemide is the most common drug of this class and dose should not exceed 1000 mg/kg. However, a recent review has concluded that loop diuretics were neither associated with better recovery of renal function nor improved survival rate.[4445]
+Osmotic diuretics
+The most commonly used osmotic diuretic is mannitol which is extremely useful in certain clinical situations such as
+-In rhabdomyolysis[46–48]In peri-operative cardiovascular surgery (added in bypass pump prime)In renal transplant– decreases incidence of post-transplant AKI[4950]Leads to volume depletion and hypernatremia - can increase hyper-osmolarity, volume expansion and hyperkalemia.
+In rhabdomyolysis[46–48]
+In peri-operative cardiovascular surgery (added in bypass pump prime)
+In renal transplant– decreases incidence of post-transplant AKI[4950]
+Leads to volume depletion and hypernatremia - can increase hyper-osmolarity, volume expansion and hyperkalemia.
+Natriuretic peptides are used in renal protection because of their established protective role in preventing acute renal insult. The mechanism involved is - systemic and renal vasodilatation - inhibition of renal tubular sodium reabsorption - attenuating the activation of the rennin angiotensin aldosterone system - lowering the oxygen requirement in several nephrons.
+Various natriuretic peptides are enumerated as under:
+Anartide – synthetic analogue of ANP,[52] ularitiderhANP – human recombinant ANP 50 ng/kg/min (decreases incidence of dialysis)rh BNP (Nesritide) - 0.1ug/kg/min-has a role in the prevention of AKI in heart failure and cardiac surgery[53]Vessel dilator[54]-recently identified cardiac peptide of the ANP family - ameliorates ischemic ATN with regeneration of the brush borders of proximal tubules - induces endogenous production of PGE2 - causes maintenance of glomerular hemodynamic blood flow redistribution to the medulla and improvement of microvascular permeability.
+Anartide – synthetic analogue of ANP,[52] ularitide
+rhANP – human recombinant ANP 50 ng/kg/min (decreases incidence of dialysis)
+rh BNP (Nesritide) - 0.1ug/kg/min
+-has a role in the prevention of AKI in heart failure and cardiac surgery[53]
+has a role in the prevention of AKI in heart failure and cardiac surgery[53]
+Vessel dilator[54]
+-recently identified cardiac peptide of the ANP family - ameliorates ischemic ATN with regeneration of the brush borders of proximal tubules - induces endogenous production of PGE2 - causes maintenance of glomerular hemodynamic blood flow redistribution to the medulla and improvement of microvascular permeability.
+recently identified cardiac peptide of the ANP family - ameliorates ischemic ATN with regeneration of the brush borders of proximal tubules - induces endogenous production of PGE2 - causes maintenance of glomerular hemodynamic blood flow redistribution to the medulla and improvement of microvascular permeability.
+The role of antioxidants is becoming popular nowadays as an active component in renal protection strategies during surgical intervention. These include N-acetyl cysteine (NAC), statins as well as corticosteroids. The mechanism of action of individual antioxidants is summarized as:
+N acetyl cysteine[55]-It is used in prevention of CIN and AKI post cardiac surgery.[56]-CIN–contrast induced nephropathy–is defined as an increase in serum creatinine occurring within the first 24 h after contrast exposure and peaking up to five days afterwards. - the dose of NAC is 600 mg BD. - It decreases serum creatinine without affecting GFR by activating creatinine kinase and by increasing tubular secretion of creatinine.[57]Statins: the effect of statins include - improvement of endothelial dysfunction - increased nitric oxide bioavailability - antioxidant properties - inhibitions of inflammatory responses.
+N acetyl cysteine[55]
+-It is used in prevention of CIN and AKI post cardiac surgery.[56]-CIN–contrast induced nephropathy–is defined as an increase in serum creatinine occurring within the first 24 h after contrast exposure and peaking up to five days afterwards. - the dose of NAC is 600 mg BD. - It decreases serum creatinine without affecting GFR by activating creatinine kinase and by increasing tubular secretion of creatinine.[57]
+It is used in prevention of CIN and AKI post cardiac surgery.[56]
+CIN–contrast induced nephropathy–is defined as an increase in serum creatinine occurring within the first 24 h after contrast exposure and peaking up to five days afterwards. - the dose of NAC is 600 mg BD. - It decreases serum creatinine without affecting GFR by activating creatinine kinase and by increasing tubular secretion of creatinine.[57]
+Statins: the effect of statins include - improvement of endothelial dysfunction - increased nitric oxide bioavailability - antioxidant properties - inhibitions of inflammatory responses.
+It has been shown that patients who continued on statins during percutaneous coronary intervention (PCI) and CABG had lower rates of AKI and also lower incidence of CIN.[58]
+Other agents which have shown promise in providing renal protection during the peri-operative period include
+Growth Factors - these promote repair of tubular renal cells after sublethal or nephrotoxic damage- have antiapoptotic effects - these growth factors include epidermal growth factors, insulin-like growth factor I, hepatocyte growth factor, bone morphogenetic protein 7.Erythropoietin - it has tissue protective effects and prevents tissue damage during ischemia and inflammation.[24]-it has anti-apoptotic effects in cardiovascular cells.[5960]-Clinical trials are being performed with erythropoietin in the prevention of AKI post cardiac surgery, CIN and post kidney transplantation.
+Growth Factors - these promote repair of tubular renal cells after sublethal or nephrotoxic damage- have antiapoptotic effects - these growth factors include epidermal growth factors, insulin-like growth factor I, hepatocyte growth factor, bone morphogenetic protein 7.
+Erythropoietin - it has tissue protective effects and prevents tissue damage during ischemia and inflammation.[24]
+-it has anti-apoptotic effects in cardiovascular cells.[5960]-Clinical trials are being performed with erythropoietin in the prevention of AKI post cardiac surgery, CIN and post kidney transplantation.
+it has anti-apoptotic effects in cardiovascular cells.[5960]
+Clinical trials are being performed with erythropoietin in the prevention of AKI post cardiac surgery, CIN and post kidney transplantation.
+Peri-operative ARF is a major cause of morbidity and mortality. The incidence can be decreased by identifying the known risk factors like underlying medical illness, avoidance of renal hypoperfusion and nephrotoxin exposure. Traditional pharmacological interventions like dopamine, diuretics and calcium antagonists are not currently proposed drugs of choice. Mannitol and calcium may improve outcome in renal transplantation patients. Mannitol is effective in rhabdomyolysis. NAC has proven effective in CIN. Fenoldopam, vessel dilators and ANP have shown good results in prevention and treatment of ARF. The clinical efficacy of vessel dilators, growth factors, and preconditioning maneuvers are under trial and need to be assessed.

@@ -1,0 +1,9 @@
+Outcome measures for manual lung hyperinflation: not there yet!
+
+
+The recent systematic review by Paulus and colleagues provides an insight into manual lung hyperinflation (MHI) [1], but deserves further comment.
+MHI research has generally focused on surrogate measures of secretion clearance, such as lung/thorax compliance [2]. Investigation into the effect of MHI on airway secretion clearance is warranted to elucidate the mechanistic and hence potential therapeutic role.
+Volpe and colleagues [3] and Li Bassi and colleagues [4] have reported mechanical ventilation flow-bias thresholds that can move airway secretions both towards (expel) and away (embed) from the mechanical ventilator. These measurement methods may be useful to identify the optimal MHI technique [4]. Van Aswegen and colleagues recently demonstrated that MHI with a positive end-expiratory pressure of 7.5 cmH2O in a supine position resulted in a preferential airflow distribution (using technetium-99m) to the right lung as compared with the left lung [5]. Hence, for left lung collapse the combination of patient positioning (for example, lying on the right side) with MHI may both optimise lung recruitment and/or secretion clearance.
+Owing to the requirement for airway disconnection, Paulus and colleagues allude to the potential for MHI to result in airway contamination and cause ventilator-associated pneumonia [1]. Along similar lines, however, closed suction has often been advocated as a means to prevent ventilator-associated pneumonia (also by preventing circuit disconnection). A recent meta-analysis on closed versus open suction demonstrated no changes in the rates of ventilator-associated pneumonia [6], but closed suction was associated with increased duration of mechanical ventilation and airway contamination. The optimal MHI technique and outcome measures require identification.
+MHI: manual lung hyperinflation.
+The author declares that they have no competing interests.

@@ -1,0 +1,6 @@
+Non invasive mechanical ventilation delivered by a new 'helmet' versus a standard face mask
+
+
+We compared in six healthy subjects non invasive mechanical ventilation delivered by a new 'helmet' (large [L] and small [S] size) and by a standard face mask (FM). We tested three different ventilatory setting: a continuous flow CPAP (CPAPCF), a CPAP delivered by a ventilator (CPAPVent) and a pressure support ventilation (PSV). The level of PEEP and PSV were 5 cmH2O while FIO2 was 21%. Tidal volume VT, respiratory rate (RR), work of breathing (WOB L), pressure time product (PTP) were measured.
+Our results suggest that during CPAP the three systems are equals while during PSV the FM is better.
+*P < 0.05 vs helmet L and helmet S.

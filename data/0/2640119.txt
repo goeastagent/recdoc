@@ -1,0 +1,4 @@
+Molecular characterization of a novel Rickettsia species from Ixodes scapularis in Texas.
+
+A novel Rickettsia species of undetermined pathogenicity was detected in Ixodes scapularis. DNA sequencing showed the highest nucleotide sequence similarities with R. australis for the 17 kDa gene, R. helvetica for gltA, and R. montana for rompA. The new organism, provisionally designated as genotype Cooleyi, is highly divergent in three conserved genes from recognized Rickettsia species.
+

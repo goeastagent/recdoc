@@ -1,0 +1,6 @@
+Amiloride inhibits macropinocytosis by lowering submembranous pH and preventing Rac1 and Cdc42 signaling
+
+
+Vol. 188 No. 4, February 22, 2010. Pages 547–563.
+The orientation of the schematic in Fig. 2 B was erroneously reversed in this article. The correct panel appears below.
+(B) Top: schematic of the structure of membrane-targeted SEpHluorin/mCherry chimaera used to measure pHsm. Bottom: confocal images of SEpHluorin (left) and mCherry fluorescence (right) in A431 cells. Bar, 10 µm.

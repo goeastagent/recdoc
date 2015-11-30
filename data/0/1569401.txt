@@ -1,0 +1,4 @@
+Transformation of polycyclic aromatic hydrocarbons during sampling.
+
+Individual PAH are shown to undergo chemical transformation when exposed to gases such as NO2, O3 and SO3. The possibility of artifact formation during sampling in stacks and in ambient air is discussed. PAH on soot, formed in a smoke gas generator, and exposed to NO chi and SO chi in a thermostated oven were degraded as a result of the sampling technique. Addition of NO2 (1 ppm) or gaseous HNO3 (120 ppb) during ambient air sampling caused degradation of individual PAH on particles and formation of the corresponding mononitro-PAH. Addition of 200 ppb O3 or 100 ppb gaseous HNO2 had no detectable effect. Thus, artifact formation can occur as a result of the presence of NO2, HNO3, or SO chi both in stack gas sampling and in sampling of PAH on particles in ambient air.
+

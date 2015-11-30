@@ -1,0 +1,185 @@
+The pivotal role of nursing personnel in burn care
+
+The nurses play an important role in the overall management of a burn patient. They must be well versed with the various protocols available that can be used to rationally manage a given situation. The management not only involves medical care but also a psychological assessment of the victim and the family. The process uses a scientific method to combine systems theory with the art of nursing, entailing both problem solving techniques and a decision making process. It involves assessment of the patient to arrive at a diagnosis and then determining the patient goals.An action plan is implemented and is evaluated in the context of patient response. The article discusses many such scenarios in burn patients and outlines the nursing care plans.
+
+Optimal care of the burn patient requires a distinctive multidisciplinary approach. Positive patient outcomes are dependent on the composition of the burn care team and close collaboration among its members. At the centre of this team is the burn nurse, the coordinator of all patient care activities. The complexity and multisystem involvement of the burn patient demand that the burn nurse possess a broad-based knowledge of multisystem organ failure, critical care techniques, diagnostic studies and rehabilitative and psychosocial skills. The nurse oversees the total care of the patient, coordinating activities with other disciplines such as occupational and physical therapy, social services, nutritional services and pharmacy. At the same time, the burn nurse is also a specialist in wound care. As a burn wound heals, either spontaneously or through excision and grafting, the nurse is responsible for wound care and for noting subtle changes that require immediate attention, prevention of infection and pain management. The nurse’s role is continuously expanding. Nurses are conducting nursing research and contributing to evidence-based practice of burn care. Practice guidelines, critical pathways and nursing care plans are all tools that help define and refine the nurse’s role in burn care.
+Recent advances in health care technology, public disclosure and published information as well as a realization that we are obligated to reduce prohibitive health care costs are some of the several factors that have promoted the interest in and development of evidence-based practice or a more objective, scientific approach to health care. Previous standards of care, based largely on experience, are now being used as a control in randomized clinical trials. Both are evaluated using specific endpoints such as cost, benefit and risk.[1] Barnsteiner and Provost[2] suggest that there are both research and nonresearch elements in evidence-based practice. Clinical judgment and critical thinking are equally vital to the process.
+Practice guidelines have evolved from the evidence-based practice revolution. They are intended to provide recommendations based on critical reading and interpretation of the current literature for managing specific problems. They attempt to define not only the best but also the most cost-effective treatment. When correctly written, practice guidelines can help minimize practice variances that lead to poor patient outcomes and high health care costs. Because burn centres are few in number and are geographically scattered, there are few burn-focused multicentre trials. Many burn research studies involve only one centre, animal models and small sample sizes. Their limited strength of any demonstrated findings and study conclusions is obvious. There are currently a minimal number of randomized controlled clinical trials that have validated burn clinical care practices. Of the few that do exist, many have been extrapolated from research performed in other critical care patient populations. Recent efforts by the American Burn Association to initiate and support collaboration between burn centres to conduct multicentre trials are on-going. The resulting research studies should generate evidence-based practice and greatly impact future burn care. Additionally, the American Burn Association Committee on Organization and Delivery of Burn Care has published updated Practice Guidelines that were originally published in 2000 as a supplement to the Journal of Burn Care and Rehabilitation. The revised and updated recommendations represent the work of the 2004 to 2006 Committee on the Organization and Delivery of Burn Care.[3]
+Critical pathways that were developed in the late 1990s as another measure to guide medical and nursing practice are more detailed disease and institution-specific protocols that are usually based on practice guidelines. They define the sequence of standardized, multidisciplinary processes or critical events that must occur in order for a particular patient to move toward desired outcomes within a defined period of time. The goal is to use an interdisciplinary perspective to identify expectations of patient care, improve quality care as demonstrated by improving patient outcomes, decreasing length of stay, decreasing readmissions, decreasing costs and increasing patient satisfaction.[4] They define anticipated length of stay, delineate desired outcomes and goals, provide directions for care, identify the best practice model for a specific group of patients, promote collaboration between disciplines and provide an opportunity for continuous improvement in care delivery.
+Critical pathways represent the standard of care in average cases and were developed in response to economic incentives and pressures as they encourage the proper use of resources, which in turn reduces waste of time, energy and material. They promote well-coordinated, well-communicated continuity of care through collaborative practice and facilitate adherence to regulations imposed by regulatory bodies, reduce length of stay and resource utilization and reduce practice variances and adverse outcomes. Table 1 summarizes some of the various purposes that are served by critical pathways.
+Purposes of critical pathways
+Implementation of critical pathways is challenged by many pros and cons. While they provide a useful guideline in assessment, intervention and evaluation, they must be constantly monitored and updated based on the patient’s response to therapy. Further, they must be individualized for each patient’s needs.[5] They should not to be construed as a cookbook mentality. They are not laws that must be rigidly followed. Contrary to popular belief, they do not annihilate individuality. It is important to remember that they are guidelines that outline the current standards of care. They also provide a useful educational tool for all members of the burn care team as they reflect each team member’s responsibilities. The nurse spends the most time with a patient and is in the best position to monitor progress, report changes and coordinate activities of other team members. Critical pathways are most commonly depicted along two axes, one representing time and one representing aspects of care, including laboratory studies, consult services, nutrition, pharmaceutical support, patient education, etc.
+Another useful element of critical pathways is their ability to identify variances, or unexpected events, both positive and negative. The analysis of these variances provides an excellent framework for a quality improvement program and can help focus improvement efforts in any of the four major areas: caregiver or provider, hospital or system, patient or family and/or community variance.
+During all phases of injury, assessment by the nurse must focus on early detection or prevention of complications associated with moderate to severe burn injury. Frequent monitoring is required to assess indices of essential organ function. A list of the more common actual or potential nursing diagnoses for patients with thermal injuries in the resuscitative, acute and rehabilitative phases of care is presented in Table 2.[6]
+Nursing diagnoses
+The nurse’s goal is to deliver patient-focused care using a holistic approach. In order to accomplish this, the nursing process was introduced in the 1950s and has served as the framework for nursing care delivery ever since. The process uses a scientific method to combine systems theory with the art of nursing. It entails both problem-solving techniques and a decision-making process.[7] The nursing process consists of five steps, which together facilitate the delivery of high-quality, individualized patient care. The five steps are as follows:
+Assessment is the first step of the process and is a systemic approach to collecting information about the patient. It includes not only symptoms and physiologic factors but also social, cultural, psychological and spiritual aspects of the patient’s life.
+Diagnosis, the second step, is the nurse’s analysis of the assessment. It is sometimes also referred to as needs identification.
+Outcomes/planning uses the two previous steps to determine patient goals, both long- and short term, desired outcomes and appropriate nursing interventions. These outcomes and interventions are written as the nursing care plan and serve as a written guide for all health care professionals. An example of a written nursing care plan for the patient in the resuscitative and acute care phases of a major burn injury is provided in by Molter et.al and Ahrns-Klas.[89]
+Implementation is the action portion of the nursing process and care plan.
+Evaluation of both the patient’s response to interventions and progress toward achieving outcome goals is critical. Both need to be documented and the plan of care modified accordingly.
+The nursing process is both dynamic and interactive. It is a continuous cycle of logical progression from one step to the next. Because each step relies of the accuracy of the previous step, data must be validated. Clearly, the plan that is developed from the nursing process must be adjusted based on the interactions with other disciplines in order to meet the continuously changing needs of the patient. In creating the care plan, the nurse uses theory, nursing judgment and clinical expertise. In many ways, the nursing process and written plan of care help define the nurse’s role. By using the nursing process, the nurse is able to establish autonomy and a common ground within the practice of nursing through nursing diagnoses. The continuous review of the care plan facilitates evaluation and documentation of outcomes and helps provide the basis for establishing standards of care.
+Ineffective airway clearance and impaired gas exchange related to tracheal oedema or interstitial oedema secondary to inhalation injury and/or circumferential torso burn manifested by hypoxemia and hypercapnia
+Adequate airway clearance and gas exchange.Partial pressure of oxygen >90 mmHg; partial pressure of arterial carbon dioxide <45 mmHg; oxygen saturation >95%.Respiration rate 16–20 breaths/min and unlaboured; breath sounds present and clear in all lobes; chest wall excursion symmetrical and adequate.Mentation clear; patient mobilises secretions, which are clear to white.
+Adequate airway clearance and gas exchange.
+Partial pressure of oxygen >90 mmHg; partial pressure of arterial carbon dioxide <45 mmHg; oxygen saturation >95%.
+Respiration rate 16–20 breaths/min and unlaboured; breath sounds present and clear in all lobes; chest wall excursion symmetrical and adequate.
+Mentation clear; patient mobilises secretions, which are clear to white.
+Monitor oxygen saturation every hour, arterial blood gases as needed; Chest X-ray as orderedAssess respiratory rate, character and depth and level of consciousness every hour; breath sounds every 4 h;If not intubated, assess for stridor, hoarseness and wheezing every hourAdminister humidified oxygen as orderedAssist patient in coughing and deep breathing every hour while awake;Suction every 1–2 h or as neededMonitor sputum characteristics and amountTurn every 2 h to mobilize secretionsElevate head of bedSchedule activities to avoid fatigue
+Monitor oxygen saturation every hour, arterial blood gases as needed; Chest X-ray as ordered
+Assess respiratory rate, character and depth and level of consciousness every hour; breath sounds every 4 h;
+If not intubated, assess for stridor, hoarseness and wheezing every hour
+Administer humidified oxygen as ordered
+Assist patient in coughing and deep breathing every hour while awake;
+Suction every 1–2 h or as needed
+Monitor sputum characteristics and amount
+Turn every 2 h to mobilize secretions
+Elevate head of bed
+Schedule activities to avoid fatigue
+Assess oxygenation and ventilationEvaluate respiratory status and Response to treatmentExpedite elimination of carbon monoxide and prevent/treat hypoxemiaPromote lung expansion, ventilation, clearing of secretions and clear airwayFacilitate lung expansionDecrease ventillatory effort and dyspnea
+Assess oxygenation and ventilation
+Evaluate respiratory status and Response to treatment
+Expedite elimination of carbon monoxide and prevent/treat hypoxemia
+Promote lung expansion, ventilation, clearing of secretions and clear airway
+Facilitate lung expansion
+Decrease ventillatory effort and dyspnea
+Adequate fluid volume
+Deficient fluid volume secondary to fluid shifts into the interstitium and evaporative loss of fluids from the injured skin
+Heart rate 80–120 beats/min; blood pressure adequate in relation to pulse and urine output; optimal tissue perfusion; nonburn skin warm and pinkHourly urine output 30–50 ml/h; 75–100 ml/h in electrical injury; 1 ml/kg/h in children <30 kg body weightWeight gain based on volume of fluids given in the first 48 h, followed by diuresis over the next 3–5 daysLaboratory values within normal limits; urine negative for glucose and ketones
+Heart rate 80–120 beats/min; blood pressure adequate in relation to pulse and urine output; optimal tissue perfusion; nonburn skin warm and pink
+Hourly urine output 30–50 ml/h; 75–100 ml/h in electrical injury; 1 ml/kg/h in children <30 kg body weight
+Weight gain based on volume of fluids given in the first 48 h, followed by diuresis over the next 3–5 days
+Laboratory values within normal limits; urine negative for glucose and ketones
+Monitor: vital signs and urine output q1h until stable; mental status every hour for at least 48 h.Titrate fluid requirements to maintain urinary output and haemodynamic stabilityRecord daily weight and hourly intake/output measurements; evaluate trends
+Monitor: vital signs and urine output q1h until stable; mental status every hour for at least 48 h.
+Titrate fluid requirements to maintain urinary output and haemodynamic stability
+Record daily weight and hourly intake/output measurements; evaluate trends
+Assess perfusion and oxygenation statusRestore intravascular volume.Evaluate fluid loss and replacement.Monitor serum electrolytes, glucose, creatinine, haematocrit, blood urea nitrogen as required by patient statusEvaluate need for fluid and electrolyte replacement resulting from large fluid and protein shifts.
+Assess perfusion and oxygenation status
+Restore intravascular volume.
+Evaluate fluid loss and replacement.
+Monitor serum electrolytes, glucose, creatinine, haematocrit, blood urea nitrogen as required by patient status
+Evaluate need for fluid and electrolyte replacement resulting from large fluid and protein shifts.
+Ineffective tissue perfusion related to compression and impaired vascular circulation in the extremities with circumferential burns, as demonstrated by decreased or absent peripheral pulses.
+Adequate tissue perfusion, as manifested by strong peripheral pulses.No tissue injury in the extremities secondary to inadequate perfusion from oedema or eschar.
+Adequate tissue perfusion, as manifested by strong peripheral pulses.
+No tissue injury in the extremities secondary to inadequate perfusion from oedema or eschar.
+Assess peripheral pulses every hour for 72 h. Notify the physician of changes in pulses, capillary refill or pain capillary refill or painElevate upper and lower extremitiesBe prepared to assist with escharotomy or fasciotomy
+Assess peripheral pulses every hour for 72 h. Notify the physician of changes in pulses, capillary refill or pain capillary refill or pain
+Elevate upper and lower extremities
+Be prepared to assist with escharotomy or fasciotomy
+Assess peripheral perfusion and the need for escharotomyDecrease oedema formationAllows oedema expansion and restore peripheral perfusion
+Assess peripheral perfusion and the need for escharotomy
+Decrease oedema formation
+Allows oedema expansion and restore peripheral perfusion
+Acute pain related to burn trauma.
+Relief of pain.Identifies factors that contribute to pain. Verbalizes improved comfort level.Physiological parameters within normal limits and remain stable after administration of narcotic analgesia.
+Relief of pain.
+Identifies factors that contribute to pain. Verbalizes improved comfort level.
+Physiological parameters within normal limits and remain stable after administration of narcotic analgesia.
+Monitor physiological responses to pain, such as increased blood pressure increased heart rate, restlessness and nonverbal cues. Use validated tools in each patient to assess pain and anxietyAssess response to analgesics or other interventionsEvaluate effectiveness of interventionsAdminister analgesic and/or anxiolytic medication as ordered; administer IV during critical care phasesMedicate patient before bathing, dressing changes and major procedures as neededUse nonpharmacological pain-reducing methods as appropriate
+Monitor physiological responses to pain, such as increased blood pressure increased heart rate, restlessness and nonverbal cues. Use validated tools in each patient to assess pain and anxiety
+Assess response to analgesics or other interventions
+Evaluate effectiveness of interventions
+Administer analgesic and/or anxiolytic medication as ordered; administer IV during critical care phases
+Medicate patient before bathing, dressing changes and major procedures as needed
+Use nonpharmacological pain-reducing methods as appropriate
+Pain responses are variable and unique to each patientFacilitate pain relief. Intramuscular/ intravenous, during critical care phases, medications not consistently absorbedAssist patient to perform at higher level as needed of the functionReduce need for narcotics
+Pain responses are variable and unique to each patient
+Facilitate pain relief. Intramuscular/ intravenous, during critical care phases, medications not consistently absorbed
+Assist patient to perform at higher level as needed of the function
+Reduce need for narcotics
+Risk for infection related to loss of skin, impaired immune response and invasive therapies.
+Absence of infection.No inflamed burn wound margins.No evidence of burn wound, donor site or invasive catheter site infection.Autograft or allograft skin is adherent to granulation tissue.Body temperature and white blood cell count within normal limits.Sputum, blood and urine cultures negative.Glycosuria, vomiting, ileus,and/or change in mentation absent.
+Absence of infection.
+No inflamed burn wound margins.
+No evidence of burn wound, donor site or invasive catheter site infection.
+Autograft or allograft skin is adherent to granulation tissue.
+Body temperature and white blood cell count within normal limits.
+Sputum, blood and urine cultures negative.
+Glycosuria, vomiting, ileus,and/or change in mentation absent.
+Assess temperature and vital signs and characteristics of urine and sputum every 1–4 hoursMonitor white blood cells, burn wound healing status and invasive catheter sitesEnsure appropriate protective isolation; provide meticulous wound care; educate visitors in burn unit guidelines
+Assess temperature and vital signs and characteristics of urine and sputum every 1–4 hours
+Monitor white blood cells, burn wound healing status and invasive catheter sites
+Ensure appropriate protective isolation; provide meticulous wound care; educate visitors in burn unit guidelines
+Facilitate early detection of developing infectionsPrevent infection by decreasing exposure, to pathogens
+Facilitate early detection of developing infections
+Prevent infection by decreasing exposure, to pathogens
+Gastrointestinal bleeding related to stress response.
+Less than body requirements related to paralytic ileus and increased metabolic demands secondary to physiological stress and wound healing.
+Absence of injury and adequate nutrition.Decreased gastric motility and ileus resolved.No evidence of gastrointestinal haemorrhaging.Enteral feedings absorbed and tolerated.Daily requirement of nutrients consumed.Positive nitrogen balance.Progressive wound healing.90% of preburn weight maintained.
+Absence of injury and adequate nutrition.
+Decreased gastric motility and ileus resolved.
+No evidence of gastrointestinal haemorrhaging.
+Enteral feedings absorbed and tolerated.
+Daily requirement of nutrients consumed.
+Positive nitrogen balance.
+Progressive wound healing.
+90% of preburn weight maintained.
+Place nasogastric tube for gastric decompression in >20% TBSA burnsAssess abdomen and bowel sounds every 8 hoursAssess NG aspirate (color, quantity, pH, and hemocult blood); monitor stool for hemocult bloodAdminister stress ulcer prophylaxisInitiate enteral feeding, and evaluate tolerance.Provide high-calorie/protein supplementsRecord all oral intake and count caloriesSchedule interventions and activities to avoid interrupting feeding timesMonitor weight daily or biweekly
+Place nasogastric tube for gastric decompression in >20% TBSA burns
+Assess abdomen and bowel sounds every 8 hours
+Assess NG aspirate (color, quantity, pH, and hemocult blood); monitor stool for hemocult blood
+Administer stress ulcer prophylaxis
+Initiate enteral feeding, and evaluate tolerance.
+Provide high-calorie/protein supplements
+Record all oral intake and count calories
+Schedule interventions and activities to avoid interrupting feeding times
+Monitor weight daily or biweekly
+Prevent nausea, emesis, and aspiration from ileusEvaluate resolution of decreased gastric motilityFacilitate early detection of development of gastrointestinal ulcerPrevent stress ulcer developmentCaloric/protein intake must be adequate to maintain positive nitrogen balance and promote healingPain, fatigue, or sedation interferes with desire to eatAssess tolerance and response to feeding interventions
+Prevent nausea, emesis, and aspiration from ileus
+Evaluate resolution of decreased gastric motility
+Facilitate early detection of development of gastrointestinal ulcer
+Prevent stress ulcer development
+Caloric/protein intake must be adequate to maintain positive nitrogen balance and promote healing
+Pain, fatigue, or sedation interferes with desire to eat
+Assess tolerance and response to feeding interventions
+Risk for hypothermia related to loss of skin and/or external cooling.
+Normothermia.
+Rectal/core temperature 37°C (98.6°F)–38.3°C (101°F).
+Monitor and document rectal/core temperature every 1 to 2 hours; assess for shiveringMinimize skin exposure; maintain environmental temperaturesFor temperature <37° C (98.6° F), institute rewarming measures
+Monitor and document rectal/core temperature every 1 to 2 hours; assess for shivering
+Minimize skin exposure; maintain environmental temperatures
+For temperature <37° C (98.6° F), institute rewarming measures
+Evaluate body temperature statusPrevent evaporative and conductive lossesPrevent complications
+Evaluate body temperature status
+Prevent evaporative and conductive losses
+Prevent complications
+Impaired physical mobility and self-care deficit related to burn injury, therapeutic splinting and immobilization requirements after skin graft and/or contractures.
+Physical mobility.Demonstrates ability to care for burn wounds.No evidence of permanent decreased joint function.Verbalises understanding of plan of care.Vocation resumed without functional limitations or adjustment to new vocation.
+Physical mobility.
+Demonstrates ability to care for burn wounds.
+No evidence of permanent decreased joint function.
+Verbalises understanding of plan of care.
+Vocation resumed without functional limitations or adjustment to new vocation.
+Perform active and passive range of motion exercises to extremities every 2 hours while awake. Increase activity as tolerated. Reinforce importance of maintaining proper joint movement/function, alignment with splintsElevate extremitiesProvide pain relief measures before self-care activities and occupational and physical therapyExplain procedures, interventions, and tests in clear, simple, age-appropriate languagePromote use of adaptive devices as needed to assist in self-care and mobility
+Perform active and passive range of motion exercises to extremities every 2 hours while awake. Increase activity as tolerated. Reinforce importance of maintaining proper joint movement/function, alignment with splints
+Elevate extremities
+Provide pain relief measures before self-care activities and occupational and physical therapy
+Explain procedures, interventions, and tests in clear, simple, age-appropriate language
+Promote use of adaptive devices as needed to assist in self-care and mobility
+Prevent contractures and loss ofDecrease edema and promote range of motion and mobilityFacilitate mobility; assist performance at a higher level of functionPatient more likely to participate and adhere if understands purposeDecrease dependency
+Prevent contractures and loss of
+Decrease edema and promote range of motion and mobility
+Facilitate mobility; assist performance at a higher level of function
+Patient more likely to participate and adhere if understands purpose
+Decrease dependency
+Risk for ineffective individual coping and disabled family coping related to acute stress of critical injury and potential life-threatening crisis.
+Effective coping.Verbalises goals of treatment regimen.Demonstrates knowledge of support systems.Able to express concerns and fears.Patient’s and family’s coping is functional and realistic for the phase of hospitalisation.
+Effective coping.
+Verbalises goals of treatment regimen.
+Demonstrates knowledge of support systems.
+Able to express concerns and fears.
+Patient’s and family’s coping is functional and realistic for the phase of hospitalisation.
+Orient patient and family to unit guidelines and support services; provide written information and reinforce frequently; involve in plan of care. Support adaptive and functional coping mechanismsUse interventions to reduce fatigue and painUse social worker for assistance in discharge planningConsult psychiatric services for inadequate coping skills or substance abuse treatmentPromote use of group support sessions
+Orient patient and family to unit guidelines and support services; provide written information and reinforce frequently; involve in plan of care. Support adaptive and functional coping mechanisms
+Use interventions to reduce fatigue and pain
+Use social worker for assistance in discharge planning
+Consult psychiatric services for inadequate coping skills or substance abuse treatment
+Promote use of group support sessions
+Decrease fear and anxietyAdequate pain control and rest facilitate patient copingProvide expert consultation and intervention.Assist patient and family in understanding experiences, reactions, and methods of coping
+Decrease fear and anxiety
+Adequate pain control and rest facilitate patient coping
+Provide expert consultation and intervention.
+Assist patient and family in understanding experiences, reactions, and methods of coping
+The importance of a multidisciplinary approach to patient care cannot be overstated. At the centre of this team is the nurse. The burn nurse’s assessments, observations and evaluations of the patient’s response to interventions are crucial to preventing complications and make the critical difference in patient outcomes.

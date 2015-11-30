@@ -1,0 +1,4 @@
+The hematopoietic system is a source of odorants that distinguish major histocompatibility types
+
+Radiation chimeras were made by restoring lethally irradiated inbred mice with bone marrow cells of F1 hybrid mice of crosses between that inbred strain and an H-2-congenic strain. The urine of these chimeras was tested by the Y maze method, and shown to have acquired a scent indicative of the reconstituting donors' H-2 type. Thus, cells of the hematopoietic system contribute to the H-2-related odorant properties that enable mice to distinguish one another according to their H-2 types.
+

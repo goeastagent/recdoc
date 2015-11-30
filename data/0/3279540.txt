@@ -1,0 +1,5 @@
+Errata
+
+
+Hovind P, Rossing P, Tarnow L, Johnson RJ, Parving H-H. Serum uric acid as a predictor for development of diabetic nephropathy in type 1 diabetes: an inception cohort study. Diabetes 2009;58:1668–1671
+The print version of the article listed above contains a typographical error in Table 1. The unit of measure mmol/l for serum uric acid is incorrect. The correct unit of measure is μmol/l. The online version reflects these changes.

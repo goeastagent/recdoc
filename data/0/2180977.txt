@@ -1,0 +1,4 @@
+Neutralization of reovirus: the gene responsible for the neutralization antigen
+
+The S1 genome segment of reovirus is linked to type specificity as determined by neutralization antibody. This gene segment codes for a minor outer capsid polypeptide (sigma1). Therefore, sigma1 is the peptide responsible for induction of neutralization antibody and confers type specificity. This biologic property of reovirus was defined using hybrid recombinants clones between reovirus types 1 and 3 and 2 and 3.
+

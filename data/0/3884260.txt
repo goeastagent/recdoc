@@ -1,0 +1,41 @@
+Ethyl­enedi­ammonium sodium tetra­kis­[bis­(ethyl­enedi­amine-κ2N,N′)(oxalato-κ2O1,O2)cobalt(III)] [penta­hydrogen di(phosphato­octa­deca­tungstate)] tetra­deca­hydrate
+
+The title compound, Na(C2H10N2)[Co(C2O4)(C2H8N2)2]4[H5(P2W18O62)2]·14H2O, prepared under hydro­thermal conditions, consists of two Dawson-type [P2W18O62]6− anions, four isolated [Co(en)2(ox)]+ cations (en = ethyl­enedi­amine and ox = oxalate), one Na+ cation, one [H2en]2+ cation, and a number of ordered (14) and disordered solvent water mol­ecules. The [P2W18O62]6− polyoxidometalate anion has site symmetry 1 and contains two structurally distinct types of W atoms: viz. six W atoms on vertical pseudo-mirror planes grouped in two sets of three, and 12 equatorial W atoms that do not lie in the pseudo-mirror planes grouped in two sets of six. In each [Co(en)2(ox)]+ cation, the CoIII ion is coordinated by four N atoms from two en ligands and two O atoms from the ox ligands, completing a distorted octa­hedral structure. The sodium cation lies on an inversion centre and additionally links the complex cations and anions. In the crystal, the various units are linked by N—H⋯O and O—H⋯O hydrogen bonds, which together with C—H⋯O hydrogen bonds form a three-dimensional structure. The contribution of a region of disordered electron density, possibly highly disordered solvent water mol­ecules, to the scattering was removed with the SQUEEZE option of PLATON [Spek (2009 ▶). Acta Cryst. D65, 148–155]. To equilibrate the charges five H+ ions have been added to the polyoxidometalate. These H+ ions and the disordered solvent contribution were not included in the reported mol­ecular weight and density.
+
+For general background to polyoxidometalate-based materials, see: Du et al. (2013 ▶); Dolbecq et al. (2010 ▶); Zheng & Yang (2012 ▶). For organic–inorganic hybrid materials constructed from components based on saturated polyoxidoanions and transition metal coordination complexes (TMCs), see: Liu et al. (2011 ▶); Wang et al. (2010 ▶). For related organic–inorganic hybrid compounds based on saturated Wells–Dawson-type polyoxidoanions and TMCs, and the synthesis of the POM precursor, Na6[P2W18O62]·19H2O, see: Wang et al. (2010 ▶); Contant (1990 ▶).
+Na(C2H10N2)[Co(C2O4)(C2H8N2)2]4[H5(P2W18O62)2]·14H2OMr = 10132.09Triclinic, a = 14.5999 (4) Åb = 16.5714 (4) Åc = 18.0165 (4) Åα = 83.693 (2)°β = 84.586 (2)°γ = 87.992 (2)°V = 4311.88 (18) Å3Z = 1Mo Kα radiationμ = 24.42 mm−1T = 293 K0.12 × 0.06 × 0.05 mm
+Na(C2H10N2)[Co(C2O4)(C2H8N2)2]4[H5(P2W18O62)2]·14H2O
+Mr = 10132.09
+Triclinic, 
+a = 14.5999 (4) Å
+b = 16.5714 (4) Å
+c = 18.0165 (4) Å
+α = 83.693 (2)°
+β = 84.586 (2)°
+γ = 87.992 (2)°
+V = 4311.88 (18) Å3
+Z = 1
+Mo Kα radiation
+μ = 24.42 mm−1
+T = 293 K
+0.12 × 0.06 × 0.05 mm
+Oxford Diffraction multiwire proportional diffractometerAbsorption correction: multi-scan (CrysAlis RED; Oxford Diffraction, 2009 ▶) Tmin = 0.158, Tmax = 0.37549498 measured reflections17862 independent reflections12523 reflections with I > 2σ(I)Rint = 0.057
+Oxford Diffraction multiwire proportional diffractometer
+Absorption correction: multi-scan (CrysAlis RED; Oxford Diffraction, 2009 ▶) Tmin = 0.158, Tmax = 0.375
+49498 measured reflections
+17862 independent reflections
+12523 reflections with I > 2σ(I)
+Rint = 0.057
+R[F2 > 2σ(F2)] = 0.040wR(F2) = 0.075S = 0.9617862 reflections1096 parameters12 restraintsH-atom parameters constrainedΔρmax = 2.01 e Å−3Δρmin = −1.98 e Å−3
+R[F2 > 2σ(F2)] = 0.040
+wR(F2) = 0.075
+S = 0.96
+17862 reflections
+1096 parameters
+12 restraints
+H-atom parameters constrained
+Δρmax = 2.01 e Å−3
+Δρmin = −1.98 e Å−3
+Data collection: CrysAlis CCD (Oxford Diffraction, 2009 ▶); cell refinement: CrysAlis CCD; data reduction: CrysAlis RED (Oxford Diffraction, 2009 ▶); program(s) used to solve structure: SHELXS97 (Sheldrick, 2008 ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 ▶); molecular graphics: SHELXTL (Sheldrick, 2008 ▶) and DIAMOND (Brandenburg, 2006 ▶); software used to prepare material for publication: SHELXTL.
+Crystal structure: contains datablock(s) 1, New_Global_Publ_Block. DOI: 10.1107/S160053681302583X/su2626sup1.cif
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report

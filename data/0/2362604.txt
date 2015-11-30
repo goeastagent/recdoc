@@ -1,0 +1,5 @@
+Electronic Videoendoscopy of Laryngeal Lesions Using a New Type of Rhinolarynx Endoscope Portion
+
+This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Patients with laryngeal lesions were observed and the lesions were recorded with anelectronic videoendoscope system using the PENTAX EPM-3300 video processor and thePENTAX VNL-1330 endoscope portion. The electronic videoendoscope system differsfrom the conventional fiberoptic endoscope connected to a video camera in that a smallmonochrome charge-coupled device (CCD) chip is built in the tip of the endoscope portion.The PENTAX VNL-1330 rhinolarynx endoscope portion has a tip and insertion tube ofapproximately 4mm in outer diameter to allow its introduction through the nasal passagesinto the larynx. The dynamic color images provided by this system were superior to thoseobtained by a conventional rhinolarynx flexible fiberscope connected to a video camera inboth quality and resolution of detail. This system should be useful in diagnosing laryngeallesions.
+

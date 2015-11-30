@@ -1,0 +1,14 @@
+With their dying breath
+
+lebrasn@rockefeller.edu
+
+Cells gasping for air call out to progenitor cells for help, according to results from Daniel Ceradini, Geoffrey Gurtner, and colleagues (NYU School of Medicine, New York, NY).
+Figure SDF1 (red) calls progenitor cells to endothelial cells (green) lacking oxygen.Gurtner/Macmillan
+SDF1 (red) calls progenitor cells to endothelial cells (green) lacking oxygen.
+Gurtner/Macmillan
+Stem cells and progenitor cells do not start making new tissue just anywhere—most often, they are recruited to injury sites. The chemokine SDF-1 is known to trigger this recruitment, but what causes injured tissues to make SDF-1 was unclear.
+Gurtner's group shows that SDF-1 expression is activated by HIF-1, a transcription factor known to be stabilized at low oxygen levels. Tissues with low oxygen and high SDF-1—either injury sites or bone marrow, where progenitors normally hang out—were hot spots for endothelial progenitor cells (EPCs) carrying the SDF-1 receptor, CXCR4. These EPCs adhered better to endothelial cells expressing SDF-1, and they also migrated toward SDF-1 gradients in vitro. Disruption of SDF-1 interactions with CXCR4 prevented EPC homing and blocked vascular regeneration in mice.
+Progenitors for other cell types (neurons, muscle, etc) might also respond to SDF-1, but Gurtner focused on EPCs because new vasculature can both repair and prevent injury. “Endothelial cells downstream of a [partial] blood vessel blockage become hypoxic and make SDF-1,” he says. “This marks them like a barcode that says this is an area of injury. Often, nothing cataclysmic happens because new vessels form natural bypasses around the blockage.”
+HIF-1 was already known to induce sprouting of existing blood vessels through the induction of the growth factor VEGF. But hypoxia and HIF-1 were not known to recruit circulating progenitors. ▪
+Reference:
+Ceradini, D., et al. 2004. Nat. Med. doi:10.1038/nm1075.

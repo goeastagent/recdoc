@@ -1,0 +1,5 @@
+An Inducible System for the Hydrolysis and Transport of β-Glucosides in Yeast 
+
+Until September 1, 1965, Dr. Kaplan's address will be Laboratoire de Génétique Physiologique du Centre National de la Recherche Scientifique, Gif-Sur-Yvette (Seine et Oise), France
+ A strain of bakers' yeast was isolated which could utilize cellobiose and other β-D-glucosides quantitatively as carbon and energy sources for growth. Cellobiose-grown cells contained a largely cryptic enzyme active against the chromogenic substrate p-nitrophenyl-β-D-glucoside. The patent (intact cell) activity of such cells was inhibited by azide and, competitively, by cellobiose; neither agent inhibited the β-glucosidase activity of lysed cells or of extracts. The enzyme induced by growth in cellobiose medium had no affinity for cellobiose as either substrate or inhibitor; its substrate specificity classifies it as an aryl-β-glucosidase. It was concluded that growth in cellobiose also induced the formation of a stereospecific and energy-dependent system whose function determined the rate at which intact cells could hydrolyze substrates of the intracellular β-glucosidase. 
+

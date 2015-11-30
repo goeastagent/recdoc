@@ -1,0 +1,4 @@
+Mouse-human heterokaryon analysis with a 33258 Hoechst-Giemsa technique
+
+The bibenzimidazol derivative 33258 Hoechst can be used to distinguish microfluorometrically between mouse and human nuclei in heterokaryons. This affords a quick and accurate alternative to autoradiography in the analysis of such heterokaryons.	The 33258 Hoechst fluorescence patterns can be converted after irradiation to a Giemsa rendition of the differential staining.
+

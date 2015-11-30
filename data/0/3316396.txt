@@ -1,0 +1,4 @@
+Calculation of selection indexes that includes highly correlated traits
+
+
+(To access the full article, please see PDF)

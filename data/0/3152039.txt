@@ -1,0 +1,42 @@
+Sodium p-toluenesulfinate tetra­hydrate
+
+The title compound, Na+·C7H7O2S−·4H2O, is the hydrate of the sodium salt of para-toluene­sulfinic acid. The mol­ecular geometry around the sulfur atom is tetra­hedral with X–S–Y angles spanning a range of 102.23 (6)–110.04 (6)°. In the crystal, the water mol­ecules connect the sodium cations into chains along the b axis via O—H⋯O hydrogen bonds. An inter­molecular O—H⋯π inter­action is also observed.
+
+For the crystal structure of sodium para-toluene­sulfonate, see: Reinke & Rudershausen (1999 ▶). For details of graph-set analysis of hydrogen bonds, see: Etter et al. (1990 ▶); Bernstein et al. (1995 ▶).         
+                  Na+·C7H7O2S−·4H2O                           M                           r = 250.24Monoclinic,                                                    a = 15.9432 (19) Å                           b = 6.1825 (7) Å                           c = 12.2668 (15) Åβ = 100.166 (5)°                           V = 1190.1 (2) Å3                                                   Z = 4Mo Kα radiationμ = 0.31 mm−1                                                   T = 200 K0.53 × 0.39 × 0.21 mm               
+Na+·C7H7O2S−·4H2O
+                           M                           r = 250.24
+Monoclinic,                         
+                           a = 15.9432 (19) Å
+                           b = 6.1825 (7) Å
+                           c = 12.2668 (15) Å
+β = 100.166 (5)°
+                           V = 1190.1 (2) Å3                        
+                           Z = 4
+Mo Kα radiation
+μ = 0.31 mm−1                        
+                           T = 200 K
+0.53 × 0.39 × 0.21 mm
+                  Bruker APEXII CCD diffractometerAbsorption correction: multi-scan (SADABS; Bruker, 2008 ▶) T                           min = 0.826, T                           max = 1.00010741 measured reflections2846 independent reflections2554 reflections with I > 2σ(I)                           R                           int = 0.025               
+Bruker APEXII CCD diffractometer
+Absorption correction: multi-scan (SADABS; Bruker, 2008 ▶) T                           min = 0.826, T                           max = 1.000
+10741 measured reflections
+2846 independent reflections
+2554 reflections with I > 2σ(I)
+                           R                           int = 0.025
+                                             R[F                           2 > 2σ(F                           2)] = 0.029                           wR(F                           2) = 0.087                           S = 1.112846 reflections162 parameters12 restraintsH atoms treated by a mixture of independent and constrained refinementΔρmax = 0.72 e Å−3                        Δρmin = −0.23 e Å−3                                       
+                           R[F                           2 > 2σ(F                           2)] = 0.029
+                           wR(F                           2) = 0.087
+                           S = 1.11
+2846 reflections
+162 parameters
+12 restraints
+H atoms treated by a mixture of independent and constrained refinement
+Δρmax = 0.72 e Å−3                        
+Δρmin = −0.23 e Å−3                        
+Data collection: APEX2 (Bruker, 2010 ▶); cell refinement: SAINT (Bruker, 2010 ▶); data reduction: SAINT; program(s) used to solve structure: SHELXS97 (Sheldrick, 2008 ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 ▶); molecular graphics: ORTEPIII (Farrugia, 1997 ▶) and Mercury (Macrae et al., 2008 ▶); software used to prepare material for publication: SHELXL97 and PLATON (Spek, 2009 ▶).
+Crystal structure: contains datablock(s) I, global. DOI: 10.1107/S1600536811021738/dn2695sup1.cif            
+Supplementary material file. DOI: 10.1107/S1600536811021738/dn2695Isup2.cdx            
+Structure factors: contains datablock(s) I. DOI: 10.1107/S1600536811021738/dn2695Isup3.hkl            
+Supplementary material file. DOI: 10.1107/S1600536811021738/dn2695Isup4.cdx            
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report            

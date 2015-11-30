@@ -1,0 +1,5 @@
+Bioanalytical automatlon: history and future plans
+
+This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Bioanalysis is determining the concentration of drugs andmetabolites in biological fluids (i.e. plasma and urine). Duringthe past 15 years tremendous advances in bioanalysis, for exampleHPLC, auto injectors, data collection systems and robotics hasenabled the productivity of the bioanalyst to increase but it stillrequires considerable manual intervention. This paper describes therationale, the justification and the plans Bristol-MyersSquibb has to completely automate the entire bioanalytical process.
+

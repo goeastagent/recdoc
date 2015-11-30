@@ -1,0 +1,4 @@
+Breast-cancer incidence and mortality rates in different countries in relation to known risk factors and dietary practices.
+
+Breast-cancer incidence and mortality rates in different countries were found to be correlated with height, weight and age at menarche, all of which have been identified as risk factors in cohort or case-control studies of breast cancer. There were, however, correlations with total fat and animal protein consumption per capita even after controlling for the 3 anthropometric variables. This suggests that, while some of the effects of diet on breast-cancer rates may be mediated through effects on these known risk factors, there may be more direct effects as well.
+

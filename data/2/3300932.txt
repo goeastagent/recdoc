@@ -1,0 +1,8 @@
+The effects of small-volume hypertonic saline and large-volume lactated Ringer's solutions on intra-abdominal blood loss after spleen rupture or iliac artery tear
+
+
+Prehospital fluid resuscitation, before hemorrhage control, of hypotensive trauma victims sustaining blunt or penetrating abdominal trauma is highly controversial, largely due to concerns related to increased blood loss or rebleeding.
+In two separate studies, simulating blunt or penetrating abdominal trauma, we tested the hypothesis that prehospital fluid resuscitation could provide hemodynamic benefits despite increased intra-abdominal bleeding, which was directly measured after a spleen rupture or an iliac artery tear.
+Anesthetized dogs (17 ± 2 kg) were submitted to two distinct models of uncontrolled intra-abdominal hemorrhage. Suture lines were placed either around the spleen or through the left common iliac artery, and exteriorized. After abdominal closure, splenic rupture with hilar vascular injury (SR, n = 30) or a 3-mm iliac arterial tear (IAT, n = 18) was produced by pulling the exteriorized line, and animals were randomized into three groups 20 min later: lactated Ringer's (LR), 32 ml/kg over 15 min; 7.5% NaCl/6% Dextran70 (HSD), 4 ml/kg over 4 min; or controls (CT), no fluids.
+Both HSD and LR treatments restored cardiac output, while in controls it remained reduced. No significant differences occurred in blood loss (ml/kg) between CT and treated animals after IAT (CT 48 ± 6; HSD 42 ± 2; LR 49 ± 1), or SR (CT 38 ± 4; HSD 43 ± 5; LR 42 ± 5).
+No fluid infusion during intra-abdominal bleeding resulted in a low blood flow state, while resuscitation with both HSD and LR produced hemodynamic benefits without increased blood loss.

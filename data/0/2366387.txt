@@ -1,0 +1,258 @@
+Dr Smellie’s Prescriptions for Pregnant Women
+
+
+William Smellie (1697–1763) was unquestionably the most influential man-midwife, or specialist obstetrician, in Britain during the eighteenth century. His early years in Lanark and Glasgow were spent training as a medical apprentice and, from 1720, working as a local general practitioner. But in 1739 he left Scotland for London where he established an extensive midwifery practice, both for booked and consulting cases. He also began to give separate courses of lectures on midwifery to men (mainly physicians and surgeons) and women (midwives), which combined theoretical instruction (including the use of anatomical models) and practical instruction at the delivery of volunteers. Smellie received an MD from the University of Glasgow in 1745, and in 1759 he retired back to Lanark. He has been called “the master of British midwifery” and “the father of scientific obstetrics”.1 However, it is by his several publications that he is best known and through which he reached a wide national and international audience. His reputation as an author was doubtless enhanced by the editorial work of his friend the novelist, Tobias Smollett. Smellie’s principal publications are as follows:
+A treatise on the theory and practice of midwifery, London, printed for D Wilson, first edition 1751 dated 1752 (volume I).
+A collection of cases and observations in midwifery. By William Smellie MD, To illustrate his former treatise, or first volume, on that subject, London, printed for D Wilson and T Durham, first edition 1754 (volume II).
+A collection of preternatural cases and observations in midwifery, completing the design of illustrating his first volume on that subject, London, printed for D Wilson and T Durham, first edition 1764 (volume III).
+A sett of anatomical tables, with explanations, and an abridgement of the practice of midwifery; with a view to illustrate a treatise on that subject, and collection of cases, London, believed to be printed by subscription for D Wilson and T Durham, first edition 1754 (volume IV).
+Fortunately, the first three volumes were reprinted in 1876, 1877 and 1878 in an annotated edition by the distinguished obstetrician, Dr Alfred H McClintock.2
+Volumes II and III contain notes on 531 cases, which McClintock numbered. Most of these relate to pregnant women attended personally by Smellie, accompanied on occasions by his students, but there were some cases contributed by former students and authorities selected by the author. These case notes provide a wealth of information on the ways in which women were treated before, during and after delivery, how labours were conducted (including the use of instruments), and the distinctions between men- and women-midwives. They also contain medical prescriptions intended to resolve the various complications of labour: constipation, pain and sleeplessness, included. In writing his prescriptions, Smellie used a form of abbreviated Latin conventional among pharmacists until the middle of the twentieth century. However, he was not consistent in the way he abbreviated and occasionally he used the prescriptions supplied by other doctors who were also inconsistent.3 Some of the most commonly used symbols and conventions are listed below.
+ recipe, take thou
+gr., Gr. granum, a grain
+ scrupulus, a scruple, 20 grains
+ drachma, a drachm, 3 scruples, 60 grains
+ uncia, an ounce troy, 8 drachms, 480 grains, or fluiduncia, a fluid ounce
+ libra, a pound (apothecaries' or troy weight), 12 ounces (1 pound troy is 12 ounces and 5760 grains, 1 ounce troy is 31.1035 grams)
+gut., gutt., Gt., Gtt. gutta, a drop, approximately one minim
+O octarius, a pint
+ā (or āā), ana, of each (implies that the subsequent quantity is to be taken of each of the preceding ingredients)
+ss. or SS. semis, a half
+M misce, mix
+There is also a strict grammar and layout for prescriptions which were standardized during the nineteenth century, but which Smellie (or his printers) did not follow in the 1750s. For example, each item in the prescription should be written on a separate line with the specified quantity at the end, and the final line of the prescription providing instructions to the patient on dosage (sometimes in English, but commonly also in abbreviated Latin).4 Smellie’s principal reference work was The dispensatory of the Royal College of Physicians in Edinburgh, 1727 (abbreviated to ED). But he would also have had access to The dispensatory of the Royal College of Physicians in London, 1721 (abbreviated to LD), and Dr Radcliffe’s practical dispensatory, 1730 (abbreviated to RD). Dr William Lewis’s The new dispensatory, 1770 (abbreviated to ND), also used here, has the advantage of combining material from the pharmacopoeias of both the Edinburgh and London Colleges of Physicians.5
+About thirty of the case notes contain at least one full, or nearly full, prescription and some (notably 481 from Mr Ayer) contain several in great detail. These prescriptions are important for a number of reasons. First, and most obviously, they show what medicines were commonly available during the 1730s, 1740s and 1750s since nearly all case notes were dated. They tell us about quantities and dosages, and the balance between chemical medicines that could be bought pre-prepared and simples (herbal medicines) that the apothecary would have to make up.6 Secondly, because the prescriptions form parts of case notes we may, in certain circumstances, make judgements on the effectiveness of the treatments and the ways in which Smellie managed his patients. For example, medicines were often prescribed in combination with other forms of treatment, such as blood-letting (venesection) and the use of leeches; recommendations on diet, rest or exercise; and the use of surgical procedures. Their context makes these particular prescriptions far more valuable than those to be found in the published collections or even those compiled by individual pharmacists.7 Thirdly, Smellie was dealing with a specialist area of medical practice—obstetrics, gynaecology and paediatrics. His case notes were not only focused on a limited number of problems, hence they included great detail on subtle variations in circumstances, but they were also linked to a textbook (volume I) and a set of anatomical drawings to illustrate foetal development and potential delivery complications (volume IV). The prescriptions had their place in a remarkably comprehensive instruction manual, one that summarized the most up-to-date knowledge, and Smellie’s guide to good practice. However, it is also important to remember that these were the very early days of pharmacology; trial and error was the only method, herbs and potions the usual resort, and scientifically-based therapeutics two hundred years away.8
+Among the thirty cases with prescriptions there are some obvious clusters in terms of the problems being addressed, but there is also a certain amount of repetition, and in many instances the patient is experiencing more than one difficulty requiring multiple solutions. I focus mainly on conditions and complaints in order to examine Smellie’s response, including his prescribing strategy.9 Eight groups of case types are defined: abortion or miscarriage; stillbirth; death of mother; tedious labour; infant live born and mother surviving; constipation; advantages and disadvantages of opium use; and paediatric cases.10
+Cases of abortion or miscarriage, terms used interchangeably, are numerous in Smellie’s notes. Here there are five examples, one relating to each of the second to the sixth months of gestation. The principal problems Smellie had to tackle were haemorrhage (flooding), for which he used venesection (blood-letting) and, in a severe case (79), a vaginal tampon soaked in vinegar water; pain and lack of rest, here he used opiates in various forms; constipation, where he used enemas (glysters) or other purgatives (ipecacuanha); and for low pulse or poor circulation, he used solutions of ammonia (smelling salts, sal volatile (ammonium carbonate in alcohol), hartshorn). In these five cases the treatment appears to have been effective although, of course, Smellie was not able to influence the causes of abortions, only their consequences.11
+44. Severe vomiting in the second month; abortion (collection, part and entry numbers: X/1/1; volume and page in McClintock edition: II 86).
+1746, woman in second month of first pregnancy, violent vomiting, had been given 25 grains of ipecacuanha (plant root with emetic and purgative properties, also used against dysentery (ED 18; ND 156, 295)).
+She immediately swallowed 15 drops of liquid laudanum in a teacup full of mint-water; and I prescribed the following mixture to be taken occasionally,
+ Tinct. Rosar. Rub. vss. [tincture of red roses (LD 23)]
+Laud. Liquid. gut. xv. [liquid laudanum]
+Confect. Fracast. ij. M. [Diascordium]12
+and between whiles a little burnt claret.
+The patient miscarried after discharge of blood.
+79. Haemorrhage, plug (tampon) used; abortion (XII/2/2; II 124).
+1750, woman three months pregnant, Smellie had delivered her first child; flooding consequent upon a fall down stairs; put to bed, blooded and took some tincture of roses with Syr. e Meconio (syrup of white poppies, or Diacodium),13 prescribed another venesection by a doctor living in the same house as the woman, together with styptic (binding) medicines such as Tinct. Antiphthsic. Alum. (alum used to stem bleeding (ED 80; LD 271, ND 82)) and Sang. Dracom. (dragon’s blood, East Indian resin (ND 217)).
+I took the hint from Hoffman,14 and stuffed the vagina tight with fine tow [tampon of compressed flax or hemp] dipped in oxycrate [mixture of vinegar and water], which immediately stopped the discharge; I then prescribed an anodyne [pain relieving] draught, with 5 drops of the Tinct. Thebaic. [common Egyptian opium], and 2 drachms of the Syr. e Meconio [Diacodium], and directed her to drink frequently of chicken broth…. Towards morning, the pains grew so strong, that the tow was forced through the os externum, together with the abortion, about the size of a goose-egg, and some coagulated blood.
+48. Violent longing in fourth month; abortion (X/1/5; II 88).
+1753, woman four months pregnant; violent craving for an artichoke, which was suppressed.
+Towards morning she was attacked by violent spasmodic contractions in her bowels, and I was just called in time to receive the little foetus; but there was no discharge from the uterus; so that I knew the placenta still adhered, and resolved to wait with patience until it should be disengaged and come away of itself. Being costive [from constipation], she received a glyster [clyster, enema]; after the operation of which she swallowed the following draught, to be repeated every four hours, for three or four times.
+ Confect. Damocrat. ij. [mithridate, or confection of Damocrates (ED 147; ND 591)]15
+Aq. Cinnamon. Simp. iss. [cinnamon water]
+Spirit. Syr. Croci ā ij. M. [spirit and syrup of saffron]
+By these means she obtained rest and a plentiful sweat; and next night there was a small discharge from the uterus, succeeded by after-pains, which discharged the secundines [after-birth].
+81. Abortion at fifth month, placenta retained until fifth day (XII/2/4; II 127).
+April 1749, woman in poor health, fourth pregnancy.
+She had felt some symptoms of pregnancy, such as sickness and retching in the morning; but as the menstrual discharge was regular, she could not think herself with child. Nevertheless the pains increased, and she was suddenly delivered of a child in the beginning of the fifth month; which, though not above four or five inches long, lived some hours. The secundines did not come away, nor was there any discharge of blood; circumstances which plainly proved that the placenta still firmly adhered to the uterus; and as it was impossible to introduce the hand, I thought it advisable to leave it to come away of itself, especially as the patient was free from pain. A glyster was administered; after the operation of which she took an anodyne draught of Aq. Cinnamon. ten. and Syr. e Meconio [Diacodium], and enjoyed good rest that night. But her pulse being rather too slow, I prescribed the following draught to be taken three times a day, in order to quicken the circulation:
+ Aq. Cinnamon. ten. iss. [cinnamon water]
+Pulv. Contrajerv. comp. j. [powder of Dorstenia contrajerva root, compound (ED 134; ND 551)]
+Castor. Sal. Volat. Succini. ā gr. v. [castor (originally glands of the beaver, especially from Russia, a “nervine and antihysteric medicine” (ND 121)), aromatic spirit of ammonia, amber (ED 242)]
+Syr. Croci q. s. f. Haustus [syrup of saffron; make sufficient for a draught], 8va quaq. hora sumend. [to be taken every 8 hours]
+By this julep [sweet medicated drink] a slight fever was produced; on the fifth day a flooding began, and the placenta being separated, was easily delivered. The flooding being at first pretty violent, was restrained by repetitions of the anodyne draught; and before the secundines came away, she received a glyster every night. After this miscarriage she enjoyed a better state of health than before.
+25. Twin conception: one expelled at sixth month, and the other at end of ninth month (VI/0/2; II 59).
+1731, third labour; first two children had died; aborted foetus expelled.
+I ordered an aperient glyster [purgative enema] to be immediately injected, after the operation of which I directed her to take 10 grains of the Pilul. Matth,16 and next day 4 spoonfuls of the following mixture every six hours:
+ Aq. Puleg. vj. [water of Pulegium, herb pennyroyal (ED 114)]
+Bryon. comp. j. [compound of bryony root]
+Tinct. Castor. gut. c. [tincture of castor]
+Spirit. Cornu. Cervi gut. lx. [spirit of hartshorn]
+Syr. Caryoph. j. M. [syrup of cloves]
+Second twin safely delivered, though small.
+There are five cases in which a potentially viable infant, in terms of its gestational age, was born dead. These stillbirths must be treated as a separate group because the foetuses were at or close to full-term and needed to be delivered. Of the five, two were born footling (feet first), two required version, two were delivered by forceps, one foetus had been dead for some days and one had probably died during labour. The mothers suffered from a set of common complaints. Haemorrhage, pain, lack of sleep and diarrhoea were the most common, but a violent cough and a tear to the mouth of the womb were also experienced. Smellie prescribed liberal doses of opium (15, 20 or 30 drops), especially of Tinct. Thebaic. (common Egyptian opium), but he also used Syr. e Meconio (Diacodium). These cases also required Smellie’s skills as a midwife. He was obliged to manipulate the position of the foetus in the womb, to cope with unnatural presentations and to use his forceps, an operation that he tried to avoid. Although none of the foetuses could be saved, none of the mothers died in childbirth. They seem to have recovered their strength, eventually.
+335. Woman attacked with a flooding; placenta presented and was extracted before the child, which was delivered by the feet (XXXIII/2/10; III 64).
+August 1750, case supplied by Mr Gr—, who had been sent to the patient by Smellie; flooding brought on by violent cough.
+That night I gave her 10 grains of the Pilul. Saponac. [saponaceous pills, from almond soap, opium and lemon essence (ND 575)], and next forenoon she was considerably better both as to the cough and flooding. In the afternoon she was ordered to take two spoonfuls of a cordial and pectoral julep frequently; the pills were also repeated, by which means she rested very well that night: but next day the cough and flooding returned, from which I took about 10 ounces of blood from her arm…. As she was costive, I ordered a glyster, which had its proper effect; and after that the following mixture, to strengthen and encourage the [labour] pains.
+ Pulv. Boracis ij. [borax powder (ND 107)]
+Tinct. Castor., Croci āā j. [tincture of castor and saffron]
+Spirit. Lavend. Sal. Volat. Oleos āā gut. x1. [spirit of lavender, salt of ammonia]
+Aq. Cinnamon. ten. j. [cinnamon water]
+Aq. Menthae vj. [mint water]
+Syr. Croci iss. [syrup of saffron]
+Cap. Coch. ij secundá quáque horá. [patient to take 2 spoonfuls every 2 hours]
+Mr Gr— delivered the placenta and then the child footling, but the head stuck in the passage. By inserting his finger in the lower jaw, he delivered the dead child.
+On examining the child’s body, I perceived it had been dead many days, from the livid appearance of the same, but more especially from the scarf skin being stripped off in several places.
+He removed secundines with the remaining part of placenta.
+[I] ordered the patient some Ol. Amygd. d. and Syr. ex Althaea [almond oil and syrup of marshmallows (LD 38)] for her cough; also some Theriac. Venet. [Venice treacle (ND 592)] with Pulv. Gascon. [bezoardic or Gascoign’s powder (ND 551)] to warm her, and promote perspiration….
+To assuage the fever, and assist the uterine discharges, I ordered her to take repeated doses of the saline draught, sweetened with Syr. Diacod. [Diacodium, syrup of poppies] which relieved her much; and by proper nourishment she recovered better than I expected.
+123. Primipara; tedious labour; good effects of opium; stillbirth (XV/3/5; II 180).
+I prescribed a paregoric [soothing] draught to allay the violence of the pain and procure sleep. As she had been used to take opiates, the dose amounted to 30 drops of the Tinct. Thebaic. [common Egyptian opium] with ij. of the Syr. e Meconio, (Diacodium), and some simple cinnamon-water.
+The patient was most reluctant to let Smellie examine her, several doses of opiate were administered to suppress the pain.
+249. Difficult labour; head much squeezed; forceps delivery; child born dead (XXVII/2/2; II 327).
+1750, woman of small stature.
+The patient being pretty much exhausted, was put in bed; and as she had been seized with looseness [of the bowels] at the beginning of labour, and enjoyed no sleep the preceding night, I prescribed an anodyne mixture of
+Tinct. Thebaic. gut. xv. [tincture of opium, common Egyptian opium]
+Syr. e Meconio iij. [syrup of white poppies, Diacodium]
+Aq. Simp. vss. M. [in simple water]
+of which she took 2 spoonfuls immediately, to be repeated occasionally until rest should be procured.
+The prescription worked, but the patient became weaker, and Smellie delivered a dead child with forceps.
+334. A case of flooding; version; os uteri torn; secondary haemorrhage (XXXIII/2/9; III 62).
+1742, woman aged about 30, already had several children; violent discharge of blood from the uterus; she was immediately blooded; opiates and restringent (binding) medicines were prescribed; the mouth of the womb was torn during delivery.
+The flooding diminished after delivery, on giving her 15 drops of Tinct. Thebaic. [Egyptian opium], but returned in two hours, and ceased again on repeating the same medicine.
+332. Woman in labour attacked by flooding; version; infant delivered footling, but dead (XXXIII/2/7; III 58).
+1747, references to Drs Gordon and Sands.
+There was no appearance of life in the child; yet no part of it was livid; neither the lips nor private parts; a circumstance which plainly showed that it had not been long dead….
+We likewise directed her, if she should not get refreshing rest, or if the flooding should return, to swallow the paregoric draught already prescribed; in which were 20 drops of Tinct. Thebaic.
+(Case 332 has a sequel, 471: death of woman from diarrhoea about six weeks after delivery).
+In three cases the mother died during or shortly after labour. In one Smellie was called in only nine days after labour; he could do nothing other than try to make the woman comfortable. In a second case the foetus was two months premature, delivered footling and dead born. Smellie could not control the mother’s fever and she died on the fourth day. Case 481 (not reproduced here), supplied by Mr Ayer of Boston, Lincolnshire, stands out in Smellie’s collection. He obviously included it deliberately as a lesson to the less experienced. Ayer provided a catalogue of fifteen detailed prescriptions, but the treatment was to no avail. The mother died on the twelfth day after delivery.17 The level of maternal mortality in London at this time cannot be stated with any certainty, but it was probably around 0.9 to 1.2 per cent during the mid-eighteenth century. Some of Smellie’s patients did die in childbed, although fewer than might be expected and far fewer than in the new lying-in hospitals.18
+451. Primipara; puerperal fever; death on the tenth day (XL/2/8; III 250).
+1725, Smellie called on ninth day after delivery of the first child.
+I am afraid it could have been of little service, I ordered some warm medicines and fomentations, viz. first warm stupes [poultices of cloth] with aromatic herbs, and a large epithem [liquid or semi-liquid poultice] of Theriac. Venet. [Venice treacle] applied to the abdomen; and internally a mixture, 4 spoonfuls to be taken frequently of
+Aq. Puleg. Theriac., ā iij. [water of pennyroyal, treacle]
+Syr. Croci q. s. [syrup of saffron, as much as is sufficient]
+389. Primipara; premature birth; face presenting; the os uteri snipped and the child delivered footling; death of patient (XXXV/0/10; III 156).
+1744, labour two months before full-term; fainting; pulse low and weak; face of child presenting.
+I ordered her to take every now and then a little red wine burnt; and waited to see if the pains would return as she recovered strength. I also prescribed an anodyne and astringent [pain relieving and binding] mixture of
+Tinct. Rosar. iv. [tincture of roses]
+Aq. Nucis Moschat. iss. [nutmeg water]
+Laud. Liquid. gut. x. [liquid laudanum]
+Syr. e Meconio. ss. [syrup of white poppies]
+2 spoonfuls to be taken every half hour.
+The child delivered footling, but dead.
+Next day, as the cold shivering returned once in three or four hours, I ordered some extract of the Cortex [Peruvian bark, quinine for malaria (ND 195)] to be dissolved in red wine, and given betwixt the shiverings. The discharge was moderate; but nature being so much exhausted, she died the fourth day. [Also cases 395 and 441.]
+There are five examples of cases in which the labour was complicated, but mother and infant survived. Smellie’s objective was to avoid both diarrhoea and constipation; to manage pain and secure rest; to keep the mother well nourished; to avoid fever and haemorrhage; and to secure a safe delivery, by using forceps if necessary. Laudanum and other opiates were in regular use, but “burnt red wine, nutmeg and toast” were also used. The cases were successful for mother and infant. In 419 Dr Harvie, Smellie’s successor in the London practice, was able to deliver live born triplets.
+164. Premature labour induced by violent diarrhoea (XVIII/4/2; II 224).
+1743, second pregnancy, eight months gone; gentlewoman caught cold after sitting in an open chaise in rainy weather, led to violent super-purgation.
+I found her pulse weak and slow, and her extremities cold; and she told me that, in straining upon the stool, she had something like labour-pains. I immediately prescribed the following bolus [large pill] and draught:
+ Theriac. Androm. ij. [Venice treacle (ED 150; LD 103)]
+sumend. cum haustu. sequenti. [to be taken with the following draught]
+ Aq. Cinnamon. Simp. iss. [cinnamon water]
+Aq. Nucis Moschat. ss. [nutmeg water]
+Liquid. Laud. gut. v. [liquid laudanum]
+Syr. e Meconio ij. M. [syrup of white poppies]
+I directed her to drink plentifully of white-wine whey; and ordered warm bricks, wrapped in flannel, to be applied to her legs and arms, in order to restore the natural heat, to promote a sweat, and encourage rest….
+In consequence of what I had prescribed, her extremities became warmer, her pulse rose, she fell into a breathing sweat, and slept three hours; but being waked by a pain and fresh straining, I ordered her to take half the quantity of the former prescription; by which she was again relieved, dropped asleep; and when she awaked in the evening, was quite free from the pain, griping, and straining, though still very weak and feeble. To obviate this complaint, I directed her to take every now and then some burnt red wine with nutmeg and toast, and in the intervals chicken broth. She continued easy the night following: when I called next day, she told me she had some slight pains; I found the child’s head lower in the pelvis. The pains increased; and in two hours after I arrived the child was delivered.19
+225. Primipara; haemorrhage; rupture of membranes; delivery by forceps (XXV/1/3; II 296).
+1749, labour with first child, violent floodings; Smellie cut membranes with scissors, flooding diminished.
+I then directed the woman to take a little broth frequently, and some wine and water, or caudle [hot drink for invalids], until the broth could be made, and desired the attendants to give her 2 spoonfuls of the following mixture every now and then as a cordial:
+ Aq. Cinnamon. Simp. v. [cinnamon water]
+Tinct. Thebaic. gut. x. [tincture of Egyptian opium]
+Syr. e Meconio ij. M. [syrup of white poppies]
+… The patient, though much recruited, being still weak and the pains languid, I directed the midwife to proceed in supporting her with the broth, and prescribed a cordial mixture, without any opiate, to amuse the woman and her friends.
+Delivered slowly by forceps.
+124. Rectification with fingers of a transverse position of head (XVI/1/1; II 183).
+1749, first labour; tedious, weak and delicate constitution.
+A glyster had been administered with good effect, and the patient had enjoyed a good deal of sleep between the pains; but finding her pulse rather too weak and languid, I directed her to take 2 spoonfuls of the following mixture every hour:
+ Aq. Cinnamon. ten. ivss. [cinnamon water]
+Spirit. j.
+Sal. Volat. Cornu. Cervi ss. [spirit of ammonia and hartshorn, smelling salts]
+Confect. Cardiac. j. [cordial confection (RD 248)]
+Syr. Simp. ss. M. [syrup]
+Smellie turned the head of the foetus, and the woman was safely delivered.
+226. Primipara; tedious labour from mismanagement; forceps (XXV/1/4; II 298).
+3 July 1750, three days in labour; Smellie requested by a loquacious and extremely ignorant midwife to prescribe some medicines to quicken the labour-pains; he sent an elder pupil to gather more precise information, but he was not allowed to examine. Smellie would not prescribe until he had examined the woman himself.
+Finding, upon examination, the head at the lower part of the pelvis, and the hairy scalp of the child, as well as the os externum of the mother, very much swelled, I ordered her to be put to bed, prescribed an anodyne mixture of
+Aq. Fontan. v. [spring water]
+Tinct. Thebaic. gut. xx. [tincture of Egyptian opium]
+sweetened with sugar, directed her to take 2 spoonfuls every half hour, in order to procure sleep, and applied to the os externum a large poultice of loaf-bread and milk, with hog’s lard.
+Smellie finally delivered the infant with forceps.
+419. Delivery of triplets; each presentation of the head; delivered naturally (XXXVII/0/9; III 210).
+1761, case described by Dr Harvie in a letter to Smellie, which included the following prescription.
+ Confect. Damocrat. ss. [mithridate, confection of Damocrates]
+Aq. Alexiter. Simp. iss. [simple alexeterical water]20
+Aq. Nucis Moschat. ij. [nutmeg water]
+Tinct. Thebaic. gut. xv. [tincture of Egyptian opium]
+Syr. Alb. j, M. [white poppy syrup]
+In these four cases the labour was not especially long and drawn out, but each woman had to cope with a particular complication: narrow pelvis; small frame, large baby; eclampsia (convulsions, fits due to high blood pressure); and abscess on the navel. Smellie was resourceful in dealing with each of these, again with success.
+266. Narrowing of brim; forceps applied diagonally and then laterally; delivery (XXIX/0/5; II 355).
+1745, woman had lost two children before.
+She complained of great pain at the juncture of the ossa pubis, as well as behind, where the ossa innominata join the sacrum; and her pulse being low, and the labour-pains weak, I prescribed the following cordial and anodyne mixture.
+ Aq. Cinnamom. Simp. vss. [cinnamon water]
+Pulv. Castor. gr. x. [powder of castor]
+Sal. Volat. Cornu. Cervi gr. vj. [volatile salt of ammonia and hartshorn]
+Syr. e Meconio ss. M. [syrup of white poppies]
+Sumat. Coch. II Statim, et repet. omni semihorá. [2 spoonfuls to be taken immediately and repeat every half hour]
+The patient lay quietly and slept between the pains; Smellie eventually delivered a live child using forceps.
+320. Primipara; the thighs presented, legs brought down (XXXII/0/18; III 29).
+1747, first child of a small and slender woman of weakly constitution; deaths in the family before delivery; Smellie turned and delivered foetus, live born and large, mother very weak.
+The only thing that could be done now, was to give her a little warm wine and water frequently, and sometimes a little weak caudle, to nourish and strengthen her weak body. I ordered her belly to be kept moderately pressed with an assistant’s hands, till a bandage could be safely applied. She was so weak, that I thought it was better to go on in giving her nothing more than a little nourishment, especially as it staid on her stomach. For some weeks before, she had thrown up most of her food, and could scarcely retain as much as to keep her alive; however, I ordered the following medicine; but only to be used if she should be taken with violent pains or restlessness.
+ Sperm. Ceti. Theriac. Androm. ā j. [spermaceti as mild emollient (ND 228), Venice treacle]
+Syr. Croci q. f. ut f. Bolus. [syrup of saffron]
+sumend. cum haust. sequent. et rep. quarta quaque hora, vel ut opus fuerit ad duas vices. [sufficient syrup of saffron to make a bolus, to be taken with the following draught and repeat every 4 hours, or use when needed on two occasions]
+ Aq. Cinnamon. Simp. iss. [cinnamon water]
+Aq. Alexiter. Spirit. cum Aceto, Syr. e Meconio. ā ij. [alexiterical water with vinegar, syrup of white poppies]
+The next day I found her much better; she had got some rest; and the discharges were moderate, although she had not taken the medicines.
+345. Convulsions; eclampsia; child presented with the face; delivered by turning (XXXIII/3/4; III 77).
+1749, violent convulsions in labour, immediately blooded and a glyster given.
+Nervous medicines and opiates were also administered; the last to allay the pains that seemed to bring on the fits; for every time a labour-pain came on, she was thrown into convulsions….
+She was ordered to drink plentifully of weak green tea, and barley-water with Sal. Nitri. [saltpetre, salt of nitre (ND 183)], sweetened with syrup of Althaea [marsh-mallow]. In about three hours after this prescription, the os uteri was much more dilated; and on examining, I found that the forehead and eyes of the child presented; the violence of the fits had abated after blooding and the opiate; but were now grown stronger, and more frequent.
+Smellie required great force to turn and deliver child alive; mother recovered.
+450. Primipara; violent inflammation of the uterus; an imposthume (abscess) forming, and discharged at the navel (XL/2/7; III 247).
+February 1748, Mrs S— in Holborn “who came on purpose from the country to be delivered of her first child”, safely delivered of child and secundines.
+The pains returned at night; she had little rest, and did not sweat. On the first day a hardness and swelling had been perceived above the os pubis, and the pain increased. I ordered
+Elect. Mithridat. j. [mithridate, confection of Damocrates] to be taken every eight hours, with the following draught.
+ Aq. Cinnamon. iss. [cinnamon water]
+Cinnamon. Vinos. ss. [wine of cinnamon]
+Tinct Castor Spirit. Cornu. Cervi ā gut. xxx. [tincture of castor, spirit of hartshorn]
+Syr. Croci ss. [syrup of saffron]
+I also prescribed a paregoric [pain relieving] draught to be taken at night.21
+ Aq. Alexiter. Simp. iss. [alexiterical water]
+Nucis Moschat. Vinos. ij. [nutmeg wine]
+Tinct. Paregor. gut. xxx. [paregoric tincture]
+Syr. e Meconio. ss. [syrup of white poppies]
+… I ordered an emollient glyster [relaxing enema] with ij of Sal. Nitri. [saltpetre or salt of nitre] in it, which gave her two motions….
+She seemed at first relieved by the stools of the swelling and pain: but as they weakened her much, I was obliged to check them by ordering
+ Aq. Cinnamon. Simp. iv. [cinnamon water]
+Cinnamon. Vinos. j. [cinnamon wine]
+Elect. e Scordio. ss. [electury of scordium or Diascordium, disguise for opium (ND 588)]
+Syr. e Meconio. j. [syrup of white poppies]
+4 spoonfuls to be taken every two hours, or as there should be occasion.
+The abscess broke at the navel on the twenty-ninth day. The woman recovered after several weeks.
+Smellie waged a constant battle to control his patients’ bowels. In these two cases he was faced with more severe difficulties involving haemorrhoids and a costive constitution, which was believed to increase the chances of having a miscarriage. Heroic venesection, leeches, a purging bolus and other laxatives were employed.
+52. Constipation, haemorrhoids (X/3/1; II 92).
+1744, a woman in the fourth month of pregnancy afflicted by costiveness and haemorrhoids.
+I prescribed venesection to the quantity of 10 ounces; and as she was averse to a glyster, ordered a bolus, consisting of
+ Flor. Sulph. j. [flowers of sulphur (ED 239; ND 484)]
+Pulv. e Chel. Cancror. Simp. ss. [powder of crabs’ claws]
+Elect. Lenitiv. j. [electuary, combination of gentle laxatives]
+Syr. Rosar. Solut. q. s. [sufficient syrup of roses, possibly to produce a softer electuary]
+to be taken at bedtime, in some water-gruel made with fresh butter. If this should not operate plentifully next morning, I directed it to be reinforced with
+Sal. Glauber. ij. [Glauber's salt, sulphate of sodium, laxative (ED 231)]
+Mannae j. [manna (sap of Calabrian or Sicilian ash tree), mild laxative for pregnant women and children (ND 172)]
+dissolved in water.
+She accordingly took both prescriptions; in consequence of which she had three motions. The sphincter ani was so swelled, inflamed, and painful, that I thought it necessary to foment the parts with the steams of an emollient decoction, in which some Sal. Ammoniac [sal volatile, salt of chloride of ammonia (ND 434)] was dissolved, with a mixture of spirit of wine and vinegar. Notwithstanding these applications, the pain, swelling, and fever increased; and being afraid of using scarifications [shallow incisions in the skin] or leeches to a woman in her condition, without further advice, I desired a physician might be called. He ordered a repletion of venesection and opening medicines; by which the fever was allayed: but as the haemorrhoidal swellings did not subside, we ventured to apply leeches to the parts; about 5 ounces of blood were discharged, and the swelling immediately subsiding, she proceeded happily to the full time.
+80. Abortion with haemorrhage at third month, effects of costive constitution (XII/2/3; II 126).
+8 July 1744, a woman ten weeks pregnant, with pains and flooding; directed to take Pilul. Matth. gr. x, pains and flooding abated.
+She had twice before miscarried in the third month; and in six months after the last of the two miscarriages, conceived again. As the former abortions had probably been owing to a costive constitution and hard straining at stool, she was blooded six weeks after conception; and the same evacuation, to the quantity of 6 or 8 ounces, twice repeated at the interval of a month. At the same time she was directed to take frequently at night, Elect. Lenitiv. ij [electuary, combination of gentle laxatives], or 2 spoonfuls of the Ol. Amygd. d. [almond oil] mixed with an equal quantity of the Syr. Violarum [syrup of violets (ED 118; ND 348)], so as to procure an easy passage every day. By these means she held out to the end of the seventh month, when she was delivered of a child, which is still alive. In the fifth week of her next pregnancy, she was blooded to the quantity of 8 ounces; but neglecting to undergo the same evacuation at the period of another month, and being exposed to some severe exercise, she was taken with a pain in her back; of which she was relieved next morning by losing 8 ounces of blood from the arm. However, she happened to overstrain herself again; and the pain returned with a flooding, which occasioned a miscarriage in the fourth month.
+Many of Smellie’s prescriptions contain some derivative of opium, especially liquid laudanum, Tinct. Thebaic. and Pilul. Matth. In most cases the effects appear to have been as required, pain was reduced and sleep managed, but in at least one case opiates produced hallucinations. Dr Radcliffe, for example, advised caution in their use by languid people and during crises (including labour-pains and gout), although they were admirable for robust people (RD 439). Specialist obstetricians, like Smellie and McClintock, thought them invaluable and the various dispensatories contain many examples of their composition.22
+1. Separation of sacro-iliac articulation in labour (I/1/1; II 5).
+1736, woman aged 35, first labour.
+To help sleep, I prescribed an embrocation [moistening liquid] of the anodyne balsam, and the following bolus.
+ Pilul. Matth. gr. viij. [Matthew's pills]
+Sperm. Ceti. j. [spermaceti]
+Syr. e Meconio q. s. f. Bolus, h. s. sumendus. [sufficient syrup of white poppies made in the form of a bolus, to be taken at bedtime]
+474. Tedious labour; haemorrhage after the placenta; cold and opiates (XLII/1/1; III 270).
+Use of liquid laudanum (15 drops) to help sleep, and cloths dipped in vinegar applied to the pudenda to abate discharge of blood after delivery.
+When I found the labour was pretty far advanced, and the os uteri dilated by the membranes, I gave her 20 drops of the Laud. Liquid. and before the delivery she began to doze betwixt the pains. She was soon delivered, and had a moderate discharge, which gradually abated. She afterwards fell into a sound sleep, and recovered very well. I have had many such cases in which I always found this method the most successful, when called in time, and when the vessels were not too much emptied.
+461. Primipara; easy labour; sleeplessness; ill effects from opium (XLI/3/3; III 259).
+I attended an apothecary’s wife in her first child. She was every way safe and easy after delivery; but could not sleep. I ordered a gentle opiate, which had no effect; but instead of composing, gave her a giddiness, and presented many spectres to her imagination particularly the witches in the tragedy of Macbeth. I then ordered a bolus of
+Pulv. Castor. gr. v. [powder of castor, used for promoting delivery (ND 121)]
+Sal. Volat. Cornu. Cervi gr. iij. [carbonate of ammonia, hartshorn]
+to be taken and repeated occasionally. This had the desired effect, by which she got good rest; and it was the only remedy that procured sleep in her succeeding deliveries.23
+Most of Smellie’s cases were obstetrical or gynaecological in nature, but occasionally he was called to an infant, a child or a young person. Clearly, he had strong views on the tight binding (swaddling) of infants, which were consistent with his attitude to tight-lacing among pregnant women. Loose fitting clothing was to be recommended. Smellie also tackled thrush (candidiasis or moniliasis, caused by the fungus Candidia albicans) and infant diarrhoea. In the latter, his resort to toasted rhubarb and nutmeg seems to have worked. Thrush was said to be fatal in cases 525 and 526, but in 524 the infant was more fortunate. The gargle of barley water and rose honey must have helped, but cannot have cured.24 Smellie tackled menorrhagia in an eighteen-year-old by using an infusion of roses combined with his old stand-by, 15 drops of liquid laudanum.
+503. Child too tightly dressed (XLV/4/1; III 298).
+Smellie delivered a woman in Brook Street who had brought a nurse with her from the country for the lying-in, Mrs Maddocks was midwife; the nurse dressed the infant too tightly.
+I told her the danger of that practice, and that they now dressed them very loose to prevent spoiling their natural shape, which was much better and handsomer than artificial ones. I stayed till I saw the infant dressed loose; and ordered a cordial mixture of
+Aq. Alexiter. Simp. ij. [simple alexiterical water]
+Aq. Alexiter. Spirit. Syr. Croci ā ij. [alexiterical spirit, syrup of saffron]
+a little of this to be given frequently. I also advised them to get a wet nurse as soon as possible.
+522. Green stools in an infant a month old, fed by hand (XLVIII/1/3; III 313).
+A child had been afflicted for many days with curdled green stools, and at last was brought very low by thin watery purging. I ordered
+Aq. Alexiter. Simp. iij. [simple alexiterical water]
+Spirit. ss.
+Elect. e Scordio. ss. [electury of scordium, or Diascordium]
+mixed together, and sweetened with Syr. Simp. [syrup], a spoonful to be given after every stool. I also directed them to administer a glyster made of the decoction of chicken-guts. For nourishment, I prescribed chicken-broth in which rice was boiled. This method had the desired effect in restraining the purging and strengthening the infant. In a few days, when the looseness returned, I ordered 8 grains of toasted rhubarb and 3 grains of toasted nutmeg, and in twelve hours after the mixture as above; and these two answered the purpose. I have been called in many such cases where I have succeeded; but when we are called in too late, the child is generally lost.25
+524. Thrush in a young infant (XLVIII/2/1; III 314).
+Infant about a fortnight old, had been put out to wet nurse, mouth very sore; lips, inside of mouth and throat full of little white spots inclining a little to yellow; nurse had plenty of milk of the right consistency.
+I desired her to give the child frequently a little chicken-broth; to wash the mouth gently and often with a linen-rag dipped in a gargle of barley-water and Mel. Rosarum [rose honey (ED 121)]; also to continue, as she had already begun, to give the breast-milk, milked in the child’s boat. I ordered some doses of the
+Pulv. e Chel. Cancror. comp. gr. v. [compound powder of crabs’ claws]
+Rhubarb. gr. j. [rhubarb, mild cathartic]
+to be given with the broth night and morning, and a blister to be applied betwixt the shoulders.
+The infant was eventually restored to health; the thrush reduced by a combination of nourishment and glysters.
+14. Menorrhagia (abnormally heavy bleeding at menstruation) in young unmarried woman (IV/2/1; II 26).
+1732, woman aged 18 with immoderate discharge of the menses.
+I directed her to take 2 spoonfuls of the following prescription, as often as the violence of the discharge should return.
+ Infusion Rosar. Rub. vj. [infusion of red roses]
+Elix. Vitriol. Laud. Liquid. ā gut. xv. M. [elixir of vitriol and liquid laudanum]
+He also mentions another decoction based on the flowers of the wild pomegranate tree.26
+Although these thirty cases do not cover the full range of problems faced by Smellie in his practice as a man-midwife, they do help to illustrate a considerable amount of his work. They show what he prescribed, the dosages, and how the medicines were received. By implication, they also illustrate what Smellie could not do, the areas in which he was ineffective and was obliged to let nature take its course. Smellie, along with the other men-midwives, is often portrayed as “instrument happy”, having little patience and being too eager to resort to forceps and other devices. But it is clear that he was intent on waiting as long as he could for labour to set in, and that he made every effort to respond to his patients’ needs using a range of treatments: prescriptions, nourishment, action to take, as well as operations where they proved unavoidable. Focusing on the prescription cases helps us to take a wider view of Smellie’s skills, his full armoury of weapons. The writing, and making up, of prescriptions was a highly specialized task, however, one that required at least some knowledge of Latin, as well as pharmacology. This knowledge was restricted to physicians, surgeons and apothecaries. Ordinary women-midwives were excluded. Prescriptions, even more than forceps, had a symbolic role in the division of medical labour, one that is usually ignored by medical historians.27 It is also clear that Smellie was conscientious in writing his prescriptions, he insisted on examining the patient first (case 226); he called upon specialist assistance when required (52); he learnt from medical authorities, such as Hoffmann and Freind; and he was especially familiar with the great dispensatories of his time. It also appears from his case notes that, although he was treating each patient as an individual, there were common problems, which he tackled in consistent ways. The therapy he offered was not haphazard, and his notes, doubtless with Smollett’s help, were highly organized.
+Smellie’s patients were assisted by his prescriptions, but they were not cured. Their pains were relieved (by opiates); their bowels controlled (both constipation and diarrhoea); they were helped to sleep; they were nourished by the chicken broth and restored by the burnt claret and nutmeg toast, and the smelling salts. However, Smellie often resorted to blood-letting (10 or so ounces a session), which could be debilitating especially to a pregnant woman, and the various concoctions of cinnamon, nutmeg, cloves, rose etc. water, as well as the Confect. Damocrat. or the Aq. Alexiter. Simp., would have made very little difference without actually being harmful. Dr Smellie was both caring and skilful; a consideration of his prescription cases enhances that view.28

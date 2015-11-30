@@ -1,0 +1,5 @@
+Unified Theory of Enzyme Catalysis and Denaturation 
+
+Dr. London's present address is Division of Laboratories, North Shore Hospital, Manhasset, Long Island, New York
+ A system of kinetics was developed to show that a simple anion, chloride, bromide, or thiocyanate can inhibit an enzyme, prostatic acid phosphatase, in solution, both competitively with regard to substrate, and noncompetitively. The non-competitive inhibition was related to alteration of charges on the protein molecule. The kinetics developed fit the experimental data. It was demonstrated that the anions studied were also effective accelerators of the thermal denaturation process. From the evidence, a theory was developed proposing that apart from the site of enzyme-substrate combination, secondary factors concerning charged sites and tensions within the enzyme molecular structure conferred specificity on the enzyme. These factors are designated as the "second order specificity," and are under the regulation of anions and protons. 
+

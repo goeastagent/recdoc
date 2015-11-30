@@ -1,0 +1,5 @@
+Erratum
+
+
+Peters A, Laffel L, the American Diabetes Association Transitions Working Group. Diabetes care for emerging adults: recommendations for transition from pediatric to adult diabetes care systems: a position statement of the American Diabetes Association, with representation by the American College of Osteopathic Family Physicians, the American Academy of Pediatrics, the American Association of Clinical Endocrinologists, the American Osteopathic Association, the Centers for Disease Control and Prevention, Children with Diabetes, The Endocrine Society, the International Society for Pediatric and Adolescent Diabetes, Juvenile Diabetes Research Foundation International, the National Diabetes Education Program, and the Pediatric Endocrine Society (formerly Lawson Wilkins Pediatric Endocrine Society). Diabetes Care 2011;34:2477–2485
+In the print version of the article listed above, the link for the template developed by the National Diabetes Education Program is incorrect. On page 2482, the link should have read http://ndep.nih.gov/transitions/. The online version reflects these changes.

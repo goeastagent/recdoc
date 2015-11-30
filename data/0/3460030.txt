@@ -1,0 +1,11 @@
+ERRATA
+
+
+Page 865 (Abstract)
+Replace RESULTS: The prevalence of carotid stenosis in the population studied was 7.4%, and the most frequent risk factors identified were mean age of 70 years, carotid bruit, peripheral obstructive arterial disease, coronary insufficiency and smoking. Independent predictive factors of carotid stenosis include the presence of carotid bruit or peripheral obstructive heart disease and/or coronary insufficiency.
+For RESULTS: The prevalence of carotid stenosis in the population studied was 7.4%, and the most frequent risk factors identified were mean age of 70 years, carotid bruit, peripheral obstructive arterial disease, coronary insufficiency and smoking. Independent predictive factors of carotid stenosis include the presence of carotid bruit or peripheral obstructive arterial disease and/or coronary insufficiency.
+Replace CONCLUSIONS: The population with peripheral obstructive heart disease and carotid bruit should undergo routine screening for carotid stenosis.
+For CONCLUSIONS: The population with peripheral obstructive arterial disease and/or coronary insufficiency and carotid bruit should undergo routine screening for carotid stenosis.
+Page 869
+Replace Independent predictive factors of carotid stenosis include the presence of carotid bruit or peripheral obstructive heart disease and/or coronary insufficiency. Populations that meet these criteria should undergo routine screening for carotid stenosis.
+For Independent predictive factors of carotid stenosis include the presence of carotid bruit or peripheral obstructive arterial disease and/or coronary insufficiency. Populations that meet these criteria should undergo routine screening for carotid stenosis.

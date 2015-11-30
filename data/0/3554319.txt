@@ -1,0 +1,5 @@
+Management of hyperglycemia in type 2 diabetes: a patient-centered approach. Position Statement of the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care 2012;35:1364–1379
+
+
+Inzucchi SE, Bergenstal RM, Buse JB, Diamant M, Ferrannini E, Nauck M, Peters AL, Tsapas A, Wender R, Matthews DR. Management of hyperglycemia in type 2 diabetes: a patient-centered approach. Position Statement of the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care 2012;35:1364–1379
+In Table 1 “Properties of currently available glucose-lowering agents that may guide treatment choice in individual patients with type 2 diabetes mellitus” vildagliptin was incorrectly assigned footnote “a” (Limited use in the U.S./Europe) instead of footnote “b” (Not licensed in the U.S.). The online version reflects these changes.

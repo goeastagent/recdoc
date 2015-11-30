@@ -1,0 +1,5 @@
+Errata
+
+
+Turner N, Hariharan K, TidAng J, Frangioudakis G, Beale SM, Wright LE, Zeng XY, Leslie SJ, Li J-Y, Kraegen EW, Cooney GJ, Ye J-M. Enhancement of muscle mitochondrial oxidative capacity and alterations in insulin action are lipid species dependent: potent tissue-specific effects of medium-chain fatty acids. Diabetes 2009;58:2547–2554
+In the print version of the article listed above, in Table 2, the units for the muscle and liver triglycerides are incorrect. The correct units are μmol/g. The online version reflects these changes.

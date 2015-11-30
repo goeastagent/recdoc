@@ -1,0 +1,12 @@
+errata
+
+
+El Mouzan et al. Prevalence of malnutrition in Saudi children: a community-based study. Ann Saudi Med 2010;30(5):381-385. PMID: 20697172. Some data in some of the tables (and the corresponding data in the text) are corrected as indicated. Changes are highlighted.
+Prevalence of underweight by age and gender.
+P<.0001, Significant difference in prevalence of moderate underweight between boys and girls (P<.0001).
+P< =.0154 Significant difference in prevalence of severe underweight between boys and girls (P=.0154).
+Prevalence of wasting by age and gender.
+P<.0001
+Prevalence of stunting by age and gender.
+P<.0001
+Comparative national prevalence of nutritional indicators in selected countries.

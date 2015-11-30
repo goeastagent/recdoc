@@ -1,0 +1,4 @@
+Ventilator-associated pneumonia or not? Contemporary diagnosis.
+
+Ventilator-associated pneumonia (VAP) is pneumonia in patients who have been on mechanical ventilation for > or =48 hours. VAP is most accurately diagnosed by quantitative culture and microscopy examination of lower respiratory tract secretions, which are best obtained by bronchoscopically directed techniques such as the protected specimen brush and bronchoalveolar lavage. These techniques have acceptable repeatability, and interpretation of results is unaffected by antibiotics administered concurrently for infection at extrapulmonary sites as long as antimicrobial therapy has not been changed for <72 hours before bronchoscopy.
+

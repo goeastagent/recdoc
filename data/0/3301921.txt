@@ -1,0 +1,7 @@
+Serum sodium is inversely proportional to intracranial pressure in acute liver failure
+
+
+Is there a correlation between serum sodium and intracranial pressure (ICP) in patients with acute liver failure. 
+All patients with ICP monitors inserted for suspected intracranial hypertension since 1991 treated on the liver unit of King's College London were identified. Indications for ICP monitoring included pupillary abnormalities, low jugular venous saturation and abnormal posturing. Eighty-two of the 149 ICI charts were available for data collection. ICP, charted hourly, was averaged for every 6 h. Serum sodium, measured approximately 4 hourly was paired with the averaged ICP for the entire period of monitoring. Paired data was placed into four groups. Serum sodium less than 120, serum sodium less than 130, less than 140 and less than 160. 
+See Table and Figure. 
+From the data examined there is a significant inverse correlation between serum sodium and intracranial pressure in acute liver failure. The sole use of electrolyte tree fluids should be avoided in these patients.

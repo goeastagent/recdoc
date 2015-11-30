@@ -1,0 +1,4 @@
+Transfer of human systemic lupus erythematosus in severe combined immunodeficient (SCID) mice
+
+To study the role of peripheral blood leukocytes (PBL) in the pathogenesis of human systemic lupus erythematosus (SLE), we transferred PBL from 5 SLE patients into 15 severe combined immunodeficiency (SCID) mice. Such reconstituted mice showed long-term presence of auto-antibodies characteristic of the donor in their sera, as well as human immunoglobulin deposition, and in some cases mouse C3, in the renal glomeruli. SCID mice repopulated with PBLs from normal donors do not develop serologic abnormalities or immunodeposits. It is concluded that human SLE serology and some associated renal changes can be reproduced solely by PBL transferred from afflicted patients, and that SCID-human-SLE mice may serve as an in vivo laboratory model for the study of human SLE.
+

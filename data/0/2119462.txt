@@ -1,0 +1,4 @@
+A severe combined immunodeficient (SCID) mouse model for infection with Entamoeba histolytica
+
+We used severe combined immunodeficient (SCID) mice to study resistance to invasive infection with Entamoeba histolytica. Seven of seven SCID mice developed liver abscesses when challenged intrahepatically with virulent HM1:IMSS strain E. histolytica trophozoites. Only one of seven similarly challenged immunocompetent congenic C.B-17 mice developed an abscess. Adoptive transfer of polyclonal rabbit anti-E. histolytica antiserum, but not preimmune rabbit serum, completely protected 7 of 12 SCID mice from intrahepatic challenge with ameba. These results demonstrate that lymphocyte-based immunity is important in protection against amebic liver abscess, and that anti-E. histolytica antibody can protect against amebic infection in this system. The SCID mouse may provide a powerful model for studying the components of protective immunity to invasive amebiasis.
+

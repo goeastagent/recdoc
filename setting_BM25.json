@@ -1,0 +1,49 @@
+{
+    "settings" : {
+	"analysis" : {
+	    "analyzer" : {
+		"my_bm25_analyzer" : {
+		    "tokenizer" : "standard",
+		    "filter" : ["lowercase", "baseform", "unique"]
+
+		}
+	    },
+	    "filter": {
+		"baseform": {
+		    "type": "baseform",
+		    "name": "en"
+		}
+	    }
+	}
+    },
+    "mappings":{
+	"article":{
+            "properties":{
+		"pmcid":{
+		    "type":"string"
+		},
+		"title":{
+		    "analyzer":"my_bm25_analyzer",
+		    "type":"string",
+		    "similarity": "BM25",
+		    "term_vector" : "with_positions_offsets_payloads",
+		    "store" : true
+		},
+		"abstract":{
+		    "analyzer":"my_bm25_analyzer",
+		    "type":"string",
+		    "similarity": "BM25",
+		    "term_vector" : "with_positions_offsets_payloads"
+		    "store" : true
+		},
+		"body":{
+		    "analyzer":"my_bm25_analyzer",
+		    "type":"string",
+		    "similarity": "BM25"
+		    "term_vector" : "with_positions_offsets_payloads",
+		    "store" : true
+		}
+            }
+	}
+    }
+}

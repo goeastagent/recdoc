@@ -1,0 +1,5 @@
+Erratum
+
+
+Robertson RP. Estimation of β-cell mass by metabolic tests: necessary, but how sufficient? Diabetes 2007;56:2420–2424
+In Fig. 1 of the article listed above, the ordinate axis is off by a factor of 10; that is, it should range from 0 to 500, not 0 to 50.

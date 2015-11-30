@@ -1,0 +1,5 @@
+Erratum
+
+
+Zineh I, Beitelshees AL, Silverstein JH, Haller MJ. Serum monocyte chemoattractant protein-1 concentrations associate with diabetes status but not arterial stiffness in children with type 1 diabetes. Diabetes Care 2009;32:465–467
+In Table 1 of the article listed above, the mean MCP-1 values of type 1 diabetic and control subjects are erroneously inverted. The correct mean MCP-1 values in this study were as follows: 337.9 ± 122.1 in subjects with type 1 diabetes and 234.9 ± 106.8 in control subjects. The online version reflects these changes.

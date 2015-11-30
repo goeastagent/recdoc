@@ -1,0 +1,11 @@
+Weapons of self-destruction
+
+ruth.williams@rockefeller.edu
+
+Patients with systemic lupus erythematosus (SLE) do not get rid of self-attacking B cells even when in symptom-free remission, report Yurasov et al. (page 2255).
+Figure 1Patients in remission have a lower percentage of autoreactive B cells (black) than do symptomatic SLE patients, but still considerably higher than healthy individuals.
+Patients in remission have a lower percentage of autoreactive B cells (black) than do symptomatic SLE patients, but still considerably higher than healthy individuals.
+Patients with SLE suffer from chronic inflammation mainly of the connective tissues and organs. Treatment with immunosuppressants or cytotoxic drugs relieves the symptoms of SLE by depleting B cells, but these patients in remission are prone to frequent flare-ups.
+During normal B cell development, checkpoints identify and destroy cells that make antibodies against the self. Previous studies revealed high levels of self-reactive antibodies in patients with SLE compared with healthy people, but whether these cells persist in symptom-free remission patients was unknown.
+Yurasov et al. used ELISA to look at the reactivity of individual B cell antibodies. They compared individual B cells from patients in remission with those from symptomatic patients as well as healthy individuals. Although patients in remission had fewer self-reactive B cells than symptomatic patients (34.25% versus 44.4%), they still had considerably more than healthy individuals (19.7%). The B cells analyzed by the team were “naive” and thus immature, suggesting that checkpoint failures early in B cell development are the cause of self-reactive antibodies in SLE.
+The persistence of self-reactive B cells in remission patients might explain the occasional flare-ups and also suggests that, although the symptoms of SLE might disappear in remission, the faulty checkpoints remain. 

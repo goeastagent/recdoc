@@ -1,0 +1,50 @@
+How to achieve balloon stability in aortic valvuloplasty using rapid ventricular pacing
+
+Balloon aortic valvuloplasty is now the treatment of choice for congenital aortic stenosis. Balloon stability may be difficult to achieve and this may result in a suboptimal result or even valve damage. We describe the technique of rapid ventricular pacing as a safe and effective option for achieving balloon stability during aortic valvuloplasty.
+
+Balloon aortic valvuloplasty is now the treatment of choice for children with congenital aortic stenosis. One recognised problem during aortic valvuloplasty is balloon stability. Balloon movement during inflation may give a suboptimal result and valve damage leading to aortic incompetence. Various techniques have been used to stabilize the balloon including:
+PharmacologicalAdenosineEsmololMechanicalCompliant balloon in inferior and superior vena cavaeCompliant balloon inflated in main pulmonary arterySuper-stiff wireFast PacingAtrialVentricular
+Pharmacological
+AdenosineEsmolol
+Adenosine
+Esmolol
+Mechanical
+Compliant balloon in inferior and superior vena cavaeCompliant balloon inflated in main pulmonary arterySuper-stiff wire
+Compliant balloon in inferior and superior vena cavae
+Compliant balloon inflated in main pulmonary artery
+Super-stiff wire
+Fast Pacing
+AtrialVentricular
+Atrial
+Ventricular
+Rapid ventricular pacing to achieve balloon stability is described here.1–3
+Through a (femoral, jugular or subclavian) venous puncture, a 4F bipolar pacing electrode is placed in the right ventricle (RV). The pacing threshold is established and this is defined as the lowest output (voltage or milliamps) required to achive ventricular capture. The RV is paced at an output three times above the threshold to ensure capture. A flow-guided electrode catheter may be useful, especially in infants (figures 1 and 2).
+Flow guided pacing catheter in the right ventricular outflow tract. This is then brought down to the right ventricular apex for pacing. Note balloon at tip of flow guided catheter. The pigtail catheter at the apex of the arch of the aorta.
+Initial aortogram to assess valve function including regurgitation
+The aortic pressure is monitored through a catheter in the aorta. Pacing is started at the rate of 200/min and the effect on the blood pressure is noted. The pacing rate is increased by increments of 20 until the blood pressure in the aorta drops to 50% from baseline i.e. non-paced measurement. Occasionally, pacing at a rate less than 200/ min will also achieve this. Several factors determine the pacing rate required including patient's age, severity of aortic stenosis, left ventricular (LV) function and other cardiac lesions.
+Drop in blood pressure with rapid pacing of right ventricle. Top tracings are ECG, bottom tracings are aortic blood pressure.
+Once the desired pacing rate is established, the aortic valve is crossed with the catheter and wire, the gradient measured and an LV angiogram considered. An appropriate size valvuloplasty balloon then replaces the catheter over an exchange wire (which may be extra stiff if preferred). In small infants it is useful to leave a loop of wire in the left ventricle for added stability.
+Loop of wire (soft end) in left ventricle
+The balloon is de-aired in preparation for valvuloplasty. Once the balloon is centred across the valve, fast pacing is commenced at the pre-determined rate and the balloon is inflated in order to abolish the waist created by the stenosed valve. Rapid pacing should continue until the balloon is deflated.
+Balloon catheter inserted in over the wire. Note balloon markers (arrows)
+Balloon inflation of the aortic valve
+With the wire left in situ, the balloon is replaced by a multitrack (Numed) catheter to measure the gradient and look for any aortic regurgitation without losing access to the LV. If the residual gradient is considered important, a further attempt can be made using a larger balloon as long as it is considered safe to do so. If the result is satisfactory or if there is aortic regurgitation, the procedure is terminated.
+Aortogram after balloon inflation
+The following two angiograms demonstrate aortic valve ballooning without (figure 8) and with (figure 9) fast ventricular pacing in older children. Note the dramatic excursion of the balloon catheter on inflation without ventricular pacing.
+Aortic valve ballooning in an older child without ventricular pacing
+Aortic valve ballooning in an older child with ventricular pacing
+As ventricular pacing is associated with asynchronous contraction of the atria, a bigger drop in blood pressure and cardiac output usually results for an equivalent pacing rate. This effect is desirable to achieve optimal balloon stability.
+If this occurs when the BP drops to 50% of the pre-pacing level, ventricular pacing can be increased by a further 20 beats per minute increment.
+Adds to procedure time.Potential for cardiac perforation.Potential for arrhythmias including VT and possibly VF.Potential for pneumothorax if done from jugular/ subclavian vein.
+Adds to procedure time.
+Potential for cardiac perforation.
+Potential for arrhythmias including VT and possibly VF.
+Potential for pneumothorax if done from jugular/ subclavian vein.
+So far none of the above complications have been encountered in our practice.
+Balloon angioplasty for coarctation of the aorta.Stent implantation for coarctation especially in patients with aortic incompetence.Pulmonary stents to avoid movement especially if severe pulmonary incompetence is present.Non cardiac interventions e.g. carotid stenting or graft stenting for aortic dissectionDuring surgery to minimize bleeding
+Balloon angioplasty for coarctation of the aorta.
+Stent implantation for coarctation especially in patients with aortic incompetence.
+Pulmonary stents to avoid movement especially if severe pulmonary incompetence is present.
+Non cardiac interventions e.g. carotid stenting or graft stenting for aortic dissection
+During surgery to minimize bleeding
+In conclusion, rapid ventricular pacing to achieve balloon stability is a safe and effective option and may reduce the degree of aortic incompetence by minimizing valve damage. Nowadays, we use this technique in preference to any other for balloon stability.

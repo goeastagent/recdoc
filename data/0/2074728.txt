@@ -1,0 +1,4 @@
+Influence of marital status on survival from colon and rectal cancer in Denmark
+
+Survival from colorectal cancer has been analysed in relation to marital status in a nationwide Danish study of 9596 patients with complete follow-up of 22-26 years. After exclusion of 2294 patients with missing information adjusted five-year survival among married patients was significantly longer (RR=0.85; 95% CI 0.78-0.93).
+

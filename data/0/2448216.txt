@@ -1,0 +1,4 @@
+An audit of hospital admissions for acute upper gastrointestinal haemorrhage.
+
+A retrospective survey was made of all 189 patients admitted with acute upper gastrointestinal haemorrhage to the Belfast City Hospital in one year. The commonest single reason for admission was peptic ulcer disease, but this was lower than in other published series from the United Kingdom. Overall mortality was 4.8%. The majority of patients did not require either blood transfusion or surgery. There may be potential benefits of endoscopic haemostatic techniques to deal with this condition.
+

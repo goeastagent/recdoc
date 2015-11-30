@@ -1,0 +1,15 @@
+Microtubules shape the cell
+
+laura.bonetta@comcast.net
+
+Soon after microtubules were first described by electron microscopy, several investigators began suggesting that they were structural elements (Byers and Porter, 1964) because they were localized to sites where cells were changing their shape. In 1967, Lewis Tilney and Keith Porter, then at Harvard University, provided direct experimental evidence that microtubule polymerization was important for the development and maintenance of cell shape.Earlier work by Inoué (1952) had shown that when cells are exposed to cold temperatures the mitotic spindle—later shown to be composed of microtubules—disappears. Working with the protozoan Actinosphaerium nucleofilum, which has needle-like extensions (axopodia) consisting of a well-defined system of microtubules, Tilney and Porter reasoned that “if the microtubules are instrumental in the maintenance of these slender protoplasmic extensions, then low temperature, which, as previously stated, should cause the breakdown of the microtubules, ought secondarily to cause retraction of the axopodia.”
+Figure Axopodial spikes (left) owe their shape to an array of microtubules (right).TILNEY
+Axopodial spikes (left) owe their shape to an array of microtubules (right).
+TILNEY
+Their results supported this hypothesis. Cold treatment of A. nucleofilum cells caused the microtubules to disassemble and the axopodia to withdraw; after returning the cells to room temperature for a few minutes, the microtubules started to reassemble and the axopodia reformed (Tilney and Porter, 1967). The authors concluded that “microtubules are intimately involved not only with the maintenance of the axopodia but also with their growth.” Experiments performed at about the same time showed that treatment of A. nucleofilum cells with agents that cause microtubule depolymerization—mainly, hydrostatic pressure and colchicine treatment—gave similar results (Tilney et al., 1966; Tilney, 1968). Importantly, later work by Tilney and Gibbins (1969) established that microtubules also help change cell structure in higher organisms. The authors treated embryos of the purple sea urchin Arbacia punctulata with colchicine and hydrostatic pressure at different stages of development. Disassembly of the microtubules with these treatments prevented the characteristic cell shape changes in, and thus differentiation of, the mesenchyme of the developing embryo. LB
+Byers, B., and K.R. Porter. 1964. Proc. Natl. Acad. Sci. USA. 52:1091–1099.14224388
+Inoué, S. 1952. Biol. Bull. 103:316.
+Tilney, L.G., and K.R. Porter. 1967. J. Cell Biol. 34:327–343.6033539
+Tilney, L.G. 1968. J. Cell Sci. 3:549–562.5707852
+Tilney, L.G., Y. Hiramoto, and D. Marsland. 1966. J. Cell Biol. 29:77–95.5920198
+Tilney, L.G., and J.R. Gibbins. 1969. J. Cell Biol. 41:227–250.5775787

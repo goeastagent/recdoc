@@ -1,0 +1,4 @@
+The impact of hospital-acquired bloodstream infections.
+
+Nosocomial bloodstream infections are a leading cause of death in the United States. If we assume a nosocomial infection rate of 5%, of which 10% are bloodstream infections, and an attributable mortality rate of 15%, bloodstream infections would represent the eighth leading cause of death in the United States. Because most risk factors for dying after bacteremia or fungemia may not be changeable, prevention efforts must focus on new infection-control technology and techniques.
+

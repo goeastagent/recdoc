@@ -1,0 +1,4 @@
+The relationship of blood lead to systolic blood pressure in a longitudinal study of policemen.
+
+We examined the relationship of blood lead level to systolic and diastolic blood pressure in a longitudinal study of 89 Boston, MA, policemen. At the second examination blood lead level and blood pressure were measured in triplicate. Blood pressure measurements were taken in a similar fashion in years 3, 4, and 5. Multivariate analysis using a first-order autoregressive model revealed that after adjusting for previous systolic blood pressure, body mass index, age, and cigarette smoking, an elevated blood lead level was a significant predictor of subsequent systolic blood pressure. Bootstrap simulations of these models provided supporting evidence for the observed association. These data suggest that blood lead level can influence systolic blood pressure even within the normal range.
+

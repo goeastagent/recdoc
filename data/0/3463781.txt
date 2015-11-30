@@ -1,0 +1,5 @@
+Erratum: A bacterial platform for fermentative production of plant alkaloids
+
+
+Nature Communications2: Article number: 32610.1038/ncomms1327 (2011);Published: 05242011; Updated 05222012.
+In Fig. 2 of this article, the directions of the arrows associatedwith 6OMT and CNMT were inadvertently changed during the production process. The correctversion of the figure appears below:

@@ -1,0 +1,114 @@
+Carbon Dioxide Laser Guidelines
+
+The carbon dioxide (CO2) laser is a versatile tool that has applications in ablative lasing and caters to the needs of routine dermatological practice as well as the aesthetic, cosmetic and rejuvenation segments. This article details the basics of the laser physics as applicable to the CO2 laser and offers guidelines for use in many of the above indications.
+
+The carbon dioxide (CO2) laser is the gold standard in ablative lasers. Detailed knowledge of the machines is essential. Over the past decade, advances in laser technology have allowed dermatologists to improve the appearance of scars and wrinkles and to remove benign skin growths using both ablative and nonablative lasers. CO2 laser treatment ensures minimal discomfort and rapid recovery, enabling a quick return to daily routine. The CO2 laser emits an invisible infrared beam at 10,600 nm, targeting both intracellular and extracellular water. When light energy is absorbed by water-containing tissue, skin vaporization occurs.
+Actinic and seborrheic keratosis,[1‐5] warts,[6‐9] moles, skin tags, epidermal and dermal nevi,[10‐15] xanthelasma.[16‐19]
+Other conditions that have been shown to respond favorably to CO2 laser resurfacing include dermatofibroma,[20] rhinophyma,[21‐25] severe cutaneous photodamage (observed in Favre-Racouchot syndrome), sebaceous hyperplasia, syringomas,[126‐29] actinic cheilitis,[30‐33] angiofibroma,[34‐36] scar treatment,[37‐39] keloid,[40‐43] skin cancer,[44‐47] neurofibroma,[48‐50] diffuse actinic keratoses, granuloma pyogenicum,[51] and pearly penile papules.[52]
+Periorbital and perioral wrinkles,[53‐55] facial resurfacing[56‐60] and acne scars,[61‐65] dyschromias including solar lentigines.[6667]
+Isotretinoin use within the previous six months, active cutaneous bacterial or viral infection in the area to be treated, history of keloid formation or hypertrophic scarring, ongoing ultraviolet exposure, prior radiation therapy to treatment area, collagen vascular disease, chemical peel and dermabrasion.
+Informed consent should be obtained before the procedure according to guidelines.[68] The consent form should specifically state the possible postoperative appearance of the treated area, possible pigmentation changes and need for post-treatment care.
+Position the patient according to the area of lesion such that the area to be treated is close to the laser [Table 1].
+Appropriate positioning of the area to be treated
+Gloves, mask and cap should be used by surgeons and assistants. Clean the area with povidone iodine 5% solution (spirit should not be used because it is inflammable).
+Depending upon the site and type of lesions, one of the following types of anesthesia can be given:
+Eutectic Mixture of Local Anesthesia (EMLA) cream is used. Apply 2mg/cm2 topically under occlusion for 60 min. The occlusion should be removed just before the procedure.
+Lignocaine 2% with or without adrenaline 1:100000 is used. Dosage of lignocaine plain is 3 mg/kg and lignocaine with adrenaline is 7 mg/kg. Lignocaine with adrenaline should be avoided at areas with end arteries like fingers, toes, earlobes, nose, and penis. Local anesthesia (LA) is injected as follows:
+Using 30G needle with bevel pointing upward LA is injected immediately below the planned area of laser. Pinching the lesion before injection will reduce the pain.In case of palms and soles, insert the needle with 45° angulation to the skin surface.Inject the anesthesia while withdrawing and slowly to minimize the pain.Insert the needle at a distance from the lesion such that the tip of the needle is below the lesion after it is pushed in to its full length, failing which anesthesia will be deposited distal to the lesionAnesthesia must be infiltrated slowly and not pushed in briskly to avoid pain.
+Using 30G needle with bevel pointing upward LA is injected immediately below the planned area of laser. Pinching the lesion before injection will reduce the pain.
+In case of palms and soles, insert the needle with 45° angulation to the skin surface.
+Inject the anesthesia while withdrawing and slowly to minimize the pain.
+Insert the needle at a distance from the lesion such that the tip of the needle is below the lesion after it is pushed in to its full length, failing which anesthesia will be deposited distal to the lesion
+Anesthesia must be infiltrated slowly and not pushed in briskly to avoid pain.
+Ring block is employed to anesthetize fingers, toes and penis. The needle is inserted at the base of the fingers and toes on either side or a ring of anesthesia is deposited around the digit. The LA is injected while withdrawing. A distal digital nerve block on either sides of lateral nail folds can supplement a ring block for nail surgeries. In case of penile region, LA is given at the base of the shaft.
+LA is infiltrated circumferentially around the site blocking the nerve impulse from leaving the area. The actual surgical site is not injected. They are particularly useful when a large area needs to be anesthetized.
+Patient's eye should be protected with the eye shield or with wet gauze. Dermatologist and assistants should use wavelength-rated spectacles.
+Hold the hand piece perpendicular to the lesion and press the foot pedal to fire the laser. Vaporize the lesion in coiled, whorled, centrifugal, vertical or horizontal fashion. Vaporize the flat lesions from the top.
+Pedunculated lesions can be excised by lasing from the base of the lesion. Hold the lesion with toothed forceps on the top, pull it to the side on the top of the wet gauze (to prevent charring of the normal skin). Always use wet gauze as dry gauze can catch fire.
+Wipe the vaporized lesions with wet gauze. Always make sure to dry the area or wipe the water with dry gauze. Look for the raw areas. Coagulate the bleeding spots if any by defocusing the laser beam.
+In additions to the above general measures that have to be adopted for lasing various cutaneous lesions, there are special considerations for some. The same and the laser settings are summarized in Table 2. Figures 1‐14 show the results after CO2 laser in different conditions. It is important to know the relation between the power, irradiance and fluence before performing the procedure [Table 3].
+Earlobe keloid before laser
+Earlobe keloid after laser
+Melanocytic nevi before laser
+Melanocytic nevi has healed without scarring after laser
+Pre-treatment photograph of rhinophyma
+Laser ablation of rhinophyma has healed well with mild residual surface irregularity
+Beckers melanosis on face before treatment
+Significant reduction in pigmentation due to Beckers melanosis after laser
+Verrucous epidermal nevus involving left cheek and neck
+Verrucous epidermal nevus on cheek cleared with mild post-inflammatory hypopigmentation and scarring
+Granuloma telangiectaticum, pre-treatment
+Effective ablation of granuloma telangiectaticum by laser
+Multiple, brown-black papules of Dermatosis papulosa nigra on face
+Dermatosis papulosa nigra effectively cleared with laser
+Laser specifications and special considerations for various cutaneous lesions
+The relation between irradiance and fluence
+Always apply hydrocolloid dressings on facial procedures, never undertake a facial procedure, if hydrocolloid dressings are unavailable. [See Appendix for instructions on use of hydrocolloid dressings].Apply topical antibiotics for the superficial lesions for one week.Allow the scabs to fall on own. Avoid picking.Emphasize on sunscreen application three times a day from day one for the lesions on the face and neck.Treat for post-inflammatory hyperpigmentation if any with Kligman's formula.Allow occlusive pressure dressing to remain in place for three to seven days.Look for healthy granulation tissue after removal of the occlusive dressing.Avoid contact with dust. Use handyplast if needed for a couple of days for protection.
+Always apply hydrocolloid dressings on facial procedures, never undertake a facial procedure, if hydrocolloid dressings are unavailable. [See Appendix for instructions on use of hydrocolloid dressings].
+Apply topical antibiotics for the superficial lesions for one week.
+Allow the scabs to fall on own. Avoid picking.
+Emphasize on sunscreen application three times a day from day one for the lesions on the face and neck.
+Treat for post-inflammatory hyperpigmentation if any with Kligman's formula.
+Allow occlusive pressure dressing to remain in place for three to seven days.
+Look for healthy granulation tissue after removal of the occlusive dressing.
+Avoid contact with dust. Use handyplast if needed for a couple of days for protection.
+Minor complications although frequent, are usually of minimal consequence and include post-inflammatory hyperpigmentation, milia formation, perioral dermatitis, acne and/or rosacea exacerbation and contact dermatitis. Hyperpigmentation or erythema over the treated area is common in colored skin and causes anxiety to patients. However, this is temporary, lasting for only about six weeks and gradually improves.
+More serious complications include localized viral, bacterial, and candidial infection, delayed hypopigmentation, persistent erythema, and prolonged healing. The most severe complications are hypertrophic scarring, disseminated infection, and ectropion. Early detection of complications and rapid institution of appropriate therapy are extremely important. Delay in treatment can have severe deleterious consequences including permanent scarring and dyspigmentation.
+Always use hand piece pointer on skin to cut.Remember, lens focuses beam and renders it collimated.Moving hand piece away [defocusing] leads to logarithmic fall in irradiance; use this to coagulate.Super-pulse CO2 laser reduces dwell time, maximizes power.Use continuous wave in highly vascular lesions and areas, debulking and where esthetics is not an issue e.g., foot.Under-treat, eschew therapeutic greed.Laser settings in texts are often for collimated hand pieces, read carefully before applying. One-third to one-fourth the irradiance suggested in the texts seems to deliver the results.The newer CO2 lasers with advanced output control software when used in the super-pulsed mode for carrying out free hand procedures are versatile devices with numerous therapeutic options.
+Always use hand piece pointer on skin to cut.
+Remember, lens focuses beam and renders it collimated.
+Moving hand piece away [defocusing] leads to logarithmic fall in irradiance; use this to coagulate.
+Super-pulse CO2 laser reduces dwell time, maximizes power.
+Use continuous wave in highly vascular lesions and areas, debulking and where esthetics is not an issue e.g., foot.
+Under-treat, eschew therapeutic greed.
+Laser settings in texts are often for collimated hand pieces, read carefully before applying. One-third to one-fourth the irradiance suggested in the texts seems to deliver the results.
+The newer CO2 lasers with advanced output control software when used in the super-pulsed mode for carrying out free hand procedures are versatile devices with numerous therapeutic options.
+Apply topical anesthesia liberally. Occlude the anesthetic cream with provided plastic sheets and 3M transpore and leave it for 30-45 min.After 30-45 min, remove the occlusion and wipe the anesthesia completely with dry gauze.Set the pixel laser at 21 watts.Give single pass using 7*7 tip, that is, 49 pixel dots. Avoid overlapping but give two passes if scars are deep.Apply hydrocolloid dressing for 12 h.Procedure has to be repeated every month for four months.
+Apply topical anesthesia liberally. Occlude the anesthetic cream with provided plastic sheets and 3M transpore and leave it for 30-45 min.
+After 30-45 min, remove the occlusion and wipe the anesthesia completely with dry gauze.
+Set the pixel laser at 21 watts.
+Give single pass using 7*7 tip, that is, 49 pixel dots. Avoid overlapping but give two passes if scars are deep.
+Apply hydrocolloid dressing for 12 h.
+Procedure has to be repeated every month for four months.
+Which of the following is true about CO2 laser?It is an ablative laserIt is a non-ablative laserIt is a semi-ablative laserIt is a minimally ablative laserThe wavelength of the CO2 laser is10,600 nm1,064 nm2,640 mm10,640 nmThe chromophore for CO2 laser isAirWaterMelaninHemoglobinThe following is not an absolute contraindication for CO2 laser therapy:Patient on isotretinoinKeloidal tendencyActive viral infectionSkin phototype 4 and 5The following must not be used to sterilize the treatment area in CO2 laser therapy:Povidone iodineChlorhexidineCetrimideEthanolThis equipment is mandatory while carrying out a CO2 laser procedureCold air blowerAirconditioningSmoke evacuatorOperating theatre lightsDermatosis papulosa nigra is treated with the following type of anesthesia:Ring blockField blockTopical anesthesiaGeneral anesthesiaTo cut with the CO2 laser, which mode is most suited?FocusedDefocusedFractionatedCollimated
+Which of the following is true about CO2 laser?It is an ablative laserIt is a non-ablative laserIt is a semi-ablative laserIt is a minimally ablative laser
+It is an ablative laser
+It is a non-ablative laser
+It is a semi-ablative laser
+It is a minimally ablative laser
+The wavelength of the CO2 laser is10,600 nm1,064 nm2,640 mm10,640 nm
+10,600 nm
+1,064 nm
+2,640 mm
+10,640 nm
+The chromophore for CO2 laser isAirWaterMelaninHemoglobin
+Air
+Water
+Melanin
+Hemoglobin
+The following is not an absolute contraindication for CO2 laser therapy:Patient on isotretinoinKeloidal tendencyActive viral infectionSkin phototype 4 and 5
+Patient on isotretinoin
+Keloidal tendency
+Active viral infection
+Skin phototype 4 and 5
+The following must not be used to sterilize the treatment area in CO2 laser therapy:Povidone iodineChlorhexidineCetrimideEthanol
+Povidone iodine
+Chlorhexidine
+Cetrimide
+Ethanol
+This equipment is mandatory while carrying out a CO2 laser procedureCold air blowerAirconditioningSmoke evacuatorOperating theatre lights
+Cold air blower
+Airconditioning
+Smoke evacuator
+Operating theatre lights
+Dermatosis papulosa nigra is treated with the following type of anesthesia:Ring blockField blockTopical anesthesiaGeneral anesthesia
+Ring block
+Field block
+Topical anesthesia
+General anesthesia
+To cut with the CO2 laser, which mode is most suited?FocusedDefocusedFractionatedCollimated
+Focused
+Defocused
+Fractionated
+Collimated
+1. a, 2. a, 3. b, 4. d, 5. d, 6. c, 7. c, 8. a.

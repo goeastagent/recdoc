@@ -1,0 +1,1433 @@
+Encyclopaedia of tumour-associated familial disorders. Part I: from AIMAH to CHIME syndrome
+
+Cancer is associated with a wide range of hereditary disorders. Recognizing these disorders in cancer patients may be of great importance for the medical management of both patients and their relatives. Conversely, recognizing the fact that cancer may develop as a complication of a particular hereditary disorder which has already been diagnosed may be important for the same reason. The Familial Cancer Database (FaCD) is a web-based application  which has been developed at our department with the intention to assist clinicians and genetic counsellors in making a genetic differential diagnosis in cancer patients, as well as in becoming aware of the tumour spectrum associated with hereditary disorders that have already been diagnosed in their patients. This encyclopaedia is published in parts and discusses the disorders included in the FaCD database in alphabetical order. It lists names, synonyms, OMIM number, mode of inheritance, associated genes, phenotype, clinical discussion and references. The purpose of presenting this encyclopaedia in paper format is simply that we hope that you as clinicians and researchers find it helpful to browse through it and familiarize yourself even better with the scope of genetic disorders that have been associated with increased tumour risk.
+
+Cancer is associated with a wide range of hereditary disorders. Recognizing these disorders in cancer patients may be of great importance for the medical management of both patients and their relatives. Conversely, recognizing the fact that cancer may develop as a complication of a particular hereditary disorder which has already been diagnosed may be important for the same reason. The Familial Cancer Database (FaCD) is a web-based application  which has been developed at the Department of Genetics of the University Medical Center Groningen, The Netherlands, with the intention to assist clinicians and genetic counsellors in making a genetic differential diagnosis in cancer patients, as well as in becoming aware of the tumour spectrum associated with hereditary disorders that have already been diagnosed in their patients. This encyclopaedia is published in parts and discusses the disorders included in the FaCD database in alphabetical order. It lists names, synonyms, genes involved, phenotype, brief clinical discussion and references. The following classes of disorders have been included in this paper: hereditary disorders certainly or possibly associated with increased cancer risk (e.g. Lynch syndrome) and familial clustering of particular types of cancer e.c.i. (for example familial occurrence of salivary gland tumours). If some fields are not listed for a particular disorder, for example 'Non-tumour features', then those fields are empty for that disorder. Especially in rare syndromes it can be difficult to decide whether or not a particular tumour type truly belongs to the phenotype of that disorder. Those tumours have been classified below as 'Tumour features (possible)' in the descriptions of the phenotypes. The purpose of presenting this encyclopaedia in paper format is that we hope that you as clinicians and researchers find it helpful to browse through it and familiarize yourself even better with the scope of genetic disorders that have been associated with increased tumour risk.
+Synonym: AIMAH, Cushing's disease, adrenal, familial
+Mode of inheritance: spor/AD
+OMIM number: 219080
+Genes:
+GNAS1, mapped to 20q13.2
+Tumour features:
+macronodular adrenal hyperplasia
+Non-tumour features:
+adrenal dysplasia
+adrenal hyperplasia
+AIMAH cases are usually sporadic, causing Cushing's disease generally in the 5th or 6th decade.
+Affected siblings with Cushing's disease caused by primary (ACTH independent) adrenal, often bilateral, nodular hyperplasia and dysplasia have been observed [1-5]. Somatic GNAS1 mutations have been observed in isolated AIMAH cases.
+Synonym: familial ALL, including familial T-ALL
+Mode of inheritance: AD?/multifact?
+Genes:
+CYP1A1, mapped to 15q22-q24
+GSTM1, mapped to 1p13.3
+HLA-DQB1, mapped to 6p21.3
+Tumour features:
+leukaemia, acute lymphoblastic (ALL)
+Familial clustering of ALL has been observed [1-3]. Becker et al. [4] reported a 4-generation Irish family with childhood onset acute T-cell leukaemia/lymphoblastic T-cell lymphoma in 9 relatives, which to the authors suggested autosomal dominant inheritance with reduced penetrance.
+Dearden et al. [5] studied HLA-DQB1 alleles in children with ALL because of the suggestion that ALL may be caused by HLA-regulated susceptibility to an unidentified neonatal infection. They observed a significant excess of the DQB1*05 allele (RR 2.5) and in particular of certain amino acid motifs (not restricted to that allele). Polymorphisms in the GSTM1 and CYP1A1 genes, encoding xenobiotic-metabolizing enzymes, have been found to be associated with an increased relative risk of childhood ALL [6]. A germline heterozygous truncating mutation in the gene for Fanconi anaemia type C has been detected in 2 sibs with T-ALL; 1 of the sibs subsequently developed AML [7]. In general, there appears to be no increase in ALL risk to siblings of patients. Risk may even be decreased and it has been speculated that immunization of mothers to leukaemia-specific antigens may occur which can enhance elimination of pre-leukaemic cells in utero [8].
+References
+1. Kende G, Toren A, Mandel M, Neumann Y, Kenet G, Brok-Simoni F, Ramot B, Ben-Bassat I, Rechavi G. Familial leukemia: description of two kindreds and a review of the genetic aspects of the disease. Acta Haematol 1994; 92: 208-211.
+2. Cramblett HG, Friedman JL, Najjar S. Leukemia in an infant born of a mother with leukemia. N Engl J Med 1958; 259: 727-729.
+3. Chaganti RS, Miller DR, Meyers PA, German J. Cytogenetic evidence of the intrauterine origin of acute leukemia in monozygotic twins. N Engl J Med 1979; 300: 1032-1034.
+4. Becker K, Breatnach F, Green AJ. Autosomal dominant acute T-cell leukemia/lymphoblastic T-cell lymphoma in an Irish family. J Med Genet 2000; 37 (Suppl 1): S35.
+5. Dearden SP, Taylor GM, Gokhale DA, Robinson MD, Thompson W, Ollier W, Binchy A, Birch JM, Stevens RF, Carr T, Bardsley WG. Molecular analysis of HLA-DQB1 alleles in childhood common acute lymphoblastic leukaemia. Br J Cancer 1996; 73: 603-609.
+6. Krajinovic M, Labuda D, Richer C, Karimi S, Sinnett D. Susceptibility to childhood acute lymphoblastic leukemia: Influence of CYP1A1, CYP2D6, GSTM1, and GSTT1 genetic polymorphisms. Blood 1999; 93: 1496-1501.
+7. Rischewski JR, Clausen H, Leber V, Niemeyer C, Ritter J, Schindler D, Schneppenheim R. A heterozygous frameshift mutation in the Fanconi anemia C gene in familial T-ALL and secondary malignancy. Klin Padiatr 2000; 212: 174-176.
+8. Schmiegelow K, Hjalgrim H. Is the risk of acute lymphoblastic leukemia reduced in siblings to children with the disease? A novel hypothesis explored by international collaboration. Leukemia: official journal of the Leukemia Society of America, Leukemia Research Fund, U.K. 2006; 20: 1206-1208.
+Mode of inheritance: AR?
+OMIM number: 246470
+Tumour features:
+bladder polyps
+colorectal cancer
+leukaemia, acute myeloblastic (AML, M2)
+Two brothers with consanguineous parents were reported by Greenberg et al. [1] to have developed multiple colorectal adenomatous polyps, early-onset colorectal cancer, acute myeloblastic leukaemia, and (in one of the brothers) papillary bladder tumours. This could have been a case of bi-allelic MMR gene mutations.
+References
+1. Greenberg MS, Anderson KC, Marchetto DJ, Li FP. Acute myelocytic leukemia in two brothers with polyposis coli and carcinoma of the colon. Ann Intern Med 1981; 95: 702-703.
+Synonym: severe combined immunodeficiency (SCID) due to ADA deficiency
+Mode of inheritance: AR
+OMIM number: 102700
+Genes:
+ADA, mapped to 20q13.11
+Tumour features:
+Burkitt's lymphoma
+Hodgkin's disease
+leukaemia, acute
+non-Hodgkin's lymphoma
+Non-tumour features:
+adenosine deaminase deficiency
+agammaglobulinaemia
+immunodeficiency
+skeletal dysplasia
+A substantial percentage of (apparently) autosomal recessive severe combined immunodeficiency is caused by deficiency of adenosine deaminase. Dysplastic skeletal changes (typically of costochondral junctions) occur frequently in patients with ADA deficiency. Most cases are diagnosed in the first year [1]. As in other types of severe combined immune deficiency, there is an increased risk of developing malignancies of the haemato-lymphoproliferative type [2-5]. There appears to be no increased cancer risk for heterozygotes of the mutant gene [6].
+References
+1. Hershfield MS. Adenosine deaminase deficiency: clinical expression, molecular basis, and therapy. Semin Hematol 1998; 35: 291-298.
+2. Filipovich AH, Spector BD, Kersey J. Immunodeficiency in humans as a risk factor in the development of malignancy. Prev Med 1980; 9: 252-259.
+3. Gatti RA, Good RA. Occurrence of malignancy in immunodeficiency diseases. A literature review. Cancer 1971; 28: 89-98.
+4. Husain M, Grunebaum E, Naqvi A, Atkinson A, Ngan BY, Aiuti A, Roifman CM. Burkitt's lymphoma in a patient with adenosine deaminase deficiency-severe combined immunodeficiency treated with polyethylene glycol-adenosine deaminase. J Pediatr 2007; 151: 93-95.
+5. Kaufman DA, Hershfield MS, Bocchini JA, Moissidis IJ, Jeroudi M, Bahna SL. Cerebral lymphoma in an adenosine deaminase-deficient patient with severe combined immunodeficiency receiving polyethylene glycol-conjugated adenosine deaminase. Pediatrics 2005; 116: e876-e879.
+6. Morrell D, Chase CL, Swift M. Cancer in families with severe combined immune deficiency. J Natl Cancer Inst 1987; 78: 455-458.
+Synonym: Bruton type agammaglobulinaemia
+Mode of inheritance: XLR
+OMIM number: 300300, 300310
+Genes:
+BTK, mapped to Xq21.3-q22
+Tumour features:
+colorectal cancer
+Hodgkin's disease
+leukaemia, acute lymphoblastic (ALL)
+leukaemia, chronic myeloid (CML)
+non-Hodgkin's lymphoma
+thymoma
+Tumour features (possible):
+gastric cancer
+lung/bronchial cancer
+Non-tumour features:
+agammaglobulinaemia
+immunodeficiency
+This infantile immunodeficiency in males is characterized by an isolated B-cell defect and these cells are absent in the vast majority of patients. Lymphoid tissue (adenoid, tonsils) is either absent or hypoplastic. There is approximately an incidence of 1.5-6% of malignancies in this disorder, mainly involving the haematopoietic-lymphoid system [1-9]. Patients also have an increased risk of developing colorectal cancer [10,11]. Lung cancer was diagnosed in a 32-year-old non-smoking male with the disorder [12]. Gastric cancer associated with chronic atrophic gastritis [13, 14].
+References
+1. Penn I. Occurrence of cancer in immune deficiencies. Cancer 1974; 34 (Suppl): 858-866.
+2. Gatti RA, Good RA. Occurrence of malignancy in immunodeficiency diseases. A literature review. Cancer 1971; 28: 89-98.
+3. van der Meer JW, Zegers BJ. Agammaglobulinaemia. Neth J Med 1994; 45: 250-256.
+4. Filipovich AH, Spector BD, Kersey J. Immunodeficiency in humans as a risk factor in the development of malignancy. Prev Med 1980; 9: 252-259.
+5. Lederman HM. Cancer in children with primary or secondary immunodeficiencies. J Pediatr 1995; 127: 335.
+6. Page AR, Hansen AE, Good RA. Occurrence of leukemia and lymphoma in patients with agammaglobulinemia. Blood 1963; 21: 197-206.
+7. Mueller BU, Pizzo PA. Cancer in children with primary or secondary immunodeficiencies. J Pediatr 1995; 126: 1-10.
+8. Spector BD, Perry GS 3rd, Kersey JH. Genetically determined immunodeficiency diseases (GDID) and malignancy: report from the immunodefciency-cancer registry. Clin Immunol Immunopathol 1978; 11: 12-29.
+9. Kersey JH, Spector BD, Good RA. Primary immunodeficiency diseases and cancer: the immunodeficiency-cancer registry. Int J Cancer 1973; 12: 333-347.
+10. van der Meer JW, Weening RS, Schellekens PT, van Munster IP, Nagengast FM. Colorectal cancer in patients with X-linked agammaglobulinaemia. Lancet 1993; 341: 1439-1440.
+11. Brosens LA, Tytgat KM, Morsink FH, Sinke RJ, Ten Berge IJ, Giardiello FM, Offerhaus GJ, Keller JJ. Multiple colorectal neoplasms in X-linked agammaglobulinemia. Clin Gastroenterol Hepatol 2008; 6: 115-119.
+12. Echave-Sustaeta JM, Villena V, Verdugo M, López-Encuentra A, de Agustín P, Alberti N. X-linked agammaglobulinaemia and squamous lung cancer. Eur Respir J 2001; 17: 570-572.
+13. Bachmeyer C, Monge M, Cazier A, Le Deist F, de Saint Basile G, Durandy A, Fischer A, Mougeot-Martin M. Gastric adenocarci-noma in a patient with X-linked agammaglobulinaemia. Eur J Gastroenteroly Hepatol 2000; 12: 1033-1035.
+14. Lavilla P, Gil A, Rodríguez MC, Dupla ML, Pintado V, Fontán G. X-linked agammaglobulinemia and gastric adenocarcinoma. Cancer 1993; 72: 1528-1531.
+Mode of inheritance: XLD
+OMIM number: 304050
+Genes:
+AIC, mapped to Xp22
+Tumour features (possible):
+angiosarcoma
+choroid plexus papilloma
+colorectal polyps
+gastric polyps
+hepatoblastoma
+lipoma
+medulloblastoma
+palate, benign teratoma of
+parapharyngeal embryonal cell cancer
+Non-tumour features:
+chorioretinal lacunae
+cleft lip
+cleft palate
+corpus callosum agenesis
+facies, asymmetric
+gross motor delay
+mental deficiency
+plagiocephaly
+rib anomalies
+seizures
+vertebral anomalies
+Clinical hallmarks are infantile spasms, corpus callosal agenesis, chorioretinal abnormalities (lacunae) and severe psychomotor retardation. Other findings include plagiocephaly, facial asymmetry, cleft lip and palate and costovertebral anomalies. A number of tumours have been reported in association with Aicardi syndrome [1-7]: choroid plexus papilloma (the most frequent tumour), medulloblastoma, gastric hyperplastic polyps, rectal polyps, soft palate benign teratoma, hepatoblastoma, parapharyngeal embryonal cell cancer, limb angiosarcoma and scalp lipoma.
+References
+1. Trifiletti RR, Incorpora G, Polizzi A, Cocuzza MD, Bolan EA, Parano E. Aicardi syndrome with multiple tumors: a case report with literature review. Brain Dev 1995; 17: 283-285.
+2. Tagawa T, Mimaki T, Ono J, Tanaka J, Imai K, Yabuuchi H. Aicardi syndrome associated with an embryonal carcinoma. Pediatr Neurol 1989; 5: 45-47.
+3. Tsao CY, Sommer A, Hamoudi AB. Aicardi syndrome, metastatic angiosarcoma of the leg, and scalp lipoma. Am J Med Genet 1993; 45: 594-596.
+4. Tanaka T, Takakura H, Takashima S, Kodama T, Hasegawa H. A rare case of Aicardi syndrome with severe brain malformation and hepatoblastoma. Brain Dev 1985; 7: 507-512.
+5. Robinow M, Johnson GF, Minella PA. Aicardi syndrome, papilloma of the choroid plexus, cleft lip, and cleft of the posterior palate. J Pediatr 1984; 104: 404-405.
+6. Frye RE, Polling JS, Ma LC. Choroid plexus papilloma expansion over 7 years in Aicardi syndrome. J Child Neurology 2007; 22: 484-487.
+7. Palmér L, Nordborg C, Steneryd K, Aman P, Kyllerman M. Large-cell medulloblastoma in Aicardi syndrome. Case report and literature review. Neuropediatrics 2004; 35: 307-311.
+Synonym: ALGS1, ALGS2, Alagille-Watson syndrome
+Mode of inheritance: AD/AR?
+OMIM number: 118450
+Genes:
+JAG1, mapped to 20p12
+NOTCH2, mapped to 1p13-p11
+Tumour features:
+hepatocellular cancer
+Tumour features (possible):
+thyroid cancer, papillary
+Wilms' tumour (nephroblastoma)
+Non-tumour features:
+bile ducts, paucity of intrahepatic
+chin, triangular
+embryotoxon posterior
+eyes, deeply set
+frontal bossing/prominent forehead
+hypertelorism
+midface, flat/hypoplastic
+nose, long straight
+philtrum, short
+pulmonary artery stenosis
+vertebral anomalies
+Hallmarks of this disorder are: paucity of intrahepatic bile ducts leading to cholestasis, peripheral pulmonary artery stenosis, vertebral arch defects, poor linear growth, a characteristic facies and embryotoxon posterior in the eye [1]. Hepatocellular cancer has been reported in a number of cases [2-5], and papillary thyroid cancer [6] and Wilms' tumour in one case [7].
+References
+1. Deleuze JF, Dhorne-Pollet S, Pollet N, Meunier-Rotival M, Hadchouel M. Alagille syndrome in 1995. Clinical and genetical data. Gastroenterol Clin Biol 1995; 19: 587-596.
+2. Kaufman SS, Wood RP, Shaw BW Jr, Markin RS, Gridelli B, Vanderhoof JA. Hepatocarcinoma in a child with the Alagille syndrome. Am J Dis Child 1987; 141: 698-700.
+3. Ong E, Williams SM, Anderson JC, Kaplan PA. MR imaging of a hepatoma associated with Alagille syndrome. J Comput Assist Tomogr 1986; 10: 1047-1049.
+4. Le Bail B, Bioulac-Sage P, Arnoux R, Perissat J, Saric J, Balabaud C. Late recurrence of a hepatocellular carcinoma in a patient with incomplete Alagille syndrome. Gastroenterology 1990; 99: 1514-1516.
+5. Kim B, Park SH, Yang HR, Seo JK, Kim WS, Chi JG. Hepatocellular carcinoma occurring in alagille syndrome. Pathol Res Pract 2005; 201: 55-60.
+6. Kato Z, Asano J, Kato T, Yamaguchi S, Kondo N, Orii T. Thyroid cancer in a case with the Alagille syndrome. Clin Genet 1994; 45: 21-24.
+7. Bourdeaut F, Guiochon-Mantel A, Fabre M, Martelli H, Patte C, Porta G, Bernard O, Delattre O, Jacquemin E. Alagille syndrome and nephroblastoma: Unusual coincidence of two rare disorders. Pediatr Blood Cancer. E-head print.
+Mode of inheritance: AD
+OMIM number: 107400
+Genes:
+PI, mapped to 14q32.1
+Tumour features:
+hepatocellular cancer
+Tumour features (possible):
+colorectal cancer
+lung/bronchial cancer
+Non-tumour features:
+liver cirrhosis
+lung emphysema
+This disorder is caused by deficiency of alpha-1-antitrypsin (= protease inhibitor = anti-elastase) and is characterized by emphysema and juvenile or adult liver cirrhosis. The severity of the disease depends on the specific combination of alleles and very likely also on the influence of exogenous factors such as smoking. The homozygous null allele combination causes the most severe disease, followed by the ZZ combination. Risk of hepatocellular cancer is increased, possibly only in males [1,2] and depending on allele type [3]. It has been reported in children [4]. Alpha-1-antitrypsin deficiency/haplosufficiency may also act as a co-risk factor for lung cancer [5]. Yang et al. [6] estimated a 20-fold increase in risk of developing colorectal cancer (with microsatellite instability, MSI-H) among smokers who carry alpha-1-antitrypsin deficiency alleles.
+References
+1. Eriksson S, Carlson J, Velez R. Risk of cirrhosis and primary liver cancer in alpha1-antitrypsin deficiency. N Engl J Med 1986; 314: 736-739.
+2. Rudnick DA, Perlmutter DH. Alpha-1-antitrypsin deficiency: a new paradigm for hepatocellular carcinoma in genetic liver disease. Hepatology 2005; 42: 514-521.
+3. Fargion S, Klasen EC, Lalatta F, Sangalli G, Tommasini M, Fiorelli G. Alpha1-antitrypsin in patients with hepatocellular carcinoma and chronic active hepatitis. Clin Genet 1981; 19: 134-139.
+4. Hadzic N, Quaglia A, Mieli-Vergani G. Hepatocellular carcinoma in a 12-year-old child with PiZZ alpha1-antitrypsin deficiency. Hepatology 2006; 43: 194.
+5. Wentzlaff K, Marks R, Knutson A, Tazelaar H, Lindor N, Yang P. Family history of lung cancer patients who are alpha1-antitrypsin deficiency carriers. Am J Hum Genet 1998; 63 (Suppl): A100.
+6. Yang P, Cunningham J, Katzmann J, Lesnick T, Halling K, Bugart L, Wiegert E, Christensen E, Kyle R, Lindor N, Thibodeau S. A 20-fold increase in risk of colorectal cancer with defective mismatch repair among current smokers who carry alpha-1 antitrypsin deficiency alleles. Am J Hum Genet 1999; 65: A40.
+Synonym: HPAFP
+Mode of inheritance: AD
+OMIM number: 104150
+Genes:
+AFP, mapped to 4q11-q13
+Tumour features (possible):
+non-seminoma
+seminoma
+Non-tumour features:
+increased/persistent serum AFP
+This disorder is characterized by the persistence of high AFP, due to a mutation in the AFP gene [1,2]. Staples et al. [3] reported high serum AFP in a 23-year-old man with a testicular seminoma as well as in his 3 sisters, mother and maternal aunt. He also had hereditary spherocytosis. Hart et al. [4] and Cochran et al. [5] reported a yolk sac tumour in a 20-year-old male and a 20-month-old male with HPAFP, respectively. Although the association is probably purely coincidental, it is important to stress that HPAFP may confuse management in patients with testicular or liver tumours, or other conditions where AFP levels are of diagnostic or screening importance. If HPAFP is not recognized in these conditions, then this may lead to inappropriate medical decisions. Testing parental levels of AFP has been advised for cases where persistent (mild) elevation of AFP following resection of localized germ cell tumours has been observed, before deciding on chemotherapy [5].
+References
+1. McVey JH, Michaelides K, Hansen LP, Ferguson-Smith M, Tilghman S, Krumlauf R, Tuddenham EG. AG3A substitution in an HNF I binding site in the human alpha- fetoprotein gene is associated with hereditary persistence of alpha-fetoprotein (HPAFP). Hum Mol Genet 1993; 2: 379-384.
+2. Schefer H, Mattmann S, Joss RA. Hereditary persistence of alpha-fetoprotein. Case report and review of the literature. Ann Oncol 1998; 9: 667-672.
+3. Staples J. Alphafetoprotein, cancer, and benign conditions. Lancet 1986; 2: 1277.
+4. Hart PS, Nanton JR, Vlaservich AC, Berry MN, Chauvenet A. Hereditary persistence of alpha-fetoprotein and testicular cancer in a 20 month old male. Am J Hum Genet 1997; 61: A68.
+5. Cochran PK, Chauvenet AR, Hart PS, de Graaf SS, Cushing B, Kroovand L, Wofford MM. Misleading leads. Hereditary persistence of alpha-fetoprotein in a child with testicular germ cell tumor. Med Pediatr Oncol 1999; 32: 436-437.
+Mode of inheritance: XLD/cgd
+OMIM number: 308940
+Genes:
+COL4A5, mapped to Xq22-q24
+COL4A6, mapped to Xq22-q24
+Tumour features:
+bronchioli, leiomyoma of the
+oesophageal leiomyoma
+gastric leiomyoma
+leiomyoma of the clitoris
+leiomyoma of the urethra
+trachea, leiomyoma of the
+uterine leiomyoma
+vulvar leiomyoma
+Non-tumour features:
+cataract, congenital
+deafness, neurosensory
+nephropathy
+Alport syndrome is characterized by haematuric nephropathy, in most cases leading to renal failure (usually progressive), sensorineural deafness and ocular anomalies (maculopathy and anterior lenticonus). Some patients with Alport syndrome develop diffuse leiomyomatosis (especially of the oesophagus and less often the vulva and other anatomical sites). These patients also frequently have severe cataracts. The oesophageal leiomyomas appear to develop earlier among boys (average age 6 years compared to 14 years in girls) [1-4].
+Alport syndrome is genetically heterogeneous. The specific subset of patients/families with Alport syndrome and leiomyomatosis is associated with deletions extending from within the COL4A5 gene to the neighbouring COL4A6 gene [5, 6]. Multiple giant gastro-oesophageal leiomas have been reported in the absence of such a detectable deletion [7].
+References
+1. Garcia-Torres R, Orozco L. Alport-leiomyomatosis syndrome: an update. Am J Kidney Dis 1993; 22: 641-648.
+2. Zhou J, Mochizuki T, Smeets H, Antignac C, Laurila P, de Paepe A, Tryggvason K, Reeders ST. Deletion of the paired alpha 5(IV) and alpha 6(IV) collagen genes in inherited smooth muscle tumors. Science 1993; 261: 1167-1169.
+3. Antignac C, Heidet L. Mutations in Alport syndrome associated with diffuse esophageal leiomyomatosis. Contrib Nephrol 1996; 117: 172-182.
+4. Anker MC, Arnemann J, Neumann K, Ahrens P, Schmidt H, König R. Alport syndrome with diffuse leiomyomatosis. Am J Med Genet A 2003; 119: 381-385.
+5. Garcia-Torres R, Cruz D, Orozco L, Heidet L, Gubler MC. Alport syndrome and diffuse leiomyomatosis. Clinical aspects, pathology, molecular biology and extracellular matrix studies. A synthesis. Nephrologie 2000; 21: 9-12.
+6. Thielen BK, Barker DF, Nelson RD, Zhou J, Kren SM, Segal Y. Deletion mapping in Alport syndrome and Alport syndrome-diffuse leiomyomatosis reveals potential mechanisms of visceral smooth muscle overgrowth. Hum Mutat 2003; 22: 419.
+7. Prenzel KL, Schäfer E, Stippel D, Beckurts KT, Hölscher AH. Multiple giant leiomyomas of the esophagus and stomach. Dis Esophagus 2006; 19: 504-508.
+Mode of inheritance: AD?
+OMIM number: 104600
+Tumour features:
+pituitary adenoma
+Familial cases of galactorrhoea and amenorrhoea, due to a pituitary gland tumour, have been reported [1,2]. Possibly these cases represent in fact multiple endocrine neoplasia type 1 or another type of hereditary pituitary gland tumours.
+References
+1. Linquette M, Herlant M, Laine E, Fossati P, Dupont-Lecompte M. Adenome a prolactine chez une fille dont la mere etait porteuse d'un adenmoe hypophysaire avec amenorrhee-galactorrhee. Ann Endocrinol 1967; 28: 773-780.
+2. Young RL, Bradley EM, Goldzieher JW, Myers PW, Lecocq FR. Spectrum of nonpuerperal galactorrhea: report of two cases evolving through the various syndromes. J Clin Endocrinol Metab 1967; 27: 461-466.
+Synonym: AIS, testicular feminisation, Reifenstein
+syndrome
+Mode of inheritance: X-linked
+OMIM number: 300068
+Genes:
+AR, mapped to Xq11-q12
+Tumour features:
+non-seminoma
+seminoma testicular gonadoblastoma
+testicular Sertoli-Leydig cell tumour
+Non-tumour features:
+male (46, XY) pseudohermaphroditism
+Mutations in the androgen receptor coding gene on the X chromosome cause pseudo-hermaphroditism in the XY individual through androgen insensitivity. External genitals are female. The gonads are undescended testes and may be intra-abdominal, inguinal, or labial. Mullerian structures (including uterus) are absent, because of AMH production by the testicles [1].
+Sex cord hamartomas and Sertoli cell adenomas are common findings in AIS, with a prevalence of 63 and 23%, respectively, observed in one series of 43 patients [2]. Patients with AIS show an increased frequency of testicular malignancies with risks estimated between 2 and 33%; 2-10% might be the most realistic estimate. Seminoma [3-8] and sex-cord stromal tumours (particularly Sertoli-cell tumours) [9-14] are the most common tumour types observed. Gonadoblastoma [15] and non-seminomas (yolk sac tumour [16], embryonal carcinoma [17]) have been reported as well.
+References
+1. Loy CJ, Yong EL. Sex, infertility and the molecular biology of the androgen receptor. Curr Opin Obstet Gynecol 2001; 13: 315-321.
+2. Rutgers JL, Scully RE. The androgen insensitivity syndrome (testicular feminization): a clinicopathologic study of 43 cases. Int J Gynecol Pathol 1991; 10: 126-144.
+3. Kocak M, Yalvac S, Pata O, Turan H, Haberal A. A seminoma case which occurred in a patient with familial testicular feminization syndrome. Acta Obstet Gynecol Scand 2000; 79: 890-891.
+4. Sakai N, Yamada T, Asao T, Baba M, Yoshida M, Murayama T. Bilateral testicular tumors in androgen insensitivity syndrome. Int J Urol 2000; 7: 390-392.
+5. Chan LY, Wong SF, Yu VS. Advanced stage of dysgerminoma in testicular feminisation: is radical surgery necessary? Aust N Z J Obstet Gynaecol 2000; 40: 224-225.
+6. Collins GM, Kim DU, Logrono R, Rickert RR, Zablow A, Breen JL. Pure seminoma arising in androgen insensitivity syndrome (testicular feminization syndrome): a case report and review of the literature. Mod Pathol 1993; 6: 89-93.
+7. Hurt WG, Bodurtha JN, McCall JB, Ali MM. Seminoma in pubertal patient with androgen insensitivity syndrome. Am J Obstet Gynecol 1989; 161: 530-531.
+8. Horcher E, Grünberger W, Parschalk O. Classical seminoma in a case of testicular feminization syndrome. Prog Pediatr Surg 1983; 16: 139-141.
+9. Hawkyard S, Poon P, Morgan DR. Sertoli tumour presenting with stress incontinence in a patient with testicular feminization. BJU Int 1999; 84: 382-383.
+10. Knoke I, Jakubiczka S, Ottersen T, Goppinger A, Wieacker P. A(870)E mutation of the androgen receptor gene in a patient with complete androgen insensitivity syndrome and Sertoli cell tumor. Cancer Genet Cytogenet 1997; 98: 139-141.
+11. Fleckenstein GH, Gunawan B, Brinck U, Wuttke W, Emons G. Simultaneous sertoli cell tumor and adenocarcinoma of the tunica vaginalis testis in a patient with testicular feminization. Gynecol Oncol 2002; 84: 460-463.
+12. Wysocka B, Serkies K, Debniak J, Jassem J, Limon J. Sertoli cell tumor in androgen insensitivity syndrome - a case report. Gynecol Oncol 1999; 75: 480-483.
+13. Damjanov I, Nesbitt KA, Reardon MP, Vidone RA. Giant sertoli cell adenoma in testicular feminization syndrome. Obstet Gynecol 1976; 48: 624-627.
+14. McNeill SA, O'Donnell M, Donat R, Lessells A, Hargreave TB. Estrogen secretion from a malignant sex cord stromal tumor in a patient with complete androgen insensitivity. Am J Obstet Gynecol 1997; 177: 1541-1542.
+15. Chen CP, Chen SR, Wang TY, Wang W, Hwu YM. A frame shift mutation in the DNA-binding domain of the androgen receptor gene associated with complete androgen insensitivity, persistent mullerian structures, and germ cell tumors in dysgenetic gonads. Fertil Steril 1999; 72: 170-173.
+16. Handa N, Nagasaki A, Tsunoda M, Ohgami H, Kawanami T, Sueishi K, Nagoshi M. Yolk sac tumor in a case of testicular feminization syndrome. J Pediatr Surg 1995; 30: 1366-1367.
+17. Lecca U, Parodo G, Fiore R, Martino E. Embryonal carcinoma in two cases of androgen insensitivity syndrome: clinical, endocrinological and pathological features. Eur J Gynaecol Oncol 1988; 9: 489-496.
+Mode of inheritance: AD?/AR?
+OMIM number: 206550
+Tumour features:
+angiolipoma
+Non-tumour features (possible):
+iris, Lisch nodules
+Familial clustering of multiple (non-infiltrating) angiolipomas has been reported a few times, the most extensive family being that published by Kumar et al. [1]. In that family the angiolipomas were well encapsulated and located on the upper part of the body. Hapnes et al. [2] reported on a case with angiolipomas located close to joints and extending deep between muscle, tendons and joint capsules. Abbasi et al. reported an 80-year-old man with a 50-year history of asymptomatic, subcutaneous masses on the arms, trunk, and legs. His father and maternal grandmother had a history of similar lesions [3]. The distinction from familial multiple lipomatosis is not completely certain. Familial angiolipomatosis may sometimes be clinically confused with neurofibromatosis type 1 (NF1). Interestingly, Cina et al. [4] reported the occurrence of Lisch nodules (a typical feature of NF1) in familial angiolipomatosis.
+References
+1. Kumar R, Pereira BJ, Sakhuja V, Chugh KS. Autosomal dominant inheritance in familial angiolipomatosis. Clin Genet 1989; 35: 202-204.
+2. Hapnes SA, Boman H, Skeie SO. Familial angiolipomatosis. Clin Genet 1980; 17: 202-208.
+3. Abbasi NR, Brownell I, Fangman W. Familial multiple angiolipomatosis. Dermatology Online J 2007; 13: 3.
+4. Cina SJ, Radentz SS, Smialek JE. A case of familial angiolipomatosis with Lisch nodules. Arch Pathol Lab Med 1999; 123: 946-948.
+Synonym: including arrhenoblastoma, familial clustering
+Mode of inheritance: AD
+OMIM number: 107950
+Tumour features:
+ovarian Sertoli-Leydig cell tumour
+thyroid adenoma
+Tumour features (possible):
+hamartomatous polyps in small intestine
+ovarian mucinous cystadenoma
+Wilm's tumour
+Non-tumour features:
+thyroid hyperplasia/goitre
+A number of families with multiple cases of ovarian Sertoli-Leydig cell tumours (arrhenoblastomas) have been reported. In some of these families (multiple) thyroid adenomas were also present in some of the relatives with ovarian tumours as well as in relatives without these tumours [1,2]. A mucinous cystadenoma was reported twice in these families and one case of Wilms' tumour was reported [1]. In the proband published by O'Brien et al. [2], a hamartous polyp was removed from the small intestine at the age of 3 months. Could this disorder be a variant of Cowden syndrome or Peutz-Jeghers syndrome?
+References
+1. Jensen RD, Norris HJ, Fraumeni JF Jr. Familial arrhenoblastoma and thyroid adenoma. Cancer 1974; 33: 218-223.
+2. O'Brien PK, Wilansky DL. Familial thyroid nodulation and arrhenoblastoma. Am J Clin Pathol 1981; 75: 578-581.
+Synonym: myelocerebellar disorder
+Mode of inheritance: AD
+OMIM number: 159550
+Tumour features:
+lung haemangioma
+Non-tumour features:
+bone marrow monosomy 7 karyotype
+cerebellar ataxia
+nerve conduction velocity, reduced
+pancytopenia
+This condition is characterized by pancytopenia, progressive cerebellar ataxia, reduced nerve conduction speed and acute myelomonocytic leukaemia, which all develop in early childhood. The hypoplastic bone marrow shows cells with a monosomy 7 karyotype [1-3].
+References
+1. Li FP, Hecht F, Kaiser-McCaw B, Baranko PV, Potter NU. Ataxia-pancytopenia: syndrome of cerebellar ataxia, hypoplastic anemia, monosomy 7, and acute myelogenous leukemia. Cancer Genet Cytogenet 1981; 4: 189-196.
+2. Daghistani D, Curless R, Toledano SR, Ayyar DR. Ataxia-pancytopenia and monosomy 7 syndrome. J Pediatr 1989; 115: 108-110.
+3. González-del Angel A, Cervera M, Gómez L, Pérez-Vera P, Orozco L, Carnevale A, Del Castillo V. Ataxia-pancytopenia syndrome. Am J Med Genet 2000; 90: 252-254.
+Synonym: AT, Louis-Bar syndrome
+Mode of inheritance: AR
+OMIM number: 208900
+Genes:
+ATM, mapped to 11q22.3
+Tumour features:
+astrocytoma
+breast cancer
+colon cancer
+gastric cancer
+glioma of the brain
+hepatocellular cancer
+histiocytosis (reticuloendotheliosis), malignant
+Hodgkin's disease
+laryngeal cancer
+leukaemia, acute lymphoblastic (ALL)
+leukaemia, chronic lymphocytic (CLL)
+non-Hodgkin's lymphoma
+ovarian cancer (i.e. epithelial origin)
+parotid gland cancer
+skin cancer, basal cell
+skin cancer, squamous cell
+thyroid cancer
+Tumour features (possible):
+leiomyosarcoma of the uterus
+ovarian dysgerminoma
+ovarian fibroma
+ovarian gonadoblastoma
+seminoma
+uterine leiomyoma
+Non-tumour features:
+café-au-lait spots
+cerebellar ataxia
+growth deficiency
+hypogonadism
+immunodeficiency
+increased chromosomal breakage
+increased/persistent serum AFP
+ionizing radiation sensitivity, increased
+mutagen sensitivity, increased
+oculocutaneous telangiectasia
+strabismus
+thymus hypoplasia/aplasia
+Progressive ataxia usually develops during infancy. Telangiectasia occurs usually first in the bulbar conjunctivae and later over the bridge of the nose, auricles and other areas. Growth deficiency commonly presents during late infancy/childhood. Mental deficiency is a feature in about half of cases [1]. Neoplasms develop in approximately 10 percent of patients, especially lymphoid tumours. Many patients do not survive to adulthood, lung infections and neurological complications being the main cause of death. Non-Hodgkin's lymphoma (mostly of the histological subtype associated with 14q translocations), acute lymphoblastic leukaemia and Hodgkin's disease (mostly of lymphocytic depletion type) are the most frequent neoplasms in AT patients [2]. Myeloid tumours are absent [3]. The increase in lymphoid malignancy is caused by both B- and T-cell tumours [3,4]. T-cell tumours may develop at any age and may be T-ALL, T-cell lymphoma or T-cell prolymphocytic leukaemia [3]. The recognition of lymphomas may be delayed due to confusion with known infectious complications in AT [5]. A wide range of other neoplasms have been reported, including gastric cancer, colon cancer, chronic lymphoblastic leukaemia, brain tumours, craniopharyngioma, liver cancer, laryngeal cancer, leiomyoma and leiomyosarcoma of the uterus, dysgerminoma, fibroadenoma and gonadoblastoma of the ovaries, testicular seminoma and basal cell and squamous cell skin cancer [5-13].
+Inheriting one mutated copy of the AT gene (ATM) increases breast cancer risk in females, and may turn out to contribute significantly to the total breast cancer burden. However, data are inconclusive as to the magnitude of this contribution and strength of this risk factor [14-25]. Broeks et al. [26] found the relatively high percentage of 8.5% ATM mutation carriers in a group of 82 breast cancer patients selected for early onset (<45 years), long-term survival and bilaterality. Baynes et al. showed that it is unlikely that common ATM variants increase breast cancer risk [27]. Johnson et al. confirmed this and argued that it is rather a combination of variants in different genes (ATM, BRCA1, BRCA2) that confers an increased breast cancer risk [28]. However, single rare ATM alleles may still confer a substantially increased breast cancer risk [29]. Balleine et al. reported that breast cancer occurring in carriers of ATM variants is not associated with distinctive histopathological features [30].
+Fibroblast cultures of AT heterozygotes show increased radiosensitivity and given the fact that breast cancer is a complication well known to occur in long-term survivors of Hodgkin's disease who received mantle-field irradiation, it has been questioned whether germline mutations in ATM contributed to this increase of breast cancer risk. Studies by Broeks et al. [31] and Nichols et al. [32] did not support a major contribution of germline ATM mutations to the breast cancer risk in these types of patients. The same was true for contralateral breast cancer risk after radiation therapy for the first breast tumour, as reported by Shafman et al. [33].
+References
+1. Boder E. Ataxia-telangiectasia: some historic, clinical and pathologic observations. Birth Defects Orig Artic Ser 1975; 11: 255-270.
+2. Frizzera G, Rosai J, Dehner LP, Spector BD, Kersey JH. Lymphoreticular disorders in primary immunodeficiencies: new findings based on an up-to-date histologic classification of 35 cases. Cancer 1980; 46: 692-699.
+3. Taylor AM, Metcalfe JA, Thick J, Mak YF. Leukemia and lymphoma in ataxia telangiectasia. Blood 1996; 87: 423-438.
+4. Kaneko H, Inoue R, Yamada Y, Kasahara K, Takami T, Kondo N. Ataxia telangiectasia syndrome with B cell lymphoma. Clin Genet 1996; 49: 331-332.
+5. Murphy RC, Berdon WE, Ruzal-Shapiro C, Hall EJ, Kornecki A, Daneman A, Brunelle F, Campbell JB. Malignancies in pediatric patients with ataxia telangiectasia. Pediatr Radiol 1999; 29: 225-230.
+6. Hecht F, Hecht BK. Cancer in ataxia-telangiectasia patients: 10th anniversary article. Cancer Genet Cytogenet 1990; 46: 9-19.
+7. Penn I. Occurrence of cancer in immune deficiencies. Cancer 1974; 34 Suppl: 858-866.
+8. Gatti RA, Good RA. Occurrence of malignancy in immunodeficiency diseases. A literature review. Cancer 1971; 28: 89-98.
+9. Miyagi K, Mukawa J, Kinjo N, Horikawa K, Mekaru S, Nakasone S, Koga H, Higa Y, Naito M. Astrocytoma linked to familial ataxia-telangiectasia. Acta Neurochir (Wien) 1995; 135: 87-92.
+10. Phillips HA, Howard GC. Testicular seminoma in a patient with ataxia-telangiectasia. Clin Oncol (R Coll Radiol) 1999; 11: 63-64.
+11. Weinstein S, Scottolini AG, Loo SY, Caldwell PC, Bhagavan NV. Ataxia telangiectasia with hepatocellular carcinoma in a 15-year-old girl and studies of her kindred. Arch Pathol Lab Med 1985; 109: 1000-1004.
+12. Koksal Y, Caliskan U, Ucar C, Yurtcu M, Artac H, Ilerisoy-Yakut Z, Reisli I. Dysgerminoma in a child with ataxia-telangiectasia. Pediatric Hematol Oncol 2007; 24: 431-436.
+13. Masri AT, Bakri FG, Al-Hadidy AM, Musharbash AF, Al-Hussaini M. Ataxia-telangiectasia complicated by craniopharyngioma - a new observation. Pediatr Neurol 2006; 35: 287-288.
+14. Swift M, Morrell D, Massey RB, Chase CL. Incidence of cancer in 161 families affected by ataxia-teleangiectasia. N Engl J Med 1991; 325: 1831-1836.
+15. Easton DF. Cancer risks in A-T heterozygotes. Int J Radiat Biol 1994; 66 (6 Suppl): S177-S182.
+16. Savitsky K, Bar-Shira A, Gilad S, Rotman G, Ziv Y, Vanagaite L, Tagle DA, Smith S, Uziel T, Sfez S, Ashkenazi M, Pecker I, Frydman M, Harnik R, Sankhavaram RP, Simmons A, Clines GA, Sartiel A, Gatti RA, Chessa L, Sanal O, Lavin MF, Jaspers NG, Taylor MA, Arlett CF, Miki T, Weissman SM, Lovett M, Collins FS, Shiloh Y. A single ataxia telangiectasia gene with a product similar to PI-3 kinase. Science 1995; 268: 1749-1753.
+17. Nowak R. Discovery of AT gene sparks biomedical bonanza. Science 1995; 268: 1700-1701.
+18. Vorechovský I, Luo L, Lindblom A, Negrini M, Webster AD, Croce CM, Hammarström L. ATM mutations in cancer families. Cancer Res 1996; 56: 4130-4133.
+19. Vorechovsky I, Rasio D, Luo LP, Monaco C, Hammarström L, Webster AD, Zaloudik J, Barbanti-Brodano G, James M, Russo G, Croce CM, Negrini M. The ATM gene and susceptibility to breast cancer: analysis of 38 breast tumors reveals no evidence for mutation. Cancer Res 1996; 56: 2726-2732.
+20. Athma P, Rappaport R, Swift M. Molecular genotyping shows that ataxia-telangiectasia heterozygotes are predisposed to breast cancer. Cancer Genet Cytogenet 1996; 92: 130-134.
+21. FitzGerald MG, Bean JM, Hegde SR, Unsal H, MacDonald DJ, Harkin DP, Finkelstein DM, Isselbacher KJ, Haber DA. Heterozygous ATM mutations do not contribute to early onset of breast cancer. Nat Genet 1997; 15: 307-310.
+22. Bishop DT, Hopper J. AT-tributable risks? Nat Genet 1997; 15: 226.
+23. Chen J, Birkholtz GG, Lindblom P, Rubio C, Lindblom A. The role of ataxia-telangiectasia heterozygotes in familial breast cancer. Cancer Res 1998; 58: 1376-1379.
+24. Swift M, Chase CL, Morrell D. Cancer predisposition of ataxia-telangiectasia heterozygotes. Cancer Genet Cytogenet 1990; 46: 21-27.
+25. Janin N, Andrieu N, Ossian K, Lauge A, Croquette MF, Griscelli C, Debre M, Bressac-de Paillerets B, Aurias A, Stoppa-Lyonnet D. Breast cancer risk in ataxia telangiectasia (AT) heterozygotes: haplotype study in french AT families. Br J Cancer 1999; 80: 1042-1045.
+26. Broeks A, Urbanus JH, Floore AN, Dahler EC, Klijn JG, Rutgers EJ, Devilee P, Russell NS, van Leeuwen FE, van't Veer LJ. ATM-heterozygous germline mutations contribute to breast cancer-susceptibility. Am J Hum Genet 2000; 66: 494-500.
+27. Baynes C, Healey CS, Pooley KA, Scollen S, Luben RN, Thompson DJ, Pharoah PD, Easton DF, Ponder BA, Dunning AM; SEARCH breast cancer study. Common variants in the ATM, BRCA1, BRCA2, CHEK2 and TP53 cancer susceptibility genes are unlikely to increase breast cancer risk. Breast Cancer Res 2007; 9: R27.
+28. Johnson N, Fletcher O, Palles C, Rudd M, Webb E, Sellick G, dos Santos Silva I, McCormack V, Gibson L, Fraser A, Leonard A, Gilham C, Tavtigian SV, Ashworth A, Houlston R, Peto J. Counting potentially functional variants in BRCA1, BRCA2 and ATM predicts breast cancer susceptibility. Hum Mol Genet 2007; 16: 1051-1057.
+29. Bernstein JL, Teraoka S, Southey MC, Jenkins MA, Andrulis IL, Knight JA, John EM, Lapinski R, Wolitzer AL, Whittemore AS, West D, Seminara D, Olson ER, Spurdle AB, Chenevix-Trench G, Giles GG, Hopper JL, Concannon P. Population-based estimates of breast cancer risks associated with ATM gene variants c.7271T>G and c.1066-6T>G (IVS10-6T>G) from the Breast Cancer Family Registry. Hum Mutat 2006; 27: 1122-1128.
+30. Balleine RL, Murali R, Bilous AM, Farshid G, Waring P, Provan P, Byth K, Thorne H, kConFab Investigators, Kirk JA. Kirk JA. Histopathological features of breast cancer in carriers of ATM gene variants. Histopathology 2006; 49: 523-532.
+31. Broeks A, Russell NS, Floore AN, Urbanus JH, Dahler EC, van't Veer MB, Hagenbeek A, Noordijk EM, Crommelin MA, van Leeuwen FE, van't Veer LJ. Increased risk of breast cancer following irradiation for Hodgkin's disease is not a result of ATM germline mutations. Int J Radiat Biol 2000; 76: 693-698.
+32. Nichols KE, Levitz S, Shannon KE, Wahrer DC, Bell DW, Chang G, Hegde S, Neuberg D, Shafman T, Tarbell NJ, Mauch P, Ishioka C, Haber DA, Diller L. Heterozygous germline ATM mutations do not contribute to radiation-associated malignancies after Hodgkin's disease. J Clin Oncol 1999; 17: 1259.
+33. Shafman TD, Levitz S, Nixon AJ, Gibans LA, Nichols KE, Bell DW, Ishioka C, Isselbacher KJ, Gelman R, Garber J, Harris JR, Haber DA. Prevalence of germline truncating mutations in ATM in women with a second breast cancer after radiation therapy for a contralateral tumor. Gene Chrom Cancer 2000; 27: 124-129.
+Synonym: Canale-Smith syndrome, ALPS type I (including: ALPS1A, ALPS1B), including autoimmune lymphoproliferative disease (ALD)
+Mode of inheritance: AD
+OMIM number: 601859, 134637
+Genes:
+APT1/FAS, mapped to 10q24.1
+Tumour features:
+Burkitt lymphoma
+Hodgkin's disease
+non-Hodgkin's lymphoma
+Tumour features (possible):
+hepatocellular cancer
+Non-tumour features:
+autoimmune disease
+This disorder develops in early childhood because of a defective lymphocyte apoptosis. It is characterized by non-malignant lymphadenopathy, splenomegaly and autoimmune disease [1]. In the majority of patients a heterozygous mutation in APT1 has been detected. APT1 encodes the Fas protein, which is a mediator of lymphocyte apoptosis. Of 46 ALPS1 patients with APT1 mutations studied at the NIH, 6 (13%) developed a lymphoma: Hodgkin's, Burkitt's, follicular lymphoma or non-Hodgkin's lymphoma [2,3]. A case of hepatocellular carcinoma has also been reported. In general, risk for non-Hodgkin's lymphoma and Hodgkin's disease is increased.
+Ramenghi et al. [4] reported an ALPS-like disorder, which they referred to as autoimmune lymphoproliferative disease (ALD), associated with decreased Fas function in the absence of detectable Fas mutations. Hodgkin's disease was reported by them to have occurred in one of these ALD families and the frequency of cancer in general was increased in the families' maternal lines.
+References
+1. Straus SE, Sneller M, Lenardo MJ, Puck JM, Strober W. An inherited disorder of lymphocyte apoptosis: the autoimmune lymphoproliferative syndrome. Ann Intern Med 1999; 130: 591-601.
+2. Jackson CE, Wang J, Fischer RE, Hsu AP, Niemela J, Dale JK, Fleischer TA, Jaffe ES, Lenardo MJ, Straus SE, Puck JM. Autoimmune lymphoproliferative syndrome (ALPS): an disorder of aptosis with predisposition to development of diverse lymphomas. Am J Hum Genet 1999; 65: A48.
+3. Rao VK, Straus SE. Causes and consequences of the autoimmune lymphoproliferative syndrome. Hematology 2006; 11: 15-23.
+4. Ramenghi U, Bonissoni S, Migliaretti G, DeFranco S, Bottarel F, Gambaruto C, DiFranco D, Priori R, Conti F, Dianzani I, Valesini G, Merletti F, Dianzani U. Deficiency of the Fas apoptosis pathway without Fas gene mutations is a familial trait predisposing to development of autoimmune diseases and cancer. Blood 2000; 95: 3176-3182.
+Synonym: APECED
+Mode of inheritance: AR
+OMIM number: 240300
+Genes:
+AIRE, mapped to 21q22.3
+Tumour features:
+oesophagus, squamous cell cancer of the
+intraoral squamous cell cancer
+Non-tumour features:
+alopecia
+autoimmune disease
+candidiasis
+cataract
+dental abnormalities
+diabetes mellitus
+hypogonadism
+hypoparathyroidism
+hypothyroidism
+keratopathy
+nails, dystrophic
+This rare autoimmune disorder mainly affects the endocrine glands [parathyroid glands (85%), adrenal cortex (72%) and ovaries (60%)] and is associated with enamel hypoplasia (77%), nail dystrophy (52%), keratopathy (22%) and candidiasis (100%). Oral squamous cell cancer and severe autoimmune hepatitis are the most life-threatening complications [1-3]. Perheentupa reported oral or oesophageal squamous cell carcinoma in 10% of patients older than 25 years in a relatively large Finnish series [4].
+References
+1. Björses P, Aaltonen J, Horelli-Kuitunen N, Yaspo ML, Peltonen L. Gene defect behind APECED: a new clue to autoimmunity. Hum Mol Genet 1998; 7: 1547-1553.
+2. Firth NA, O'Grady JF, Reade PC. Oral squamous cell carcinoma in a young person with candidosis endocrinopathy syndrome: a case report. Int J Oral Maxillofac Surg 1997; 26: 42-44.
+3. McGurk M, Holmes M. Chronic muco-cutaneous candidiasis and oral neoplasia. J Laryng Otol 1988; 102: 643-645.
+4. Perheentupa J. Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy. J Clin Endocrinol Metab 2006; 91: 2843-2850.
+Synonym: subset of PTEN-MATCH, including Ruvalcaba-Myhre-Smith syndrome
+Mode of inheritance: AD
+OMIM number: 153480
+Genes:
+PTEN, mapped to 10q23.3
+Tumour features:
+facial papules
+hamartomatous polyps in colon/rectum
+hamartomatous polyps in small intestine
+haemangioma
+lipoma
+oral papules trichilemmoma
+Tumour features (possible):
+breast cancer
+meningioma thyroid adenoma
+thyroid cancer
+Non-tumour features:
+cornea, prominent nerves
+deafness
+gross motor delay
+high birth weight
+hypotonia
+joint laxity
+lipid storage myopathy of proximal muscles
+macrocephaly
+mental deficiency
+pectus excavatum
+pigmented macules on glans and shaft of penis
+scoliosis
+seizures
+vulvar lentigines
+Lipid storage myopathy, pigmented macules on glans and shaft of penis and vulva, intestinal hamartous (juvenile type) polyps and neurodevelopmental delay are the typical features [1-9]. A clinical overlap with Cowden disease has been noted and indeed germline mutations in the PTEN gene, involved in Cowden disease, have been detected in this disorder. It should therefore be considered as a variant of Cowden syndrome [10-15]. DiLiberti [10] has recently proposed the nomenclature PTEN-MATCHS (macrocephaly, autosomal dominant, thyroid disease, cancer, hamartomata, skin abnormalities) to cover the clinical spectrum associated with germline PTEN mutations.
+References
+1. Gujrati M, Thomas C, Zelby A, Jensen E, Lee JM. Bannayan-Zonana syndrome: a rare autosomal dominant syndrome with multiple lipomas and hemangiomas: a case report and review of literature. Surg Neurol 1998; 50: 164-168.
+2. Fargnoli MC, Orlow SJ, Semel-Concepcion J, Bolognia JL. Clinicopathologic findings in the Bannayan-Riley-Ruvalcaba syndrome. Arch Dermatol 1996; 132: 1214-1218.
+3. Miles JH, Zonana J, Mcfarlane J, Aleck KA, Bawle E. Macrocephaly with hamartomas: Bannayan-Zonana syndrome. Am J Med Genet 1984; 19: 225-234.
+4. Foster MA, Kilcoyne RF. Ruvalcaba-Myhre-Smith syndrome: a new consideration in the differential diagnosis of intestinal polyposis. Gastrointest Radiol 1986; 11: 349-350.
+5. Gretzula JC, Hevia O, Schachner LS, DiLiberti JH, Ruvalcaba RH, Schimschock JR, Weleber RG, Halal F, Lipson MH, Blumberg B, et al. Ruvalcaba-Myhre-Smith syndrome. Pediatr Dermatol 1988; 5: 28-32.
+6. Gorlin RJ, Cohen MM Jr, Condon LM, Burke BA. Bannayan-Riley-Ruvalcaba syndrome. Am J Med Genet 1992; 44: 307-314.
+7. Hayashi Y, Ohi R, Tomita Y, Chiba T, Matsumoto Y, Chiba T. Bannayan-Zonana syndrome associated with lipomas, hemangiomas, and lymphangiomas. J Pediatr Surg 1992; 27: 722-723.
+8. Higginbottom MC, Schultz P. The Bannayan syndrome: an autosomal dominant disorder consisting of macrocephaly, lipomas, hemangiomas, and risk for intracranial tumors. Pediatrics 1982; 69: 632-634.
+9. Lowichik A, White FV, Timmons CF, Weinberg AG, Gunasekaran TS, Nathan K, Coffin CM. Bannayan-Riley-Ruvalcaba syndrome: spectrum of intestinal pathology including juvenile polyps. Pediatr Dev Pathol 2000; 3: 155-161.
+10. DiLiberti JH. Inherited macrocephaly-hamartoma syndromes. Am J Med Genet 1998; 79: 284-290.
+11. Marsh DJ, Dahia PL, Zheng ZM, Liaw D, Parsons R, Gorlin RJ, Eng C. Germline mutations in PTEN are present in Bannayan-Zonana syndrome. Nat Genet 1997; 16: 333-334.
+12. Marsh DJ, Coulon V, Lunetta KL, Rocca-Serra P, Dahia PL, Zheng Z, Liaw D, Caron S, Duboué B, Lin AY, Richardson AL, Bonnetblanc JM, Bressieux JM, Cabarrot-Moreau A, Chompret A, Demange L, Eeles RA, Yahanda AM, Fearon ER, Fricker JP, Gorlin RJ, Hodgson SV, Huson S, Lacombe D, Eng C, et al. Mutation spectrum and genotype-phenotype analyses in Cowden disease and Bannayan-Zonana syndrome, two hamartoma syndromes with germline PTEN mutation. Hum Mol Genet 1998; 7: 507-515.
+13. Longy M, Coulon V, Duboué B, David A, Larrègue M, Eng C, Amati P, Kraimps JL, Bottani A, Lacombe D, Bonneau D. Mutations of PTEN in patients with Bannayan-Riley-Ruvalcaba phenotype. J Med Genet 1998; 35: 886-889.
+14. Lachlan KL, Lucassen AM, Bunyan D, Temple IK. Cowden syndrome and Bannayan Riley Ruvalcaba syndrome represent one condition with variable expression and age-related penetrance: results of a clinical study of PTEN mutation carriers. J Med Genet 2007; 44: 579-585.
+15. Hendriks YM, Verhallen JT, van der Smagt JJ, Kant SG, Hilhorst Y, Hoefsloot L, Hansson KB, van der Straaten PJ, Boutkan H, Breuning MH, Vasen HF, Bröcker-Vriends AH. Bannayan-Riley-Ruvalcaba syndrome: further delineation of the phenotype and management of PTEN mutation-positive cases. Fam Cancer 2003; 2: 79-85.
+Synonym: BBS, Bardet-Biedl syndrome, type 1-12: BBS1-12
+Mode of inheritance: AR
+OMIM number: 209901, 209900, 600151, 600374, 603650, 605231
+Genes:
+BBS1, mapped to 11q13
+BBS10, mapped to 12q
+BBS11, mapped to 9q33.1
+BBS12, mapped to 4q27
+BBS2, mapped to 16q21
+BBS3, mapped to 3p12-q13
+BBS4, mapped to 15q22.3
+BBS5, mapped to 2q31
+BBS6/MKKS, mapped to 20p12
+BBS7, mapped to 4q27
+BBS8, mapped to 14q32.11
+BBS9, mapped to 7p14
+Tumour features (possible):
+renal cell cancer, clear-cell
+Non-tumour features:
+brachydactyly, of feet
+brachydactyly, of hands
+deafness, conductive
+dental abnormalities
+hypogonadism
+mental deficiency
+obesity
+polydactyly, postaxial
+renal anomalies
+renal dysplasia rod-cone
+dystrophy
+This disorder (BBS) is characterized by postaxial polydactyly, central obesity, rod-cone dystrophy, mental retardation and renal dysfunction. Beales et al. [1] observed 3 cases of clear cell renal cell carcinoma (diagnosed at age 37, 40 and 52, respectively) among 180 parents of BBS patients. This is more than expected in the normal population (p = 0.0007). The authors calculated that parents of BBS children have a relative risk of 17 (95% CI = 3.6-49.9) of developing clear cell renal cell cancer before the age of 55 years. One of the tumours showed loss of heterozygosity at the BBS1 locus. The authors suggest that the BBS genes may be implicated in the development of renal cancer (and renal malformation). In contrast, Hjortshøj et al. found no evidence for an increased cancer risk in BBS patients and their relatives [2].
+References
+1. Beales PL, Reid HA, Griffiths MH, Maher ER, Flinter FA, Woolf AS. Renal cancer and malformations in relatives of patients with Bardet-Biedl syndrome. Nephrol Dial Transplant 2000; 15: 1977-1985.
+2. Hjortshøj TD, Grønskov K, Rosenberg T, Brøndum-Nielsen K, Olsen JH. Risk for cancer in patients with Bardet-Biedl syndrome and their relatives. Am J Med Genet A 2007; 143: 1699-1702.
+Mode of inheritance: AD?/multifact?
+OMIM number: 109350
+Tumour features:
+oesophagus, adenocarcinoma of the
+Tumour features (possible):
+colorectal cancer
+colorectal polyps
+gastric cancer
+tongue cancer
+Non-tumour features:
+oesophagus, Barrett's
+Barrett's oesophagus and oesophageal adenocarcinoma are complications of gastroesophageal reflux [1], which may show familial clustering, as has been demonstrated by Romero et al. [2]. These authors reported that reflux symptoms were significantly more prevalent among parents and siblings of patients with oesophageal adenocarcinoma and/or Barrett's oesophagus than among controls. Other authors have reported familial cases as well. Hampel et al. [3] reported on 3 families and suggested that Barrett's oesophagus families possibly are at an increased risk of developing extra-oesophageal cancer (notably of the digestive tract) as well. More recently more familial clusters have been reported [4-8] and family history is an acknowledged risk factor. Chak et al. showed that a family history of Barrett's oesophagus can be confirmed in 7.3% of persons presenting with Barrett's oesophagus, adenocarcinoma of the oesophagus, or adenocarcinoma of the gastroesophageal junction [5]. Linkage analyses are underway [9].
+References
+1. Van den Boogert J, van Hillegersberg R, de Bruin RW, Tilanus HW, Siersema PD. Barrett's oesophagus: pathophysiology, diagnosis, and management. Scand J Gastroenterol 1998; 33: 449-453.
+2. Romero Y, Cameron AJ, Locke GR 3rd, Schaid DJ, Slezak JM, Branch CD, Melton LJ. Familial aggregation of gastroesophageal reflux in patients with Barrett's esophagus and esophageal adenocarcinoma. Gastroenterology 1997; 113: 1449-1456.
+3. Hampel H, Poling BA, Curtis M, Mascari M, Fromkes JJ, Eng C. Familial Barrett esophagus: a true hereditary cancer syndrome. Am J Hum Genet 1999; 65: A40.
+4. Chak A, Lee T, Kinnard MF, Brock W, Faulx A, Willis J, Cooper GS, Sivak MV, Goddard KA. Familial aggregation of Barrett's oesophagus, oesophageal adenocarcinoma, and oesophagogastric junctional adenocarcinoma in Caucasian adults. Gut 2002; 51: 323-328.
+5. Chak A, Ochs-Balcom H, Falk G, Grady WM, Kinnard M, Willis JE, Elston R, Eng C. Familiality in Barrett's esophagus, adenocarcinoma of the esophagus, and adenocarcinoma of the gastroesophageal junction. Cancer Epidemiol Biomarkers Prev 2006; 15: 1668-1673.
+6. Groves C, Jankowski J, Barker F, Holdstock G. A family history of Barrett's oesophagus: another risk factor? Scand J Gastro-enterol 2005; 40: 1127-1128.
+7. Melzer E, Shtoyerman R, Appelman Z, Kashtan H. Familial Barrett's adenocarcinoma. Am J Gastroenterol 2006; 101: 677.
+8. Sappati Biyyani RS, Chessler L, McCain E, Nelson K, Fahmy N, King J. Familial trends of inheritance in gastro esophageal reflux disease, Barrett's esophagus and Barrett's adenocarcinoma: 20 families. Diseases of the Esophagus 2007; 20: 53-57.
+9. Ochs-Balcom HM, Falk G, Grady WM, Kinnard M, Willis J, Elston R, Eng C, Chak A. Consortium approach to identifying genes for Barrett's esophagus and esophageal adenocarcinoma. Transl Res 2007; 150: 3-17.
+Synonym: Gorlin syndrome, Gorlin-Golz syndrome, naevoid basal cell carcinoma syndrome
+Mode of inheritance: AD
+OMIM number: 109400
+Genes:
+PTCH, mapped to 9q22.3
+Tumour features:
+cardiac fibroma infundibulocystic basal cell cancer
+medulloblastoma
+ovarian fibroma
+skin cancer, basal cell
+Tumour features (possible):
+astrocytoma
+breast cancer
+dermoid cyst, nasal
+ependymoma
+Hodgkin's disease
+leiomyoma
+leiomyosarcoma
+leukaemia, acute lymphoblastic (ALL)
+leukaemia, chronic lymphocytic (CLL)
+lung/bronchial cancer
+malignant melanoma, cutaneous meningioma
+multiple myeloma
+nasopharyngeal rhabdomyosarcoma
+non-Hodgkin's lymphoma ovarian fibrosarcoma
+ovarian sarcoma (including pPNET of ovary)
+renal cell cancer
+renal fibroma
+rhabdomyoma, fetal
+rhabdomyosarcoma
+salivary gland tumour
+salivary gland, adenoid cystic carcinoma
+seminoma
+teratoma, benign cystic (dermoid cyst) of the ovary
+thyroid adenoma
+urinary bladder cancer
+Wilms' tumour (nephroblastoma)
+Non-tumour features:
+café-au-lait spots
+epidermoid cysts
+falx cerebri, calcification of
+frontoparietal bossing
+hypertelorism
+ionizing radiation sensitivity, increased
+jaw, odontogenic keratocysts of the
+nasal bridge, broad
+palate, high arched
+palmar pits
+pectus excavatum/carinatum
+plantar pits
+prognathism
+rib anomalies
+sloping shoulders
+strabismus
+vertebral anomalies
+In this disorder, multiple nevoid basal cell cancers (NBCC) typically start to appear at the age of puberty, although they have been reported to occur as early as 3 years of age. The NBCCs may manifest anywhere on the skin, but mainly on the face, neck and upper trunk. A typical facies is often present (70%), featuring frontoparietal bossing, broad nasal bridge and prognathism. Skeletal anomalies are often detected (e.g. 80% of patients are diagnosed with keratocysts of the jaw before the age of 30), as well as palmoplantar skin pits (87% of patients [1]). Mental deficiency occurs in a few cases [1-4].
+A wide range of tumours has been reported in basal cell nevus syndrome in addition to basal cell carcinomas: ovarian fibromas occur in frequencies ranging from 14 to over 50%. Medulloblastoma, ages at diagnosis ranging from 2 months to 7 years and of the desmoplastic subtype [5], is considered to be part of the tumour spectrum [6] and has been included as a minor criterion for the disorder (see below). However, it is still relatively rare: 4 out of 105 patients studied by Kimonis et al. [1]. Cardiac fibromas [7, 8] have been included as a minor criterion as well. Other reported tumours include: rhabdomyosarcoma [9, 10], (malignant) meningioma [1, 11], astrocytoma [4, 12, 13], cerebellar ependymoma [1], hamartous polyps of the stomach [14], fetal rhabdomyoma [15], nasal dermoid cyst [16], NHL [4], ovarian dermoid cyst [4], CLL [4], ALL [13], breast cancer [4], lung cancer [4], ovarian fibrosarcoma [2] and ovarian leiomyosarcoma [17], leiomyosarcoma of the extremities [18], seminoma [19], carcinoma of the vulva [20], adenoid cystic carcinoma of the salivary glands [21] and others [2]. Rhabdomyosarcoma and Wilms' tumour were diagnosed in a girl with a deletion of 9q22-q32 which included the PTCH gene [22].
+Patients with the syndrome have an increased risk of developing secondary tumours in the field of radiation treatment. A conservative estimate of the new mutation rate in basal cell nevus syndrome is 14% [4]. Fukushima et al. [23] reported the occurrence of a meningioma after radiation treatment for a medulloblastoma.
+The gene for basal cell nevus syndrome has been identified as the human homologue of the Drosophila patched gene [24, 25].
+Diagnostic criteria:
+two major criteria or one major + two minor criteria should be present.
+Major:
+• multiple basal cell carcinomas, or one under the age of 30 years, or >10 basal cell nevi; in a sunny climate these numbers should be higher (not further specified),
+• histologically proven odontogenic keratocyst, or polyostotic bone cyst,
+• >3 palmar and/or plantar pits,
+• calcification of the falx cerebri: lamellar or early (<20 years),
+• first-degree relative with nevoid basal cell carcinomas.
+Minor:
+• congenital skeletal anomaly: bifid, fused, splayed or missing rib or fused vertebrae,
+• macrocephaly (occipitofrontal circumference > 97th centile) with bossing,
+• cardiac or ovarian fibroma,
+• medulloblastoma,
+• lymphomesenteric cysts,
+• congenital malformation: cleft lip and/or palate, polydactyly, eye anomaly (cataract, coloboma, microphthalmia).
+References
+1. Kimonis VE, Goldstein AM, Pastakia B, Yang ML, Kase R, DiGiovanna JJ, Bale AE, Bale SJ. Clinical manifestations in 105 persons with nevoid basal cell carcinoma syndrome. Am J Med Genet 1997; 69: 299-308.
+2. Gorlin RJ. Nevoid basal-cell carcinoma syndrome. Medicine 1987; 66: 98-113.
+3. Woolgar JA, Rippin JW, Taylor M, Browne RM. The basal cell naevus syndrome. Br J Hosp Med 1987: 38: 344-350.
+4. Shanley S, Ratcliffe J, Hockey A, Haan E, Oley C, Ravine D, Martin N, Wicking C, Chenevix-Trench G. Nevoid basal cell carcinoma syndrome: review of 118 affected individuals. Am J Med Genet 1994; 50: 282-290.
+5. Amlashi SF, Riffaud L, Brassier G, Morandi X. Nevoid basal cell carcinoma syndrome: relation with desmoplastic medulloblastoma in infancy. A population-based study and review of the literature. Cancer 2003; 98: 618-624.
+6. Evans DG, Farndon PA, Burnell LD, Gattamaneni HR, Birch JM. The incidence of Gorlin syndrome in 173 consecutive cases of medulloblastoma. Br J Cancer 1991; 64: 959-961.
+7. Evans DG, Ladusans EJ, Rimmer S, Burnell LD, Thakker N, Farndon PA. Complications of the naevoid basal cell carcinoma syndrome: results of a population based study. J Med Genet 1993; 30: 460-464.
+8. Cotton JL, Kavey RE, Palmier CE, Tunnessen WW Jr. Cardiac tumors and the nevoid basal cell carcinoma syndrome. Pediatrics 1991; 87: 725-728.
+9. Bddis IR, Mott MG, Bullimore J. Case report: nasopharyngeal rhabdomyosarcoma and Gorlin's naevoid basal cell carcinoma syndrome. Med Pediatr Oncol 1983; 11: 178-179.
+10. Schweisguth O, Gerard-Marchant R, Lemerle J. Naevomatose baso-cellulaire association a un rhabdomyosarcome congenital. Arch Fr Ped 1968; 25: 1083-1093.
+11. Albrecht S, Goodman JC, Rajagopolan S, Levy M, Cech DA, Cooley LD. Malignant meningioma in Gorlin's syndrome: Cytogenetic and p53 gene analysis. Case report. J Neurosurg 1994; 81: 466-471.
+12. Evans DG, Birch JM, Orton CI. Brain tumours and the occurrence of severe invasive basal cell carcinoma in first degree relatives with Gorlin syndrome. Br J Neurosurg 1991; 5: 643-646.
+13. Dinehart SM, Anthony JL, Pollack SV. Basal cell carcinoma in young patients after irradiation for childhood malignancy. Med Pediatr Oncol 1991; 19: 508-510.
+14. Schwartz RA. Basal-cell-nevus syndrome and gastrointestinal polyposis. N Engl J Med 1978; 299: 49.
+15. Hardisson D, Jimenez-Heffernan JA, Nistal M, Picazo ML, Tovar JA, Contreras F. Neural variant of fetal rhabdomyoma and naevoid basal cell carcinoma syndrome. Histopathology 1996; 29: 247-252.
+16. Pivnick EK, Walter AW, Lawrence MD, Smith ME. Gorlin syndrome associated with midline nasal dermoid cyst. J Med Genet 1996; 33: 704-706.
+17. Seracchioli R, Colombo FM, Bagnoli A, Trengia V, Venturoli S. Primary ovarian leiomyosarcoma as a new component in the nevoid basal cell carcinoma syndrome: a case report. Am J Obst Gynecol 2003; 188: 1093-1095.
+18. Garcia-Prats MD, Lopez-Carreira M, Mayordomo JI, Ballestin C, Rivera F, Diaz-Puente MT, Muñoz M, Cortes-Funes H, Martinez-Tello F. Leiomyosarcoma of the soft tissues in a patient with nevoid basal-cell carcinoma syndrome. Tumori 1994; 80: 401-404.
+19. Zaun H. Basalzellnavussyndrom mit ungewönlicher begleitsymptomatik. Hautarzt 1981; 32: 455-458.
+20. Giuliani M, Di Stefano L, Zoccali G, Angelone E, Leocata P, Mascaretti G. Gorlin syndrome associated with basal cell carcinoma of the vulva: a case report. Eur J Gynaecol Oncol 2006; 27: 519-522.
+21. Yilmaz B, Goldberg LH, Schechter NR, Kemp BL, Ruiz H. Basal cell nevus syndrome concurrent with adenoid cystic carcinoma of salivary gland. J Am Acad Dermatol 2003; 48 (5 Suppl): S64-S66.
+22. Cajaiba MM, Bale AE, Alvarez-Franco M, McNamara J, Reyes-Múgica M. Rhabdomyosarcoma, Wilms tumor, and deletion of the patched gene in Gorlin syndrome. Nat Clin Pract Oncol 2006; 3: 575-580.
+23. Fukushima Y, Oka H, Utsuki S, Iwamoto K, Fujii K. Nevoid basal cell carcinoma syndrome with medulloblastoma and meningioma - case report. Neurol Med Chir (Tokyo) 2004; 44: 665-668.
+24. Johnson RL, Rothman AL, Xie JW, Goodrich LV, Bare JW, Bonifas JM, Quinn AG, Myers RM, Cox DR, Epstein EH Jr, Scott MP. Human homolog of patched, a candidate gene for the basal cell nevus syndrome. Science 1996; 272: 1668-1671.
+25. Hahn H, Wicking C, Zaphiropoulos PG, Gailani MR, Shanley S, Chidambaram A, Vorechovsky I, Holmberg E, Unden AB, Gillies S, Negus K, Smyth I, Pressman C, Leffell DJ, Gerrard B, Goldstein AM, Dean M, Toftgard R, Chenevixtrench G, Wainwright B, Bale AE. Mutations of the human homolog of Drosophila patched in the nevoid basal cell carcinoma syndrome. Cell 1996; 85: 841-851.
+Synonym: familial non-melanoma skin cancer
+Mode of inheritance: multifact?
+Genes: many low penetrant gene mutations have been reported, we do not list them separately here
+Tumour features:
+skin cancer, basal cell
+skin cancer, squamous cell
+Tumour features (possible):
+malignant melanoma, cutaneous
+melanoma, uveal (choroidal, ciliary body, iris)/ocular
+The influence of a family history of skin cancer on basal cell skin cancer (BCC) risk is controversial. Two studies could not demonstrate a familial risk factor [1-2]. However, Wallberg et al. [3] found a family history of skin cancer (not further specified) among siblings and/or parents to be the strongest risk factor (RR 10.9) of 12 factors tested. The authors could not explain this risk by correcting for hereditary pigmentary characteristics, such as skin type, eye and hair colour, which are known to be associated with melanoma as well as non-melanoma skin cancer risk [4]. Hogan et al. [5] also found that a family history of skin cancer was associated with an increased risk of developing BCC (RR 1.22). In their series of 538 BCC patients and matched controls, they also observed a significantly lower age at diagnosis in those BCC patients with a family history of skin cancer compared with those who did not. In a case-control study of similar size, Naldi et al. [6] confirmed the significant association of BCC and a family history of skin cancer (odds ratio 6.7). In a population-based cohort study of twins, the co-twin of a twin affected with BCC cancer was shown to have an increased BCC risk (RR 7-8); however, zygosity did not influence this risk [7, 8]. In general, BCC in children in the absence of known genetic conditions is rare, but has been diagnosed at the age of 4 years and older [9].
+Polymorphisms of members of the glutathione-S-transferase and cytochrome P450 enzyme families have been associated with an increased risk of developing (multiple) BCC [10-12].
+For squamous cell skin cancer (SCC), a positive family history of skin cancer in general also increases SCC risk, as has been calculated by Hogan et al. [13], Gamble et al. [14] and Hemminki and Dong [15]. The latter study from the Swedish Family-Cancer Database reported SIRs of 2.4 for invasive SCC and 2.8 for invasive SCC in the offspring of parents with SCC. SIR for SCC in offspring of parents with multiple SCC was 70% higher than in offspring of parents with single SCC. The authors also reported a familial association between SCC and skin and ocular melanoma.
+References
+1. Maia M, Proenca NG, de Moraes JC. Risk factors for basal cell carcinoma: a case-control study. Rev Saude Publica 1995; 29: 27-37.
+2. Gellin GA, Kopf AW, Garfinkel L. Basal cell epithelioma: a controlled study of associated factors. Arch Dermatol 1965; 91: 38-45.
+3. Wallberg P, Kaaman T, Lindberg M. Multiple basal cell carcinoma: a clinical evaluation of risk factors. Acta Derm Venereol 1998; 78: 127-129.
+4. Armstrong BK, Kricker A. Epidemiology of sun exposure and skin cancer. Cancer Surv 1996; 26: 133-153.
+5. Hogan DJ, To T, Gran L, Wong D, Lane PR. Risk factors for basal cell carcinoma. Int J Dermatol 1989; 28: 591-594.
+6. Naldi L, DiLandro A, D'Avanzo B, Parazzini F. Host-related and environmental risk factors for cutaneous basal cell carcinoma: evidence from an Italian case-control study. J Am Acad Dermatol 2000; 42: 446-452.
+7. Milan T, Kaprio J, Verkasalo PK, Jansen CT, Teppo L, Koskenvuo M. Hereditary factors in basal cell carcinoma of the skin: a population-based cohort study in twins. Br J Cancer 1998; 78: 1516-1520.
+8. Bataille V, Snieder H, MacGregor A, Spector T. Hereditary factors in basal cell carcinoma of the skin: a population-based cohort study in twins. Br J Cancer 2000; 82: 247-249.
+9. LeSueur BW, Silvis NG, Hansen RC. Basal cell carcinoma in children: report of 3 cases. Arch Dermatol 2000; 136: 370-372.
+10. Lear J, Heagerty A, Smith A, Bowers B, Jones P, Gilford J, Alldersea J, Fryer A, Strange R. Polymorphism in detoxifying enzymes and susceptibility to skin cancer. Photochem Photobiol 1996; 63: 424-428.
+11. Lear JT, Heagerty AH, Smith A, Bowers B, Payne CR, Smith CA, Jones PW, Gilford J, Yengi L, Alldersea J, Fryer AA, Strange RC. Multiple cutaneous basal cell carcinomas: Glutathione S-transferase (GSTM1, GSTT1) and cytochrome P450 (CYP2D6, CYP1A1) polymorphisms influence tumour numbers and accrual. Carcinogenesis 1996; 17: 1891-1896.
+12. Heagerty A, Smith A, English J, Lear J, Perkins W, Bowers B, Jones P, Gilford J, Alldersea J, Fryer A, Strange RC. Susceptibility to multiple cutaneous basal cell carcinomas: significant interactions between glutathione S-transferase GSTM1 genotypes, skin type and male gender. Br J Cancer 1996; 73: 44-48.
+13. Hogan DJ, Lane PR, Gran L, Wong D. Risk factors for squamous cell carcinoma of the skin in Saskatchewan, Canada. J Dermatol Sci 1990; 1: 97-101.
+14. Gamble JF, Lerman SE, Holder WR, Nicolich MJ, Yarborough CM. Physician-based case-control study of non-melanoma skin cancer in Baytown, Texas. Occup Med (Lond) 1996; 46: 186-196.
+15. Hemminki K, Dong C. Familial relationships in squamous cell carcinoma of the skin. Epidemiology 2000; 11: 309-314.
+Synonym: Bazex-Dupré-Christol syndrome
+Mode of inheritance: XL
+OMIM number: 301845
+Genes:
+BZX, mapped to Xq24-q27
+Tumour features:
+skin cancer, basal cell
+Non-tumour features:
+atrophoderma, follicular (ice pick marks)
+facial hyperpigmentation
+hair shaft dystrophy
+hypotrichosis
+milia
+This syndrome is characterized by multiple basal cell cancers developing mainly on the face, from the second decade. The skin shows follicular atrophoderma (resembling ice pick marks), especially on the face, hands, elbows and feet. Sweating is decreased and hypotrichosis is another characteristic. The term follicular atrophoderma appears inappropriate because the skin histology does not show atrophy [1-7]. The disorder has been mapped to Xq [8].
+Confusingly, the name Bazex syndrome is also used for the sporadic disorder acrokeratosis paraneoplastica, which mainly occurs in males and is characterized by psoriasiform skin lesions of predominantly ears, fingers, nose and toes, associated with squamous cell cancer of the upper aerodigestive tract [9].
+References
+1. Kidd A, Carson L, Gregory DW, De Silva D, Holmes J, Dean JC, Haites N. A Scottish family with Bazex-Dupre-Christol syndrome: follicular atrophoderma, congenital hypotrichosis, and basal cell carcinoma. J Med Genet 1996; 33: 493-497.
+2. Bazex A, Dupre A, Christol B. Atrophodermic folliculaire, proliferations baso-cellulaires et hypotrichose. Ann Dermatol Syphiligr 1966; 93: 241-254.
+3. Goeteyn M, Geerts ML, Kint A, De Weert J. The Bazex-Dupré-Christol syndrome. Arch Dermatol 1994; 130: 337-342.
+4. Herges A, Stieler W, Stadler R. Bazex-Dupré-Christol syndrome. Follicular atrophoderma, multiple basal cell carcinomas and hypotrichosis. Hautarzt 1993; 44: 385-391.
+5. Moreau-Cabarrot A, Bonafé JL, Hachich N, Jalby BC, Aubert G, Rolland M, Bazex J. Follicular atrophoderma, basal cell proliferation and hypotrichosis (Bazex-Dupre-Christol syndrome). A study in 2 families. Ann Dermatol Venereol 1994; 121: 297-301.
+6. Colomb D, Ducros B, Boussuge N. Bazex, Dupré and Christol syndrome. Apropos of a case with prolymphocytic leukemia. Ann Dermatol Venereol 1989; 116: 381-387.
+7. Mehta VR, Potdar R. Bazex syndrome. Follicular atrophoderma and basal cell epitheliomas. Int J Dermatol 1985; 24: 444-446.
+8. Vabres P, Lacombe D, Rabinowitz LG, Aubert G, Anderson CE, Taieb A, Bonafe JL, Hors-Cayla MC. The gene for Bazex-Dupré-Christol syndrome maps to chromosome Xq. J Invest Dermatol 1995; 105: 87-91.
+9. Bolognia JL, Brewer YP, Cooper DL. Bazex syndrome (acrokeratosis paraneoplastica). An analytic review. Medicine (Baltimore) 1991; 70: 269-280.
+Synonym: BWS, exomphalos-macroglossia-gigantism (EMG) syndrome, Wiedemann-Beckwith syndrome, WBS
+Mode of inheritance: AD/spor/impr (UPDpat11)
+OMIM number: 130650
+Genes:
+H19, mapped to 11p15.5
+LIT1/KCNQ1OT1, mapped to 11p15.5
+NSD1, mapped to 5q35
+p57/kip2/CDKN1C, mapped to 11p15.5
+Tumour features:
+adrenal adenoma
+adrenocortical cancer
+hepatoblastoma
+pancreatoblastoma
+Wilms' tumour (nephroblastoma)
+Tumour features (possible):
+carcinoid of the small intestine
+cardiac tumour
+ganglioneuroma (tosis)
+gastric teratoma
+glioblastoma (multiforme)
+leukaemia, acute lymphoblastic (ALL)
+leukaemia, acute myeloid (AML, including ANLL)
+lipoma
+lymphoma, malignant (Non-Hodgkin and/or Hodgkin)
+mesenchymal hamartoma of the liver
+neuroblastoma, extra-adrenal
+ovarian gonadoblastoma
+perineurioma
+pheochromocytoma
+rhabdomyosarcoma
+testicular gonadoblastoma
+umbilical myxoma
+Non-tumour features:
+ear-lobe grooves
+flame nevus
+gigantism/overgrowth
+heart, congenital defect
+helix, indentations on posterior rim
+hemihypertrophy
+omphalocele
+seizures
+skeletal anomalies
+tongue, macroglossia
+transitory hypoglycaemia
+Gigantism, macroglossia, omphalocele and ear creases are the typical features of the syndrome [1-4]. Pancreatic hyperplasia often occurs and leads to neonatal hypoglycaemia in 30-50% of cases. Approximately 5% of children with this disorder develop tumours before the age of 8 years, mainly Wilms' tumour (60%), hepatoblastoma and neuroblastoma, but a range of other tumours have been reported [2, 5-19]. Limb asymmetry/hemihypertrophy is associated with an increased risk of tumours [10, 11] and nephromegaly appears to be a predictor of Wilms' tumour, particularly in these patients [12].
+The genetics of BWS are relatively complex. Cooper et al. analysed genotype-cancer phenotype associations and concluded that the risk of neoplasia was significantly higher in UPD and IC1 defect cases than in IC2 defect and CDKN1C mutation cases. Cancer risk for all patients was estimated at 9% at age 5 years, and 24% in the UPD subgroup. UPD including WT1 was associated with renal neoplasia. In contrast, Wilms' tumour risk in the IC2 defect subgroup appears to be small [20]. Rump et al. concluded that increased tumour risk in BWS is typically associated with loss of imprinting of H19 [21].
+References
+1. Cohen PR, Kurzrock R. Miscellaneous genodermatoses: Beckwith-Wiedemann syndrome, Birt-Hogg-Dube syndrome, familial atypical multiple mole melanoma syndrome, hereditary tylosis, incontinentia pigmenti, and supernumerary nipples.
+Dermatol Clin 1995; 13: 211-229.
+2. Beckwith JB. Vignettes from the history of overgrowth and related syndromes. Am J Med Genet 1998; 79: 238-248.
+3. Kosseff AL, Herrmann J, Gilbert EF, Viseskul C, Lubinsky M, Opitz JM. Studies of malformation syndromes of man XXIX: the Wiedemann-Beckwith syndrome. Clinical, genetic and pathogenetic studies of 12 cases. Eur J Pediatr 1976; 123: 139-166.
+4. Pettenati MJ, Haines JL, Higgins RR, Wappner RS, Palmer CG, Weaver DD. Wiedemann-Beckwith syndrome: presentation of clinical and cytogenetic data on 22 new cases and review of the literature. Hum Genet 1986; 74: 143-154.
+5. Berx G, Becker KF, Höfler H, Van Roy F. Mutations of the human E-cadherin (CDH1) gene. Hum Mutat 1998; 12: 226-237.
+6. Falik-Borenstein TC, Korenberg JR, Davos I, Platt LD, Gans S, Goodman B, Schreck R, Graham JM Jr. Congenital gastric teratoma in Wiedemann-Beckwith syndrome. Am J Med Genet 1991; 38: 52-57.
+7. Emery LG, Shields M, Shah NR, Garbes A. Neuroblastoma associated with Beckwith-Wiedemann syndrome. Cancer 1983; 52: 176-179.
+8. Drut R, Jones MC. Congenital pancreatoblastoma in Beckwith-Wiedemann syndrome: an emerging association. Pediatr Pathol 1988; 8: 331-339.
+9. Sotelo-Avila C, Gooch 3rd WM. Neoplasms associated with the Beckwith-Wiedemann Syndrome. In: Perspectives in Pediatric Pathology. Rosenberg HS (ed.) Year Book Med Publ, Chicago 1973; 255-272.
+10. Wiedemann HR. Tumours and hemihypertrophy associated with Wiedemann-Beckwith syndrome. Eur J Pediatr 1983; 141: 129.
+11. DeBaun MR, Tucker MA. Risk of cancer during the first four years of life in children from The Beckwith-Wiedemann Syndrome Registry. J Pediatr 1998; 132: 398-400.
+12. Debaun MR, Siegel MJ, Choyke PL. Nephromegaly in infancy and early childhood: a risk factor for Wilms tumor in Beckwith-Wiedemann syndrome. J Pediatr 1998; 132: 401-404.
+13. Muguerza R, Rodriguez A, Formigo E, Montero M, Vázquez JL, Páramo C, Campos C. Pancreatoblastoma associated with incomplete Beckwith-Wiedemann syndrome: case report and review of the literature. J Pediatr Surg 2005; 40: 1341-1344.
+14. Cajaiba MM, Sarita-Reyes C, Zambrano E, Reyes-Múgica M. Mesenchymal hamartoma of the liver associated with features of Beckwith-Wiedemann syndrome and high serum alpha-fetoprotein levels. Pediatr Dev Pathol 2007; 10: 233-238.
+15. Chen L, Li Y, Lin JH. Intraneural perineurioma in a child with Beckwith-Wiedemann syndrome. J Pediatr Surg 2005; 40: E12-E14.
+16. Baldisserotto M, Peletti AB, Angelo de Araújo M, Pertence AP, Dora MD, Maciel EO, Gaiger AM. Beckwith-Wiedemann syndrome and bilateral adrenal pheochromocytoma: sonography and MRI findings. Pediatr Radiol 2005; 35: 1132-1134.
+17. Khatib Z, Levi A, Pefkarou A, Escalon E. Acute lymphocytic leukemia in a child with Beckwith-Wiedemann syndrome. J Pediatr Hematol Oncol 2004; 26: 45-47.
+18. Satgé D, Vidalo E, Desfarges F, de Geeter B. A third case of cardiac neoplasm in a fetus with Beckwith-Wiedemann syndrome: epicardial angiofibroma. Fetal Diagn Therapy 2005; 20: 44-47.
+19. Houtenbos I, Ossenkoppele GJ. Acute myeloid leukemia in a 23-year-old patient with Beckwith-Wiedemann syndrome. Cancer Genet Cytogenet 2002; 136: 90-91.
+20. Cooper WN, Luharia A, Evans GA, Raza H, Haire AC, Grundy R, Bowdin SC, Riccio A, Sebastio G, Bliek J, Schofield PN, Reik W, Macdonald F, Maher ER. Molecular subtypes and phenotypic expression of Beckwith-Wiedemann syndrome. Eur J Hum Genet 2005; 13: 1025-1032.
+21. Rump P, Zeegers MP, van Essen AJ. Tumor risk in Beckwith-Wiedemann syndrome: a review and meta-analysis. Am J Med Genet A 2005; 136: 95-104.
+Synonym: childhood cancer syndrome
+Mode of inheritance: AR
+Genes:
+MLH1, mapped to 3p21.3
+MSH2, mapped to 2p21-p22
+MSH6, mapped to 2p16
+PMS2, mapped to 7p22
+Tumour features:
+astrocytoma
+colorectal cancer
+endometrial cancer
+glioblastoma (multiforme)
+leukaemia, acute
+leukaemia, acute lymphoblastic (ALL)
+leukaemia, acute myeloid (AML, including ANLL)
+leukaemia, chronic myeloid (CML)
+medulloblastoma
+non-Hodgkin's lymphoma
+oligodendroglioma
+Tumour features (possible):
+ovarian sarcoma (including pPNET of ovary)
+Wilms' tumour (nephroblastoma)
+Non-tumour features:
+axillary freckling
+café-au-lait spots
+Non-tumour features (possible):
+immunodeficiency
+Multiple café-au-lait spots, axillary freckling and early onset colorectal cancer, oligopolyposis, leukaemia (ALL, AML, AL-not specifed, CML), non-Hodgkin's lymphoma, brain tumours (glioblastoma, astrocytoma, oligodendroglioma medulloblastoma), Wilms' tumour, ovarian neuroectodermal tumour, endometrial cancer and sometimes IgA-deficiency have been observed in patients with biallelic mutations of the mismatch repair (MMR) genes MLH1, MSH2, MSH6 and PMS2 [1-11].
+There is overlap with HNPCC (associated with single inherited MMR mutations) and Turcot syndrome (brain tumours and colorectal polyps).
+References
+1. Ricciardone MD, Ozçelik T, Cevher B, Ozdag H, Tuncer M, Gürgey A, Uzunalimoglu O, Cetinkaya H, Tanyeli A, Erken E, Oztürk M. Human MLH1 deficiency predisposes to hematological malignancy and neurofibromatosis type 1. Cancer Res 1999; 59: 290-293.
+2. Wang Q, Lasset C, Desseigne F, Frappaz D, Bergeron C, Navarro C, Ruano E, Puisieux A. Neurofibromatosis and early onset of cancers in hMLH1-deficient children. Cancer Res 1999; 59: 294-297.
+3. De Rosa M, Fasano C, Panariello L, Scarano MI, Belli G, Iannelli A, Ciciliano F, Izzo P. Evidence for a recessive inheritance of Turcot's syndrome caused by compound heterozygous mutations within the PMS2 gene. Oncogene 2000; 19: 1719-1723.
+4. Whiteside D, McLeod R, Graham G, Steckley JL, Booth K, Somerville MJ, Andrew SE. A homozygous germ-line mutation in the human MSH2 gene predisposes to hematological malignancy and multiple café-au-lait spots. Cancer Res 2002; 62: 359-362.
+5. Bougeard G, Charbonnier F, Moerman A, Martin C, Ruchoux MM, Drouot N, Frébourg T. Early onset brain tumor and lymphoma in MSH2-deficient children. Am J Hum Genet 2003; 72: 213-216.
+6. Trimbath JD, Petersen GM, Erdman SH, Ferre M, Luce MC, Giardiello FM. Café-au-lait spots and early onset colorectal neoplasia: a variant of HNPCC? Fam Cancer 2001; 1: 101-105.
+7. Menko FH, Kaspers GM, Meijer GA, Claes K, van Hagen JM, Gille JJ. A homozygous MSH6 mutation in a child with café-au-lait spots, oligodendroglioma and rectal cancer. Fam Cancer 2004; 3: 123-127.
+8. Poley JW, Wagner A, Hoogmans MM, Menko FH, Tops C, Kros JM, Reddingius RE, Meijers-Heijboer H, Kuipers EJ, Dinjens WN; Rotterdam Initiative on Gastrointestinal Hereditary Tumors. Biallelic germline mutations of mismatch-repair genes: a possible cause for multiple pediatric malignancies. Cancer 2007; 109: 2349-2356.
+9. Hegde MR, Chong B, Blazo ME, Chin LH, Ward PA, Chintagumpala MM, Kim JY, Plon SE, Richards CS. A homozygous mutation in MSH6 causes Turcot syndrome. Clin Cancer Res 2005; 11: 4689-4693.
+10. Plaschke J, Linnebacher M, Kloor M, Gebert J, Cremer FW, Tinschert S, Aust DE, von Knebel Doeberitz M, Schackert HK. Compound heterozygosity for two MSH6 mutations in a patient with early onset of HNPCC-associated cancers, but without hematological malignancy and brain tumor. Eur J Hum Genet 2006; 14: 561-566.
+11. Ostergaard JR, Sunde L, Okkels H. Neurofibromatosis von Recklinghausen type I phenotype and early onset of cancers in siblings compound heterozygous for mutations in MSH6. Am J Med Genet A 2005; 139: 96-105.
+Synonym:
+including familial gallbladder cancer
+Mode of inheritance: multifact?
+Tumour features:
+biliary tract cancer (including gallbladder)
+Tumour features (possible):
+pancreatic adenocarcinoma
+A Spanish-Italian study demonstrated an association between a family history of gallbladder cancer and the development of this tumour in a relative (RR 13.9) [1]. Hemminki et al. [2] studied the occurrence of cancer in relatives of patients with liver or biliary tract cancers. The authors demonstrated a high risk for familial gallbladder cancer (SIR 5.21 [95% CI 2.07-10.80]) and for familial hepatocellular cancer (SIR 4.69 [95% CI 1.48-11.04]). For gallbladder and hepatocellular cancer, maternal transmission appeared to be more prevalent. Gallbladder cancer was associated with pancreatic cancer (SIR 2.39 [95% CI 1.23-4.18]).
+References
+1. Fernandez E, La Vecchia C, D'Avanzo B, Negri E, Franceschi S. Family history and the risk of liver, gallbladder, and pancreatic cancer. Cancer Epidemiol Biomarkers Prev 1994; 3: 209-212.
+2. Hemminki K, Li X. Familial liver and gall bladder cancer: a nationwide epidemiological study from Sweden. Gut 2003; 52: 592-596.
+Synonym: fibrofolliculomas with trichodiscomas and acrochordons, including Hornstein-Knickenberg syndrome, perifollicular fibromatosis
+Mode of inheritance: AD
+OMIM number: 135150
+Genes:
+FLCN, mapped to 17p11.2
+Tumour features:
+acrochordons
+fibrofolliculomas
+perifollicular fibromas
+trichodiscomas
+Tumour features (possible):
+chromophobe renal cell cancer
+colon cancer
+colorectal polyps
+renal cell cancer, clear-cell
+renal cell cancer, papillary
+renal oncocytoma
+thyroid cancer, medullary
+Non-tumour features:
+lung cysts
+pneumothorax, spontaneous
+This condition is characterized by the presence of 3 types of benign skin tumours: fibrofolliculomas, trichodiscomas and acrochordons [1-4], although its has been questioned whether acrochordons truly belong to this hereditary disorder [5]. Spontaneous pneumothorax and cystic lung disease is another feature of BHD [6].
+In one large family with this disorder, medullary thyroid cancer was diagnosed in several relatives, 2 of them also presenting with skin tumours. It may have been a coincidental co-segregation of familial medullary thyroid cancer (see that entry) and Birt-Hogg-Dubé syndrome. Benign and malignant adenomatous colon polyps have been reported in patients with this disorder and with what some consider to be a variant of Birt-Hogg-Dubé syndrome: Hornstein-Knickenberg syndrome, which is characterized by multiple perifollicular fibromas [7-10]. Renal tumours (single or multiple, unilateral or bilateral) of various histology have been observed in Birt-Hogg-Dubé syndrome: oncocytoma, chromophobe carcinoma and clear cell as well papillary renal cell carcinomas [11-13].
+References
+1. Birt AR, Hogg GR, Dubé WJ. Hereditary multiple fibrofolliculomas with trichodiscomas and acrochordons. Arch Dermatol 1977; 113: 1674-1677.
+2. Weintraub R, Pinkus H. Multiple fibrofolliculomas (Birt-Hogg-Dubé) associated with a large connective tissue nevus. J Cutan Pathol 1977; 4: 298-299.
+3. Bayrou O, Blanc F, Moulonguet I, Millet P, Garrel JB, Civatte J. Syndrome de Birt-Hogg-Dubé. fibrofolliculomes, trichodiscomes et acrochordons. Ann Dermatol Venereol 1990; 117: 37-41.
+4. Cohen PR, Kurzrock R. Miscellaneous genodermatoses: Beckwith-Wiedemann syndrome, Birt- Hogg-Dubé syndrome, familial atypical multiple mole melanoma syndrome, hereditary tylosis, incontinentia pigmenti, and supernumerary nipples. Dermatol Clin 1995; 13: 211-229.
+5. De la Torre C, Ocampo C, Doval IG, Losada A, Cruces MJ. Acrochordons are not a component of the Birt-Hogg-Dubé syndrome: does this syndrome exist? Case reports and review of the literature. Am J Dermatopathol 1999; 21: 369-374.
+6. Toro JR, Pautler SE, Stewart L, Glenn GM, Weinreich M, Toure O, Wei MH, Schmidt LS, Davis L, Zbar B, Choyke P, Steinberg SM, Nguyen DM, Linehan WM. Lung cysts, spontaneous pneumothorax, and genetic associations in 89 families with Birt-Hogg-Dubé syndrome. Am J Respir Crit Care Med 2007; 175: 1044-1053.
+7. Hornstein OP, Knickenberg M. Perifollicular fibromatosis cutis with polyps of the colon - a cutaneo-intestinal syndrome sui generis. Arch Dermatol Res 1975; 253: 161-175.
+8. Hornstein OP. Generalized dermal perifollicular fibromas with polyps of the colon. Hum Genet 1976; 33: 193-197.
+9. Simon M Jr, Hornstein OP, Haneke E. Perifollikulare fibromatose. Eine kutane paraneoplasie? Hautartz 1982; 33: 481-483.
+10. McKenna DB, Barry-Walsh C, Leader M, Murphy GM. Multiple perifollicular fibromas. J Eur Acad Dermatol Venereol 1999; 12: 234-237.
+11. Toro JR, Glenn G, Duray P, Darling T, Weirich G, Zbar B, Linehan M, Turner ML. Birt-Hogg-Dubé syndrome: a novel marker of kidney neoplasia. Arch Dermatol 1999; 135: 1195-1202.
+12. Leter EM, Koopmans AK, Gille JJ, van Os TA, Vittoz GG, David EF, Jaspars EH, Postmus PE, van Moorselaar RJ, Craanen ME, Starink TM, Menko FH. Birt-Hogg-Dubé syndrome: clinical and genetic studies of 20 families. J Invest Dermatol 2008; 128: 45-49.
+13. Schmidt LS, Nickerson ML, Warren MB, Glenn GM, Toro JR, Merino MJ, Turner ML, Choyke PL, Sharma N, Peterson J, Morrison P, Maher ER, Walther MM, Zbar B, Linehan WM. Germline BHD-mutation spectrum and phenotype analysis of a large cohort of families with Birt-Hogg-Dubé syndrome. Am J Hum Genet 2005; 76: 1023-1033.
+Mode of inheritance: multifact?
+Genes: many low penetrant gene mutations have been reported, we do not list them separately here
+Tumour features:
+renal pyelum cancer
+ureter cancer
+urinary bladder cancer
+Non-tumour features (possible):
+†(5;20)(p15;q11) (constitutional)
+Familial clustering of bladder cancer has been reported [1-5] and may occur in approximately 4% of cases [6]. Kantor et al. [6] demonstrated that having an affected first-degree relative increases the risk of bladder cancer. These authors reported relative risks of 2.7, 1.7 and 1.3 depending on the age at diagnosis of the tumour: below age 45, ages 45-64 and 65 and older, respectively. Cigarette smoking in the setting of a family history of bladder cancer was shown to strongly increase the risk of developing this tumour. Relative risks of up to 28.1 in heavy smokers (60 + cigarettes/day) were calculated as compared to a RR of 2.1 in heavy smokers with a negative family history. Non-smokers with a positive family history still had a RR of 1.5 and this observation of a familial component independent of smoking was supported by the findings of Kramer et al. [7], who reported a RR of 1.8 for a similar group. Piper et al. [8] found bladder or renal cancer in first-degree relatives not to be a risk factor for bladder cancer in young women (<50 years). A family history of cancer in general has been reported to be a risk factor in the development of bladder cancer [2].
+Having blood type A or HLA types Cw4 and B5 increases the risk of developing this tumour [9]. Inherited variation in the metabolism of (pro)carcinogens, related to smoking and other environmental exposures, also influences the risk of bladder cancer, e.g. activities of glutathione-S-transferase, N-acetyltransferase and those of the cytochrome P450 group [10-13]. Also, certain alleles of the Hras1 minisatellite locus are associated with an increased tumour risk at this anatomical site [14]. More mutations have been reported, not listed in this brief overview. A small number of published families suggest the existence of a rare autosomal dominant predisposition to urinary tract cancer [3, 5, 15]. Familial clustering of transitional cell carcinomas (TCC) at different sites of the urinary tract has been observed [5, 16, 17], including familial cancer of the ureter [18]. A germline translocation (5;20)(p15;q11) has been observed in a 29-year-old man with TCC bladder cancer. His mother had been diagnosed with a similar tumour (she was not karyotyped) [19].
+References
+1. Lynch HT, Kimberling WJ, Lynch JF, Brennan K. Familial bladder cancer in an oncology clinic. Cancer Genet Cytogenet 1987; 27: 161-165.
+2. Bravo MP, Del Rey-Calero J, Conde M. Risk factors of bladder cancer in Spain. Neoplasma 1987; 34: 633-637.
+3. Lynch HT, Walzak MP, Fried R, Domina AH, Lynch JF. Familial factors in bladder carcinoma. J Urol 1979; 122: 458-461.
+4. Purtilo DT, McCarthy B, Yang JP, Friedell GH. Familial urinary bladder cancer. Semin Oncol 1979; 6: 254-256.
+5. Kiemeney LA, Schoenberg M. Familial transitional cell carcinoma. J Urol 1996; 156: 867-872.
+6. Kantor AF, Hartge P, Hoover RN, Fraumeni JF Jr. Familial and environmental interactions in bladder cancer risk. Int J Cancer 1985; 35: 703-706.
+7. Kramer AA, Graham S, Burnett WS, Nasca P. Familial aggregation of bladder cancer stratified by smoking status. Epidemiology 1991; 2: 145-148.
+8. Piper JM, Matanoski GM, Tonascia J. Bladder cancer in young women. Am J Epidemiol 1986; 123: 1033-1042.
+9. Herring DW, Cartwright RA, Williams DD. Genetic associations of transitional cell carcinoma. Br J Urol 1979; 51: 73-77.
+10. Maher ER. Genetics of urological cancers. Br Med Bull 1994; 50: 698-707.
+11. Branch RA, Chern HD, Adedoyin A, Romkes-Sparks M, Lesnick TG, Persad R, Wilkinson GR, Fleming CM, Dickinson AJ, Sibley G, et al. The procarcinogen hypothesis for bladder cancer: activities of individual drug metabolizing enzymes as risk factors. Pharmacogenetics 1995; 5: S97-S102.
+12. Ross RK, Jones PA, Yu MC. Bladder cancer epidemiology and pathogenesis. Semin Oncol 1996; 23: 536-545.
+13. Schulte PA. The role of genetic factors in bladder cancer. Cancer Detect Prev 1988; 11: 379-388.
+14. Krontiris TG, Devlin B, Karp DD, Robert NJ, Risch N. An association between the risk of cancer and mutations in the HRAS1 minisatellite locus. N Engl J Med 1993; 329: 517-523.
+15. Mahboubi AO, Ahlvin RC, Mahboubi EO. Familial aggregation of urothelial carcinoma. J Urol 1981; 126: 691-692.
+16. Orphali SL, Shols GW, Hagewood J, Tesluk H, Palmer JM. Familial transitional cell carcinoma of renal pelvis ans upper ureter. Urology 1986; 5: 394-396.
+17. Kiemeney LA, Moret NC, Witjes JA, Schoenberg MP, Tulinius H. Familial transitional cell carcinoma among the population of Iceland. J Urol 1997; 157: 1649-1651.
+18. Burkland CE, Juzek RH. Familial, occurrence of carcinoma of the ureter. J Urol 1966; 96: 697-701.
+19. Schoenberg M, Kiemeney L, Walsh PC, Griffin CA, Sidransky D. Germline translocation t(5;20)(p15;q11) and familial transitional cell carcinoma. J Urol 1996; 155: 1035-1036.
+Mode of inheritance: AR
+OMIM number: 210900
+Genes:
+BLM, mapped to 15q26.1
+Tumour features:
+breast cancer
+cervical cancer
+colon cancer
+gastric cancer
+hepatocellular cancer
+laryngeal cancer
+leukaemia, acute lymphoblastic (ALL)
+leukaemia, acute myeloid (AML, including ANLL)
+lymphoma, malignant (non-Hodgkin's and/or Hodgkin's)
+oral cancer
+skin cancer, basal cell
+Wilms' tumour (nephroblastoma)
+Tumour features (possible):
+colorectal adenomatous polyps
+external auditory canal cancer
+medulloblastoma
+myelodysplastic syndrome (MDS)
+osteosarcoma
+skin cancer, squamous cell
+vaginal cancer
+Non-tumour features:
+Clinodactyly
+growth deficiency
+hyperpigmentation of the skin
+hypopigmentation of the skin
+immunodeficiency
+increased chromosomal breakage
+increased sister chromatid exchange
+long small facies
+mutagen sensitivity, increased
+UV hypersensitivity
+UV radiation sensitivity, increased
+Non-tumour features (possible):
+bone marrow monosomy 7 karyotype
+Clinical features of this disorder are [1-4]: short stature, dolichocephaly, excessive number of neoplasms (see below), characteristic facies (malar hypoplasia, prominent nose, small mandible, protuberant prominent ears), UV hypersensitivity of the skin (lesions appear mainly in the face and back of hand/forearms), patchy hyperpigmentation (café-au-lait spots) and areas of hypopigmentation of the skin (predominantly on the trunk), variable degree of vomiting and diarrhoea during infancy, diabetes mellitus, azoospermia and early menopause, immunodeficiency, average to low-average intelligence, sometimes mental retardation. Cytogenetic studies show increased sister-chromatid exchange and excessive number of chromatid gaps and breaks. Neoplasms reported in Bloom syndrome (in decreasing frequency): non-Hodgkin's lymphoma, skin cancer (predominantly basal cell type), acute lymphocytic and acute myelocytic leukaemia, breast cancer, colon (diagnosed as early as age 16 [5]) and rectal cancer, oesophageal cancer, tongue cancer, laryngeal cancer, cervical cancer and endometrial cancer, tongue cancer, external auditory canal cancer, Wilms' tumour, osteogenic sarcoma, medulloblastoma and meningioma, tonsillar cancer, retinoblastoma and myelodysplastic syndrome (associated with monosomy 7 [6]). Wang et al. [7] reported a 37-year-old man with ulcerative colitis complicated by colon cancer. Lowy et al. observed colonic polyposis in a Bloom syndrome patient [8]. More recently hepatocellular cancer and vaginal cancer were reported [9, 10].
+References
+1. German J. Bloom's syndrome. Dermatol Clin 1995; 13: 7-18.
+2. German J. Bloom's syndrome. XX. The first 100 cancers. Cancer Genet Cytogenet 1997; 93: 100-106.
+3. German J, Passarge E. Bloom's syndrome. XII. Report from the Registry for 1987. Clin Genet 1989; 35: 57-69.
+4. Berkower AS, Biller HF. Head and neck cancer associated with Bloom's syndrome. Laryngoscope 1988; 98: 746-748.
+5. Balci S, Aktas D. Mucinous carcinoma of the colon in a 16-year-old Turkish boy with Bloom syndrome: cytogenetic, histopathologic, TP53 gene and protein expression studies. Cancer Genet Cytogenet 1999; 111: 45-48.
+6. Aktas D, Koc A, Boduroglu K, Hicsonmez G, Tuncbilek E. Myelodysplastic syndrome associated with monosomy 7 in a child with Bloom syndrome. Cancer Genet Cytogenet 2000; 116: 44-46.
+7. Wang J, German J, Ashby K, French SW. Ulcerative colitis complicated by dysplasia-adenoma-carcinoma in a man with Bloom's syndrome. J Clin Gastroenterol 1999; 28: 380-382.
+8. Lowy AM, Kordich JJ, Gismondi V, Varesco L, Blough RI, Groden J. Numerous colonic adenomas in an individual with Bloom's syndrome. Gastroenterology 2001; 121: 435-439.
+9. Jain D, Hui P, McNamara J, Schwartz D, German J, Reyes-Múgica M. Bloom syndrome in sibs: first reports of hepatocellular carcinoma and Wilms tumor with documented anaplasia and nephrogenic rests. Pediatr Dev Pathol 2001; 4: 585-589.
+10. Goudge CS, Downs LS, Judson PL, Argenta PA. Stage II squamous cell carcinoma of the vagina in a patient with Bloom syndrome: a case report. J Reprod Med 2007; 52: 557-559.
+Synonym: Bean syndrome
+Mode of inheritance: AD/spor
+OMIM number: 112200
+Tumour features:
+gastrointestinal polypoid haemangioma
+hepatic haemangioma
+joint capsules, haemangioma in
+lung haemangioma
+splenic haemangioma
+subcutaneous haemangioma
+Tumour features (possible):
+leukaemia, chronic lymphocytic (CLL)
+medulloblastoma
+renal cell cancer
+Non-tumour features:
+cutaneous nevi, haemangiomatous (blue rubber blebs)
+The hallmarks of this disease are the presence of multiple bladder-like haemangiomas (blue rubber blebs) on the skin, especially on the trunk and arms. The intestinal polypous haemangiomas may cause bleeding. Haemangiomas may be found in a wide range of tissues (spleen, lungs, joint capsules etc.) [1-3]. Chronic lymphocytic leukaemia (at age 66) and renal cell cancer (at age 57) were reported in a male with this disorder [4]. Medulloblastoma was reported in a 21-year old affected woman [5]. This condition may be identical to familial venous malformation syndrome.
+References
+1. Laugier P. Blue rubber bleb nevus (author's transl). Ann Dermatol Venereol 1978; 105: 729-731.
+2. Munkvad M. Blue rubber bleb nevus syndrome. Dermatologica 1983; 167: 307-309.
+3. Morris SJ, Kaplan SR, Ballan K, Tedesco FJ. Blue rubber-bleb nevus syndrome. JAMA 1978; 239: 1887.
+4. Hoffman T, Chasko S, Safai B. Association of blue rubber bleb nevus syndrome with chronic lymphocytic leukemia and hypernephroma. Johns Hopkins Med J 1978; 142: 91-94.
+5. Rice JS, Fischer DS. Blue rubber-bleb nevus syndrome. Generalized cavernous hemangiomatosis or venous hamartoma with medulloblastoma of the cerebellum: case report and review of the literature. Arch Dermatol 1962; 86: 503-511.
+Synonym: hereditary bone dysplasia with malignant fibrous histiocytoma, diaphyseal medullary stenosis with malignant fibrous histiocytoma, DMS-MFH
+Mode of inheritance: AD
+OMIM number: 112250
+Genes:
+DMSMFH/BDMF, mapped to 9p21-p22
+Tumour features:
+bone, malignant fibrous histiocytoma of the
+Non-tumour features:
+Cataract
+skeletal dysplasia
+This disorder is characterized by bone dysplasia presenting with diaphyseal medullary stenosis of bone with overlying cortical bone thickening. The epiphysis is not affected. The bone changes may not appear until the 3rdor 4th decade of life. Other features are fractures after minimal trauma and malignant transformation (typically in 2nd-5th decade). The neoplasms were originally classified as fibrosarcomas, but later reclassified as malignant fibrous histiocytomas. Approximately 35% of gene carriers develop these malignant tumours. Early-onset cataract was documented in some of the patients and mental retardation was seen in a minority of cases [1,2]. This syndrome maps to 9p21-22 [3,4].
+References
+1. Hardcastle P, Nade S, Arnold W. Hereditary bone dysplasia with malignant change. Report of three families. J Bone Joint Surg Am 1986; 68: 1079-1089.
+2. Miyake M, Tateishi U, Maeda T, Arai Y, Hasegawa T, Sugimura K. Diaphyseal medullary stenosis with pleomorphic malignant fibrous histiocytoma of the bone: 99mTc hydroxymethylenediphosphonate and 201Tl chloride scintigraphy findings. Ann Nucl Med 2006; 20: 233-236.
+3. Martignetti JA, Desnick RJ, Aliprandis E, Norton KI, Hardcastle P, Nade S, Gelb BD. Diaphyseal medullary stenosis with malignant fibrous histiocytoma: a hereditary bone dysplasia/cancer syndrome maps to 9p21-22. Am J Hum Genet 1999; 64: 801-807.
+4. Martignetti JA, Gelb BD, Pierce H, Picci P, Desnick RJ. Malignant fibrous histiocytoma: inherited and sporadic forms have loss of heterozygosity at chromosome bands 9p21-22-evidence for a common genetic defect. Genes Chromosomes Cancer 2000; 27: 191-195.
+Synonym: including familial medulloblastoma
+Mode of inheritance: multifact?/AR?/AD?
+OMIM number: 137800
+Genes:
+CYP2D6, mapped to 22q13.1
+GSTM1, mapped to 1p13.3
+GSTT1, mapped to 22q11.2
+TP53, mapped to 17p13.1
+Tumour features:
+Astrocytoma
+brain, sarcoma of the
+choroid plexus papilloma
+ependymoma
+Ewing sarcoma
+glioblastoma (multiforme)
+glioma of the brain
+medulloblastoma
+meningioma
+prostate cancer
+Tumour features (possible):
+breast cancer
+colon cancer
+gastric cancer
+Hodgkin's disease
+Leukaemia
+malignant melanoma, cutaneous
+Familial occurrence of brain tumours has predominantly been reported in sibs, but in some cases the tumours have been found in successive generations [-5]. The most frequent tumours in these clusters are astrocytoma, medulloblastoma [6, 7] and glioblastoma [8]. Less frequently, choroid plexus papillomas [9], ependymomas [10] and sarcomas [11] have been reported. Figures on the percentage of brain tumours that are familial are rare. Estimates for astrocytomas range from less than 1 to 14% [12]. In the Swedish Family-Cancer Database, which included 2060 childhood brain tumours, 1.3% of brain tumour patients had a parent with nervous system cancer. Some studies conclude that a family history of brain tumours or cancer in general does not significantly contribute to glioma risk in adults and brain tumour risk in children [13-17]. Others found that the occurrence of childhood brain tumour is associated with an increased risk of developing central nervous system tumours, leukaemia and childhood tumours in relatives [18-20]. One study found a particularly strong association between parental meningioma and brain astrocytoma in the offspring [20]. Malmer et al. [26] studied cancer risk in the first-degree relatives of Swedish astrocytoma patients and found an increased risk for astrocytomas (relative risk 2.1) but not for other primary brain tumours in these relatives.
+Hill et al. reported that in individuals with a family history of a brain cancer or a brain tumour, risk of glioma was 1.6 and 3.0, respectively, in comparison with those without such family histories. Increased risks were also reported for a family history of stomach (RR 2.2), colon (RR 1.4), or prostate cancer (RR 2.1) or Hodgkin's disease (RR 2.4) [21]. In another paper they reported that risk of meningioma was increased among those with a family history of a benign brain tumour (RR 4.5) or melanoma (RR 4.2). A family history of breast cancer was associated with an elevated meningioma risk among participants aged 18 to 49 years (RR 3.9) but a reduced risk among older individuals [22].
+In general, the familial clustering of gliomas may be associated with a range of congenital malformations and is a genetically heterogeneous group [2]. Relatives of patients with Ewing sarcoma or prostate cancer are at increased risk of developing brain tumours [23, 24]. Significantly more colon cancer was observed in first-degree relatives of children with brain tumours, although absolute numbers were small [25]. Interestingly, another study reported a significant decrease in colon (and breast) cancer risk for first-degree relatives of astrocytoma patients [26]. Certain variants of enzymes involved in (pro)carcinogen metabolism have been found to be associated with an increased risk of astrocytomas and meningiomas, e.g. GSTT1, GSTM1 and CYP2D6 [27]. A small fraction of familial clustering of gliomas may be attributed to germline TP53 mutations [28-31].
+References
+1. Tijssen CC, Halprin MR, Endtz LJ. Familial brain tumours. Martinus Nijhoff Publishers, Hague 1982.
+2. Vieregge P, Gerhard L, Nahser HC. Familial glioma: occurrence within the "familial cancer syndrome" and systemic malformations. J Neurol 1987; 234: 220-232.
+3. Ikizler Y, van Meyel DJ, Ramsey DA, Abdallah GL, Allaster RM, Macdonald DR, Cavenee WK, Cairncross JG. Gliomas in families. Can J Neurol Sci 1992; 19: 492-497.
+4. Isamat F, Miranda AM, Bartumeus F, Prat J. Genetic implications of familial brain tumors. J Neurosurg 1974; 41: 573-575.
+5. Armstrong RM, Hanson CW. Familial gliomas. Neurology 1969; 19: 1061-1063.
+6. Hung KL, Wu CM, Huang JS, How SW. Familial medulloblastoma in siblings: report in one family and review of the literature. Surg Neurol 1990; 33: 341-346.
+7. Moschovi M, Sotiris Y, Prodromou N, Tsangaris GT, Constantinidou Van-Vliet C, Kalpini-Mavrou A, Tzortzatou-Stathopoulou F. Familial medulloblastoma. Pediat Hemat Oncol 1998; 15: 421-424.
+8. Chemke J, Katznelson D, Zucker G. Familial glioblastoma multiforme without neurofibromatosis. Am J Med Genet 1985; 21: 731-735.
+9. Zwetsloot CP, Kros JM, Paz y Geuze HD. Familial occurrence of tumours of the choroid plexus. J Med Genet 1991; 28: 492-494.
+10. Nijssen PC, Deprez RH, Tijssen CC, Hagemeijer A, Arnoldus EP, Teepen JL, Holl R, Niermeyer MF. Familial anaplastic ependymoma: evidence of loss of chromosome 22 in tumour cells. J Neurol Neurosurg Psychiatry 1994; 57: 1245-1248.
+11. Gainer JV Jr, Chou SM, Chadduck WM. Familial cerebral sarcomas. Arch Neurol 1975; 32: 665-668.
+12. Kaufman DK, Kimmel DW, Parisi JE, Michels VV. A familial syndrome with cutaneous malignant melanoma and cerebral astrocytoma. Neurology 1993; 43: 1728-1731.
+13. Giuffré R, Liccardo G, Pastore FS, Spallone A, Vagnozzi R. Potential risk factors for brain tumors in children. An analysis of 200 cases. Childs Nerv Syst 1990; 6: 8-12.
+14. Gold EB, Leviton A, Lopez R, Austin DF, Gilles FH, Hedley-Whyte ET, Kolonel LN, Lyon JL, Swanson GM, Weiss NS, et al. The role of family history in risk of childhood brain tumors. Cancer 1994; 73: 1302-1311.
+15. Cicuttini FM, Hurley SF, Forbes A, Donnan GA, Salzberg M, Giles GG, McNeil JJ. Association of adult glioma with medical conditions, family and reproductive history. Int J Cancer 1997; 71: 203-207.
+16. Wrensch M, Lee MM, Miike R, Newman B, Barger G, Davis R, Wiencke J, Neuhaus J. Familial and personal medical history of cancer and nervous system conditions among adults with glioma and controls. Am J Epidemiol 1997; 145: 581-593.
+17. Kuijten RR, Strom SS, Rorke LB, Boesel CP, Buckley JD, Meadows AT, Bunin GR. Family history of cancer and seizures in young children with brain tumors: a report from the Childrens Cancer Group (United States and Canada). Cancer Causes Control 1993; 4: 455-464.
+18. Farwell J, Flannery JT. Cancer in relatives of children with central-nervous-system neoplasms. N Engl J Med 1984; 311: 749-753.
+19. Graf N, Breitenmoser M, Jobke A, Kaatsch P. Malignancies in families of children with cancer. Klin Padiatr 1990; 202: 282-287.
+20. Hemminki K, Li X, Vaittinen P, Dong C. Cancers in the first-degree relatives of children with brain tumours. Br J Cancer 2000; 83: 407-411.
+21. Hill DA, Inskip PD, Shapiro WR, Selker RG, Fine HA, Black PM, Linet MS. Cancer in first-degree relatives and risk of glioma in adults. Cancer Epidemiol Biomarkers Prev 2003; 12: 1443-1448.
+22. Hill DA, Linet MS, Black PM, Fine HA, Selker RG, Shapiro WR, Inskip PD. Meningioma and schwannoma risk in adults in relation to family history of cancer. Neuro Oncol 2004; 6: 274-280.
+23. Isaacs SD, Kiemeney LA, Baffoe-Bonnie A, Beaty TH, Walsh PC. Risk of cancer in relatives of prostate cancer probands. J Natl Cancer Inst 1995; 87: 991-996.
+24. Novakovic B, Goldstein AM, Wexler LH, Tucker MA. Increased risk for neuroectodermal tumors and stomach cancer in relatives of patients with Ewing's sarcoma family of tumors. J Natl Cancer Inst 1994; 86: 1702-1706.
+25. Bondy ML, Lustbader ED, Buffler PA, Schull WJ, Hardy RJ, Strong LC. Genetic epidemiology of childhood brain tumors. Genet Epidemiol 1991; 8: 253-267.
+26. Malmer B, Grönberg H, Bergenheim AT, Lenner P, Henriksson R. Familial aggregation of astrocytoma in northern Sweden: an epidemiological cohort study. Int J Cancer 1999; 81: 366-370.
+27. Elexpuru-Camiruaga J, Buxton N, Kandula V, Dias PS, Campbell D, McIntosh J, Broome J, Jones P, Inskip A, Alldersea J, Fryer AA, Strange RC. Susceptibility to astrocytoma and meningioma: influence of allelism at glutathione S-transferase (GSTT1 and GSTM1) and Cytochrome P-450 (CYP2D6) loci. Cancer Res 1995; 55: 4237-4239.
+28. Li YJ, Sanson M, Hoang-Xuan K, Delattre JY, Poisson M, Thomas G, Hamelin R. Incidence of germ-line p53 mutations in patients with gliomas. Int J Cancer 1995; 64: 383-387.
+29. Kyritsis AP, Bondy ML, Xiao M, Berman EL, Cunningham JE, Lee PS, Levin VA, Saya H. Germline p53 gene mutations in subsets of glioma patients. J Natl Cancer Inst 1994; 86: 344-349.
+30. Lübbe J, von Ammon K, Watanabe K, Hegi ME, Kleihues P. Familial brain tumour syndrome associated with a p53 germline deletion of codon 236. Brain Pathol 1995; 5: 15-23.
+31. Chen P, Iavarone A, Fick J, Edwards M, Prados M, Israel MA. Constitutional p53 mutations associated with brain tumors in young adults. Cancer Genet Cytogenet 1995; 82: 106-115.
+Mode of inheritance: multifact?
+OMIM number: 114480
+Genes many low penetrant gene mutations have been reported, we do not list them separately here
+Tumour features:
+breast cancer
+colorectal cancer
+endometrial cancer
+ovarian cancer (i.e. epithelial origin)
+prostate cancer
+Non-tumour features:
+breast, proliferative disease
+mutagen sensitivity, increased
+Given the high risk of breast cancer in women [1], familial occurrence of breast cancer is not rare. A family history of breast cancer has been reported in 14 to 30% of female breast cancer patients [2,3]. Familial male breast cancer is rare [4-6]. Having a relative with breast cancer is one of the strongest risk factors for this tumour [7-10]. A RR of 34.7 of developing breast cancer has been reported in monozygotic twins of women in whom breast cancer had occurred before age 35 [11]. In general, the risk of breast cancer in relatives does not appear to depend heavily on the gender of their affected family member [12-15]. Compared with the general population, breast cancer is also found more frequently in women with family history of ovarian, endometrial, colorectal and/or prostate cancer and vice versa [16-24]. One study reported a RR of 5.6 for parotid cancer in first-degree relatives of breast cancer patients [25].
+Depending on the number of affected relatives, the degree of kinship and the age at onset of the tumours, the empirical risk of developing breast cancer in a female relative may be close to 50% (even higher if she already has children with breast cancer). Several models have been developed to estimate breast cancer risk in a specific family situation. Those by Gail et al. [26-30], focussing on white females who are being examined annually, and by Claus et al. [21, 31, 32] are the ones most widely used in clinical practice. Users should be aware of the specific limitations of these models [33]. For example, the risk tables may need to be adapted for use in different countries and or ethnic groups to account for differences in genetic background and exogenous risk factors [34]. The Claus model includes first- and second-degree relatives, as opposed to the Gail model, which looks at first-degree relatives only. However, the latter method also takes into account the risk factors of age at menarche, age at first live birth and number of previous biopsies.
+Given a positive or negative family history of breast cancer, other known risk factors may differ in their contribution to overall risk. Colditz et al. [35] reported on an adverse effect of first pregnancy among women with a family history of breast cancer that was approximately 50% greater in magnitude than among women without a family history. Past use of oral contraceptives and use of postmenopausal hormones and history of benign breast disease showed similar relative risks between the two groups. Sellers et al. concluded the same with regard to hormone replacement therapy in women with a family history of breast cancer [36]. However, with respect to benign breast disease, Dupont et al. [37] found that fibroadenomas have an increased effect on breast cancer risk in patients with a family history of breast cancer compared to patients without a family history of breast cancer. In addition, Skolnick et al. [38] analyzed families with a clustering of breast cancer and suggested that genetic susceptibility may cause both proliferative benign breast disease and breast cancer in those kindreds. Among women aged 30-49 years, a family history of breast cancer was associated with an increased risk of ductal carcinoma-in-situ (DCIS), and among those aged 50 and older it was associated with an increased risk of both DCIS and invasive breast cancer [39]. Egan et al. [40] demonstrated a stronger inverse association of high parity with breast cancer risk in women who reported first-degree relatives with breast cancer compared with women who did not have affected first-degree relatives. In a study by Schouten et al. [41], family history of breast cancer was not correlated with survival.
+Chromosomes of breast cancer patients (and some of their unaffected relatives) with a family history of breast cancer are more sensitive to the action of the mutagen bleomycin compared with sporadic breast cancer patients [42], hinting at the involvement of genes responsible for DNA repair.
+References
+1. Feuer EJ, Wun LM, Boring CC, Flanders WD, Timmel MJ, Tong T. The lifetime risk of developing breast cancer. J Natl Cancer Inst 1993; 85: 892-897.
+2. Bürki N, Gencik A, Torhorst JK, Weber W, Müller H. Familial and histological analyses of 138 breast cancer patients. Breast Cancer Res Treat 1987; 10: 159-167.
+3. Lynch HT, Lynch JF. Breast cancer genetics in an oncology clinic: 328 consecutive patients. Cancer Genet Cytogenet 1986; 22: 369-371.
+4. Demeter JG, Waterman NG, Verdi GD. Familial male breast carcinoma. Cancer 1990; 65: 2342-2343.
+5. Kozak FK, Hall JG, Baird PA. Familial breast cancer in males. A case report and review of the literature. Cancer 1986; 58: 2736-2739.
+6. Everson RB, Fraumeni JF Jr, Wilson RE, Li FP, Fishman J, Stout D, Norris HJ. Familial male breast cancer. Lancet 1976; 1: 9-12.
+7. Vogel VG, Yeomans A, Higginbotham E. Clinical management of women at increased risk for breast cancer. Breast Cancer Res Treat 1993; 28: 195-210.
+8. Henderson IC. Risk factors for breast cancer development. Cancer 1993; 71 (6 Suppl): 2127-2140.
+9. Hulka BS, Stark AT. Breast cancer: cause and prevention. Lancet 1995; 346: 883-887.
+10. Madigan MP, Ziegler RG, Benichou J, Byrne C, Hoover RN. Proportion of breast cancer cases in the United States explained by well-established risk factors. J Natl Cancer Inst 1995; 87: 1681-1685.
+11. Swerdlow AJ, De Stavola BL, Swanwick MA, Maconochie NE. Risks of breast and testicular cancers in young adult twins in England and Wales: evidence on prenatal and genetic aetiology. Lancet 1997; 350: 1723-1728.
+12. Anderson DE, Badzioch MD. Breast cancer risks in relatives of male breast cancer patients. J Natl Cancer Inst 1992; 84: 1114-1117.
+13. Olsson H, Andersson H, Johansson O, Möller TR, Kristoffersson U, Wenngren E. Population-based cohort investigations of the risk for malignant tumors in first-degree relatives and wives of men with breast cancer. Cancer 1993; 71: 1273-1278.
+14. Rosenblatt KA, Thomas DB, McTiernan A, Austin MA, Stalsberg H, Stemhagen A, Thompson WD, Curnen MG, Satariano W, Austin DF, et al. Breast cancer in men: aspects of familial aggregation. J Natl Cancer Inst 1991; 83: 849-854.
+15. Lenfant-Pejovic MH, Mlika-Cabanne N, Bouchardy C, Auquier A. Risk factors for male breast cancer: a franco-swiss case-control study. Int J Cancer 1990; 45: 661-665.
+16. Schildkraut JM, Risch N, Thompson WD. Evaluating genetic association among ovarian, breast, and endometrial cancer: evidence for a breast/ovarian cancer relationship. Am J Hum Genet 1989; 45: 521-529.
+17. Anderson DE, Badzioch MD. Familial breast cancer risks. Effects of prostate and other cancers. Cancer 1993; 72: 114-119.
+18. Thompson WD. Genetic epidemiology of breast cancer. Cancer 1994; 74: 279-287.
+19. Tulinius H, Olafsdottir GH, Sigvaldason H, Tryggvadóttir L, Bjarnadottir K. Neoplastic diseases in families of breast cancer patients. J Med Genet 1994; 31: 618-621.
+20. Tulinius H, Egilsson V, Olafsdottir GH, Sigvaldason H. Risk of prostate, ovarian, and endometrial cancer among relatives of women with breast cancer. BMJ 1992; 305: 855-857.
+21. Claus EB, Risch N, Thompson WD. The calculation of breast cancer risk for women with a first degree family history of ovarian cancer. Breast Cancer Res Treat 1993; 28: 115-120.
+22. Foulkes WD, Bolduc N, Lambert D, Ginsburg O, Olien L, Yandell DW, Tonin PN, Narod SA. Increased incidence of cancer in first degree relatives of women with double primary carcinomas of the breast and colon. J Med Genet 1996; 33: 534-539.
+23. Goldgar DE, Easton DF, Cannon Albright LA, Skolnick MH. Systematic population-based assessment of cancer risk in first-degree relatives of cancer probands. J Natl Cancer Inst 1994; 86: 1600-1608.
+24. Sutcliffe S, Pharoah PD, Easton DF, Ponder BA. Ovarian and breast cancer risks to women in families with two or more cases of ovarian cancer. Int J Cancer 2000; 87: 110-117.
+25. van Nagell JR Jr, Gallion HH, Pavlik EJ, DePriest PD. Ovarian cancer screening. Cancer 1995; 76: 2086-2091.
+26. Gail MH, Brinton LA, Byar DP, Corle DK, Green SB, Schairer C, Mulvihill JJ. Projecting individualized probabilities od developing breast cancer for white females who are being examined annualy. J Natl Cancer Inst 1989; 81: 1879-1886.
+27. Bondy ML, Lustbader ED, Halabi S, Ross E, Vogel VG. Validation of a breast cancer risk assessment model in women with a positive family history. J Natl Cancer Inst 1994; 8: 620-625.
+28. Spiegelman D, Colditz GA, Hunter D, Hertzmark E. Validation of the Gail et al. model for predicting individual breast cancer risk. J Natl Cancer Inst 1994; 8: 600-607.
+29. Gail MH, Benichou J. Validation studies on a model for breast cancer risk. J Natl Cancer Inst 1994; 8: 573-575.
+30. Benichou J, Gail MH, Mulvihill JJ. Graphs to estimate an individualized risk of breast cancer. J Clin Oncol 1996; 14: 103-110.
+31. Claus EB, Risch N, Thompson WD. Genetic analysis of breast cancer in the cancer and steroid hormone study. Am J Hum Genet 1991; 48: 232-242.
+32. Claus EB, Risch N, Thompson WD. Autosomal dominant inheritance of early-onset breast cancer. Implications for risk prediction. Cancer 1993; 73: 643-651.
+33. McGuigan KA, Ganz PA, Breant C. Agreement between breast cancer risk estimation methods. J Natl Cancer Inst 1996; 88: 1315-1317.
+34. Becher H, ChangClaude J. Estimating disease risks for individuals with a given family history in different populations with an application to breast cancer. Genet Epidemiol 1996; 13: 229-242.
+35. Colditz GA, Rosner BA, Speizer FE. Risk factors for breast cancer according to family history of breast cancer. For the Nurses' Health Study Research Group. J Natl Cancer Inst 1996; 88: 365-371.
+36. Sellers TA, Mink PJ, Cerhan JR, Zheng W, Anderson KE, Kushi LH, Folsom AR. The role of hormone replacement therapy in the risk for breast cancer and total mortality in women with a family history of breast cancer. Ann Intern Med 1997; 127: 973-980.
+37. Dupont WD, Page DL, Parl FF, Vnencak-Jones CL, Plummer WD Jr, Rados MS, Schuyler PA. Long-term risk of breast cancer in women with fibroadenoma. N Engl J Med 1994; 1: 10-15.
+38. Skolnick MH, Cannon-Albright LA, Goldgar DE, Ward JH, Marshall CJ, Schumann GB, Hogle H, Mcwhorter WP, Wright EC, Tran TD, Bishop DT, Kushner JP, Eyre HJ. Inheritance of proliferative breast disease in breast cancer kindreds. Science 1990; 250: 1715-1720.
+39. Kerlikowske K, Barclay J, Grady D, Sickles EA, Ernster V. Comparison of risk factors for ductal carcinoma in situ and invasive breast cancer. J Natl Cancer Inst 1997; 89: 76-82.
+40. Egan KM, Stampfer MJ, Rosner BA, Trichopoulos D, Newcomb PA, Trentham-Dietz A, Longnecker MP, Mittendorf R, Greenberg ER, Willett WC. Risk factors for breast cancer in women with a breast cancer family history. Cancer Epidemiol Biomarkers Prev 1998; 7: 359-364.
+41. Schouten LJ, Hupperets PS, Jager JJ, Volovics L, Wils JA, Verbeek AL, Blijham GH. Prognostic significance of etiological risk factors in early breast cancer. Breast Cancer Res Treat 1997; 43: 217-223.
+42. Jyothish B, Ankathil R, Chandini R, Vinodkumar B, Nayar GS, Roy DD, Madhavan J, Nair MK. DNA repair proficiency: a potential marker for identification of high risk members in breast cancer families. Cancer Lett 1998; 124: 9-13.
+Synonym: PFIC-1, including Byler syndrome, progressive familial intrahepatic cholestasis
+Mode of inheritance: AR
+OMIM number: 211600
+Genes:
+FIC1/ATP8B1, mapped to 18q21
+Tumour features:
+hepatocellular cancer
+Non-tumour features:
+intrahepatic cholestasis
+liver cirrhosis
+Byler disease is characterized by intrahepatic cholestasis with an onset in infancy, leading to hepatic fibrosis and death. It was originally described in an Amish kindred. A similar disorder in children who are not members of that kindred is referred to as Byler syndrome. Both disorders are a subtype of progressive familial intrahepatic cholestasis (another type is Alagille s.) [1]. Bull et al. [2] concluded that Byler syndrome is heterogeneous from a clinicopathological point of view and is distinct from Byler disease (which has been linked to 18q).
+Hepatocellular cancer may develop as a complication of Byler disease/syndrome [3-5].
+References
+1. Riely CA. Familial intrahepatic cholestatic syndromes. Semin Liver Dis 1987; 7: 119-133.
+2. Bull LN, Carlton VE, Stricker NL, Baharloo S, DeYoung JA, Freimer NB, Magid MS, Kahn E, Markowitz J, DiCarlo FJ, McLoughlin L, Boyle JT, Dahms BB, Faught PR, Fitzgerald JF, Piccoli DA, Witzleben CL, O'Connell NC, Setchell KD, Agostini RM Jr, Kocoshis SA, Reyes J, Knisely AS. Genetic and morphological findings in progressive familial intrahepatic cholestasis (Byler disease [PFIC-1] and Byler syndrome): evidence for heterogeneity. Hepatology 1997; 26: 155-164.
+3. Quillin SP, Brink JA. Hepatoma complicating Byler disease. AJR Am J Roentgenol 1992; 159: 432-433.
+4. Dahms BB. Hepatoma in familial cholestatic cirrhosis of childhood: its occurrence in twin brothers. Arch Pathol Lab Med 1979; 103: 30-33.
+5. Ugarte N, Gonzalez-Crussi F. Hepatoma in siblings with progressive familial cholestatic cirrhosis of childhood. Am J Clin Pathol 1981; 76: 172-177.
+Synonym: including carcinoid, intestinal
+Mode of inheritance: multifact?/AD?
+OMIM number: 114900
+Tumour features:
+carcinoid of the lung
+gastrointestinal carcinoid
+Anderson reported a father and daughter both diagnosed with carcinoid of the appendix (at age 42 and 15 years, respectively) [1]. Moertel and Dockerty [2] reported on a 2-generation family with (multiple) intestinal carcinoids. One of the affected women developed breast cancer at age 53 while her mother had done so at age 47. Other tumours in that family included nasopharyngeal fibrosarcoma (age 5) and lung cancer (age 42), possibly suggesting Li-Fraumeni-like syndrome (see that entry). Additional cases of familial intestinal carcinoids have been published [3-8]. An unknown proportion of these and other cases of familial carcinoid might very well be caused by germline mutations in MEN1, the gene associated with multiple endocrine neoplasia type 1. Perkins et al. [9] studied the family history of patients with carcinoid tumours of the lung and demonstrated that the proportion of distant metastasis in these patients was significantly higher among those with a positive family history of cancer (in general). Babovic-Vuksanovic et al. [10] studied the occurrence of cancer in first-degree relatives of 245 gastrointestinal carcinoid patients. For first-degree relatives, only the risk for carcinoid was increased (p < 0.0001, life-time risk 1.5%).
+Oliveira et al. reported pulmonary carcinoid in two affected sibs and in a mother and daughter. No other signs of MEN1 were present in these two families [11].
+References
+1. Anderson RE. A familial instance of appendiceal carcinoid. Am J Surg 1966; 111: 738-740.
+2. Moertel CG, Dockerty MB. Familial occurrence of metastasizing carcinoid tumors. Ann Intern Med 1973; 78: 389-390.
+3. Wale RJ, Williams JA, Beeley AH, Hughes ES. Familial occurrence in carcinoid tumours. Aust N Z J Surg 1983; 53: 325-328.
+4. Methfessel HD, Bettzieche H, Methfessel G. Pregnancy and birth in appendix carcinoid tumor with familial disposition. Zentralbl Gynakol 1973; 95: 234-238.
+5. Yeatman TJ, Sharp JV, Kimura AK. Can susceptibility to carcinoid tumors be inherited? Cancer 1989; 63: 390-393.
+6. Kinova S, Duris I, Kovacova E, Stvrtina S, Galbavy S, Makaiova I. Malignant carcinoid in two brothers. Bratisl Lek Listy 2001; 102: 231-234.
+7. Pal T, Liede A, Mitchell M, Calender A, Narod SA. Intestinal carcinoid tumours in a father and daughter. Can J Gastroenterol 2001; 15: 405-409.
+8. Katdare MV, Fichera A, Heimann TM. Familial rectal carcinoid: report of two first-degree relatives with rectal carcinoid and review of the literature. Tech Coloproctol 2006; 10: 143-146.
+9. Perkins P, Lee JR, Kemp BL, Cox JD. Carcinoid tumors of the lung and family history of cancer. J Clin Epidemiol 1997; 50: 705-709.
+10. Babovic-Vuksanovic D, Constantinou CL, Rubin J, Rowland CM, Schaid DJ, Karnes PS. Familial occurrence of carcinoid tumors and association with other malignant neoplasms. Cancer Epidemiol Biomarkers Prev 1999; 8: 715-719.
+11. Oliveira AM, Tazelaar HD, Wentzlaff KA, Kosugi NS, Hai N, Benson A, Miller DL, Yang P. Familial pulmonary carcinoid tumors. Cancer 2001; 91: 2104-2109.
+Mode of inheritance: AR?/AD?
+OMIM number: 255960
+Genes:
+PRKAR1A, mapped to 17q22-q24
+Tumour features:
+cardiac myxoma
+Familial cases of cardiac myxomas without further signs of Carney complex (see that entry) have been reported. A high rate of recurrence is associated with these cases [1]. Some families may carry a germline mutation in PRKAR1A, the gene involved in Carney complex [2,3] and may be regarded as having a variant of that disorder.
+References
+1. Deshpande A, Kumar S, Chopra P. Recurrent, biatrial, familial cardiac myxomas. Int J Cardiol 1994; 47: 71-73.
+2. Casey M, Vaughan CJ, He J, Hatcher CJ, Winter JM, Weremo-wicz S, Montgomery K, Kucherlapati R, Morton CC, Basson CT. Mutations in the protein kinase A R1 alpha regulatory subunit cause familial cardiac myxomas and Carney complex. J Clin Invest 2000; 106: R31-R38.
+3. Kojima S, Sumiyoshi M, Watanabe Y, Suwa S, Matsumoto M, Nakata Y, Daida H. A Japanese case of familial cardiac myxoma associated with a mutation of the PRKAR1alpha gene. Intern Med 2005; 44: 607-610.
+Synonym: CFC
+Mode of inheritance: sporadic (de novo)
+OMIM number: 115150
+Genes:
+BRAF, mapped to 9q34
+KRAS, mapped to 12p12.1
+MEK1, mapped to 15q21
+MEK2, mapped to 7q32
+Tumour features:
+hepatoblastoma
+Tumour features (possible):
+leukaemia, acute lymphoblastic (ALL)
+rhabdomyosarcoma
+Non-tumour features:
+growth deficieny
+heart, congenital defect
+high forehead
+hyperkeratosis
+nasal bridge, depressed
+palpebral fissures, downward slanting
+woolly, sparse and friable hair
+Hallmarks of CFC are a typical facies, congenital heart defects (predominantly pulmonary stenosis and ASD), growth failure and ectodermal anomalies. There is clinical and molecular overlap with Noonan syndrome and Costello syndrome. These disorders share disruption of the RAS/MAPK signalling pathway [1-3].
+Van den Berg and Hennekam [4] reported a 5-year-old girl with CFC who was diagnosed with ALL and Makita reported another case [5]. Bisogno et al. [6] described a 20-month-old boy with CFC and an (embryonal) rhabdomyosarcoma. A hepatoblastoma was reported by Al-Rahawan [7].
+References
+1. Roberts A, Allanson J, Jadico SK, Kavamura MI, Noonan J, Opitz JM, Young T, Neri G. The cardiofaciocutaneous syndrome. J Med Genet 2006; 43: 833-842.
+2. Narumi Y, Aoki Y, Niihori T, Neri G, Cavé H, Verloes A, Nava C, Kavamura MI, Okamoto N, Kurosawa K, Hennekam RC, Wilson LC, Gillessen-Kaesbach G, Wieczorek D, Lapunzina P, Ohashi H, Makita Y, Kondo I, Tsuchiya S, Ito E, Sameshima K, Kato K, Kure S, Matsubara Y. Molecular and clinical characterization of cardio-facio-cutaneous (CFC) syndrome: overlapping clinical manifestations with Costello syndrome. Am J Med Genet A 2007; 143: 799-807.
+3. Nava C, Hanna N, Michot C, Pereira S, Pouvreau N, Niihori T, Aoki Y, Matsubara Y, Arveiler B, Lacombe D, Pasmant E, Parfait B, Baumann C, Héron D, Sigaudy S, Toutain A, Rio M, Goldenberg A, Leheup B, Verloes A, Cavé H. Cardio-facio-cutaneous and Noonan syndromes due to mutations in the RAS/MAPK signalling pathway: genotype-phenotype relationships and overlap with Costello syndrome. J Med Genet 2007; 44: 763-71.
+4. van den Berg H, Hennekam RC. Acute lymphoblastic leukaemia in a patient with cardiofaciocutaneous syndrome. J Med Genet 1999; 36: 799-800.
+5. Makita Y, Narumi Y, Yoshida M, Niihori T, Kure S, Fujieda K, Matsubara Y, Aoki Y. Leukemia in Cardio-facio-cutaneous (CFC) syndrome: a patient with a germline mutation in BRAF proto-oncogene. J Pediatr Hematol Oncol 2007; 29: 287-290.
+6. Bisogno G, Murgia A, Mammi I, Strafella MS, Carli M. Rhabdomyosarcoma in a patient with cardio-facio-cutaneous syndrome. J Pediatr Hematol Oncol 1999; 21: 424-427.
+7. Al-Rahawan MM, Chute DJ, Sol-Church K, Gripp KW, Stabley DL, McDaniel NL, Wilson WG, Waldron PE. Hepatoblastoma and heart transplantation in a patient with cardio-facio-cutaneous syndrome. Am J Med Genet A 2007; 143: 1481-1488.
+Synonym: Carney syndrome, NAME syndrome, LAMB syndrome, familial myxoma syndrome
+Mode of inheritance: AD
+OMIM number: 160980
+Genes:
+CNC2, mapped to 2p15-p16
+PRKAR1A, mapped to 17q22-q24
+Tumour features:
+adrenocortical disease, primary pigmented nodular (PPNAD)
+breast myxoma
+cardiac myxoma
+ductal adenoma of the breast
+ear canal myxoma
+gastrointestinal schwannoma
+pituitary gland tumour
+schwannoma (neurilemmoma), peripheral nerve
+schwannoma of the bone
+schwannoma, psammomatous melanotic
+schwannomas of the (posterior) spinal nerve roots
+skin myxoma
+testicular Sertoli-Leydig cell tumour
+thyroid cancer, follicular
+uterine leiomyoma
+Tumour features (possible):
+cervical mesenchymal tumour, atypical
+colorectal adenomas
+peripheral nerve tumour
+pheochromocytoma
+teratoma, benign cystic (dermoid cyst) of the ovary
+vestibular schwannoma
+Non-tumour features:
+blue nevi, café-au-lait spots
+lentiginosis (spotty pigmentation)
+lips, pigmentation of
+oral mucosa, pigmentation of
+Non-tumour features (possible):
+oesophagus, Barrett's
+More than 200 patients have been reported, half of them familial cases. Patients present with spotty multiple small brown to black macules (lentiginosis) on the skin and mucosae (67% of patients). Other pigmented lesions are cafe-au-lait spots, (epithelioid) blue nevi (19% of patients) and less frequently psammomatous melanotic schwannoma (neurilemmoma) [1]. Primary pigmented nodular adrenocortical disease (PPNAD) leading to Cushing's disease is also typical for the syndrome (found in 33% of patients).
+A range of tumours can be found in Carney complex, including myxomas of the heart (in 30-61% of patients), breasts (20%), skin (37%) (of the eyelids in 25%) and external ear canal, testicular tumours (30%): testicular large cell calcifying Sertoli tumours (LCCST) and (less frequently) Leydig cell tumours, growth hormone producing pituitary adenomas (11%) and schwannomas of the upper GI tract, bone, sympatic chain and the skin (as mentioned above) (total % schwannomas found in Carney complex: 11). Thyroid gland involvement is common (11%), ranging from follicular hyperplasia to cancer [2-4]. Nwokoro et al. [5] reported an affected 34-year-old woman from a Carney complex family, who in addition to features typical for this disorder also developed an atypical mesenchymal tumour of the cervix, neoplastic colonic polyps and Barrett's oesophagus.
+There is evidence for genetic heterogeneity in Carney complex [4,6-8]. In some families, linkage analysis may help in identifying affected relatives [9]. Germline mutations in the PRKAR1A gene have been detected in approximately 45% of Carney complex cases and can also be found in isolated familial myxoma and familial or isolated cases of PPNAD [10-12].
+Criteria [4, 5, 13] - 2 of the following should be present:
+a) heart myxoma,
+b) breast myxoma (myxoid mammary fibroadenoma),
+c) skin myxoma,
+d) primary pigmented nodular adrenocortical disease,
+e) GH-secreting pituitary tumour,
+f) psammomatous melanotic schwannoma (PMS),
+g) ductal adenoma of the breast,
+h) large-cell calcifying Sertoli cell tumour of the testes (LCCST),
+i) spotty pigmentation if it is: multiple, present in a characteristic distribution (vermilion border of the lips, conjunctivae, external genitalia), not dependent on exposure to sunlight, and has histology consistent with lentigo rather than ephelide (freckle).
+The presence of adrenocortical rest tumours is regarded as corroboratory evidence for the diagnosis [12].
+Unfortunately, the name Carney syndrome is used by some to refer to the Carney complex, whereas others use it to refer to Carney triad, which is a completely different disorder.
+References
+1. Carney JA, Stratakis CA. Epithelioid blue nevus and psammomatous melanotic schwannoma: The unusual pigmented skin tumors of the Carney complex. Semin Diagn Pathol 1998; 15: 216-224.
+2. Stratakis CA, Courcoutsakis NA, Abati A, Filie A, Doppman JL, Carney JA, Shawker T. Thyroid gland abnormalities in patients with the syndrome of spotty skin pigmentation, myxomas, endocrine overactivity, and schwannomas (Carney complex). J Clin Endocrinol Metab 1997; 82: 2037-2043.
+3. Scherer K, Muller T, Stolz W, Aebert H, Schunkert H. A case of Carney complex. Dtsch Med Wochenschr 1998; 123: 972-976.
+4. Stratakis CA, Carney JA, Lin JP, Papanicolaou DA, Karl M, Kastner DL, Pras E, Chrousos GP. Carney complex, a familial multiple neoplasia and lentiginosis syndrome. Analysis of 11 kindreds and linkage to the short arm of chromosome 2. J Clin Invest 1996; 97: 699-705.
+5. Nwokoro NA, Korytkowski MT, Rose S, Gorin MB, Stadler MP, Witchel SF, Mulvihill JJ. Spectrum of malignancy and premalignancy in Carney syndrome. Am J Med Genet 1997; 73: 369-377.
+6. Irvine AD, Armstrong DK, Bingham EA, Hadden DR, Nevin NC, Hughes AE. Evidence for a second genetic locus in Carney complex. Br J Dermatol 1998; 139: 572-576.
+7. Milunsky J, Huang XL, Baldwin CT, Farah MG, Milunsky A. Evidence for genetic heterogeneity of the Carney complex (familial atrial myxoma syndromes). Cancer Genet Cytogenet 1998; 106: 173-176.
+8. Stratakis CA, Kirschner LS, Taymans SE, Vaughan CJ, Hatcher CJ, Casey M, Carney JA, Basson CT. Genetic heterogeneity in Carney complex (OMIM 160980); contributions of loci at chromosomes 2 and 17 in its genetics [Abstract]. Am J Hum Genet 1999; 65.
+9. Goldstein MM, Casey M, Carney JA, Basson CT. Molecular genetic diagnosis of the familial myxoma syndrome (Carney Complex). Am J Med Genet 1999; 86: 62-65.
+10. Kirschner LS, Carney JA, Pack SD, Taymans SE, Giatzakis C, Cho YS, Cho Chung YS, Stratakis CA. Mutations of the gene encoding the protein kinase A type I-alpha regulatory subunit in patients with the Carney complex. Nat Genet 2000; 26: 89-92.
+11. Casey M, Vaughan CJ, He J, Hatcher CJ, Winter JM, Weremowicz S, Montgomery K, Kucherlapati R, Morton CC, Basson CT. Mutations in the protein kinase A R1 alpha regulatory subunit cause familial cardiac myxomas and Carney complex. J Clin Invest 2000; 106: R31-R38.
+12. Boikos SA, Stratakis CA. Carney complex: the first 20 years. Curr Opin Oncol 2007; 19: 24-29.
+13. Stratakis CA, Kirschner LS, Carney JA. Carney complex: diagnosis and management of the complex of spotty skin pigmentation, myxomas, endocrine overactivity, and schwannomas. Am J Med Genet 1998; 80: 183-185.
+Synonym: Carney syndrome
+Mode of inheritance: spor/multifact?
+OMIM number: 604287
+Tumour features:
+adrenal adenoma
+oesophageal leiomyoma
+oesophageal stromal tumour
+gastric leiomyosarcoma
+gastric stromal sarcoma
+paraganglioma, chromaffin (extra-adrenal pheochromocytoma)
+pulmonary chondroma
+small intestine, stromal tumour of
+Tumour features (possible):
+exostoses
+leiomyosarcoma of the uterus
+parathyroid adenoma
+renal angiomyolipomas
+The combination of gastric stromal sarcoma, extra-adrenal paraganglioma and pulmonary chondroma is referred to as the Carney triad. Carney reviewed the 79 reported cases [1]. Approximately 85% of Carney triad patients are female. Age of onset ranged from 7 to 48 years (82% diagnosed before age 30); 78% of the reported cases do not present with the complete triad but show only 2 of the 3 features, the paragangliomas being the least frequent component. Although most cases are sporadic, 2 patients have been reported each with a sibling who had one of the tumours of the triad [1]. Gastric stromal sarcomas are usually the presenting tumour. The name (epithelioid) leiomyosarcoma was used in the past to refer to these tumours, but smooth muscle markers have not been identified in all cases; hence the change to 'stromal sarcomas'. The chondromas (diagnosed between 12 and 49 years) are multiple unilateral in 24% and bilateral in 13% of cases and may be recognized more than 15 years earlier and more than 20 years later than the leiomyosarcomas. After surgery for the chondromas, one or more new tumours developed in 56% of patients. The paragangliomas (diagnosed between age 12 to 48 years) are generally catecholamine secreting; they are present in multiple sites in 22% and may undergo malignant change. Silent adrenocortical adenomas were present in 13% of the patients and are considered part of the disorder. Other tumours observed were: oesophageal leiomyoma and stromal tumour, duodenal (multiple) stromal tumours, uterine leiomyosarcoma, bony exostosis, renal angiomyolipoma, parathyroid adenomas, gluteal myoma [1-7].
+Unfortunately, the name Carney syndrome is used by some to refer to the Carney triad, whereas others use it to refer to Carney complex (or LAMB or NAME syndrome), which is a completely different disorder.
+References
+1. Carney JA. Gastric stromal sarcoma, pulmonary chondroma, and extra-adrenal paraganglioma (Carney Triad): natural history, adrenocortical component, and possible familial occurrence. Mayo Clin Proc 1999; 74: 543-552.
+2. Convery RP, Grainger AJ, Bhatnagar NK, Scott D, Bourke SJ. Lung abscess complicating chondromas in Carney's syndrome. Eur Resp J 1998; 11: 1409-1411.
+3. Carney JA. The triad of gastric epithelioid leiomyosarcoma, pulmonary chondroma, and functioning extra-adrenal paraganglioma: a five-year review. Medicine (Baltimore) 1983; 62: 159-169.
+4. Margulies KB, Sheps SG. Subspecialty clinics: hypertension Carney's triad: guidelines for management. Mayo Clin Proc 1988; 63: 496-502.
+5. Kiryu T, Kawaguchi S, Matsui E, Hoshi H, Kokubo M, Shimokawa K. Multiple chondromatous hamartomas of the lung: a case report and review of the literature with special reference to Carney syndrome. Cancer 1999; 85: 2557-2561.
+6. Scopsi L, Collini P, Muscolino G. A new observation of the carney's triad with long follow-up period and additional tumors. Cancer Detect Prev 1999; 23: 435-443.
+7. Sans N, Durand G, Giron J, Fajadet P, Senac J. Carney's triad: update and report of one case. J Radiol 2000; 81: 39-42.
+Synonym: Caroli syndrome
+Mode of inheritance: AD?/multifact?/AR?
+OMIM number: 600643
+Tumour features:
+intrahepatic cholangiocarcinoma
+Non-tumour features:
+cystic dilatations of intrahepatic bile ducts
+This disorder is characterized by congenital polycystic dilatation of the intrahepatic bile ducts [1]. It is frequently associated with autosomal recessive polycystic kidney disease and congenital hepatic fibrosis (in the latter case called Caroli syndrome [2]), suggestive of a genetic overlap/allelism. There exists a marked predisposition to the development of cholangitis and liver abscesses. The clinical course can be asymptomatic for the first 5 to 20 years. Cholangiocarcinoma in the intrahepatic cystic lesions has been reported in approximately 7% of cases [3-5].
+References
+1. Tsuchida Y, Sato T, Sanjo K, Etoh T, Hata K, Terawaki K, Suzuki I, Kawarasaki H, Idezuki Y, Nakagome Y, et al. Evaluation of long-term results of Caroli's disease: 21 years observation of a family with autosomal "dominant" inheritance, and review of the literature. Hepatogastroenterology 1995; 42: 175-181.
+2. Ribeiro A, Reddy RK, Bernstein D, Jeffers L, Schiff ER. Caroli's syndrome in twin sisters. Am J Gastroenterol 1996; 91: 1024-1026.
+3. Dayton MT, Longmire WP Jr, Tompkins RK. Caroli's disease: a premalignant condition? Am J Surg 1983; 145: 41-48.
+4. Totkas S, Hohenberger P. Cholangiocellular carcinoma associated with segmental Caroli's disease. Eur J Surg Oncol 2000; 26: 520-521.
+5. Takatsuki M, Uemoto S, Inomata Y, Egawa H, Kiuchi T, Hayashi M, Ueda M, Tanaka K. Living-donor liver transplantation for Caroli's disease with intrahepatic adenocarcinoma. J Hepatobiliary Pancreat Surg 2001; 8: 284-286.
+Mode of inheritance: multifact?/AR?/AD?
+OMIM number: 117600
+Tumour features:
+brain, sarcoma of the
+Gainer et al. [1] reported four cases of cerebral fibrosarcomas occurring in two families: an affected father (age at diagnosis 73 years) and daughter (at 59 years); and a family with two affected sisters (diagnosed at age 64 and 69 years).
+References
+1. Gainer JV Jr, Chou SM, Chadduck WM. Familial cerebral sarcomas. Arch Neurol 1975; 32: 665-668.
+Mode of inheritance: AD
+OMIM number: 117800
+Tumour features (possible):
+breast cancer
+Non-tumour features:
+ear wax, wet (as opposed to the dry brittle type)
+Different cerumen types exist [1]. Studies of mainly the Japanese population have demonstrated two types of ear wax inheriting as an autosomal dominant trait: wet, sticky ear wax, or dry, brittle ear wax. A positive association between wet ear wax and breast cancer has been suggested, but data are presently inconclusive [2-5].
+References
+1. Roeser RJ, Ballachanda BB. Physiology, pathophysiology, and anthropology/epidemiology of human ear canal secretions. J Am Acad Audiol 1997; 8: 391-400.
+2. Petrakis NL. Genetic cerumen type, breast secretory activity, and breast cancer epidemiology. In: Genetics of Human Cancer. Mulvihill JJ, Miller RW, Fraumeni JF (eds). Raven Press, New York 1977; 297-299.
+3. Petrakis NL. Cerumen genetics and human breast cancer. Science 1971; 173: 347-349.
+4. Ing R, Petrakis NL, Ho HC. Evidence against association between wet cerumen and breast cancer. Lancet 1973; 1: 41.
+5. Petrakis NL, King EB, Lee M, Miike R. Cerumen phenotype and proliferative epithelium in breast fluids of U.S.-born vs. immigrant Asian women: a possible genetic-environmental interaction. Breast Cancer Res Treat 1990; 16: 279-285.
+Mode of inheritance: multifact?
+Genes: various low penetrant gene mutations have been reported, we do not list them separately here
+Tumour features:
+cervical cancer
+ovarian cancer (i.e. epithelial origin)
+Tumour features (possible):
+anal cancer
+hepatocellular cancer
+lung/bronchial cancer
+lymphoma, malignant (non-Hodgkin's and/or Hodgkin's)
+oral cancer
+rectal cancer
+skin cancer
+urinary bladder cancer
+Familial clustering of cervical cancer has been reported [1-4]. An estimated 15% of patients with this tumour have at least one affected first-degree relative [1]. It has been calculated that having a first-degree relative with cervical cancer is associated with a RR of 3 of developing squamous cell cancer of the cervix, a RR of 10 of developing adenosquamous cancer at this site and no increased risk of developing cervical adenocarcinoma [1]. No other studies have confirmed these detailed findings so far. Data from the Swedish Family-Cancer Database showed a cervical cancer RR of 2.0 for daughters of affected mothers [5]. In a more recent and more detailed analysis the following figures were reported [6]: daughters of mothers with in situ cancer had a RR of 1.7 of developing in situ and RR of again 1.7 of invasive cancer. Daughters of mothers with invasive cervical cancer had a RR of 1.6 of developing in situ cancer and a RR of 2.0 of developing invasive cancer. The following other cancer types in mothers increased the risk for in situ and/or invasive cervical cancer in their daughters: lung, liver, urinary bladder and oral cancer. The following cancer types in daughters increased the risk for in situ and/or invasive cervical cancer in their mothers: lymphoma, ovarian, oral, skin and anorectal cancer.
+An analysis of large Mormon families did not show increased risks of cervical cancer in women with an affected sister [7]. However, an excess of cervical cancer was observed in first-degree relatives of patients with early-onset bladder cancer (RR 2.32). A family history of cancer in general was no risk factor for cervical cancer in a Yugoslavian and a Japanese cohort [8, 9]. A study of Finnish patients with borderline ovarian tumours and their relatives demonstrated a RR of 7.8 for cervical cancer in the mothers of index cases [10]. In a Swedish twin study, the increase in risk of cervical cancer tended to be greater if monozygotic rather than dizygotic twins were affected [11].
+Certain HLA haplotypes have been found in association with an increased incidence of cervical cancer or cervical intra-epithelial neoplasia in relation to HPV infections [12-20]. Possibly, some of these HLA types and other genotypes (e.g. P53, GSTT1, GSTM1 [21]) are linked to a less effective immunoresponse to human papilloma virus (HPV) infections, a major risk factor for this tumour [22, 23].
+References
+1. Furgyik S, Grubb R, Kullander S, Sandahl B, Wingerup L, Eydal A. Familial occurrence of cervical cancer, stages 0-IV. Acta Obstet Gynecol Scand 1986; 65: 223-227.
+2. Brinton LA, Tashima KT, Lehman HF, Levine RS, Mallin K, Savitz DA, Stolley PD, Fraumeni JF Jr. Epidemiology of cervical cancer by cell type. Cancer Res 1987; 47: 1706-1711.
+3. Bruinse HW, te Velde ER, de Gast BC. Human leukocyte antigen patterns in a family with cervical cancer. Gynecol Oncol 1981; 12: 249-252.
+4. Bender S. Carcinoma in-situ of cervix in sisters. Br Med J 1976; 1: 502.
+5. Hemminki K, Vaittinen P, Kyyrönen P. Age-specific familial risks in common cancers of the offspring. Int J Cancer 1998; 78: 172-175.
+6. Hemminki K, Dong C, Vaittinen P. Familial risks in cervical cancer: is there a hereditary component? Int J Cancer 1999; 82: 775-781.
+7. Cannon L, Bishop DT, Skolnick M, Hunt S, Lyon JL, Smart CR. Genetic epidemiology of prostate cancer in the Utah Mormon genealogy. Cancer Surv 1982; 1: 47-69.
+8. Kessler II, Kulcar Z, Zimolo A, Grgurević MH, Strnad M, Goodwin BJ. Cervical cancer in Yugoslavia. II. Epidemiologic factors of possible etiologic significance. J Natl Cancer Inst 1974; 53: 51-60.
+9. Sasagawa T, Dong Y, Saijoh K, Satake S, Tateno M, Inoue M. Human papillomavirus infection and risk determinants for squamous intraepithelial lesion and cervical cancer in Japan. Jpn J Cancer Res 1997; 88: 376-384.
+10. Auranen A, Grénman S, Mäkinen J, Pukkala E, Sankila R, Salmi T. Borderline ovarian tumors in Finland: epidemiology and familial occurrence. Am J Epidemiol 1996; 144: 548-553.
+11. Ahlbom A, Lichtenstein P, Malmstrom H, Feychting M, Hemminki K, Pedersen NL. Cancer in twins: genetic and nongenetic familial risk factors. J Natl Cancer Inst 1997; 89: 287-293.
+12. Wank R, Thomssen C. High risk of squamous cell carcinoma of the cervix for women with HLA-DQw3. Nature 1991; 352: 723-725.
+13. Odunsi K, Terry G, Ho L, Bell J, Cuzick J, Ganesan TS. Association between HLA DQB1* 03 and cervical intra-epithelial neoplasia. Mol Med 1995; 1: 161-171.
+14. Apple RJ, Erlich HA, Klitz W, Manos MM, Becker TM, Wheeler CM. HLA DR-DQ associations with cervical carcinoma show papillomavirus-type specificity. Nat Genet 1994; 6: 157-162.
+15. Sanjeevi CB, Hjelmström P, Hallmans G, Wiklund F, Lenner P, Angström T, Dillner J, Lernmark A. Different HLA-DR-DQ haplotypes are associated with cervical intraepithelial neoplasia among human papillomavirus type-16 seropositive and seronegative Swedish women. Int J Cancer 1996; 68: 409-414.
+16. Odunsi K, Terry G, Ho L, Bell J, Cuzick J, Ganesan TS. Susceptibility to human papillomavirus-associated cervical intra-epithelial neoplasia is determined by specific HLA DR-DQ alleles. Int J Cancer 1996; 67: 595-602.
+17. Sastre-Garau X, Loste MN, Vincent-Salomon A, Favre M, Mouret E, De la Rochefordiere A, Durand JC, Tartour E, Lepage V, Charron D. Decreased frequency of HLA-DRB1*13 alleles in Frenchwomen with HPV-positive carcinoma of the cervix. Int J Cancer 1996; 69: 159-164.
+18. Allen M, Kalantari M, Ylitalo N, Pettersson B, Hagmar B, Scheibenpflug L, Johansson B, Petterson U, Gyllensten U. HLA DQ-DR haplotype and susceptibility to cervical carcinoma: indications of increased risk for development of cervical carcinoma in individuals infected with HPV 18. Tissue Antigens 1996; 48: 32-37.
+19. Helland A, Olsen AO, Gjoen K, Akselsen HE, Sauer T, Magnus P, Borresen-Dale AL, Ronningen KS. An increased risk of cervical intra-epithelial neoplasia grade II-III among human papillomavirus positive patients with the HLA-DQA1*0102-DQB1*0602 haplotype: a population-based case-control study of Norwegian women. Int J Cancer 1998; 76: 19-24.
+20. Krul EJ, Schipper RF, Schreuder GM, Fleuren GJ, Kenter GG, Melief CJ. HLA and susceptibility to cervical neoplasia. Hum Immunol 1999; 60: 337-342.
+21. Kim JW, Lee CG, Park YG, Kim KS, Kim IK, Sohn YW, Min HK, Lee JM, Namkoong SE. Combined analysis of germline polymorphisms of p53, GSTM1, GSTT1, CYP1A1, and CYP2E1: relation to the incidence rate of cervical carcinoma. Cancer 2000; 88: 2082-2091.
+22. Schiffman MH, Brinton LA. The epidemiology of cervical carcinogenesis. Cancer 1995; 76 (10 Suppl): 1888-1901.
+23. Magnusson PK, Gyllensten UB. Cervical cancer risk: is there a genetic component? Mol Med Today 2000; 6: 145-148.
+Mode of inheritance: AR
+OMIM number: 214500
+Genes:
+LYST/CHS, mapped to 1q42.1-q42.2
+Tumour features:
+non-Hodgkin's lymphoma
+Tumour features (possible):
+ovarian sclerosing stormal tumour
+Non-tumour features:
+anaemia
+Immunodeficiency
+Neutropenia
+oculocutaneous albinism
+This disorder (CHS) is characterized by partial oculocutaneous albinism, increased susceptibility to bacterial infections due to impaired natural killer cell activity, and the presence of massive lysosomal inclusions in all white blood cells and of giant melanosomes in melanocytes. The majority of patients develop a lymphoproliferative disorder during the accelerated phase of the disease, which was demonstrated by Argyle et al. [1] to be a NHL T-cell lymphoma. The patients generally die in early childhood due to recurrent infections, although a late-onset type has been reported. An ovarian sclerosing stormal tumour has been detected in a girl with CHS [2]. The CHS gene has been identified [3].
+References
+1. Argyle JC, Kjeldsberg CR, Marty J, Shigeoka AO, Hill HR. T-cell lymphoma and the Chediak-Higashi syndrome. Blood 1982; 60: 672-676.
+2. Inoue R, Kondo N, Motoyoshi F, Hori Y, Orii T. Chediak-Higashi syndrome: report of a case with an ovarian tumor. Clin Genet 1991; 39: 316-318.
+3. Nagle DL, Karim MA, Woolf EA, Holmgren L, Bork P, Misumi DJ, McGrail SH, Dussault BJ Jr, Perou CM, Boissy RE, Duyk GM, Spritz RA, Moore KJ. Identification and mutation analysis of the complete gene for Chediak-Higashi syndrome. Nat Genet 1996; 14: 307-311.
+Mode of inheritance: multifact?/AD?
+OMIM number: 118330
+Tumour features:
+lip, squamous cell cancer of the
+Non-tumour features:
+lips, hypertrophy of the labial mucous glands
+This disorder is characterized by chronic inflammation of the labial salivary glands, resulting in swelling, eversion and hypersecretion of the affected lips (usually the lower lip) [1]. Swerlick and Cooper [2] stated that the condition is not related to hyperplasia of the labial salivary glands, but rather is the result of an unusual reaction in response to chronic irritation of the lips. A high incidence of lower lip squamous cell cancer (in whites) is found in this disorder [3]. Possibly lip eversion causes a higher sensibility/exposure to carcinogens (rather than cheilitis glandularis itself being a precancerous condition [4]) [5]. Familial cases have been reported [5,6].
+References
+1. Rogers RS 3rd, Bekic M. Diseases of the lips. Semin Cutan Med Surg 1997; 16: 328-336.
+2. Swerlick RA, Cooper PH. Cheilitis glandularis: a re-evaluation. J Am Acad Dermatol 1984; 10: 466-472.
+3. Carrington PR, Horn TD. Cheilitis glandularis: a clinical marker for both malignancy and/or severe inflammatory disease of the oral cavity. J Am Acad Dermatol 2006; 54: 336-337.
+4. Bãluæ L. Is glandular cheilitis a precancerous disease? Hautarzt 1965; 16: 364-367.
+5. Yacobi R, Brown DA. Cheilitis glandularis: a pediatric case report. J Am Dent Assoc 1989; 118: 317-318.
+6. Weir TW, Johnson WC. Cheilitis glandularis. Arch Dermatol 1971; 103: 433-437.
+Mode of inheritance: AR?/AD?/multifact?
+OMIM number: 118350
+Tumour features:
+cutaneous angiolipomas
+paraganglioma, nonchromaffin (including glomus tumour/chemodectoma)
+Lee et al. [1] reported a Maori family in which a 37-year-old man presented with multiple malignant chemodectomas (para-aortic extending to the liver, and tumours in the duodenum, pancreas, lungs and skull). He also had multiple subcutaneous angiolipomas of the limbs and abdominal wall. Two brothers had died before the age of 45, cause unknown. One of them was reported to have had multiple skin tumours. Another, 40-year-old brother had similar skin tumours and presented with a malignant chemodectoma involving one of the kidneys and metastases in bones and lungs.
+References
+1. Lee SP, Nicholson GI, Hitchcock G. Familial abdominal chemodectomas with associated cutaneous angiolipomas. Pathology 1977; 9: 173-177.
+Synonym: familial benign giant-cell tumour of the jaw, familial multilocular cystic disease
+Mode of inheritance: AD
+OMIM number: 118400
+Genes:
+SH3BP2, mapped to 4p16.3
+Tumour features (possible):
+gingival fibroma
+osteosarcoma
+Non-tumour features:
+dental abnormalities
+jaw cysts associated with multinucleated giant cells
+lower face swelling
+rib cysts associated with multinucleated giant cells
+This benign self-limiting disorder is characterized by swelling of the lower face, associated with multiple cystic changes in the jaw and anterior end of ribs. Biopsies of these skeletal lesions show multinucleated giant cells. Onset is around the 3rd-4th year of life and it progresses until the late teens [1-3]. Some cases may behave very aggressively [4-6]. Mangion et al. reported the occurrence of an osteosarcoma in the irradiated jaw of one of their patients [7].
+References
+1. Peters WJ. Cherubism: a study of twenty cases from one family. Oral Surg Oral Med Oral Pathol 1979; 47: 307-311.
+2. Hitomi G, Nishide N, Mitsui K. Cherubism: diagnostic imaging and review of the literature in Japan. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 1996; 81: 623-628.
+3. Friedman E, Eisenbud L. Surgical and pathological considerations in cherubism. Int J Oral Surg 1981; 10 (Suppl 1): 52-57.
+4. Ayoub AF, el-Mofty SS. Cherubism: report of an aggressive case and review of the literature. J Oral Maxillofac Surg 1993; 51: 702-705.
+5. Gomes MF, de Souza Setúbal Destro MF, de Freitas Banzi EC, dos Santos SH, Claro FA, de Oliveira Nogueira T. Aggressive behaviour of cherubism in a teenager: 4-years of clinical follow-up associated with radiographic and histological features. Dentomaxillofac Radiol 2005; 34: 313-318.
+6. Wang CN, Song YL, Peng B, Lu DH, Fan MW, Li J, Ye XQ, Fan HL, Bian Z. The aggressive form of cherubism: report of two cases in unrelated families. Br J Oral Maxillofac Surg 2006; 44: 322-324.
+7. Mangion J, Rahman N, Edkins S, Barfoot R, Nguyen T, Sigurdsson A, Townend JV, Fitzpatrick DR, Flanagan AM, Stratton MR. The gene for cherubism maps to chromosome 4p16.3. Am J Hum Genet 1999; 65: 151-157.
+Mode of inheritance: AR
+OMIM number: 280000
+Tumour features (possible):
+leukaemia, acute lymphoblastic (ALL)
+Non-tumour features:
+Brachiocephaly
+cerebral atrophy
+cleft palate
+deafness, conductive
+eye, coloboma of the
+heart, congenital defect
+helices, overfolding
+high birth weight
+hypertelorism
+ichthyosiform rash
+mental deficiency
+nasal bridge, broad
+palmoplantar hyperkeratosis
+philtrum, short
+seizures
+Non-tumour features (possible):
+polythelia (supernumerary nipples)
+This is a very rare disorder characterized by colobomas of the eye, congenital heart defects, migratory ichthyosiform rash of the skin, mental retardation and ear defects (overfolding helices and conductive deafness) (CHIME). Epilepsy, neonatal macrosomia and craniofacial dysmorphisms are additional features. Schnur et al. [1] reported a girl with this disorder who developed acute lymphoblastic leukaemia.
+References
+1. Schnur RE, Greenbaum BH, Heymann WR, Christensen K, Buck AS, Reid CS. Acute lymphoblastic leukemia in a child with the CHIME neuroectodermal dysplasia syndrome. Am J Med Genet 1997; 72: 24-29.
+AD: autosomal dominant; AR: autosomal recessive; CGD: contiguous gene deletion; CI: confidence interval; de novo: de novo mutation; Impr: subject to genomic imprinting; Multifact: multifactorial inheritance; OMIM number: the number of the disorder in Online Mendelian Inheritance in Men; Pat: paternal; RR: relative risc; SIR: standarized incidence ratio; Upd: uniparental disomy; XLR or XLD: X-linked recessive or dominant, respectively; ?: reflects uncertainty with respect to mode of inheritance.

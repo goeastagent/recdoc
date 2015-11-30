@@ -1,0 +1,4 @@
+Detection of non-H2 antigen(s) which, like Ia antigens, are associated with the Fc receptor of B lymphocytes
+
+Antibodies contained in an A/J anti-B10 antiserum, when tested on lymphocytes from B10.A mice, were shown to bind to both B and T cells and to inhibit the binding of Ig complexes to the Fc receptors of B lymphocytes. These antibodies could be removed by absorption with B10.D2 lymphocytes. Similar results were obtained with lymphocytes from two to six (B6A)F1 x A/J backcross mice which had H-2a/a genotype. These data indicate that alloantigens determined by at least one non-H- 2 locus are associated with or a part of Fc receptors. These antigens may be similar in structure and function to Ia antigens.
+

@@ -1,0 +1,36 @@
+Scheelite-type sodium neodymium(III) ortho-oxidomolybdate(VI), NaNd[MoO4]2            
+
+Scheelite-type NaNd[MoO4]2 contains one crystallographic position (site symmetry ) for the large cations, which is mixed-occupied by Na+ and Nd3+ cations in a 1:1 molar ratio. Thus, both are surrounded by eight O atoms in the shape of a trigonal dodeca­hedron. Furthermore, the structure consists of crystallographically unique [MoO4]2− units (site symmetry ) surrounded by eight sodium and neodymium cations, which are all vertex-attached. The polyhedra around the Na+/Nd3+ cations are connected to four others via common edges, building up a three-dimensional network in whose tetra­hedral voids of O atoms the Mo6+ cations reside.
+
+For isotypic NaLn[MoO4]2 structures, see: Stevens et al. (1991 ▶) and Teller (1992 ▶) for Ln = La; Teller (1992 ▶) for Ln = Ce; Zhao et al. (2010 ▶) for Ln = Er. For inter­penetrating diamond-like networks, see: Schustereit et al. (2011 ▶). These were also obseverd in NaTl, see: Zintl & Dullenkopf (1932 ▶).
+                  NaNd[MoO4]2                                                   M                           r = 487.11Tetragonal,                                                    a = 5.2871 (3) Å                           c = 11.5729 (7) Å                           V = 323.50 (3) Å3                                                   Z = 2Mo Kα radiationμ = 11.79 mm−1                                                   T = 293 K0.11 × 0.09 × 0.07 mm               
+NaNd[MoO4]2                        
+                           M                           r = 487.11
+Tetragonal,                         
+                           a = 5.2871 (3) Å
+                           c = 11.5729 (7) Å
+                           V = 323.50 (3) Å3                        
+                           Z = 2
+Mo Kα radiation
+μ = 11.79 mm−1                        
+                           T = 293 K
+0.11 × 0.09 × 0.07 mm
+                  Nonius KappaCCD diffractometerAbsorption correction: numerical (X-SHAPE; Stoe & Cie, 1995 ▶) T                           min = 0.273, T                           max = 0.4341026 measured reflections196 independent reflections135 reflections with I > 2σ(I)                           R                           int = 0.058               
+Nonius KappaCCD diffractometer
+Absorption correction: numerical (X-SHAPE; Stoe & Cie, 1995 ▶) T                           min = 0.273, T                           max = 0.434
+1026 measured reflections
+196 independent reflections
+135 reflections with I > 2σ(I)
+                           R                           int = 0.058
+                                             R[F                           2 > 2σ(F                           2)] = 0.020                           wR(F                           2) = 0.044                           S = 0.99196 reflections15 parametersΔρmax = 0.45 e Å−3                        Δρmin = −0.42 e Å−3                                       
+                           R[F                           2 > 2σ(F                           2)] = 0.020
+                           wR(F                           2) = 0.044
+                           S = 0.99
+196 reflections
+15 parameters
+Δρmax = 0.45 e Å−3                        
+Δρmin = −0.42 e Å−3                        
+Data collection: COLLECT (Nonius, 1998 ▶); cell refinement: SCALEPACK (Otwinowski & Minor, 1997 ▶); data reduction: SCALEPACK and DENZO (Otwinowski & Minor, 1997 ▶); program(s) used to solve structure: SHELXS97 (Sheldrick, 2008 ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 ▶); molecular graphics: DIAMOND (Brandenburg, 2006 ▶); software used to prepare material for publication: SHELXL97.
+Crystal structure: contains datablock(s) I, global. DOI: 10.1107/S1600536811046976/hp2019sup1.cif            
+Structure factors: contains datablock(s) I. DOI: 10.1107/S1600536811046976/hp2019Isup2.hkl            
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report            

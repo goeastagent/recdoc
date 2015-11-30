@@ -1,0 +1,7 @@
+Positive end-expiratory pressure does not increase intraocular pressure in patients with intracranial pathology
+
+
+Mechanical ventilation with PEEP is the cornerstone of treatment of patients with ALI and ARDS, but it is not free of adverse effects. This study aims to examine the effect of varying levels of PEEP on the intraocular pressure in critically ill patients with intracranial pathology.
+We studied 40 patients with intracranial pathology and respiratory failure, without history of glaucoma and not receiving drugs known to affect intraocular pressure. Twenty-one patients had head injury (GCS ≤ 8 on admission), 11 had sub-arachnoid hemorrhage (III-IV Hunt and Hess) and 8 had intracerebral hemorrhage. Measurement of intraocular pressures where done while the patients were mechanically ventilated with different levels of PEEP. These patients were divided in four groups (A, B, C, D) of 10 patients. Each group had different PEEP values according to the attending physician for at least > 24 hours (see Table). Mean systemic arterial pressure, peak airway pressure, central venous pressure and arterial oxygen saturation were recorded (see Table).
+In all groups there was no difference in intraocular pressure values between the right and left eye. In patients subjected in different levels of PEEP no effect on intraocular pressure was observed.
+Mechanical ventilation with PEEP values of ≤ 15cmH2O do not cause an increase in intraocular pressure in patients with intracranial pathology.

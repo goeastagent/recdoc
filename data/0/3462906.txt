@@ -1,0 +1,4 @@
+Erratum to: Serum cytokine and glucose levels as predictors of poststroke fatigue in acute ischemic stroke patients
+
+
+Throughout the manuscript, the unit expressing the levels of cytokines was erroneously written as μg/ml (micrograms per milliliter). The reported values were actually in pg/ml (picograms per milliliter).

@@ -1,0 +1,4 @@
+AN INVESTIGATION BY ELECTRON MICROSCOPY OF THE NUCLEOSIDE PHOSPHATASE ACTIVITY OF AMPHIBIAN AND MAMMALIAN ERYTHROCYTES
+
+ Amphibian and mammalian blood was washed in isotonic saline, fixed in glutaraldehyde, and then stained in the ATPase medium of Wachstein and Meisel. The blood cells were subsequently postfixed in osmium tetroxide, embedded in epoxy resins, and studied by electron microscopy. The plasma membranes of amphibian erythrocytes, from the newt Triturus cristatus and the frog Rana esculenta, were stained after incubation in media containing ATP or ADP as substrates, but were unstained after incubation in media containing AMP or sodium β-glycerophosphate. The addition of 0.001 M ouabain to ATP-containing media did not inhibit the staining of the plasma membranes, but the omission of Mg++ ions from the medium inhibited staining. The plasma membranes of rat and rabbit erythrocytes were never stained after incubation in any of the media used. 
+

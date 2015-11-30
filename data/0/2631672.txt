@@ -1,0 +1,4 @@
+Rapid identification of Corynebacterium diphtheriae clonal group associated with diphtheria epidemic, Russian Federation.
+
+We used 199 Corynebacterium diphtheriae isolated from 1995 to 1997 in Russia to evaluate the ability of random amplified polymorphic DNA (RAPD) to identify the unique clonal group that emerged there in 1990. Our data show that RAPD can reliably, reproducibly, and rapidly screen a large number of strains to identify the epidemic clonal group.
+

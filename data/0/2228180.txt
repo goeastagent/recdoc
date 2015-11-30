@@ -1,0 +1,4 @@
+Germline BRCA2 mutations in men with breast cancer.
+
+Breast cancer in men is rare and is clearly due in some cases to an inherited predisposition. A total of 28 male breast cancer patients were tested for BRCA2 mutations; two frameshifts and one putative missense mutation were identified. One of the frameshifts was detected in the same position as a mutation estimated to be responsible for 40% of all male breast cancer cases in Iceland.
+

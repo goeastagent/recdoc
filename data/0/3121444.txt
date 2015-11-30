@@ -1,0 +1,5 @@
+Erratum
+
+
+Tan BK, Adya R, Farhatullah S, Chen J, Lehnert H, Randeva HS. Metformin treatment may increase omentin-1 levels in women with polycystic ovary syndrome. Diabetes 2010;59:3023–3031
+In the results section (page 3025) of the article listed above, the sentence “Table 1 shows the anthropometric, biochemical, and hormonal data in all subjects” should have read “Table 1 shows the anthropometric, biochemical, and hormonal data in PCOS and control subjects.” The online version reflects these changes.

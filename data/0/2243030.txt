@@ -1,0 +1,13 @@
+Swallowing pain relief
+
+
+Anew study shows that, in the presence of morphine, low doses of an opiate analogue can induce receptor endocytosis, thereby reducing the development of tolerance to morphine. Jennifer Whistler and colleagues at the Gallo Institute (University of California, San Francisco, CA) demonstrated that rats treated with morphine together with subanalgesic doses of a second opiate did not develop tolerance to the morphine even after seven days of treatment.
+Figure DAMGO helps morphine-bound receptors (white) enter the cell.Whistler/Elsevier
+DAMGO helps morphine-bound receptors (white) enter the cell.
+Whistler/Elsevier
+Although morphine is a favored choice for easing pain, a major drawback of its long-term use is the development of tolerance, which results in reduced analgesic effects upon long-term use. Morphine binds the μ opioid receptor (MOR), one member of the large G protein–coupled receptor family. Once bound by natural ligands such as endorphins, or several opiate drugs such as methadone, opioid receptors normally undergo desensitization via uncoupling from the G protein, followed by endocytosis.
+The prevailing view has been that endocytosis of the receptors would contribute to tolerance by reducing the number of available receptors, thus increasing the amount of drug needed for a response. Morphine, however, does not induce receptor endocytosis, and previous results from Whistler's laboratory demonstrated that endocytosis induced by other opiates led to reduced, not increased, tolerance in a cell culture system. As she also found that the receptors were forming oligomers, Whistler then wondered whether another opiate could induce endocytosis of receptors bound by morphine.
+In the new study, the group demonstrated that receptors bound by the opioid peptide DAMGO can drag morphine-activated receptors into the cell. The dragging is efficient in neurons of rats treated with both drugs, and prolonged treatment with DAMGO and morphine did not lead to the tolerance seen in rats treated with morphine alone. Whistler suggests that endocytosis may allow the unloading and recycling of receptors, which temporarily stops signaling and allows the cell to reset its downstream signaling apparatus, thus preventing tolerance-related cellular changes. DAMGO is not suitable for the clinic, but clinical trials might be warranted if an opiate analogue could both induce endocytosis and (unlike DAMGO) efficiently cross the blood–brain barrier. ▪
+Reference:
+He, L., et al. 2002. Cell. 108:271–282.11832216
+labrasn@rockefeller.edu

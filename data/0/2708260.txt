@@ -1,0 +1,4 @@
+Estimation of variance components of threshold characters by marginal posterior modes and means via Gibbs sampling
+
+
+(To access the full article, please see PDF)

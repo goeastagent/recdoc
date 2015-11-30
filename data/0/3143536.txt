@@ -1,0 +1,15 @@
+What is New in Preventive Medicine?
+
+
+Liu T, Korantzopoulos P, Shehata M, Li G, Wang X, Kaul S.
+Abstract
+Context:
+Previous randomised controlled trials (RCT) regarding n-3 PUFA supplementation for atrial fibrillation (AF) prevention have yielded conflicting results.
+Objective:
+A systematic review and meta-analysis of RCT was conducted to examine the role of n-3 PUFA in AF prevention. Data Sources MEDLINE, Web of Science and Cochrane clinical trials database were searched until November 2010. Study Selection Of 127 initially identified studies, 10 RCT with 1955 patients were finally analysed.
+Data Extraction:
+Two blinded reviewers extracted data independently to a predefined form. Disagreements were resolved through discussion and consensus.
+Results:
+n-3 PUFA had no significant effect on the prevention of AF (OR 0.81, 95% CI 0.57 to 1.15; p=0.24). There was significant heterogeneity among the studies (p=0.002, I(2)=65.0%). Subgroup analysis showed no significant beneficial effect of fish oils in any subset of population.
+Conclusions:
+No significant effects of n-3 PUFA supplementation on AF prevention were observed in this meta-analysis. A large-scale trial with higher doses and longer follow-up might be required to rule out the possibility of any treatment benefit.

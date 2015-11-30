@@ -1,0 +1,4 @@
+Complications associated with central venous catheters in a haematology unit.
+
+The use of central venous catheters in patients suffering from haematological disorders has brought enormous benefits, but has been associated with an increase in septicaemia. We have reviewed septic and other complications in 43 patients who received one of three different forms of central venous catheters (type A-Hickman, type B-Portacath, type C-Pasport) during 1991. All complications were reviewed up to 18 months following insertion. The total complication rate was 31% (0.97 per 100 catheter days), and the total sepsis complication rate was 18.8% (0.49 per 100 catheter days). Type A catheters had the greatest sepsis complication rate of 29.5% (0.84 per 100 catheter days), with type B 15% (0.39 per 100 catheter days) and type C 9.9% (0.32 per 100 catheter days). Prophylactic antibiotics on the day of catheter insertion did not reduce the sepsis rate or prolong catheter survival.
+

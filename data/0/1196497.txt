@@ -1,0 +1,6 @@
+Correction: Appropriate Models for the Management of Infectious Diseases
+
+
+In PLoS Medicine, vol 2, issue 7, DOI: 10.1371/journal.pmed.0020174
+Equation 4 was incorrectly printed. It should be as follows:
+							

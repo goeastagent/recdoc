@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 
-
 # This function generates 2 files for data of test and training.
 def cross_validation(filename):
     question = 0

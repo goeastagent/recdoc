@@ -1,0 +1,11 @@
+308 Evaluation and Comparison of Lung Volumes and Capacities in a Group of Morbid Obese, Obese and Eutrophic Adolescents
+
+Obesity is a major health issue in the world. It is associated with a range of adverse consequences and its prevalence appears to be increasing among children and adolescents. The effects of ventilatory function have been widely studied in adults but there are scarce studies in children and even more, in specific population as inmorbid obese adolescents. Knowledge of early complications on the lung by pulmonary function tests allow the development of new management strategies aimed at the sporting activity in patients with morbid obesity.
+To measure and compare pulmonary function tests in morbid obese, obese and eutrophic.
+Transversal prospective protocol, in a group of morbidly obese, obese and eutrophic adolescents, aged between 11 and 17 years, divided into 3 groups: 1) Eutrophic adolescents (BMI < p85); 2) obese adolescents (BMI > p95 and <99); and 3) Adolescents with morbid obesity (BMI > 35 or BMI > P99). All of them underwent complete medical history, measurements and pulmonary function tests (plethysmography) using a Sensor Medics VMAX plethysmograph.
+We used descriptive stadistics, measurement of standar deviation, standar error, confidence interval95%, we analized in groups using analysis of variance (ANOVA) with a Tukey post hoc analysis. Significance was taken as P < 0.05 for all tests.
+ Funtional Residual Capacity (FRC) and Expiratory Reserve Volume (ERV) decrease sharply comparing the 3 groups: FRC P < .032 eutrophic versus obese and P < .031 eutrophic versus morbid obeses.
+ERV P < .001 eutrophic versus obese and P < .003 eutrophic versus morbid obese.
+We also found a decrease in FEV1 comparing the 3 groups with a P < .011 morbid versus eutrophic and P < .049 morbid versus obese.
+Our results confirm the findings of others, who have shown that lung volumes especially FRC and ERV decrease as body weight increases. Obese patients have a combination of mechanical and inflammatory effects that result in pulmonary disability.
+

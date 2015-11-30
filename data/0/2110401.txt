@@ -1,0 +1,4 @@
+Reversible alteration  in the neuromuscular junctions of Drosophila melanogaster bearing a temperature-sensitive mutation, shibire
+
+In this study we report a relationship between the ultrastruct of the neuromuscular junctions of tibial muscles and the temperature-induced paralysis in shibire flies. There is a decrease in the number of synaptic vesicles of neuromuscular junctions in flies which are held at or above 29 degrees. Shortly after return to 22 degrees C, the synaptic vesicles are again present in large numbers. Prior treatment with tetrodotoxin or barbiturate protects the junctions from the temperature change in morphology.
+

@@ -1,0 +1,10 @@
+Curtailing infection
+
+ruth.williams@rockefeller.edu
+
+Certain crafty viruses can cause the host's immune system to suppress itself, and thereby establish persistent chronic infection. But Ejrnaes et al. (page 2461) and Brooks et al. (Nat. Med. doi:10.1038/nm1492) have now found that suppressing the suppressor, which they show is the cytokine IL-10, can fight persistent infection.
+Figure 1Mice with suppressed IL-10 action (right) eradicate persistent viral infection and improve their health.
+Mice with suppressed IL-10 action (right) eradicate persistent viral infection and improve their health.
+IL-10 is known to exert a suppressive effect on cells of the immune system, including T cells and antigen-presenting cells, and elevated levels of IL-10 have been observed during persistent infection with hepatitis C virus, human immunodeficiency virus, and Epstein-Barr virus.
+Now, both teams have observed that mice lacking IL-10 are resistant to persistent infection with lymphocytic choriomeningitis virus (LCMV). They also show that normal mice infected with LCMV have increased IL-10 production and decreased numbers of virus-killing CD8+ T cells. Ejrnaes et al. show that treating LCMV-infected mice with antibody that blocks the IL-10 receptor restored these antiviral CD8+ T cells and resulted in low or undetectable viral load, less weight loss and healthier coats. Importantly, the same reversal of symptoms and eradication of virus was achieved if treatment was administered later in infection.
+Blocking the action of IL-10 might, therefore, be a potential therapy for human cases of persistent viral infection. Prolonged treatment with a potent stimulator of the immune system, however, might lead to undesirable autoimmune conditions, explains Matthias von Herrath, who led the study published here. His team is thus looking into the use of shorter and lower dose IL-10 treatments in combination with vaccines against virus-specific antigens. 

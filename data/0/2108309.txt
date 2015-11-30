@@ -1,0 +1,4 @@
+RNA METABOLISM IN HELA CELLS AT REDUCED TEMPERATURE 
+
+ Incubation of HeLa cells at suboptimal temperature has been used to study the synthesis of 45S ribosomal RNA precursor and the individual steps of the subsequent processing to 28S RNA. Below 20°C no detectable 45S RNA is formed. The processing of 45S RNA to 32S RNA ceases around 15°C, and the processing of 32S RNA to 28S RNA is inhibited near 25°C. Prolonged incubation at reduced temperature results in further modification of the processing, resulting in the apparent accumulation of 41S RNA. The products of these reactions at reduced temperature appear normal in that the ribosomal RNA made at 27°C can be isolated from functional polyribosomes in the cytoplasm after a short incubation at 37°C. 
+

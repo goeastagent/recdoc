@@ -1,0 +1,4 @@
+Immunofluorescence evidence for the absence of histone H1 in a mitotically dividing, genetically inactive nucleus
+
+Antibodies directed against whole histone and purified lysine-rich histone H1 extracted from isolated macronuclei of the ciliate Tetrahymena were obtained and conjugated to fluorescein isothiocyanate. The fluorescein-antibody conjugates were used to directly label Tetrahymena cells. Both macro- and micronuclei were visibly fluorescent in cells stained with anti-whole histone conjugate. However, the anti- H1 conjugate only labeled macronuclei. This in situ demonstration of the lack of positive immunofluorescent staining of micronuclei with anti-H1 conjugate provide further evidence for the absence of H1 in the genetically inactive, mitotically dividing Tetrahymena micronucleus.
+

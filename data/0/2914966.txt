@@ -1,0 +1,39 @@
+Sodium (1R,2S,5S)-2-hydr­oxy-6,6-dimethyl­bicyclo­[3.1.1]heptane-2-carboxyl­ate penta­hydrate
+
+In the title compound, Na+·C10H15O3               −·5H2O, the vertices of a distorted octa­hedron centred on the Na+ cation are defined by six O atoms of water mol­ecules. The edge-sharing Na(H2O)6 octa­hedra form a chain extended along the b-axis direction with adjacent Na+ cations related by a twofold screw symmetry operation. The organic anion, which is not in close contact with the Na+ cation, is hydrogen-bonded to an uncoordinated water mol­ecule and to water mol­ecules of the Na(H2O)6 octa­hedra.
+
+For a crystal structure with similar chains of edge-sharing Na(H2O)6 octa­hedra, see: Huang et al. (2005 ▶).         
+                  Na+·C10H15O3                           −·5H2O                           M                           r = 296.29Monoclinic,                                                    a = 6.647 (3) Å                           b = 6.976 (3) Å                           c = 16.608 (7) Åβ = 93.037 (7)°                           V = 769.0 (6) Å3                                                   Z = 2Mo Kα radiationμ = 0.13 mm−1                                                   T = 295 K0.15 × 0.12 × 0.10 mm               
+Na+·C10H15O3                           −·5H2O
+                           M                           r = 296.29
+Monoclinic,                         
+                           a = 6.647 (3) Å
+                           b = 6.976 (3) Å
+                           c = 16.608 (7) Å
+β = 93.037 (7)°
+                           V = 769.0 (6) Å3                        
+                           Z = 2
+Mo Kα radiation
+μ = 0.13 mm−1                        
+                           T = 295 K
+0.15 × 0.12 × 0.10 mm
+                  Bruker SMART CCD area-detector diffractometerAbsorption correction: multi-scan (SADABS; Sheldrick, 1996 ▶) T                           min = 0.981, T                           max = 0.9874017 measured reflections1479 independent reflections1284 reflections with I > 2σ(I)                           R                           int = 0.039               
+Bruker SMART CCD area-detector diffractometer
+Absorption correction: multi-scan (SADABS; Sheldrick, 1996 ▶) T                           min = 0.981, T                           max = 0.987
+4017 measured reflections
+1479 independent reflections
+1284 reflections with I > 2σ(I)
+                           R                           int = 0.039
+                                             R[F                           2 > 2σ(F                           2)] = 0.042                           wR(F                           2) = 0.107                           S = 1.021479 reflections173 parametersH-atom parameters constrainedΔρmax = 0.21 e Å−3                        Δρmin = −0.24 e Å−3                                       
+                           R[F                           2 > 2σ(F                           2)] = 0.042
+                           wR(F                           2) = 0.107
+                           S = 1.02
+1479 reflections
+173 parameters
+H-atom parameters constrained
+Δρmax = 0.21 e Å−3                        
+Δρmin = −0.24 e Å−3                        
+Data collection: SMART (Siemens, 1996 ▶); cell refinement: SAINT (Siemens, 1996 ▶); data reduction: SAINT; program(s) used to solve structure: SHELXS97 (Sheldrick, 1997a                ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 1997a                ▶); molecular graphics: SHELXTL (Sheldrick, 1997b                ▶); software used to prepare material for publication: SHELXTL.
+Crystal structure: contains datablocks global, I. DOI: 10.1107/S1600536807063775/gk2115sup1.cif            
+Structure factors: contains datablocks I. DOI: 10.1107/S1600536807063775/gk2115Isup2.hkl            
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report            

@@ -1,0 +1,4 @@
+Correction: Mach, J., et al. The Effect of Antioxidant Supplementation on Fatigue during Exercise: Potential Role for NAD+(H). Nutrients 2010, 2, 319-329
+
+
+We have found an error in our manuscript published in Nutrients [1]. On page 322 in the methods (section 2.5) it states ‘0.36 mg’ of pycnogenol is contained in one dose of the lactaway (antioxidant) supplement. This should in fact read ‘36 mg’ of pycnogenol. This is purely a typographical error and does not impact on the results or conclusions drawn from this work. However we do apologise for any inconvenience caused to the readers.

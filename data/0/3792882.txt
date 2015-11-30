@@ -1,0 +1,43 @@
+Sensomotor axonal peripheral neuropathy as a first complication of polycythemia rubra vera: A report of 3 cases
+
+Authors’ Contribution:
+Study Design
+Data Collection
+Statistical Analysis
+Data Interpretation
+Manuscript Preparation
+Literature Search
+Funds Collection
+Patient: Female, 64
+Final Diagnosis: Polycythemia rubra vera
+Symptoms: Burning pain • cramps • hypesthesia • itching • paresthesia
+Medication: —
+Clinical Procedure: —
+Specialty: Neurology
+Unusual clinical course
+The association between polycythemia vera and peripheral neuropathy has been described previously but only as a late complication and only with sensory axonal polyneuropathy.
+We presume the cause of polyneuropathy was hypoxia due to higher blood viscosity and dysfunction of platelet aggregation.
+We report the cases of 3 female patients with symptoms and signs of slowly progressive sensorimotor axonal polyneuropathy confirmed with clinical and neurographic examination as first complication of polycythemia vera, which progressed to a major complication. Axonal damage was irreversible despite venipuncture.
+Polycythemia vera is rarely manifested with symptoms of sensomotor polyneuropathy as the first signs of the disease, and should therefore be recognized by physicians to prevent further axonal damage and major complications of disease by venipuncture or cytostatic therapy.
+
+The 3 patients were females with age at presentation ranging from 56 to 73 years. Neurological symptoms were the presenting complaints in our patients. The interval between the onset of the symptoms and diagnosis of the polycythemia vera ranged from 3 to 72 months. The neuropathy began in the distal lower extremities and had a slowly progressive symmetrical ascending course.
+The first symptoms in all patients were paresthesia, hypesthesia,itching, burning pains, and weak dorsiflexion of the feet and fingers. The motor symptoms appeared some months after the sensory symptoms. Pinprick, proprioception, and vibratory sensations were decreased distally. Mild to moderate distal weakness was present in all patients and muscular atrophy occurred in 1 patient. Knee tendon reflexes were diminished in 1 patient and ankle reflexes were absent in all patients.
+All patients were referred to the neurological out-patient unit by their general practitioners due to: paresthesia, dysesthesia, itching, sensation of coolness and cramps in their calves, and foot weakness.
+Electrophysiological studies showed evidence of denervation in 2 cases, as well as a decrease in the nerve conduction velocity and reduction of motor M action potential amplitude and sensory amplitude.
+Motor conduction studies were performed in the peroneal nerve. Sensory conduction study was performed in the sural nerve with standardized technique. Electrophysiological studies were performed using Medelec Synergy (EMG/EP System – software version 11), Oxford Instruments Medical equipment.
+A 73-year-old woman started with the symptoms of paresthesia (tingling, itching, and eventual rigidity) in her feet that slowly progressed. These symptoms were more pronounced at night and were accompanied by cramps in her calves. After a few months, she noticed weakness in her feet, especially dorsiflexion of her toes and the foot itself. She was referred to neurology because of these sensory symptoms, which lasted about 72 months.
+A 64-year-old woman presented with paresthesia in her feet and an insecure gait, especially at night in poorly lit areas. The problems began 30 months ago. She also complained of frequent dizziness, spinning, and tinnitus.
+A 56-year-old woman felt itchiness in her feet and occasional coolness of her legs, but mostly of her feet. She was initially referred to dermatology because of itching, and then to neurology.
+Clinical, hematologic, and electrophysiologic characteristics are presented in Table 1.
+The diagnostic investigations (full blood count, serum and urine protein tests) raised the suspicion of polycythemia vera. Consequently, it was confirmed that these symptoms were the complications of polycythemia vera. JAK2 -tyrosine kinase mutation (JAK2V617F) was found by molecular analysis using the PCR method [1,2].
+The diagnosis of PV was made using the WHO criteria, after excluding other causes such as: kidney and liver failure, alcoholism, vitamin deficiency, endocrine disturbances, inflammation, toxins and paraneoplasia. Kidney and liver failure, alcoholism, vitamin deficiency, endocrine disturbance, inflammation, toxins, paraneoplasia, and other possible causes were excluded [1–3].
+Polycythemia vera is a blood disorder in which the bone marrow makes too many red blood cells. It also may result in the overproduction of white blood cells and platelets. Major criteria for polycythemia vera are high levels of hemoglobin and hematocrit or elevated red cell mass and presence of JAK2V617F or similar mutations. The complications found in polycythemia vera are related to hyperviscosity and bone marrow-related complications.
+Polycythemia vera is frequently associated with neurological symptoms such as headache, fatigue, dizziness, and visual disturbances. Fortunately, it is not frequently complicated with stroke or chorea [1–4].
+The peripheral nerve damage associated symptoms such as paresthesia, hypesthesia, dysesthesia, and weakness are rare complications of PV and are seldom published in the literature. In our case, those exact symptoms (i.e., those of peripheral neuropathy) were the presenting symptoms.
+During the past several years only a few papers were published describing the relationship between polycythemia vera and polyneuropathy. These articles described polycythemia vera as a late complication and very rare cause of sensory axonal polyneuropathy [4–7].
+In our cases, symptoms of sensorimotor axonal polyneuropathy presented 3–72 months before diagnosis polycythemia vera, and thus emerged as the first symptoms associated with other symptoms as dizziness, headache, and fatigue. Fortunately there were no other complications such as thrombosis, thromboembolism, or bleeding. Clinical tests showed damage mainly of exteroception (temperature and pain sensation), less proprioception (position,vibratory sensation) distally in the legs, absence of Achilles tendon reflexes, and weak patellar reflexes in 1 case and weak dorsiflexion of fingers and feet.
+Electrophysiological testing showed the reduced amplitude of sensory potentials and motor M potentials in accordance with axonal loss and proportional decrease in conduction velocity in the tested nerves.
+It is assumed that the main mechanism of damage to peripheral nerves is blood hyperviscosity and abnormal platelet aggregation, which lead to hypoxia and consequent axonal polyneuropathy [5–8].
+Unfortunately, after venipuncture removing about 250 milliliters of whole blood, when the hematocrit was greater than 0.50 at approximately bi-monthly intervals, repeated electro-mioneurographic recordings did not show signs of improved axonal damage [4,6,8].
+In conclusion, although polycythemia vera rarely presents symptoms of damage to peripheral nerves before performing the main complications of the disease, when the axonal nerve damage develops, it is often irreversible. Therefore, we need to think about these symptoms because we can probably prevent or avoid nerve damage with venipuncture (so-called blood thinning – dilution).
+The effect of timely recognition of neurological symptoms and more frequent venipuncture needs to be done by further clinical studies.

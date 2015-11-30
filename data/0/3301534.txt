@@ -1,0 +1,8 @@
+Diffusion weighted magnetic resonance imaging in early moderate and severe head injury
+
+
+Magnetic resonance imaging (MRI) has been widely used in brain imaging, and diffusion weighted imaging (DWI) with MR has been used to image early ischaemia in stroke. We have used early DWI following head injury to map cerebral ischaemia.
+We studied six patients with severe head injury, with a median (range) initial Glasgow Coma Score 3.5 (3–8), and X-ray computed tomography (CT) demonstrated contusions in all subjects. All patients were managed using protocol-driven therapy including sedation, neuromuscular blockade and mechanical ventilation, and were imaged at a mean of 63 hours (range 15–90 hours) post injury. MRI examination included DWI and fluid attenuation inversion recovery (FLAIR) sequences, the latter showing vasogenic oedema as high signal intensity on CSF nulled images.
+All patients showed substantial but variable perilesional oedema, best demonstrated on FLAIR images. Perilesional oedema was well seen as early as 15 hours post injury, suggesting that some previous estimates of temporal evolution of this process may have been incorrect [1]. In addition many images show regions of restricted diffusion in the brain adjacent to the perilesional oedema, suggesting evolving pathophysiology with cytotoxic oedema.
+These results underline the superiority of MRI in imaging the pathophysiological processes in acute head injury. The diffusion weighted abnormalities that we observe are intriguing, but their mechanism remains uncertain. The confounding effects of microhaemorrhage and high oxygen extraction may need to be considered in the interpretation of such images.
+(a) Diffusion image. (b) FLAIR image.

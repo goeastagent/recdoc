@@ -1,0 +1,8 @@
+Why yeast mothers and daughters don't share
+
+
+As anaphase proceeds (left to right), Ace2 (green) remains in the bud.Ace2 helps a newly formed yeast bud establish its identity. Boettcher et al. reveal what prevents this protein from leaking into the mother cell while it's still attached to the bud.
+As anaphase proceeds (left to right), Ace2 (green) remains in the bud.
+Like a teenager, a yeast bud has to distinguish itself from its parent. The transcription factor Ace2 helps drive this process by flipping on a set of genes only in the bud. During anaphase, Ace2 slips from the cytoplasm into the nucleus of the dividing cell, but it only lingers in the portion of the nucleus that's inside the bud. Why Ace2 doesn't diffuse into the mother's side of the nucleus is unclear.
+One possible explanation for the asymmetry in the nucleus is that Ace2 clings to chromosomes on the bud side, but Boettcher et al. ruled out this option using photobleaching experiments. The team then traced a nuclear protein called TetR that can cross the bridge that connects the parting mother and daughter nuclei, testing the effects of mutations that alter the width and length of this bridge. They found that the bridge's dimensions were crucial to the amount of exchange. For example, a mutation that shortened the bridge allowed more TetR to pass into the mother's nucleus. Experiments with Ace2 showed a similar relationship between bridge size and the amount of nuclear “leakage.”
+The researchers’ computer models suggest that there doesn't need to be a diffusion barrier inside the bridge to explain their results. Rather, the bridge's long, narrow shape curbs movement to the other side, confining Ace2 to the bud.

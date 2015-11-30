@@ -1,0 +1,15 @@
+How to make less webby webs
+
+wellsw@rockefeller.edu
+
+Forming a web of blood vessels requires both adventurous explorers and stable stay-at-homes. Notch, say two teams of researchers, helps endothelial cells to split up between these two fates. The explorers form new vessels even as the stay-at-homes maintain the integrity of existing vessels.
+Patches of Notch activity (green/yellow) ensure that not all blood vessel cells sprout.
+GERHARDT/MACMILLAN
+The explorers are called tip cells. Mats Hellström, Christer Betsholtz (Karolinska Institute, Stockholm, Sweden), Holger Gerhardt (Cancer Research UK, London) and colleagues found that inhibiting the Notch pathway in a mouse retina greatly increased the number of endothelial cells that had both tip cell markers and the tip cell habit of sprouting. The resulting webs of vessels were overly dense and disorganized; similarly Notch-inhibited and disorganized vessels were recently shown to be largely nonfunctional in mouse tumors.
+Arndt Siekmann and Nathan Lawson (University of Massachusetts Medical School, Worcester, MA) report similar results in zebrafish. Embryos lacking a Notch signaling component sent more than the normal number of endothelial cells into vessels sprouting from the dorsal aorta. The result was an excess of cells in the target vessel.
+Notch is famous for its ability to help two neighboring cells distinguish themselves into two distinct fates—a process termed lateral inhibition. The simplest model in blood vessels would be that cells with the strongest Notch signal remain as the stay-at-home supporters of the originating vessel, whereas the neighbor with lower Notch signal becomes the wandering explorer.
+Unfortunately for that hypothesis, says Gerhardt, the “patterning is not very neat.” Cells deleted for Notch signaling were only somewhat more likely to have tip cell characteristics, and signs of Notch signaling were evident in both tip and non-tip cells. He suspects a “dynamic bilateral signaling event.”
+The details will have to await the isolation of downstream targets of Notch signaling, and investigations into possible posttranscriptional and posttranslational regulation of the pathway. One key fact is clear, however. “All endothelial cells respond to [the outgrowth inducer] VEGF,” says Lawson. “Notch determines in what way they do so.” 
+Reference:
+Hellström, M., et al. 2007. Nature. doi:10.1038/nature05571.17259973
+Siekmann, A.F., and N.D. Lawson. 2007. Nature. doi:10.1038/nature05577.17259972

@@ -1,0 +1,4 @@
+Historical overview of key issues in food safety.
+
+Foodborne transmission of pathogenic and toxigenic microorganisms has been a recognized hazard for decades. Even half a century ago we knew about the dangers of botulism from underprocessed canned foods; staphylococcal poisoning from unrefrigerated cream-filled pastries, sliced ham, meat, and poultry salads; and salmonellosis from infected animal products. Despite new protective measures, changes in preservation techniques and failure to follow recognized procedures have created new dangers. Moreover, we now recognize new organisms that can cause foodborne illness--Listeria monocytogenes, Escherichia coli O157:H7, Campylobacter jejuni, Vibrio parahaemolyticus, Yersinia enterocolitica, and others. Controlling these organisms will require widespread education and possibly new regulatory initiatives.
+

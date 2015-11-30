@@ -1,0 +1,43 @@
+Sodium bis­(ethyl­enedi­amine)­copper(II) tetra­cyanido­cuprate(I)
+
+The King’s College is currently at: 52 Broadway, New York, NY 10004.
+The title compound, Na[Cu(en)2][Cu(CN)4], where en represents ethyl­enedi­amine, NH2CH2CH2NH2, crystallizes as a salt with two distinct cations, Na+ and [CuIIen2]2+, and discrete [CuI(CN)4]3− anions. The anion geometry is tetra­hedral, with angles at the copper atom ranging from 105.0 (1) to 115.4 (1)°. The Cu—C distances are in the range 1.976 (3) to 1.993 (3) Å. The divalent copper atom is coordinated by four N atoms of the two bidentate en ligands in a slightly distorted square-planar geometry. In the crystal, each sodium ion inter­acts with cyanide N atoms of four different anions, with Na—N distances lying in the narrow range of 2.344 (3) to 2.367 (3) Å, and an approximately tetra­hedral arrangement around the sodium ions. The inter­acting sodium ions and [CuI(CN)4]3− anions form a three-dimensional network with channels which contain the [Cu(en)2]2+ cations. One of the chelate rings in the cation shows partial disorder between two different conformations and the C atoms were refined with occupancies in the ratio 0.817 (15):0.183 (15).
+
+The work presented here continues studies on mixed-valence copper cyanide complexes, see: Corfield et al. (2012 ▶). Studies by others on similar complexes include Colacio et al. (2002 ▶) and Kim et al. (2005 ▶). For other results on the specific system CuI,II—CN—en, see: Williams et al. (1972 ▶) and Weiss et al. (2006 ▶). We are aware of only one other detailed crystal structure describing the discrete [Cu(CN)4]3− anion, that reported for K3Cu(CN)4 in Roof et al. (1968 ▶). For molar conductance, see: Angelici (1977 ▶).
+Na[Cu(C2H8N2)2][Cu(CN)4]Mr = 374.36Monoclinic, a = 8.842 (1) Åb = 10.743 (1) Åc = 15.268 (3) Åβ = 98.32 (1)°V = 1435.0 (4) Å3Z = 4Cu Kα radiationμ = 3.94 mm−1T = 295 K0.33 × 0.27 × 0.16 mm
+Na[Cu(C2H8N2)2][Cu(CN)4]
+Mr = 374.36
+Monoclinic, 
+a = 8.842 (1) Å
+b = 10.743 (1) Å
+c = 15.268 (3) Å
+β = 98.32 (1)°
+V = 1435.0 (4) Å3
+Z = 4
+Cu Kα radiation
+μ = 3.94 mm−1
+T = 295 K
+0.33 × 0.27 × 0.16 mm
+Enraf–Nonius CAD-4 diffractometerAbsorption correction: integration Busing & Levy (1957 ▶) Tmin = 0.361, Tmax = 0.5765288 measured reflections2679 independent reflections2614 reflections with I > 2σ(I)Rint = 0.0243 standard reflections every 120 min intensity decay: 11%
+Enraf–Nonius CAD-4 diffractometer
+Absorption correction: integration Busing & Levy (1957 ▶) Tmin = 0.361, Tmax = 0.576
+5288 measured reflections
+2679 independent reflections
+2614 reflections with I > 2σ(I)
+Rint = 0.024
+3 standard reflections every 120 min intensity decay: 11%
+R[F2 > 2σ(F2)] = 0.029wR(F2) = 0.087S = 1.192679 reflections181 parametersH-atom parameters constrainedΔρmax = 0.32 e Å−3Δρmin = −0.20 e Å−3
+R[F2 > 2σ(F2)] = 0.029
+wR(F2) = 0.087
+S = 1.19
+2679 reflections
+181 parameters
+H-atom parameters constrained
+Δρmax = 0.32 e Å−3
+Δρmin = −0.20 e Å−3
+Data collection: CAD-4 Software (Enraf–Nonius, 1994 ▶); cell refinement: CAD-4 Software; data reduction followed procedures in Corfield et al. (1973 ▶): data were averaged with a local version of SORTAV (Blessing, 1989 ▶); program(s) used to solve structure: locally modified program (Corfield, 1984 ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 ▶) and XABS2 (Parkin et al., 1995 ▶); molecular graphics: ORTEPIII (Burnett & Johnson, 1996 ▶); software used to prepare material for publication: SHELXL97.
+Click here for additional data file.
+Crystal structure: contains datablock(s) global, I. DOI: 10.1107/S1600536813012075/lh5608sup1.cif
+Click here for additional data file.
+Structure factors: contains datablock(s) I. DOI: 10.1107/S1600536813012075/lh5608Isup2.hkl
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report

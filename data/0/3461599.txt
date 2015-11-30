@@ -1,0 +1,8 @@
+Erratum: Dual-Energy X-Ray Absorptiometry for Quantification of Visceral Fat
+
+
+Sanjiv Kaul, Megan P. Rothney, Dawn M. Peters, Wynn K. Wacker, Cynthia E. Davis, Michael D. Shapiro and David L. Ergun
+Obesity (2012); 20: XXX-XXX; doi:10.1038/oby.2011.393
+In this article, published online 26 January 2012, there is an error in the last sentence of the fourth paragraph of the Results section. In the sentence “Combined, the bias was +567 cm3 with 95% limits of agreement of −355 to +468 cm3 (Figure 3b),” “+567 cm3” should have been “+56 cm3”.
+In addition, it came to the authors' attention that the Disclosure statement did not properly list the conflict information for Cynthia E. Davis. The correct statement is shown below:
+M.P.R., W.K.W., D.L.E., and C.E.D. are employees of the funding company, GE Healthcare, or its affiliates. All the other authors declared no conflict of interest.

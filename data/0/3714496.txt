@@ -1,0 +1,5 @@
+Rapid rise in hypertension and nephropathy in youth with type 2 diabetes: the TODAY clinical trial. Diabetes Care 2013;36:1735–1741
+
+
+TODAY Study Group. Rapid rise in hypertension and nephropathy in youth with type 2 diabetes: the TODAY clinical trial. Diabetes Care 2013;36:1735–1741
+In the results section of the article listed above, on page 1737, the sentences “On average, males were at 81% greater risk than females of developing hypertension (P = 0.0005). A participant 1 year older than another at baseline was at 14% greater risk on average (P = 0.0038)” should be instead “On average, males were at 87% greater risk than females of developing hypertension (P = 0.0002). A participant 1 year older than another at baseline was at 13% greater risk on average (P = 0.0050).” In addition, on page 1738, first column, the P value associated with the risk of microalbuminuria should have been P = 0.0150 rather than P = 0.0300. The online version reflects these changes.

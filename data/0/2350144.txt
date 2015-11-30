@@ -1,0 +1,215 @@
+Summary of the 2007 European Society of Hypertension (ESH) and European Society of Cardiology (ESC) Guidelines for the Management of Arterial Hypertension
+
+
+The Task Force for the Management of Arterial Hypertension of the European Society of Hypertension (ESH) and of the European Society of Cardiology (ESC) published their first European-specific guidelines in 2003. The decision to publish their own recommendations recognized that their historical endorsement of the World Health Organization (WHO) and International Society of Hypertension (ISH) guidelines, with some adaptation to the European situation, fell short of addressing the significant differences in economic resources available, and diagnostic and therapeutic recommendations between Europe and the rest of the world. The 2003 ESH/ESC Guidelines have since been revised and updated in light of changes in the field and in the pursuit of good medicine and practice, and have recently been published in their second incarnation in the Journal of Hypertension (ESH/ESC Hypertension Practice Guidelines Committee 2003, 2007).
+Despite the unequivocal cardiovascular (CV) risk conferred by high blood pressure (BP), a significant number of people with hypertension are unaware of their condition and target BP levels are seldom achieved (Burt et al 1995; Amar et al 2003; Mancia et al 2005). The 2007 ESH/ESC Guidelines emphasize the need to extend procedures for the effective capture, diagnosis and treatment of hypertension to a larger fraction of the clinical profession to benefit a greater number of patients. The scope of the Guidelines covers: definition and classification, diagnostic evaluation, therapeutic management and approach, treatment strategies, special conditions, associated risk factors, screening for secondary forms of hypertension, follow-up and implementation.
+The aim of this supplement is to distil and summarize the key recommendations, with a particular emphasis on implications for practice from a primary care perspective. The recommendations are based on data from randomized clinical trials (RCTs) and observational studies as appropriate, and aim to facilitate decision-making and practice for all healthcare providers involved in the management of hypertension.
+The WHO cites high BP as the leading cause of death worldwide (Erzzati et al 2002) because of its prevalence and its status as a significant CV risk factor (Wolf-Maier et al 2003; Kearney et al 2005; Martiniuk et al 2007). The continuous relationship between both systolic and diastolic BP and CV morbidity and mortality (including that relating to both coronary events and stroke) has been demonstrated in a number of observational studies and is continuous to systolic and diastolic levels of 115–110 mmHg and 75–70 mmHg, respectively (Joint National Committee on Detection, Evaluation and Treatment of High Blood Pressure 1977, 1980; Collins et al 1990; MacHahom et al 1990; Prospective Studies Collaboration 2002). Furthermore, both systolic and diastolic BP are independently related to heart failure, peripheral artery disease (PAD) and end-stage renal disease (Criqui et al 1992; Kannel et al 1996; Klag et al 1996; Levy et al 1996).
+For practical reasons, including their intrinsic use in key RCTs, classification of hypertension and risk assessment should be based on systolic and diastolic BP. However, the Guidelines also recognize that pulse pressure may be a useful parameter to identify systolic hypertension in elderly patients who may be at particularly high risk (Blacher et al 2000; Gasowski et al 2002; Laurent 2006). The Guidelines define optimal BP as <120 (systolic) and <80 (diastolic), and normal BP as 120–129 (systolic) and/or 80–84 (diastolic). Figure 1 illustrates the classification of hypertension, as retained from the 2003 ESH/ESC Guidelines, with recognition that the threshold for hypertension should be regarded as flexible; being higher or lower based on the total CV risk of each individual. It is of note, however, that if a patient’s systolic and diastolic pressures lie in different categories, the risk relating to the higher category should be attributed to the patient. Furthermore, low diastolic BP (eg, 60–70 mmHg) should be regarded as an additional risk. Isolated systolic hypertension does not appear in Figure 1 but is defined in the Guidelines as ≥140 (systolic) and <90 (diastolic).
+Stratification of CV risk into four categories.
+Low, moderate, high and very high risk refer to 10-year risk of a CV fatal or non-fatal event. The term “added” indicates that in all categories risk is greater than average. The dashed line indicates how definition of hypertension may be variable, depending on the level of total CV risk.
+Abbreviations: DBP, diastolic blood pressure; CV, cardiovascular; HT, hypertension; MS, metabolic syndrome; OD, subclinical organ damage; SBP, systolic blood pressure.
+The 2007 Guidelines emphasize that diagnosis and management of hypertension should be related to quantification of total (or global) CV risk, usually expressed as the absolute risk of having a CV event within 10 years. This more holistic approach recognizes that the majority of patients with high BP exhibit additional CV risk factors, and the potentiation of concomitant BP and metabolic risk factors leads to a CV risk that is more than the sum of the individual components (Multiple Risk Factor Intervention Trial Research Group 1986; Assmann and Schulte 1988; Wei et al 1996; Kannel et al 2000; Thomas et al 2001; Asia Pacific Cohort Studies Collaboration 2005; Mancia et al 2006a). The total CV risk should be used to grade intensity of therapeutic approach and guide decisions on treatment strategies, including:
+Initiation of drug treatment
+BP threshold and target
+Use of combination treatment or additional non-antihypertensive agents
+Cost-effectiveness.
+The Guidelines summarize factors influencing prognosis and risk classification (see Box 1 and Table 1), yet it is acknowledged that there are limitations to the application of standardized CV risk models in a real-world setting, and also intrinsic conceptual limitations associated with the rationale of estimating total risk as a way to best assign limited resources.
+High/very high-risk subjects
+○ BP ≥ 180 mmHg systolic and/or ≥ 110 mmHg diastolic
+○ Systolic BP >160 mmHg with low diastolic BP (<70 mmHg)
+○ Diabetes mellitus
+○ Metabolic syndrome
+○ Three CV risk factors
+○ One or more of the following subclinical organ damages:– Electrocardiographic (particularly with strain) or echocardio-graphic (particularly concentric) left ventricular hypertrophy– Ultrasound evidence of carotid artery wall thickening or plaque– Increased arterial stiffness– Moderate increase in serum creatinine– Reduced estimated glomerular filtration rate or creatinine clearance– Microalbuminuria or proteinuria
+– Electrocardiographic (particularly with strain) or echocardio-graphic (particularly concentric) left ventricular hypertrophy
+– Ultrasound evidence of carotid artery wall thickening or plaque
+– Increased arterial stiffness
+– Moderate increase in serum creatinine
+– Reduced estimated glomerular filtration rate or creatinine clearance
+– Microalbuminuria or proteinuria
+○ Established CV or renal disease
+Factors influencing prognosis
+■ Systolic and diastolic BP levels
+■ Levels of pulse pressure (in the elderly)
+■ Age (M >55 years; W >65 years)
+■ Smoking
+■ Dyslipidemia– TC > 5.0 mmol/L (190 mg/dL) or;– LDL-C > 3.0 mmol/L (115 mg/dL) or;– HDL-C: M < 1.0 mmol/L (40 mg/dL), W < 1.2 mmol/L (46 mg/dL), or;– TG > 1.7 mmol/L (150 mg/dL) or
+– TC > 5.0 mmol/L (190 mg/dL) or;
+– LDL-C > 3.0 mmol/L (115 mg/dL) or;
+– HDL-C: M < 1.0 mmol/L (40 mg/dL), W < 1.2 mmol/L (46 mg/dL), or;
+– TG > 1.7 mmol/L (150 mg/dL) or
+■ Fasting plasma glucose 5.6–6.9 mmol/L (102–125 mg/dL)
+■ Abnormal glucose tolerance test
+■ Abdominal obesity (waist circumference >102 cm (M), >88 cm (W))
+■ Family history of premature CV disease (M at age <55 years; W at age <65 years)
+■ Electrocardiographic LVH (Sokolow-Lyon >38 mm; Cornell > 2440 mm*ms) or
+■ Echocardiographic LVHa (LVMI M ≥ 125 g/m2, W ≥ 110 g/m2)
+■ Carotid wall thickening (IMT > 0.9 mm) or plaque
+■ Carotid-femoral pulse wave velocity >12 m/s
+■ Ankle/brachial BP index <0.9
+■ Slight increase in plasma creatinine: M: 115–133 μmol/L (1.3–1.5 mg/dL)W: 107–124 μmol/L (1.2–1.4 mg/dL)
+M: 115–133 μmol/L (1.3–1.5 mg/dL)
+W: 107–124 μmol/L (1.2–1.4 mg/dL)
+■ Low estimated glomerular filtration rateb (<60 mL/mn/1.73 m2) or creatine clearancec (<60 mL/min)
+■ Microalbuminuria 30–300 mg/24 hr or albumin-creatinine ratio: ≥22(M); or ≥31(W) mg/g creatinine
+■ Fasting plasma glucose ≥7.0 mmol/L (126 mg/dl) on repeated measurement, or
+■ Postload plasma glucose >11.0 mmol/L (198 mg/dL)
+■ Cerebrovascular disease: ischemic stroke; cerebral hemorrhage; transient ischemic attack
+■ Heart disease: myocardial infarction; angina; coronary revascularization; heart failure
+■ Renal disease: diabetic nephropathy; renal impairment (Serum creatinine M > 133 mmol/L, W > 124 mmol/L); proteinuria (>300 mg/24 hr)
+■ Peripheral arterial disease
+■ Advanced retinopathy: hemorrhages or exudates, papilloedema
+Risk maximal for concentric LVH (left ventricular hypertrophy): increased LVMI (left ventricular mass index) with a wall thickness/radius ratio ≥0.42
+MDRD formula
+Cockroft Gault formula.
+Abbreviations: BP, blood pressure; C, cholesterol; CV, cardiovascular disease; IMT, intima-media thickness; M, men; W, women; TG, triglycerides.
+Note: the cluster of three out of 5 risk factors among abdominal obesity, altered fasting plasma glucose, BP ≥ 130/85 mmHg, low HDL-cholesterol and high TG (as defined above) indicates the presence of metabolic syndrome.
+The aim of diagnostic procedures is to establish BP levels, identify secondary causes of hypertension and evaluate the overall CV risk through assessment of risk factors, target organ damage and concomitant disease or accompanying clinical conditions.
+BP measurements are most accurate when an average is taken of multiple reads recorded over at least 2–3 visits. However, in severe cases, diagnosis can be based on one measurement alone. Practical considerations when measuring BP in the clinical setting are summarized in Box 2.
+Guidance for correct office blood pressure measurements
+Allow the patients to sit for several minutes in a quiet room before beginning BP measurements
+Take at least two measurements spaced by 1–2 minutes, and additional measurements if the first two are quite different
+Use a standard bladder (12-13 cm long and 35 cm wide) but have a larger and a smaller bladder available for fat and thin arms, respectively. Use the smaller bladder in children
+Have the cuff at the heart level, whatever the position of the patient
+Use phase I and V (disappearance) Korotkoff sounds to identify systolic and diastolic BP, respectively
+Measure BP in both arms at first visit to detect possible differences due to peripheral vascular disease. In this instance, take the higher value as the reference one
+Measure BP 1 and 5 min after assumption of the standing position in elderly subjects, diabetic patients, and in other conditions in which postural hypotension may be frequent or suspected
+Measure heart rate by pulse palpation (at least 30 sec) after the second measurement in the sitting position
+Recent studies form a growing body of evidence to suggest that out-of-office BP readings are more closely correlated to severity of hypertension than those taken in the clinical setting and, as such, are a more accurate predictor of true CV risk (Khattar et al 1998; Fagard et al 2000; Bobrie 2004, Fagard and Celis 2004; Fagard et al 2005a; Ohkubo et al 2005; Verdecchia et al 2005; Hansen et al 2006; Mancia et al 2006b). The Guidelines’ recommendations regarding self-measurement of BP at home include:
+Use of validated and semiautomatic devices for simplicity and accuracy
+Taking measurements while in the sitting position (after several minutes of rest) and keeping the arm at heart level during measurement with wrist devices
+Measurement of BP in the morning and in the evening, and both pre- and post-treatment to monitor the effect of drug intake.
+The Guidelines also advise that it is prudent to educate patients about spontaneous changes in BP that may result in fluctuating readings. Clinicians are also reminded of the phenomenon of isolated office (or clinic) hypertension, ie, 130–135/85 mmHg as measured at home approximately corresponds to 140/90 mmHg.
+In addition to BP measurements, heart rate, body mass index (BMI) and waist circumference should be carefully recorded. Physical examination should also search for evidence of additional risk factors, signs of secondary hypertension or evidence of organ damage, eg, palpation of enlarged kidneys, ausculation of abdominal murmurs or of precordial or chest murmurs, features of Cushing Syndrome, or diminished and delayed femoral pulses and reduced femoral BP.
+Laboratory examinations can provide evidence of additional risk factors. Routine laboratory investigations should include blood chemistry for fasting glucose; total cholesterol, low-density lipoprotein (LDL) cholesterol and high-density lipoprotein (HDL) cholesterol; triglycerides (fasting); urate; creatinine; potassium, hemaglobin and hematocrit, urinalysis by a dipstick test and electrocardiogram. Further tests are recommended and include home and ambulatory BP monitoring, ankle-brachial index (ABI), echocardiogram, fundoscopy, glucose tolerance test, pulse wave velocity measurement, quantitative proteinuria and carotid ultrasound. The younger the patient, the higher the BP and the faster the development of their hypertension, the more thorough the diagnostic assessment should be.
+There is often a family history of high BP in hypertensive patients, suggesting that inheritance contributes to the pathogenesis of the disorder. A comprehensive family history should be taken, with particular attention being paid to hypertension, diabetes, dyslipidemia, premature coronary heart disease, stroke, PAD and renal disease. The clinical history should include:
+Past history and duration of previous levels of high BP and subsequent antihypertensive treatment
+Symptoms suggestive of secondary causes of hypertension
+Lifestyle factors (eg, physical activity level, diet, smoking and alcohol consumption) and past or current symptoms of coronary disease, heart failure, cerebrovascular or peripheral vascular disease (PVD), renal disease, diabetes mellitus, gout, dyslipidemia, asthma or other significant illnesses and related medication prescribed.
+There is a large body of evidence available on the crucial role of subclinical organ damage in determining the CV risk of individuals with and without high BP. In recognition of the importance of subclinical organ damage as an intermediate stage in the continuum of vascular disease and as an indicator of total CV risk, the Guidelines devote a section to the discussion of the evidence for the risk represented by various organ abnormalities and methods for their detection (see Table 2). It is important to note that arterial assessments, as evaluated by arterial stiffness, carotid-femoral pulse wave velocity, ankle-brachial BP index and carotid wall thickness, now figure prominently in the list of sub-clinical organ damage.
+Methods of subclinical organ damage detection
+left ventricular (LV) hypertrophy
+patterns of strain
+ischemia
+arrhythmias
+geometric patterns – concentric hypertrophy carries the worse prognosis Echocardiography is recommended when a more sensitive detection of LV hypertrophy is considered useful
+silent brain infarcts
+lacunar infarctions
+microbleeds
+white matter lesions
+Availability and costs do not allow indiscriminate use of these techniques
+Cognitive tests
+initial brain deterioration in elderly patients with hypertension
+hypertension-related renal damage - based on reduced renal function or Dipstick:
+urinary protein – dipstick negative patients low-grade albuminuria (microalbuminuria) should be determined in spot urine and related to urinary creatinine excretion
+vascular hypertrophy
+asymptomatic atherosclerosis is deemed useful
+large artery stiffening (leading to isolated systolic hypertension in the elderly)
+peripheral arterial disease (PAD) – advanced PAD signaled by low index
+hemorrhages
+exudates
+papilloedema
+Positive lifestyle changes should be instituted in both patients with hypertension and in those with normal-high BP and additional risk factors. Lifestyle interventions should be implemented, irrespective of whether pharmacological therapy is prescribed, to lower BP and to help control other risk factors and clinical conditions. In so doing, the subsequent antihypertensive pill burden for patients may be reduced and the associated economic consequences minimized.
+Effectiveness of lifestyle measures can vary and long-term compliance is low (Haynes et al 2002). In order to optimize outcomes, interventions should be introduced alongside adequate behavioral and expert support, and reinforced periodically. In light of poor adherence in the long term, patients under non-pharmacological treatment should receive close follow-up to ensure that drug therapy is initiated when required. Appropriate lifestyle interventions include: smoking cessation, moderation of alcohol consumption, increased physical activity, sodium restriction and advice on weight management and healthy eating (Dickinson et al 2006).
+Smoking is a powerful CV risk factor (Doll et al 1994) and cessation may be the single most effective lifestyle measure for the prevention of a large number of CV diseases, including stroke and myocardial infarction (MI) (Rosenberg et al 1985; Manson et al 1992; Doll et al 1994). Nicotine replacement therapy (Silagy et al 1994), bupropion therapy (Tonstad et al 2003) or varenicline (Nides et al 2006) should be considered to facilitate smoking cessation.
+The relationship between alcohol consumption, BP levels and the prevalence of hypertension is linear (Puddey et al 1994), and high consumption is related to a high risk of stroke (Wannamethee and Shaper 1996). Trials investigating alcohol reduction have shown a significant drop in systolic and diastolic BPs (Dickson et al 2006). The Guidelines recommend a daily intake of ≤20–30 g ethanol/day for male patients with hypertension and 10–20 g ethanol/day for female patients. All patients with hypertension are also recommended to avoid binge drinking.
+Lack of physical fitness is strongly correlated with CV mortality, independent of BP and other risk factors (Sandvick et al 1993). Even moderate levels of exercise can lower BP (Fagard 2001), reduce body weight, fat, waist circumference, increase insulin sensitivity and HDL-cholesterol levels. Sedentary patients are recommended to undertake 30–45 minutes of moderate intensity, primarily endurance, activity daily (eg, walking, jogging, swimming). This can then be supplemented with resistance exercise (Jennings 1997; Stringer et al 2005). In patients in whom hypertension is poorly controlled, however, the Guidelines warn that heavy physical exercise and maximal exercise testing should be discouraged or postponed until appropriate drug treatment has been instituted and BP lowered (Fagard et al 2005b).
+Epidemiological studies suggest that dietary salt intake is a contributor to BP elevation and to the prevalence of hypertension (Law 1997; WHO/FAO 2003). The benefit of sodium restriction is greater in blacks, middle-aged and older patients, as well as in individuals with hypertension, diabetes or chronic kidney disease. Ideal daily intake of sodium chloride is targeted at 3.8 g, although it is recognized that a target of <5 g may be more realistic and achievable.
+Weight loss should be encouraged in overweight patients; support and counselling from trained dieticians may be beneficial. Healthy eating should be promoted because of its BP-lowering effects (Sacks et al 2001): increased fruit and vegetable intake (4–5 servings, or 300 g/day) and a reduction in saturated and total fat intake.
+The primary goal of treatment in patients with hypertension is to achieve maximum reduction in the long-term total risk of CVD. This requires the treatment of both raised BP and all associated reversible risk factors. BP targets are (systolic/diastolic):
+≤140/90 mmHg in all patients with hypertension
+≤130/80 mmHg in patients with diabetes and in high-risk, or very high-risk, patients (eg, those with associated clinical conditions such as stroke, MI, renal dysfunction, proteinuria).
+It may be difficult to achieve BP targets, especially in elderly and diabetic patients, and in patients with CV damage. It is recommended that antihypertensive treatment be initiated before significant CV damage develops to maximize the probability of achieving target BP.
+There are five major classes of such agents licensed for initiation or maintenance of hypertension, alone or in combination: thiazide diuretics; calcium antagonists (CA); ACE inhibitors (ACEI); agiotensin receptor antagonists (ARB), and β-blockers (BB). The choice of a specific drug or combination should take into account the following:
+○ Previous patient exposure to, and history with, a class of compounds
+○ CV risk associated with agent and the patient’s CV risk profile
+○ Presence of other disorders and conditions (see Table 3)
+○ Possible drug interactions
+○ Cost considerations (although these should not predominate over efficacy, tolerability and patient protection)
+○ Side-effects and their potential impact on compliance
+○ Duration of antihypertensive effect – once-daily administration should be preferred because of correlations between simplicity of treatment regimen and improved compliance.
+Guideline’s recommendations on preferred drug classes for various conditions and those conditions for which there is compelling evidence, or evidence suggestive, of contraindication to use of a class of agents
+Abbreviations: ACEI, ACE inhibitors; LV, Left ventricle; MI, myocardial infarction.
+Where possible, treatments should be initiated as low-dose monotherapy. Where the initiating dose of the original agent proves ineffective, it can be increased to its maximum or an alternate agent from a different class can be prescribed. This sequential monotherapy approach is recommended in uncomplicated hypertensives and in the elderly, and can help establish to which agent the patient responds best. However, it can be laborious and can lead to low compliance and delayed control of BP in patients with high-risk hypertension.
+Although it is possible to achieve target BP (<140/90 mmHg) in some patients through lifestyle interventions and monotherapy, the majority of patients (70%–80%) require the use of more than one agent (Dickerson et al 1999; Morgan et al 2001). Antihypertensive agents can be combined if they have different and complementary mechanisms of action and where their combined use either offers greater efficacy than that of either of the combination components, or a favorable tolerability profile, or both.
+The Guidelines recommend consideration of combination treatment as first choice, particularly when there is a high CV risk, to avoid delay in treatment of high BP in high-risk individuals. Use of combination therapy at treatment initiation also offers the benefit of prescribing both agents at their lowest dose. This should result in a minimization of potential side-effects and improve related compliance, especially as fixed-dose combinations offer dual administration via one tablet, retaining the simplicity of the treatment regimen. The following two-drug combinations have been found to be effective and well tolerated, and have been favorably used in randomized efficacy trials:
+○ Thiazide diuretic and ACEI
+○ Thiazide diuretic and ARB
+○ Thiazide diuretic and BB (although this should be avoided in patients with metabolic syndrome or high risk of incident diabetes because of dysmetabolic effects)
+○ CA and ACEI
+○ CA and ARB
+○ CA and thiazide diuretic
+○ BB and CA (dihydropiridine)
+When it is not possible to achieve BP control through lifestyle interventions and the use of two drugs, a combination of three agents should be tried. If systolic and diastolic BP goals fail despite treatment, including a therapeutic plan, lifestyle measures and the prescription of a diuretic and at least two other drugs, the patient may have resistant hypertension. Table 4 lists some of the main causes of resistant hypertension. The first management step is a careful elicitation of the history, followed by a thorough examination to exclude secondary causes of hypertension. It is also crucial to assess whether compliance is adequate. Ultimately, many patients will need administration of more than three drugs, but the optimal choice of third, fourth and fifth-line antihypertensive agents has not been properly addressed by RCTs.
+Common causes of resistant hypertension
+○ Poor adherence to therapeutic plan
+○ Failure to modify lifestyle including:○ weight gain○ heavy alcohol intake (NB: binge drinking)
+○ weight gain
+○ heavy alcohol intake (NB: binge drinking)
+○ Continued intake of drugs that raise blood pressure (eg, liquorice, cocaine, glucocorticoids, non-steroid anti-inflammatory drugs)
+○ Obstructive sleep apnea
+○ Unsuspected secondary cause
+○ Irreversible or scarcely reversible organ damage
+○ Volume overload due to:○ inadequate diuretic therapy○ progressive renal insufficiency○ high sodium intake○ hyperaldosteronism
+○ inadequate diuretic therapy
+○ progressive renal insufficiency
+○ high sodium intake
+○ hyperaldosteronism
+○ Isolated office (white-coat) hypertension
+○ Failure to use large cuff on large arm
+○ Pseudohypertension
+All patients whose repeated BP measurements show grade 2 or 3 hypertension are definite candidates for antihypertensive treatment. The body of evidence for the benefit of treating grade 1 hypertension is less robust as specific trials have not addressed the issue. The Guidelines support consideration of antihypertensive interventions when systolic BP is ≥140 mmHg.
+It is acknowledged that Guidelines deal with a disease, while physicians deal with patients. Every patient has specific needs and particularities for which treatment is individualized to achieve maximum therapeutic effect. With a view to offering guidance on appropriate targets and treatment in less standard situations, the Guidelines discuss therapeutic approaches in special conditions.
+RCTs have shown that older patients (≥60 years) benefit from antihypertensive drug treatment in terms of reduced CV morbidity and mortality (Collins and MacMahon 1994; Staessen et al 2000). As a result, a treatment goal of BP < 140/90 mmHg is recommended in elderly patients with hypertension. However, it is conceded that achievement of this target may be difficult in the elderly and is likely to require combination therapy.
+The Guidelines advise that treatment should proceed in line with general guidelines and with full consideration of risk factors, but that the initial dose used, and subsequent titration, should be more gradual to minimize adverse events. It is also of note that, as there is an increased risk of postural hypotension in elderly patients, BP measurements should be undertaken with patients in the erect posture. If well tolerated, continuation of antihypertensive regimen post 80 years is recommended, but initiation in patients ≥80 remains unproven.
+The coexistence of hypertension and either type 1 or type 2 diabetes substantially increases risk of developing renal and other organ damage, leading to increased incidence of stroke, CHD, congestive heart failure, PAD and CV mortality (Stamler et al 1993). For this reason a strict treatment BP target of <130/80 mmHg is recommended in patients with either form of diabetes.
+Lifestyle interventions (especially caloric intake and increased physical activity) are also strongly encouraged, as is the initiation of pharmacological approaches when BP is in the high-normal range. The Guidelines suggest that a treatment regimen including an ARB or ACEI may afford antiproteinuric effects and additional protection on appearance and progression of renal damage. Where monotherapy is appropriate, an ARB or ACEI is recommended and should be included in combination regimens, which are frequently required. As in the case of elderly patients, an increased risk of postural hypotension in patients with diabetes leads to the advice that BP should be measured while patients are in the erect posture.
+Antihypertensive treatment markedly reduces the incidence of recurrent stroke and lowers the associated risk of cardiac events in patients with a history of stroke or TIA (PROGRESS Collaborative Study Group 2001; PATS Collaborative Group 1995). For patients with cerebrovascular disease, a treatment goal of BP <130/80 mmHg is recommended and pharmacological interventions should be initiated when BP is in the high-normal range.
+Evidence suggests the benefit of antihypertension in this patient group is afforded by BP reduction (PROGRESS Collaborative Study Group 2001; Arima et al 2006). The Guidelines therefore advise the use of all available drugs and rational combinations in order to reach target BP. Observational studies also indicate a correlation between BP value and cognitive decline and incidence of dementia, which may be delayed by antihypertensive treatment (Launer et al 1995; Skoog et al 1996; Kilander et al 1998). Data are currently lacking in acute stroke, but initiation of treatment is advised when post-stroke clinical conditions are stable.
+Patients with coronary heart disease (CHD) often have a history of hypertension and the risk of a fatal or non-fatal coronary event post MI is greater if BP is elevated (Domanski et al 1999; Yap et al 2007). The Guidelines recommend post-MI administration of BB, ACEI or ARBs, which have been shown to reduce the incidence of recurrent MI and death largely because of direct organ protective properties of the agents, but may be supported by the associated reduction in BP as a result of these agents (Freemantle et al 1999; Dickstein et al 2002; Pfeffer et al 2003; Shekelle et al 2003; Lee et al 2004). The benefit of BP control is also true for patients with chronic CHD. Raised BP is relatively rare in patients with congestive heart failure; treatment in these patients can include thiazide and loop diuretics, BBs, ACEIs and ARBs, but the Guidelines warn against the use of a CA in these patients, unless needed to control BP or anginal symptoms.
+Hypertension is the most important risk factor for atrial fibrillation (AF) on a population basis (Kannel et al 1998). The Guidelines recommend the benefit of blockade of the renin-angiotensin system by either an ACEI or ARB in patients with paroxysmal AF and congestive heart failure. In permanent AF, BB and non-dihydropiridine CA remain important classes of drugs for the control of ventricular rate.
+Both genders respond to antihypertensive agents and benefit from the effects of lowering BP, but there are additional considerations that should be taken into account when prescribing for women. If women are pregnant, or planning a pregnancy, the Guidelines advise avoidance of potentially teratogenic drugs (ie, ACEIs and ARBs). Other female-specific points of note made in the Guidelines are: that oral contraception causes mild BP elevation – the progestogen-only pill is an option in women shown to have high BP; that hormone replacement therapy is not currently recommended for cardio protection in postmenopausal women because of its associated adverse events, and the potential adverse effects of hypertension on neonatal and maternal outcomes. The Guidelines make the following recommendation for pregnant women:
+○ Systolic BP 140–149 mmHg or diastolic BP 90–95 mmHg: non-pharmacological management, including supervision and restriction of activities
+○ BP ≥140/90 mmHg (with or without proteinuria): drug treatment is indicated
+○ Systolic BP ≥170 mmHg or diastolic BP ≥110 mmHg: emergency hospitalization
+○ Non-severe hypertension: oral methyldopa, lebetalol, CA or possibly BB
+○ Pre-eclampsia with pulmonary edema: nitroglycerine is the drug of choice; diuretic therapy is inappropriate.
+Intravenous labetalol, oral methyldopa and oral nifedipine are indicated for emergency treatment. Calcium supplementation, fish oil and low-dose aspirin are not recommended, although low-dose aspirin may be used prophylactically in women with a history of early onset pre-eclampsia.
+The metabolic syndrome is characterized by the variable combination of visceral obesity and alterations in glucose metabolism, lipid metabolism and BP. It is most prevalent in middle-aged and elderly populations and confers significant increased risk of CV morbidity and mortality, developing diabetes, organ damage and new onset hypertension (Vasan et al 2001a, b; Lakka et al 2002; Vasan et al 2002; Dunder et al 2003; Resnick et al 2003; Girman et al 2004; Dekker et al 2005; Mule et al 2005; Schmidt et al 2005; Mancia et al 2007a).
+The Guidelines recommend implementation of lifestyle interventions, including weight loss of 7%–10% over 6–12 months, as the first and main treatment strategy (Mancia et al 2007b). In patients with metabolic syndrome, a more in-depth assessment of subclinical organ damage is recommended, as is measurement of ambulatory and home BP.
+Where there is hypertension, or possibly high-normal BP, it is advised to initiate treatment with a blocker of the renin-angiotensin system to minimize the facilitation of diabetes onset potentially conferred by other agents. If necessary, a CA or a low-dose thiazide diuretic may be used in combination. Statins should also be prescribed in the presence of dyslipidemia, and antidiabetic drugs for diabetes.
+A secondary form of hypertension is suggested by a severe BP elevation, sudden onset or worsening of hypertension and BP responding poorly to drug therapy. Simple screening for secondary forms of hypertension can be obtained from clinical history, physical examination and routine laboratory investigations. The Guidelines outline specific diagnostic procedures for the following conditions:
+Renal parenchymal disease
+Renovascular hypertension
+Pheochromocytoma
+Primary aldosteronism
+Cushing’s syndrome
+Obstructive sleep apnea
+Coarctation of the aorta
+Drug-induced hypertension
+Severe forms of high BP are associated with acute damage to target organs, resulting in hypertensive emergencies. They tend to be rare, but are life threatening and should be treated promptly in the same way as chronic BP elevations, although caution should be taken in the rapid reduction of BP in patients with acute stroke. The most important hypertension emergencies are listed in Table 5.
+Hypertensive emergencies
+○ Hypertensive encephalopathy (most dangerous condition associated with malignant phase hypertension)
+○ Hypertensive left ventricular failure
+○ Hypertension with myocardial infarction
+○ Hypertension with unstable angina
+○ Hypertension and dissection of the aorta
+○ Severe hypertension associated with subarachnoid hemorrhage or cerebrovascular accident
+○ Crisis associated with pheochromocytoma
+○ Use of recreational drugs such as amphetamines, LSD, cocaine or ecstasy
+○ Hypertension perioperatively
+○ Severe pre-eclampsia or eclampsia
+The Guidelines also offer recommendations for the pharmacological treatment of associated risk factors, covering lipid-lowering agents, antiplatelet therapy and glycemic control.
+Statin therapy should be considered in all patients with hypertension and established CVD or with type 2 diabetes. Total serum targets of ≤4.5 mmol/L (175 mg/dL) and LDL cholesterol levels of ≤2.5 mmol/L (100 mg/dL) are recommended. A statin should also be considered in patients with hypertension without overt CVD but with high CV risk (≥20% risk of events in 10 years), even if their baseline total and LDL serum cholesterol levels are not elevated.
+Antiplatelet therapy, in particular low-dose aspirin, should be prescribed to patients with hypertension and a history of CV events, provided that there is no excessive risk of bleeding. Low-dose aspirin should also be considered in patients with hypertension who are ≥50 years old, even in those without a history of CVD, if they have a moderate increase in serum creatinine or high CV risk. In all these conditions, the benefit-to-risk ratio (weighed as a reduction of MI risk against bleeding) has been proven favorable. To minimize the risk of hemorrhagic stroke, antiplatelet treatment should be initiated only when effective BP control has been achieved.
+Diabetes and impaired glucose tolerance are major risk factors for CVD (Stamler et al 1993; Knowler et al 1997; Haffner et al 1998), making effective glycemic control of great importance in patients with hypertension and diabetes. In these patients dietary and drug treatment of diabetes should aim at lowering plasma fasting glucose to values ≤6 mmol/l (108 mg/dl) and at a glycated hemoglobin of <6.5%.
+Treatment of hypertension should be continued for life as cessation in correctly diagnosed patients is associated with a return to the hypertensive state. However, cautious downward titration of established treatment may be attempted in low-risk patients after long-term BP control, particularly if non-pharmacological treatment can be successfully implemented and if it is associated with home monitoring.
+Educating patients of the risk of hypertension and the benefit of treatment can help improve compliance. Clear written and oral instructions on disease and treatment plans should be offered to the patient and their family. Simplifying the treatment regimen (eg, use of a once-daily medication) and tailoring it to the patient’s lifestyle can also improve compliance. Retaining open channels of communication with the patient, regarding side-effects, their potential problems with adherence and offering reliable support and affordable prices can also be beneficial.
+Patients on non-pharmacological interventions require frequent follow-up visits to maximize compliance, to reinforce the treatment approach and to monitor BP, allowing a prompt and timely switch to pharmacological interventions if necessary.
+During the titration phase of pharmacological therapy, patients should receive regular checkups (eg, every 2–4 weeks) in order to optimize the treatment regimen – drug dose and/or combination – to maximize effectiveness and minimize adverse events. The Guidelines advise an added benefit of instructing patients to self-measure BP at home during this phase.
+Frequency of visits can be reduced considerably once target BP and other treatment goals have been achieved, eg, every 6 months for patients with low additional CV risks, but more frequently where there are concomitant risk factors. However, the Guidelines underline several benefits of ensuring regularity and frequency of follow-up visits, including the reinforcement of a strong doctor-patient relationship (crucial to treatment effectiveness and compliance) and the opportunity to monitor all reversible risk factors and assess target organ damage (LV mass and carotid artery wall thickness are slow, so a maximum once-yearly examinations are recommended).
+Several studies have shown that in high- and very high-risk patients, treatment of hypertension is largely cost-effective – the reduction in the incidence of CVD and death largely offsets the cost of treatment despite its lifetime duration (Ambrosioni 2001). Early initiation of treatment is crucial and primarily aims to prevent onset and/or progression of organ damage that would result in low-risk patients progressing to the high-risk category over time. Several trials of antihypertensive have suggested that some of the major CV risk changes may be difficult to reverse, and that restricting antihypertensive therapy to patients at high or very high risk may be far from an optimal strategy (Hansson et al 1998; Zanchetti et al 2001). Another observation made in the Guidelines is that the cost of hypertensive drug treatment is often contrasted with lifestyle measures, which are considered to be cost-free. However, this can be misleading as real implementation, and therefore effectiveness, of lifestyle changes requires behavioral support, counseling and reinforcement.
+The Guidelines conclude with the recognition that there are numerous barriers between recommendations and their adoption in practice. One important obstacle can be the consideration by physicians that guidelines deal with the disease while the practice of medicine deals with the individual patient. In view of this, the Guidelines were prepared in such a way as to make them widely informative and minimally prescriptive.
+True implementation of the Guidelines requires realization of their full potential by relevant medical professionals. The Guidelines should be interpreted at a national level to reflect local healthcare organization, cultural background and socioeconomic situations.
+Health providers may wrongly assume that the management of hypertension can be easily addressed in a just a few, brief visits, and can be tempted to reimburse accordingly. Policy-makers should develop comprehensive prevention programs that will guarantee full reimbursement and eradicate the view of guidelines as a means to reducing cost – a misconception that can lead to reimbursement being limited to high-risk conditions defined by arbitrary cutoffs.

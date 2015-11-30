@@ -1,0 +1,4 @@
+Suppression of in vivo tumor formation induced by simian virus 40- transformed cells in mice receiving antiidiotypic antibodies
+
+This study characterizes four private idiotypes (Id) associated with monoclonal antibodies (mAb) to simian virus 40 (SV40) tumor antigen (T- Ag), and to a cellular protein, p53. Anti-Id recognized Id determinants associated with the antibody-combining site. BALB/c mice receiving a pool of anti-Id directed against mAb recognizing distinct amino and carboxyl terminal epitopes of T-Ag before receiving a tumorigenic dose of SV40-transformed cells showed suppression of tumor formation. Serum obtained from these mice before tumor challenge contained anti-anti-Id that failed to bind T-Ag. These data support the potential role of regulatory idiotopes in tumor immunity.
+

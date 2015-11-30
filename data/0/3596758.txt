@@ -1,0 +1,164 @@
+Left ventricular hypertrophy in Fabry disease: a practical approach to diagnosis
+
+The opinions expressed in this article are not necessarily those of the Editors of the European Heart Journal or of the European Society of Cardiology.
+
+Left ventricular hypertrophy (LVH) is prevalent and associated with a poor long-term prognosis. The Framingham Heart Study, for example, showed that LVH was present in 15–20% of adults, and that, for each 50 g/m2 increment of left ventricular mass, the relative risk of cardiovascular death increased by 1.73 in men and 2.12 in women.1 Although hypertension, obesity and valvulopathies account for most causes of LVH, it is important to investigate patients with otherwise unexplained LVH since many causes are treatable.
+Although several electrocardiographic (ECG) criteria for the identification of LVH are available, additional investigations [notably transthoracic echocardiography (echo)] are invariably required due to the lack of sensitivity and specificity of ECG. The European Association of Echocardiography definition of LVH includes the demonstration of interventricular septal and/or posterior wall thickness in end-diastole ≥13 mm.2 Echocardiography can additionally interrogate valve function and characterize LVH as concentric (uniform mechanism, e.g. LV pressure overload, myocardial infiltration), or eccentric [e.g. asymmetrical septal hypertrophy in hypertrophic cardiomyopathy (HCM)].
+After the identification of LVH, a practical approach to its further assessment includes a clinical review with targeted investigations aimed firstly to exclude common causes; e.g. hypertension, obesity and valve disease. Thereafter, evaluation involves a systematic approach to exclude less common causes, e.g. hypertrophic and other cardiomyopathies, myocardial infiltration, metabolic disorders, and syndromic conditions associated with LVH.
+Table 1 provides a systematic scheme incorporating clinical pearls and diagnostic pointers to help target adjunctive investigations and help identify the aetiology of LVH. Disorders causing or associated with LVH are arranged in a pathological hierarchical manner with common conditions appearing first, followed by rarities.Table 1Clinical characteristics of conditions causing left ventricular hypertrophy and diagnostic pointersConditionClinical pearlsDiagnostic pointersCommon causesHypertension∼15%: secondary causeFundoscopic changesLost nocturnal dip on 24 h recording60%: ≥2 hypotensives needed to achieve controlECG: LVH (prevalence ∼30%) can predict prognosisEcho: concentric LVHCMR: may help identify aortic coarctationGenetics: not useful as polygenetic influencesLaboratory: to exclude secondary causesOthers: 24 h ambulatory monitoringAortic stenosisSlow rising pulseEjection systolic murmurSoft second heart soundECG: LVHEcho: the trans-aortic valve gradient and the reduced valve area (beware sub-aortic membranes)CMR: nil specificGenetics: nil specificLaboratory: nil specificObesityBody mass indexWaist circumferenceLVH regression with weight lossECG: attenuated LVH due to body habitus (prevalence ∼10%)Echo: concentric LVH. Epicardial fat can predict prognosisCMR: useful if poor echo windowsGenetics: monogenic disorders of body fat, e.g. leptin deficiencyLaboratory: endocrine causes, e.g. diabetes, thyroid, pituitary, adrenalPhysiological LVHAthletic heartHigh level endurance trainingResting bradycardiaLVH regression with deconditioningECG: LVHEcho: mild concentric LVH (rarely >13 mm) and volume-loaded (dilated) LV cavity. Preserved diastolic and long-axis functionCMR: no late gadolinium enhancementGenetics: nil specificLaboratory: nil specificOthers: VO2 max > predictedSarcomere protein diseaseHypertrophic cardiomyopathyFamily history (population prevalence 1:500)Leading cause of sudden death in young athletesRisk stratification for sudden cardiac deathECG: LVH With anterior T-wave inversion, consider apical LVH Normal P–R intervalEcho: asymmetrical septal hypertrophy common (but also can present with concentric or apical LVH, and right ventricular involvement). Normal LV dimensions in early stages of disease. Systolic anterior motion of mitral valve, dilated left atrium, diastolic dysfunction, and dynamic LV outflow tract obstructionCMR: intra-myocardial late gadolinium enhancementGenetics: autosomal dominantLaboratory: nil specificOthers: endomyocardial biopsy: triad of myocyte and myofibril disarray, myocardial fibrosis, and small vessel diseaseMyocardial infiltrationAmyloidosisSenile amyloid relatively common (20% of over 80 year olds)Multi-system involvement with variable signs including; proteinuria, petechiae, peripheral, and autonomic neuropathy, hepato-splenomegaly, macroglossiaECG: paradoxical low voltage QRS complexes, heart block, atrial fibrillationEcho: LVH with preserved LV size and bi-atrial dilatation Granular LV appearance (low sensitivity). Restrictive physiology, and thickened inter-atrial septum and valve leafletsCMR: global sub-endocardial late gadolinium enhancementGenetics: transthyretin gene testing (autosomal dominant)Laboratory: cross speciality investigations to differentiate between various forms of amyloidOther: Congo red staining of target organ biopsiesHaemo-chromatosisLate presentation in femalesTransfusion overloadClinical constellation includes bronze skin, arthritis, diabetes (and other endocrine abnormalities), and liver cirrhosisECG: LVHEcho: LVH with bi-ventricular and bi-atrial dilatation. Restrictive physiologyCMR: rapid signal decay (<20 ms) on T2* imaging may guide venesection and/or iron chelation therapyGenetics: HFE gene testing (autosomal recessive)Laboratory: total body iron studies and additional investigations to evaluate complications from multi-organ iron depositionUnclassified cardiomyopathiesLeft ventricular non-compactionFamilial in up to 25% of casesAlso observed in other cardiomyopathiesTypical presentation with triad of palpitations, thrombo-embolism, and/or heart failureECG: LVH, supra-ventricular arrhythmiasEcho: by definition, ratio of non-compacted to compacted myocardium >2:1. Colour flow Doppler demonstration of deep perfused intertrabecular sinusesCMR: tendency to over diagnose conditionGenetics: autosomal dominant in familial casesLaboratory: nil specificMetabolic disordersFabry diseaseLysosomal storage diseaseα-Galactosidase A deficiencyMulti-system diseaseEnzyme replacement therapy availableECG: LVH, short P–R interval (early stages), heart block (later stages)Echo: predominant concentric LVH. Right ventricular and papillary muscle hypertrophy also commonCMR: late gadolinium enhancement in inferior LV wallGenetics: absence of male–male transmission due to X-linked inheritanceLaboratory: proteinuriaPompe diseaseGlycogen storage disease (type II)Acid maltase deficiencyEarly onset: survival beyond 1 year uncommonLate onset: can present in adulthoodLimb-girdle and respiratory muscle weaknessEnzyme replacement therapy availableECG: LVH, short P–R interval (early stages), accessory pathwaysEcho: concentric LVH with restrictive physiologyCMR: nil specificGenetics: autosomal recessiveLaboratory: serum CK elevated, no fasting hypoglycaemiaOthers: muscle biopsyDanon diseaseLysosomal glycogen storage disease with normal acid maltaseLysosomal-associated membrane protein 2 (LAMP2) transporter protein deficiencyMales present in childhood, females in early adulthoodSkeletal muscle weakness and mental retardationECG: LVH, short P–R interval, accessory pathwaysEcho: concentric LVH with restrictive physiologyCMR: nil specificGenetics: autosomal recessiveLaboratory: normal acid maltase activity with reduced LAMP2 activityOthers: muscle biopsyPRKAG2 cardio-myopathyLysosomal glycogen storage diseaseAMP-activated protein kinase γ2 gene mutationMulti-system involvement rareECG: LVH, short P–R interval, accessory pathwaysEcho: concentric LVH with restrictive physiologyCMR: nil specificGenetics: autosomal dominantPrimary carnitine deficiencyFatty acid oxidation disorderFunctional carnitine transporter deficiencyTypically childhood presentation, but can present in adulthoodSkeletal muscle weakness, hepatomegaly, abnormal fatty acid metabolismECG: LVHEcho: concentric LVH with restrictive physiologyCMR: nil specificGenetics: autosomal recessiveLaboratory: hypoglycaemia, hyperammonaemiaMitochondrial myopathiesMultiple varieties, e.g. Kearns-Sayre syndrome MERFF syndrome MELAS syndromeCharacterized by skeletal weakness and mitochondrial diseaseCardiac: arrhythmias and LVHNeurology: ataxia, stroke, nystagmus, ptosis, ophthalmoplegia, retinitis pigmentosaECG: LVHEcho: concentric LVH with restrictive physiologyCMR: nil specificGenetics: mitochondrial DNA mutation analysisLaboratory: serum CK and glucose normal or elevatedOther: muscle biopsy: typical ragged red fibresSyndromic conditionsMultiple varieties, e.g.Noonan syndrome: common (up to 1:1000 live births). Sporadic or autosomal-dominant inheritance with mutations involving growth hormone proteins. Typically, facial dysmorphia, short stature, and cardiac abnormalities including LVH, pulmonary stenosis, septal defectsFriedreich's ataxia: uncommon (up to 1:35 000 live births). Autosomal recessive with mutations involving proteins associated with mitochondrial iron metabolism. Typically, limb and gait ataxia, dysarthria, diabetes, and variable upper and lower motor neurone neuropathies of the lower limbs. Wheelchair bound in early adulthood. LVH presents in most cases
+Clinical characteristics of conditions causing left ventricular hypertrophy and diagnostic pointers
+∼15%: secondary cause
+Fundoscopic changes
+Lost nocturnal dip on 24 h recording
+60%: ≥2 hypotensives needed to achieve control
+ECG: LVH (prevalence ∼30%) can predict prognosis
+Echo: concentric LVH
+CMR: may help identify aortic coarctation
+Genetics: not useful as polygenetic influences
+Laboratory: to exclude secondary causes
+Others: 24 h ambulatory monitoring
+Slow rising pulse
+Ejection systolic murmur
+Soft second heart sound
+ECG: LVH
+Echo: the trans-aortic valve gradient and the reduced valve area (beware sub-aortic membranes)
+CMR: nil specific
+Genetics: nil specific
+Laboratory: nil specific
+Body mass index
+Waist circumference
+LVH regression with weight loss
+ECG: attenuated LVH due to body habitus (prevalence ∼10%)
+Echo: concentric LVH. Epicardial fat can predict prognosis
+CMR: useful if poor echo windows
+Genetics: monogenic disorders of body fat, e.g. leptin deficiency
+Laboratory: endocrine causes, e.g. diabetes, thyroid, pituitary, adrenal
+High level endurance training
+Resting bradycardia
+LVH regression with deconditioning
+ECG: LVH
+Echo: mild concentric LVH (rarely >13 mm) and volume-loaded (dilated) LV cavity. Preserved diastolic and long-axis function
+CMR: no late gadolinium enhancement
+Genetics: nil specific
+Laboratory: nil specific
+Others: VO2 max > predicted
+Family history (population prevalence 1:500)
+Leading cause of sudden death in young athletes
+Risk stratification for sudden cardiac death
+ECG: LVH With anterior T-wave inversion, consider apical LVH Normal P–R interval
+Echo: asymmetrical septal hypertrophy common (but also can present with concentric or apical LVH, and right ventricular involvement). Normal LV dimensions in early stages of disease. Systolic anterior motion of mitral valve, dilated left atrium, diastolic dysfunction, and dynamic LV outflow tract obstruction
+CMR: intra-myocardial late gadolinium enhancement
+Genetics: autosomal dominant
+Laboratory: nil specific
+Others: endomyocardial biopsy: triad of myocyte and myofibril disarray, myocardial fibrosis, and small vessel disease
+Senile amyloid relatively common (20% of over 80 year olds)
+Multi-system involvement with variable signs including; proteinuria, petechiae, peripheral, and autonomic neuropathy, hepato-splenomegaly, macroglossia
+ECG: paradoxical low voltage QRS complexes, heart block, atrial fibrillation
+Echo: LVH with preserved LV size and bi-atrial dilatation Granular LV appearance (low sensitivity). Restrictive physiology, and thickened inter-atrial septum and valve leaflets
+CMR: global sub-endocardial late gadolinium enhancement
+Genetics: transthyretin gene testing (autosomal dominant)
+Laboratory: cross speciality investigations to differentiate between various forms of amyloid
+Other: Congo red staining of target organ biopsies
+Late presentation in females
+Transfusion overload
+Clinical constellation includes bronze skin, arthritis, diabetes (and other endocrine abnormalities), and liver cirrhosis
+ECG: LVH
+Echo: LVH with bi-ventricular and bi-atrial dilatation. Restrictive physiology
+CMR: rapid signal decay (<20 ms) on T2* imaging may guide venesection and/or iron chelation therapy
+Genetics: HFE gene testing (autosomal recessive)
+Laboratory: total body iron studies and additional investigations to evaluate complications from multi-organ iron deposition
+Familial in up to 25% of cases
+Also observed in other cardiomyopathies
+Typical presentation with triad of palpitations, thrombo-embolism, and/or heart failure
+ECG: LVH, supra-ventricular arrhythmias
+Echo: by definition, ratio of non-compacted to compacted myocardium >2:1. Colour flow Doppler demonstration of deep perfused intertrabecular sinuses
+CMR: tendency to over diagnose condition
+Genetics: autosomal dominant in familial cases
+Laboratory: nil specific
+Lysosomal storage disease
+α-Galactosidase A deficiency
+Multi-system disease
+Enzyme replacement therapy available
+ECG: LVH, short P–R interval (early stages), heart block (later stages)
+Echo: predominant concentric LVH. Right ventricular and papillary muscle hypertrophy also common
+CMR: late gadolinium enhancement in inferior LV wall
+Genetics: absence of male–male transmission due to X-linked inheritance
+Laboratory: proteinuria
+Glycogen storage disease (type II)
+Acid maltase deficiency
+Early onset: survival beyond 1 year uncommon
+Late onset: can present in adulthood
+Limb-girdle and respiratory muscle weakness
+Enzyme replacement therapy available
+ECG: LVH, short P–R interval (early stages), accessory pathways
+Echo: concentric LVH with restrictive physiology
+CMR: nil specific
+Genetics: autosomal recessive
+Laboratory: serum CK elevated, no fasting hypoglycaemia
+Others: muscle biopsy
+Lysosomal glycogen storage disease with normal acid maltase
+Lysosomal-associated membrane protein 2 (LAMP2) transporter protein deficiency
+Males present in childhood, females in early adulthood
+Skeletal muscle weakness and mental retardation
+ECG: LVH, short P–R interval, accessory pathways
+Echo: concentric LVH with restrictive physiology
+CMR: nil specific
+Genetics: autosomal recessive
+Laboratory: normal acid maltase activity with reduced LAMP2 activity
+Others: muscle biopsy
+Lysosomal glycogen storage disease
+AMP-activated protein kinase γ2 gene mutation
+Multi-system involvement rare
+ECG: LVH, short P–R interval, accessory pathways
+Echo: concentric LVH with restrictive physiology
+CMR: nil specific
+Genetics: autosomal dominant
+Fatty acid oxidation disorder
+Functional carnitine transporter deficiency
+Typically childhood presentation, but can present in adulthood
+Skeletal muscle weakness, hepatomegaly, abnormal fatty acid metabolism
+ECG: LVH
+Echo: concentric LVH with restrictive physiology
+CMR: nil specific
+Genetics: autosomal recessive
+Laboratory: hypoglycaemia, hyperammonaemia
+Characterized by skeletal weakness and mitochondrial disease
+Cardiac: arrhythmias and LVH
+Neurology: ataxia, stroke, nystagmus, ptosis, ophthalmoplegia, retinitis pigmentosa
+ECG: LVH
+Echo: concentric LVH with restrictive physiology
+CMR: nil specific
+Genetics: mitochondrial DNA mutation analysis
+Laboratory: serum CK and glucose normal or elevated
+Other: muscle biopsy: typical ragged red fibres
+Multiple varieties, e.g.
+Noonan syndrome: common (up to 1:1000 live births). Sporadic or autosomal-dominant inheritance with mutations involving growth hormone proteins. Typically, facial dysmorphia, short stature, and cardiac abnormalities including LVH, pulmonary stenosis, septal defects
+Friedreich's ataxia: uncommon (up to 1:35 000 live births). Autosomal recessive with mutations involving proteins associated with mitochondrial iron metabolism. Typically, limb and gait ataxia, dysarthria, diabetes, and variable upper and lower motor neurone neuropathies of the lower limbs. Wheelchair bound in early adulthood. LVH presents in most cases
+Many heart muscle disorders presenting with LVH are due to inherited mutations in genes encoding contractile proteins of the cardiac sarcomere, metabolic pathways, or mitochondrial proteins.3 Hypertrophic cardiomyopathy is the commonest inherited cardiac condition and an important cause of (potentially preventable) sudden arrhythmic death. As such, it is placed high in the systematic scheme of LVH (Table 1) and should be considered early in the diagnostic work-up of unexplained LVH.
+Hypertrophic cardiomyopathy has been defined as a hypertrophied, non- dilated LV in the absence of another systemic or cardiac process capable of producing LVH.3,4 Hypertrophic cardiomyopathy is the most common genetically determined cardiomyopathy with an estimated clinical prevalence in the population of 1:500.4 In most cases, HCM is autosomal dominantly transmitted through mutations in one of several cardiac sarcomeric genes.3 Recent progresses in molecular genetics have generated interest in adopting a genetics-based HCM classification.4 However, the European classification of hypertrophic, dilated, arrhythmogenic right ventricular, restrictive non-hypertrophied, and unclassified forms of cardiomyopathy based on clinical, haemodynamic, and structural features may be more practical.5 This is particularly relevant since in many cases genotype–phenotype correlations remain elusive.
+Although criteria for the diagnosis of HCM are described,3 several secondary forms of concentric LVH exist. A screening study among 508 ‘HCM’ patients, for example, found that ∼1% of this cohort in fact had Fabry disease on further evaluation.6 This is clinically relevant since the management of these two diseases are different, and importantly, early identification, and treatment may alter the prognosis in Fabry disease.
+Fabry disease is an X-chromosome-linked disease of lysosomal metabolism resulting in attenuated activity or, in most males, absence of the enzyme α-galactosidase A (α-Gal A).7 As a result, the breakdown of glycosphingolipids is impaired leading to systemic lysosomal accumulation of globotriaosylceramide (Gb3). It is estimated that 1 in 40 000 males has Fabry disease, whereas the estimated prevalence in the general population is 1 in 117 000.7 Unlike many sex-linked disorders, the condition can affect both genders although its course is often less pronounced in women.8 Genetic screening following diagnosis of a new index case can lead to the identification of additional family members with the Fabry gene.9 Most families have ‘private’ mutations found only in that family and the wide range of known mutations (hundreds of different mutations have been identified)8 may contribute to the variations in the residual enzyme activity and clinical presentation of Fabry disease. Multi-system morbidity commonly develops in childhood (Figure 1) and, with progression of the disease, life-threatening complications often occur in adulthood.7,10–12Figure 1Common signs and symptoms of Fabry disease (onset often in childhood/adolescence if marked with an asterisk). Typical corneal verticillata are shown in the left panel and angiokeratoma in the right panel.
+Common signs and symptoms of Fabry disease (onset often in childhood/adolescence if marked with an asterisk). Typical corneal verticillata are shown in the left panel and angiokeratoma in the right panel.
+The phenomenon of X-chromosome inactivation (i.e. permanent epigenetical silencing of one X-chromosome creating cellular mosaicism in females) may partly account for the disease presentation in females.8 Thus, although female Fabry patients may develop increased myocardial mass and LVH, the presentation of this manifestation is usually delayed by ∼10 years in comparison with male Fabry counterparts. In addition, while myocardial fibrotic scars (detectable by late enhancement imaging) are common in both genders with Fabry disease, scarring has been observed even in the non-hypertrophied stages of the disease in female patients.13 Another important difference is that Fabry women are more likely than men to develop a cardiac variant characterized by isolated cardiac involvement only. Therefore, the threshold for offering gene testing in females suspected of Fabry disease should be low.
+Globotriaosylceramide accumulation has been observed in vascular endothelial and smooth muscle cells, cardiomyocytes, conduction tissue and valvular fibroblasts.7 Although incompletely described, it is likely that inflammatory and neuro-hormonal mechanisms are involved in subsequent cellular and vascular dysfunction, leading to tissue ischaemia, hypertrophy, and fibrosis.
+Left ventricular hypertrophy is a key feature in Fabry disease and is reported in up to 50% of males and one-third of females.10 Conversely, among individuals with uncharacterized LVH, the Fabry gene has been identified in up to 4% of cases.14 In most cases the LVH is concentric; however, an asymmetrical variety with septal thickening and posterior wall fibrotic thinning may present in severe cases (Figure 2A). Right ventricular hypertrophy is also common and may progress to right ventricular dilation.Figure 2(A) Parasternal long-axis (left) and short-axis echo views (right) of advanced Fabry cardiomyopathy showing asymmetrical septal hypertrophy with thin fibrotic posterior left ventricular wall. (B) Cardiac MRI showing marked thickening of the left ventricle with late gadolinium enhancement in the basal posterolateral myocardial segments.
+(A) Parasternal long-axis (left) and short-axis echo views (right) of advanced Fabry cardiomyopathy showing asymmetrical septal hypertrophy with thin fibrotic posterior left ventricular wall. (B) Cardiac MRI showing marked thickening of the left ventricle with late gadolinium enhancement in the basal posterolateral myocardial segments.
+The fibrotic process in Fabry cardiomyopathy starts with intramural involvement with later transmural involvement. Fibrosis is invariably present in the basal posterolateral segments.15 Cardiac magnetic resonance (CMR) is the imaging modality of choice in these cases (Figure 2B).
+Typical ECG findings include P–R interval shortening due to shortening of the P-wave duration. Later abnormalities include P–R interval prolongation, voltage signs of LVH, repolarization abnormalities, and atrio-ventricular block. Longitudinal studies suggest that arrhythmias occur in 27–42% of male and 27% of female patients with Fabry disease.11,16 Management of arrhythmias (including device therapies) should follow standard guidelines.15
+Involvement of the coronary microcirculation can lead to angina (13–23% of patients), but myocardial infarction is uncommon (2% of patients).11,16 Arterial hypertension may result from renal insufficiency.
+Childhood symptoms (Figure 1) typically present between the ages of 5 and 10 years. Symptoms include: (i) small fibre neuropathic pain, chronic burning pain in hands and feet, recurrent severe limb pain triggered by fever, stress, physical activity or altered temperature, postprandial abdominal cramping, and diarrhoea, (ii) lack of sweating (hypohidrosis), (iii) thermal perception deficits with heat and exercise intolerance, (iv) whorl-like bilateral corneal opacities not affecting visual acuity (cornea verticillata, Figure 1; left panel), (v) small reddish/purple vascular lesions on the buttocks, groin, umbilicus, and upper thighs (angiokeratomata, Figure 1; right panel).7
+Microalbuminuria may develop in young patients and is an antecedent to progressive Fabry nephropathy. Overt proteinuria and progressive decline in the glomerular filtration rate appear by the age of 20–30 years.7,11 Affected males typically progress to kidney failure by the fourth decade of life. Early stroke (ischaemic or haemorrhagic) has been reported in 6.9% of untreated males and 4.3% of females, occurring before the age of 30 years in one-fifth of the patients.12
+We propose a practical diagnostic approach to assist clinicians encountering undiagnosed Fabry patients presenting with LVH (Figure 3). After excluding common causes of LVH (Table 1) and faced with unexplained LVH, a stepwise approach is suggested.Figure 3Diagnostic framework for the identification of patients with Fabry disease among individuals with left ventricular hypertrophy.
+Diagnostic framework for the identification of patients with Fabry disease among individuals with left ventricular hypertrophy.
+First, the medical history is explored focusing on characteristic complications of Fabry disease. Red flags pointing towards a diagnosis of Fabry disease include the typical childhood symptoms described above, a family history of cardiomyopathy, chronic kidney disease, stroke, unexplained early death, or other signs/symptoms of Fabry disease. The absence of male-to-male transmission in the pedigree of a family burdened by LVH is a key feature of this X-linked disorder.
+Physical examination may provide additional clues to Fabry disease, although in some cases multi-organ involvement may be absent. Angiokeratomata (Figure 1; right panel) and cornea verticillata (Figure 1; left panel) are typical clinical signs. Urine dipstick may reveal proteinuria, while the ECG may identify a short P–R interval.
+Where Fabry disease is suspected, an α-Gal A enzyme activity assay in plasma or peripheral leucocytes should be performed.7,9 Most males completely lack lysosomal α-Gal A enzyme activity; however, a low level of residual α-Gal A (1–10% of normal) may be found in males with a late-onset cardiac phenotype.7 Interpretation of the enzyme assay in females is difficult since enzyme activity may be low normal or normal in up to one-third of the females with Fabry disease. Therefore, suspected female Fabry patients should undergo gene analysis as a first line test.7,9
+More recently, a dried blood spot enzyme assay has been introduced as a first-tier screening test for Fabry disease.9 The test involves placing whole blood droplets on absorbent filter paper with the advantage that samples can be stored for some weeks before posting to a central laboratory for batch testing.
+Given the availability of an accurate diagnostic enzyme assay, cardiac biopsy is not generally required for diagnosing Fabry disease. The observation of cardiac cellular Gb3 accumulation in patients undergoing cardiac biopsy during investigations for unexplained restrictive cardiomyopathy may, however, be the first lead to the diagnosis of Fabry disease.17
+Lately, gene testing for LVH has been gaining interest. Several commercial HCM genetic test panels including various sarcomere protein gene mutations and mutations causing metabolic disease (e.g. Fabry disease, Danon's disease, and PRKAG2 cardiomyopathy) are available for diagnostic use, at least in the USA.18 In Europe, several hospital laboratories offer the possibility to screen for the most prevalent HCM genes (http://www.orpha.net). Inclusion of the Fabry disease-causing GLA gene should be recommended in the genetic screening of HCM patients, and in individuals not reporting Fabry symptoms and/or have a negative family history with otherwise unexplained LVH. Of note, a negative result of HCM genetic testing does not exclude the presence of HCM.
+Once the Fabry mutation has been identified in an index patient, targeted mutation analysis can be used to diagnose at-risk males and females in that specific family. Genetically proven Fabry patients without phenotypic manifestations should undergo annual clinical follow-up. Information on genotype–phenotype correlations in Fabry disease is limited and, therefore, the decision to initiate enzyme replacement therapy (ERT) should be guided by the evaluation of signs, symptoms, and organ involvement.
+The importance of recognizing Fabry disease lies in the availability of disease-modifying ERT. Two ERTs are currently available for Fabry disease; agalsidase alfa and agalsidase beta, both administered intravenously every other week. Prospective clinical trials have demonstrated that ERT can reduce the risk of major clinical events, remodel the LV, improve cardiac function, and increase exercise tolerance.9,19,20 Extra-cardiac benefits include; stabilization of renal function and improvement of peripheral pain. In addition, serial histological analyses of vascular endothelial cells in patients receiving ERT demonstrate that treatment is associated with intra-cellular Gb3 clearance.19 It has become increasingly clear that the severity of baseline hypertrophy and fibrosis determines the cardiac outcome with ERT, and that the best treatment outcomes can be obtained when treatment is started early.20
+Once established, tissue and organ damage cannot be reversed. Thus, stabilization of the existing pathology, or slowing the progression to serious cardiac complications and improving survival, may be the most optimal outcome. Therefore, early diagnosis and screening relatives of confirmed cases are essential. Optimal care thus involves cascade screening and regular follow-up involving disease-specific and supportive treatments that are best served in the context of a multidisciplinary team.
+Left ventricular hypertrophy remains a common pathology which requires exhaustive characterization. In most cases, LVH may be attributable to hypertension, valve disease, or obesity. It is important, however, not to miss potentially treatable conditions such as Fabry disease. Fabry disease is a progressive, multi-organ, genetic disease affecting both genders. Cardiac manifestations, including LVH and arrhythmias, are common and the cardiac complications are a key cause of premature death. We have proposed a practical approach to facilitate the identification of patients with otherwise unexplained LVH and Fabry disease. Confirmation of Fabry disease involves an enzyme activity assay in males and genetic testing in females. Once the mutation is known, extended family screening is important to identify unaffected relatives who may have the most to gain from ERT.
+Funding of the Open Access publication charges for this article was provided by Genzyme Europe BV.
+Conflict of interest: Z.Y., F.C. and L.M. have received speakers fees from Genzyme Corporation. A.L., F.W., and P.E. have received travel grants and speakers fees from Genzyme Corporation and Shire HGT. B.E. has nothing to declare.

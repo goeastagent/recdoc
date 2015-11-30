@@ -1,0 +1,6 @@
+Erratum
+
+
+Retnakaran R, Cull CA, Thorne KI, Adler AI, Holman RR; for the UKPDS Study Group. Risk factors for renal dysfunction in type 2 diabetes: U.K. Prospective Diabetes Study 74. Diabetes 2006;55:1832–1839
+In the article listed above, there were numerical errors in the hazard ratios and associated confidence intervals provided for the urinary albumin and plasma creatinine variables in Table 2. Table 2 should have contained the following values:VariableAlbuminuria (n = 4,031)Microalbuminuria (N events = 1,430)Macroalbuminuria (N events = 420)HR (95% CI)HR (95% CI)Urinary albumin (per 20 mg/l)1.009 (1.006–1.011)As printedPlasma creatinine (per 10 μmol/l)1.021 (0.989–1.054)1.096 (1.038–1.157)
+The P values remain unchanged.

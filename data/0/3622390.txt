@@ -1,0 +1,45 @@
+Posttraumatic delayed subdural tension pneumocephalus
+
+Pneumocephalus is a complication of head injury in 3.9-9.7% of the cases, it also appears after supratentorial craniotomy in 100% of cases. The accumulation of intracranial air can be acute (<72 hours) or delayed (≥72 hours). When intracranial air causes intracranial hypertension and has a mass-effect with neurological deterioration, it is called tension pneumocephalus.
+We represent a clinical case of a 75-year-old male patient with open penetrating head injury, complicated by tension pneumocephalus on the fifth day after trauma and underwent urgent surgical correction. Operation performed: Burr-hole placement in the right frontal region, evacuation of tension pneumocephalus.
+Tension pneumocephalus is a life-threatening neurosurgical emergency case, which needs to undergo immediate surgical or conservative treatment.
+
+Pneumocephalus, also known as intracerebral aerocele or pneumatocele, is a collection of air in the cranial cavity.[7] It is a complication of head injury in 3.9-9.7% cases,[8] it also appears after supratentorial craniotomy in 100% of cases.[19] The accumulation of intracranial air can be acute (<72 hours) or delayed (≥72 hours).[16] As a rule, intracranial collection of air is benign and asymptomatic. When intracranial air causes intracranial hypertension and has a mass-effect with neurological deterioration, it is called tension pneumocephalus. In the literature, 23 cases of tension pneumocephalus were described, 17 of them needed urgent surgery. In this article, we describe a rare case of delayed tension pneumocephalus who underwent urgent surgical treatment.
+The first description of pneumocephalus was provided by Thomas in 1866.[20] Chiari in 1884 described a pneumocephalus found on the autopsy as a complication of ethmoiditis.[14] Luckett in 1913 showed ventricular air in plain skull radiographs. The term “pneumocephalus” was invented by Wolff in 1914.[20] “Tension pneumocephalus” was first described in 1962 by Ectors, Kessler, and Stern.[4]
+Mechanism of pneumocephalus development was described by two theories: (1) Dandy theory of “ball valve”[3] and (2) Horowitz “Inverted-soda-bottle effect”.[5] First one describes a unidirectional air movement from outside into the cranial cavity, which then gets trapped. The second theory tells that negative intracranial pressure occurs as a result of excessive cerebrospinal fluid (CSF) loss due to any mechanism, for example, drainage in the physiological way during Valsalva maneuver, or through the iatrogenic lumbar drain.
+Pneumocephalus can be caused by:
+Trauma (basal skull fractures, paranasal sinuses fractures,[23] open cranial convexity fractures with dural laceration)Neurosurgical operations (twist-drill evacuation of chronic subdural hematomas;[21] ventriculo-peritoneal shunting;[18] posterior fossa surgery in sitting[15] or lateral[13] position; cranial surgery in supine position;[19] ICP monitoring;[24] transsphenoidal or endoscopic sinus surgery)ENT operations (paranasal sinuses surgery; nasal septum resection; nasal polypectomy)Lumbar punctures[10]BarotraumaTumorsCNS infections caused by gas-producing microorganismsNitrous oxideCongenital skull and tegmen tympani defectsSpinal anesthesiaPositive pressure ventilationHyperbaric oxygen therapySpontaneousScuba diving
+Trauma (basal skull fractures, paranasal sinuses fractures,[23] open cranial convexity fractures with dural laceration)
+Neurosurgical operations (twist-drill evacuation of chronic subdural hematomas;[21] ventriculo-peritoneal shunting;[18] posterior fossa surgery in sitting[15] or lateral[13] position; cranial surgery in supine position;[19] ICP monitoring;[24] transsphenoidal or endoscopic sinus surgery)
+ENT operations (paranasal sinuses surgery; nasal septum resection; nasal polypectomy)
+Lumbar punctures[10]
+Barotrauma
+Tumors
+CNS infections caused by gas-producing microorganisms
+Nitrous oxide
+Congenital skull and tegmen tympani defects
+Spinal anesthesia
+Positive pressure ventilation
+Hyperbaric oxygen therapy
+Spontaneous
+Scuba diving
+Clinical presentation of tension pneumocephalus may include headache, generalized seizures, agitation, delirium, reflex abnormalities, otherwise altered level of consciousness, pupillary changes, and frontal lobe syndrome. Tension pneumocephalus localized in the posterior cranial fossa can cause clinical signs of brainstem dislocation,[9] including breathing rhythm changes and cardiac arrest. Some rare neurological symptoms of tension pneumocephalus were reported, such as marked weakness of both legs[17] and transient hemiplegia.[1]
+Computed tomography (CT) is a golden standard for tension pneumocephalus diagnostics. A bilateral subdural hypoattenuation (Hounsfield coefficient – 1000) collections, causing compression and separation of frontal lobes (widened interhemispheric fissure), with separated frontal lobes tips on CT scans were described as “Mount Fuji sign” by Ishiwata, et al. as pathognomonic sign of tension pneumocephalus.[1222] Plain X-rays can be also used for pneumocephalus diagnosis.[20]
+Tension pneumocephalus treatment includes a complex of manipulations directed to removing of intracranial air mass-effect, adequate skull base defects closure, and secondary posttraumatic meningitis prophylaxis.
+Initial treatment is usually conservative, including bed rest in an upright position, high concentration oxygen, avoidance of maneuvers that might increase intrasinus pressure (such as nose-blowing or valsalva maneuver) and antibiotics if there is evidence of meningism. Surgical treatment is indicated when there is recurrent pneumocephalus or signs of increasing intracranial pressure suggesting development of tension pneumocephalus.[2] Surgical options include direct insertion of a subdural drain connected to underwater seal or, indirectly, with the use of a saline-primed Camino bolt.[11]
+A 75-year-old right-handed male with trauma signs on his head (right-sided paraorbital hematoma and a wound in his frontal region) was admitted to Yalta City Hospital after he fell down at the entrance of his house. He lost consciousness for about 2 minutes. On admission, he was Glasgow coma scale (GCS) 15 with right-sided exophthalmos up to 4 mm. He complained of headache and diplopia while looking to the right.
+Neurologically: Limitation of the right eye abduction, eyeballs weak of convergence.
+CT showed frontal sinus fracture with extension to the right orbital roof and minimal pneumocephalus [Figure 1]. A wound with fracture of frontal sinus outer wall in its depth was closed with sutures. Next day, nasal liquorrhea occurred.
+CT scans on patients admitting to hospital: Fracture of frontal sinus and minimal pneumocephalus
+On the fifth day after admission to neurosurgical department, he was noticed to be deteriorating neurologically. His GCS dropped to 12, meningeal signs were found and he became bradyapneic. It was a “Mount Fuji sign” on the cranial CT scans [Figure 2].
+“Mount Fuji sign”
+Under general anesthesia, a burr-hole was placed in the right frontal region and subdural space was irrigated with normal saline and admitted to the intensive care unit (ICU).
+Next day after the surgical treatment, he improved and became awake. He was successfully weaned of the ventilator and admitted to the neurosurgical department. Subdural drain was removed.
+On the brain CT scans there was a minimal residual air [Figure 3]. Liquorrhea stopped.
+Postoperative residual air
+Patient underwent a conservative treatment and observation. On the sixth day after the operation, an episode of hyperthermia up to 38°C developed.
+On the 11th day, nasal liquorrhea resumed. On the background of the therapy, a sustained clinical improvement was achieved.
+Patient refused to undergo proposed surgical intervention, aimed at dura defect closure in the posterior wall of the frontal sinus. On the 22nd day after hospitalization, on the urge of family members, patient was transferred to Kyiv Municipal Clinical Emergency Hospital. On the second day after transfer, nasal liquorrhea resumed. Watertight dura closure and cranioplasty was performed. The postoperative period was uneventful and CSF was without signs of inflammation. In 12 days after surgery, patient was discharged. At his 14 month follow-up, he has no neurological deficit and no signs of liquorrhea and meningitis.
+Tension pneumocephalus is a life-threatening neurosurgical emergency case, which needs to undergo immediate surgical or conservative treatment.
+Even minor air collection in the cranial cavity has a risk of transformation into tension pneumocephalus in case of valve mechanism development.
+Considering existence of tension pneumocephalus mentioned cases and development in the late postoperative or/and posttraumatic period, these patients should be subject for long-term follow-up after discharge from hospital.[6]

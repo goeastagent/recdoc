@@ -1,0 +1,38 @@
+Sodium terbium(III) polyphosphate
+
+Single crystals of the title compound, NaTb(PO3)4, were obtained by solid-state reaction. This compound belongs to type II of long-chain polyphosphates with the general formula A               I               B               III(PO3)4. It is isotypic with the NaNd(PO3)4 and NaEr(PO3)4 homologues. The crystal structure is built up of infinite crenelated chains of corner-sharing PO4 tetra­hedra with a repeating unit of four tetra­hedra. These chains, extending parallel to [100], are linked by isolated TbO8 square anti­prisms, forming a three-dimensional framework. The Na+ ions are located in channels running along [010] and are surrounded by six oxygen atoms in a distorted octa­hedral environment within a cut-off distance <2.9 Å.
+
+All NaLn(PO3)4 polyphosphates reported up to now, where Ln is a trivalent rare earth element, belong to type II of long-chain polyphosphates A            I            B            III(PO3)4. For corresponding isotypic crystal structures, see: El Masloumi et al. (2005 ▶) and Zhu et al. (2006 ▶) for Ln = La; Zhu et al. (2008 ▶) for Ce and Eu; Horchani-Naifer et al. (2009 ▶) for Pr; Koizumi et al. (1976 ▶) for Nd; Amami et al. (2005 ▶) for Gd; El Masloumi et al. (2008 ▶) for Y; Amami et al. (2004 ▶) for Ho; Maksimova et al. (1988 ▶) for Er. For other isotypic polyphosphates with general composition A            I            B            III(PO3)4, see: Linde et al. (1983 ▶) for AB = KCe; Naïli et al. (2006 ▶) for AgGd; Belam et al. (2007 ▶) and Jaoudi et al. (2003 ▶); for NaBi. For a review on the crystal chemistry of polyphos­phates, see: Durif (1995 ▶).
+                  NaTb(PO3)4                                                   M                           r = 497.79Monoclinic,                                                    a = 7.1712 (1) Å                           b = 13.0512 (2) Å                           c = 9.7547 (1) Åβ = 90.604 (1)°                           V = 912.92 (2) Å3                                                   Z = 4Mo Kα radiationμ = 8.56 mm−1                                                   T = 296 K0.41 × 0.12 × 0.10 mm               
+NaTb(PO3)4                        
+                           M                           r = 497.79
+Monoclinic,                         
+                           a = 7.1712 (1) Å
+                           b = 13.0512 (2) Å
+                           c = 9.7547 (1) Å
+β = 90.604 (1)°
+                           V = 912.92 (2) Å3                        
+                           Z = 4
+Mo Kα radiation
+μ = 8.56 mm−1                        
+                           T = 296 K
+0.41 × 0.12 × 0.10 mm
+                  Bruker APEXII CCD diffractometerAbsorption correction: multi-scan (SADABS; Bruker, 2008 ▶) T                           min = 0.127, T                           max = 0.47826640 measured reflections6971 independent reflections6445 reflections with I > 2σ(I)                           R                           int = 0.025               
+Bruker APEXII CCD diffractometer
+Absorption correction: multi-scan (SADABS; Bruker, 2008 ▶) T                           min = 0.127, T                           max = 0.478
+26640 measured reflections
+6971 independent reflections
+6445 reflections with I > 2σ(I)
+                           R                           int = 0.025
+                                             R[F                           2 > 2σ(F                           2)] = 0.022                           wR(F                           2) = 0.055                           S = 1.106971 reflections163 parametersΔρmax = 2.12 e Å−3                        Δρmin = −2.03 e Å−3                                       
+                           R[F                           2 > 2σ(F                           2)] = 0.022
+                           wR(F                           2) = 0.055
+                           S = 1.10
+6971 reflections
+163 parameters
+Δρmax = 2.12 e Å−3                        
+Δρmin = −2.03 e Å−3                        
+Data collection: APEX2 (Bruker, 2008 ▶); cell refinement: SAINT (Bruker, 2008 ▶); data reduction: SAINT; program(s) used to solve structure: SHELXS97 (Sheldrick, 2008 ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 ▶); molecular graphics: DIAMOND (Brandenburg, 1999 ▶); software used to prepare material for publication: SHELXTL (Sheldrick, 2008 ▶).
+Crystal structure: contains datablocks I, global. DOI: 10.1107/S1600536810010093/wm2313sup1.cif            
+Structure factors: contains datablocks I. DOI: 10.1107/S1600536810010093/wm2313Isup2.hkl            
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report            

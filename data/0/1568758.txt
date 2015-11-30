@@ -1,0 +1,4 @@
+Predicting toxicity through a computer automated structure evaluation program.
+
+The computer automated structure evaluation program (CASE) has been extended to perform automatic quantitative structure-activity relationships (QSAR). Applications include the carcinogenicity of polycyclic aromatic hydrocarbons and of N-nitrosamines. Agreement with experiment is satisfactory.
+

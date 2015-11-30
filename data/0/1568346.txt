@@ -1,0 +1,4 @@
+Classification of human upper respiratory tract tumors.
+
+An outline of human upper respiratory tumors is presented, based on the World Health Organization's classification of such tumors. The discussion and illustrations are devoted mainly to the nasal passages, and emphasis is placed on lesions that are potentially confusing because of problems of terminology or unusual histologic features.
+

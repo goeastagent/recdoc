@@ -1,0 +1,4 @@
+Survival and prognostic factors in differentiated thyroid cancer--a multivariate analysis of 1,055 cases.
+
+Survival (5- and 10-year) and prognostic factors of all differentiated thyroid cancer patients (n = 1,055) occurring in Norway in 1970-79 are presented. The multivariate analysis (GLIM) revealed that stage and age were the only significant prognostic factors. Sex and histological type could not be proved to be of major prognostic value. The decline in relative survival with age was different in the three stages, appearing as a continuous decrease in stage 3, while in stage 1 the decrease was present only in patients older than 75 years.
+

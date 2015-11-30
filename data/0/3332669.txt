@@ -1,0 +1,9 @@
+Image-guided biopsy of mammographic microcalcifications
+
+
+To audit the accuracy of radiographers taking stereotactic core biopsies. To study whether cluster morphology influences calcium retrieval rates. To compare radiological opinion against histological findings.
+Retrospective analysis of all stereotactic 14G core biopsies performed in a Breast Screening Unit over an 18-month period (January 2004–June 2005). Usage of department database, mammograms and case notes.
+Of 300 biopsies, 264 were performed by radiographers. All cases had specimen radiography. The calcium retrieval rate was 80% in early 2004 and 95% by the end of July 2005.
+The calcifications were classified into cluster, tiny cluster and scattered cluster, according to the mammographic appearances. In the negative biopsies they were 32%, 43% and 25%, respectively.
+The comparison between the radiologist opinion against the final core biopsy results shows 90% concordance with pathology for opinions 2 and 5, and 75% for opinions 3 and 4.
+Calcium retrieval rates for radiographers initially matched, then exceeded, those for radiologists. They also showed a steady improvement during the study period, rising to 95%. The cluster morphology did influence the calcium retrieval rate. There was a good concordance of radiology and pathology opinion.

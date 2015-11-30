@@ -1,0 +1,38 @@
+Cochrane Summary of Findings: Horse Chestnut Seed Extract for Chronic Venous Insufficiency
+
+As part of its efforts to disseminate the results of Cochrane reviews to a wider audience, the Cochrane Complementary and Alternative Medicine (CAM) Field develops Summary of Findings (SoF) tables and then uses these tables as a basis for its Plain Language Summaries. In each SoF table, the most important outcomes of the review, the effect of the intervention on each outcome, and the quality of the evidence for each outcome are presented. The process of developing the SoF table involves deciding which outcomes to present for which time points and evaluating the strength and quality of the evidence for the outcomes. The Cochrane CAM Field contacted the authors of this review to request clarification on any points that are not understood in the Cochrane review and also to request their review of the SoF. In this article, review authors in the Cochrane Collaboration reviewed the effects of horse chestnut seed extract for chronic venous insufficiency.
+
+As part of its efforts to disseminate the results of Cochrane reviews to a wider audience, the Cochrane Complementary and Alternative Medicine (CAM) Field develops Summary of Findings (SoF) tables and then uses these tables as a basis for its Plain Language Summaries. In each SoF table, the most important outcomes of the review, the effect of the intervention on each outcome, and the quality of the evidence for each outcome are presented. The process of developing the SoF table involves deciding which outcomes to present for which time points and evaluating the strength and quality of the evidence for the outcomes. The Cochrane CAM Field contacted the authors of this review to request clarification on any points that are not understood in the Cochrane review and also to request their review of the SoF. In this article, review authors in the Cochrane Collaboration reviewed the effects of horse chestnut seed extract for chronic venous insufficiency.
+Summary of Findings: Horse Chestnut Seed Extract Compared to Placebo for Chronic Venous Insufficiency
+Patient or population: Patients with chronic venous insufficiency
+Intervention: Horse chestnut seed extract
+Comparison: Placebo
+Abbreviations: GRADE, Grading of Recommendations, Assessment, Development, and Evaluation; VAS, visual analog scale.
+GRADE Working Group grades of evidence:
+High quality: Further research is very unlikely to change our confidence in the estimate of effect.
+Moderate quality: Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+All studies have uncertainty of randomization procedure and allocation concealment. One trial has a large number of dropouts.
+Randomization procedures not reported, with an uncertainty of allocation concealment.
+Only 3 small studies with a total of 80 participants, with a consequent imprecision of results and wide confidence intervals.
+Randomization procedure not reported, with no information on allocation concealment. From the analyses, there appears to be a large number of dropouts during the trial.
+The crossover design was considered a reason to downgrade on directness because of the risk of carryover effects.
+Only 1 trial with uncertainty about the number of participants in each group according to table of included studies and analysis.
+Only 1 small study with a total of 30 participants.
+Chronic venous insufficiency (CVI) is characterized by a chronic inability of veins in the lower leg to transport blood back toward the heart due to damage to the one-way valves within the leg veins. This damage is caused by blood clots (deep vein thromboses) or other factors, such as congenital disorders. This results in venous hypertension, an increase in pressure within the veins in the leg.
+The signs of CVI include swelling of the leg, feelings of tired and painful legs, dry scaly skin, varicose veins, hardening of the skin, and leg ulcers (open wounds on the lower legs that do not heal after 6 weeks). CVI severity is often graded into 3 categories: stage I, swelling (edema); stage II, swelling (edema) plus skin changes; stage III, the presence of open or healed leg ulcers. Stage III is considered the most severe stage of CVI. About 10% to 15% of adult men and 20% to 25% of adult women present signs and symptoms consistent with a diagnosis of CVI, and the prevalence increases with age.
+The horse chestnut (Aesculus hippocastanum L) is a large tree growing to about 25 to 30 m in height. The seed of the horse chestnut is a small brown nut. Unprocessed horse chestnut seeds contain a toxin called esculin (also spelled aesculin). This toxin may increase the risk of bleeding due to its ability to prevent blood clots from forming. The unprocessed seeds are poisonous, and symptoms associated with horse chestnut seed poisoning include vomiting, diarrhea, headache, confusion, weakness, muscle twitching, poor coordination, coma, and paralysis. Horse chestnut seeds are therefore processed to remove the toxic component, resulting in purified horse chestnut seed extract (HCSE).
+The active component of HCSE is called escin (also spelled aescin). Escin appears to promote blood circulation through the veins and thereby reduce swelling and inflammation of the legs. It is not exactly clear how escin works, but theories include that it works by “sealing” leaking capillaries, improving the elastic strength of veins, preventing the release of enzymes that damage the blood vessels, and blocking other various physiological events that lead to vein damage.
+The most common dosage of horse chestnut is 300 mg HCSE twice daily, standardized to contain 50 mg escin per dose, for a total daily dose of 100 mg escin.
+In theory, horse chestnut may increase the risk of bleeding. In addition, animal studies suggest that HCSE may cause lowered blood sugar.
+Not all research provides the same quality of evidence. The higher the quality, the more certain we are about what the research says about an effect. The words will (high-quality evidence), probably (moderate-quality evidence), and may (low-quality evidence) describe how certain we are about the effect.
+After searching for all relevant studies, the review authors found 17 studies that they included in the review. Ten of these studies were placebo-controlled trials. The trials showed that for people with chronic venous insufficiency, horse chestnut seed extract
+probably reduces lower-leg volume,
+may reduce circumference at ankle, and
+may reduce circumference at calf.
+We are uncertain of the effect of HCSE on leg pain and edema because the quality of the evidence is very low.
+In general, side effects are poorly documented, and it is difficult to provide precise information. In these trials, some participants experienced gastrointestinal complaints, dizziness, nausea, headache, and itching.
+The Cochrane Collaboration is an independent global network of volunteers dedicated to summarizing research about healthcare.
+This information is taken from this Cochrane Review: Pittler MH, Ernst E. Horse chestnut seed extract for chronic venous insufficiency. Cochrane Database Syst Rev. 2006 Jan 25;(1):CD003230.
+A new search for studies and updated content was published in Issue 9, 2010 (no change to conclusions).

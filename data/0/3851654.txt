@@ -1,0 +1,7 @@
+C242T Polymorphism in CYBA Gene (p22phox) and Risk of Coronary Artery Disease in a Population of Caucasian Italians
+
+Background: specific polymorphisms of genes regulating intracellular redox balance and oxidative stress are related to atherogenesis. Some studies have identified a relationship between progression of atherosclerosis and C242T mutation in CYBA gene coding for p22phox, a subunit of the NADH/NADPH oxidase system.
+Design: we investigated whether the C242T nucleotide transition is associated with the presence of coronary artery disease (CAD) in a population of 494 Caucasian Italians undergoing coronary angiography to diagnose the cause of chest pain.
+Results: the frequency of the T mutant allele that we found in 276 patients with angiographically documented CAD was significantly higher compared to what we observed in 218 subjects with normal coronary arteries (Controls) (respectively: 0.400 and 0.332, p < 0.01). The prevalence of the T allele was even stronger when we compared: 1) early onset (age ≤55) vs late onset (age ≥65) single-vessel CAD patients (respectively: 0.75 and 0.48, p < 0.05), and 2) the subgroup of CAD patients with at least one ≥98% stenosis in a coronary vessel vs those with no ≥98% stenosis in a coronary vessel (respectively: 0.425 and 0.365, p < 0.05).
+Conclusions: these results support the increased risk of developing early CAD and of having rapid progression of coronary stenosis in subjects carrying the C242T nucleotide transition among the Italian population.
+

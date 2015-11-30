@@ -1,0 +1,5 @@
+The Components of the Visual System of a Dragonfly
+
+Dr. Ruck's present address is the Department of Zoology, University of Wisconsin
+ In this study of the electroretinograms of dragonflies (adults and nymphs) the objectives were to determine the number of classes of photoreceptors present in the visual system and to allocate these to particular morphological regions. There are probably five classes of photoreceptors present with peak sensitivities near 550, 530, 518, 420, and < 380 mµ. The dorsal ocelli contain two classes (518 mµ and < 380 mµ). The ventral (anterior) ommatidia of the adult compound eye contain at least two classes (near 518 mµ and < 380 mµ) and probably a third class (near 550 mµ). The dorsal ommatidia of the adult compound eye contain one class (420 mµ) and possibly another class (< 380 mµ). The compound eye of the nymph contains one class (530 mµ) and possibly another class (420 mµ). 
+

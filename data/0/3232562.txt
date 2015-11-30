@@ -1,0 +1,42 @@
+Normal adult coronary angiography
+
+Children with congenital heart disease will grow into adults who may also develop coronary artery disease. This article attempts to familiarise practitioners that usually deal with congenital heart disease with the conventional views that are obtained during adult coronary angiography.
+
+As children with congenital heart disease grow older, they will inevitably develop cardiac problems associated with adulthood, including coronary artery disease. Coronary angiography is the name for a diagnostic x-ray procedure designed to visualize the small (1 to 3 millimeters in diameter) nutrient arteries of the heart. “Accidental” coronary angiography was first performed by Dr. Mason Sones at Cleveland Clinic in the 1950's when angiography dye was injected into coronary arteries for the first time in a living patient during an attempt to visualize other cardiac structures. Since that initial discovery, tremendous refinements in equipment, technique and safety have made coronary angiography the cornerstone for both diagnosis and treatment of coronary artery disease. Paediatric cardiologists will therefore have to develop a degree of familiarity with normal coronary anatomy.
+During coronary angiography, the heart is viewed in a variety of projections, each of which is a two-dimensional representation of a three-dimensional structure. A given coronary artery thus appears to ‘rotate’ and change its position relative to other structures. This change, together with the fact that the heart continues to beat during the contrast injection, makes identification of the coronary difficult, at first. Moreover, the contraction of the left ventricle occurs apex to base with rotation of the lateral wall. One must therefore acquire the skill of reconstituting the three-dimensional anatomy of the coronary vessels from a series of different, two-dimensional views.
+The following table illustrates some basic points:
+Orientations of useful landmarks
+Conventionally, the orientation of the X-ray tube with respect to the patient is described using two angles, each of which may be positive or negative.
+The first angle refers to “rotation”. It describes the position of the image intensifier around the longitudinal axis of the patient (figure 1). Zero degrees is vertically above the patient, positive angles are towards the patient's left (figure 2) and negative angles are towards the patient's right (figure 3).The second angle refers to “angulation”. It describes the position of the image intensifier in the short axis of the patient (this axis can be imagined as a line joining both shoulders: figure 4). Zero degrees is directly above the patient's head, positive angles are towards the patient's head (cranial - figure 5), negative angles are towards the patient's legs (caudal - figure 6).
+The first angle refers to “rotation”. It describes the position of the image intensifier around the longitudinal axis of the patient (figure 1). Zero degrees is vertically above the patient, positive angles are towards the patient's left (figure 2) and negative angles are towards the patient's right (figure 3).
+The second angle refers to “angulation”. It describes the position of the image intensifier in the short axis of the patient (this axis can be imagined as a line joining both shoulders: figure 4). Zero degrees is directly above the patient's head, positive angles are towards the patient's head (cranial - figure 5), negative angles are towards the patient's legs (caudal - figure 6).
+Rotation
+Rotation of +45°, left anterior oblique (LAO) projection
+Rotation of -45°, right anterior oblique (RAO) projection
+Angulation
+Angulation of +45°, cranial projection
+Angulation of -45°, caudal projection
+These diagrams illustrate the above points:
+This article demonstrates the usual views that are obtained in a standard coronary angiography procedure with the main vessels labeled for convenience.
+All angiogram runs were performed using a Philips Integris HF 5000 system.
+Conventionally, the first image to be obtained is a ventriculogram using a pigtail catheter within the left ventricle.
+Catheter positioning prior to left ventriculogram. RAO caudal: -30° -10°
+Left ventriculogram. RAO caudal: -30° -10°
+Catheter positioning prior to left ventriculogram LAO caudal: +45° -10°
+Left ventriculogram. LAO caudal: +45° -10°
+The coronary arteries are now visualised, starting with the left and continuing with the right coronary artery.
+A Judkins left 4 cm catheter in position prior to injection of contrast medium. RAO cranial: -10° +20°
+Left coronary angiogram. RAO caudal: -20° -20°
+Left coronary angiogram RAO straight: -10° 0°
+Left coronary angiogram. RAO cranial: -10° +20°
+Left coronary angiogram LAO cranial: +45° +20°. Stars denote 1st and 2nd perforator arteries.
+Left coronary angiogram. LAO straight: +45° 0°
+Left coronary angiogram. LAO caudal: +45° -30° (spider view)
+Left coronary angiogram. PA cranial: 0° +30°. Stars denote 1st and 2nd perforator arteries.
+Left coronary angiogram. RAO cranial: -35° +20°
+Left coronary angiogram. RAO caudal: -35° -30°
+A Judkins right 4 cm catheter in position prior to injection of contrast medium. LAO straight: +45° 0°
+Right coronary angiogram. LAO straight: +45° 0°
+Right coronary angiogram. PA straight: 0° 0°. Star denotes right ventricular branch
+Right coronary angiogram. RAO straight: -30° 0°
+Right coronary angiogram. LAO cranial: +45° +20°. Star denotes right ventricular branch.

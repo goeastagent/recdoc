@@ -1,0 +1,4 @@
+Operant methodology in the study of learning.
+
+A series of experiments is described in which operant methodology is used to study the effects of drugs on "learning." Emphasis is placed on the technique of repeated acquisition as a behavioral baseline for studying this type of transition state. In this technique, each subject is required to learn a new discrimination each session. Multiple-schedule procedures are also described in which acquisition is compared to a "performance" task, where the discrimination is the same each session. The learning baseline is more sensitive to the disruptive effects of a variety of drugs (e.g., cocaine, d-amphetamine, haloperidol) than is the performance baseline. This general finding obtains across procedural variations and species (pigeons and monkeys). The potential usefulness of these procedures for studying both acute and chronic behavioral toxicity is discussed.
+

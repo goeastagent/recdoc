@@ -1,0 +1,4 @@
+Detection of the complement fragment C5a in inflammatory exudates from the rabbit peritoneal cavity using radioimmunoassay
+
+We describe a radioimmunoassay for rabbit C5a and its use to obtain evidence of extravascular C5a generation in two inflammatory reactions in the peritoneal cavity. These observations, together with the potent activity of C5a in inducing increased microvascular permeability involving circulating PMN leukocytes, strengthen the case for considering C5a an important inflammatory mediator. These findings offer an explanation for the many different experimental inflammatory reactions where oedema formation can be suppressed either by systemic depletion of complement or by depletion of circulating PMN leukocytes.
+

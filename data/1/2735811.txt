@@ -1,0 +1,42 @@
+Lynch syndrome (HNPCC)
+
+
+It is estimated that a highly penetrant genetic predisposition is the cause of 10-20% of all colorectal cancers (CRC) [1-5].
+Among the well known syndromes of inherited predisposition to tumours manifesting with CRC, syndromes showing a Mendelian pattern of inheritance include: hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome), familial adenomatous polyposis (FAP), Gardner, Turcot and Peutz-Jeghers syndromes, and juvenile polyposis.
+HNPCC was described by Lynch [6] in the 1960s and is the cause of around 5% of all CRC. It has been shown that HNPCC is caused by mutations within several genes such as: MSH2, MLH1, MSH6, PMS2. Mutation within MSH2 and MLH1 are the most frequent cause of Lynch syndrome [7-10]. Characteristic clinical features of Lynch syndrome include:
+• early age of CRC diagnosis (about 45 years),
+• more frequent right side tumour localization,
+• two or more CRC cases among first degree relatives,
+• many syn- and meta-chronous CRC tumours,
+• occurrence of disease in consecutive generations (vertical transmission),
+• increased frequency of occurrence among relatives of cancers of the endometrium, small bowel and urinary tract.
+According to an international group of experts (the International Collaborative Group on HNPCC - ICG-HNPCC) Lynch syndrome can be definitively diagnosed if constitutional mutations within one of the genes connected with HNPCC, such as MSH2 or MLH1, is identified or if the following pedigree-clinical criteria are matched (Table 1).
+Diagnostic criteria of HNPCC according to ICG-HNPCC [11]
+*Colorectal polyposis, congenital hypertrophy of the retinal pigment epithelium, cysts and osteomas of the mandible/maxilla and desmoids are excluded
+A family matching the definitive criteria of HNPCC according to the ICG-HNPCC are presented in Figure 1.
+Family pedigree matching HNPCC criteria, according to ICG-HNPCC.
+Due to incomplete penetrance of genes, which is typical for dominant Mendelian disorders, deaths caused by various diseases, or due to difficulties in achieving full information about all relatives, a large proportion - perhaps the majority - of families with HNPCC cannot be diagnosed using the Amsterdam criteria summarized in Table 1.
+Therefore several authors use another type of criteria, fulfilment of which does not allow definitive diagnosis of HNPCC, but is useful in identifying of families with a highly increased risk of disease [12-15]. According to our experience the criteria summarized in Table 2 are of particular value in identifying cases suspected of HNPCC.
+Diagnostic criteria of "suspected HNPCC" [16]
+*See Table 1
+Examples of families matching the criteria of "suspected HNPCC" are presented in Figures 2, 3.
+Family pedigree "suspected HNPCC".
+Family pedigree "suspected HNPCC".
+Such diagnostics was described in the section "MSH2/MLH1 testing". Detection of marker mutation for a family with HNPCC is of clinical importance because it:
+a) allows exclusion of around 50% of relatives from the high risk group, and
+b) facilitates surgical decision making, for example instead of a classical tumour resection colectomy with prophylactic hysterectomy and ovariectomy when such resections are performed in female mutation carriers at perimenopausal age.
+Our present knowledge about this syndrome indicates that special prevention and treatment should be applied. Different programmes are performed by particular centres [4,16,17]. According to the latest data, relatives from families with Lynch syndrome should consider the following options of medical management.
+Persons with high risk of CRC should consider a low fat diet with limitations concerning red meat, but with bran and rich in cellulose [18].
+There are reports that the group of drugs lowering the risk of CRC includes: aspirin, sulindac, prioxicam, calcium, and vitamin C. The real value of such drugs in cancer prevention in HNPCC cannot be excluded, but is not proven [17,19,20].
+Full colonoscopy is recommended from the ages of 20-25 years every one - two years. In families in which CRC has been diagnosed at earlier ages colonoscopy should begin 5 years earlier than the age of the youngest person with CRC. In cases where endoscopy the colon could not be assessed properly, a barium enema is indicated [17,21].
+Due to the increased frequency of female genital tract tumours in women with HNPCC, it is recommended to perform, beginning at the age of 35 years, annual clinical gynaecological examinations with transvaginal ultrasonography (USG) and histopathological examination of the endometrium. Additionally, in some cases it is indicated to perform an examination aimed at detecting other tumours more frequently observed in a given family (for example stomach, urinary tract and breast) [5,17].
+Endoscopic polypectomy is recommended in the case of polyps which are benign and non-recurrent. However, in patients with adenomas that are multiple and/or recurrent and/or of a significant degree of dysplasia and/or villous, prophylactic colectomy should be considered [21]. Most experts believe that prophylactic surgery should not be recommended to patients without any pathological changes of the colon even if such persons are carriers of a mutation [17]. The high proportion of synchronous tumours (more than 15% of patients at the time of diagnosis) or metachronous tumours (about 45% during 10 years following surgery of the primary tumour) suggests that for preventive surgery as for surgery in patients from HNPCC families with histopathologically diagnosed CRC the following types of surgical treatment can be recommended [17,21]:
+• proctocolectomy with ileostomy,
+• colectomy with ileo-rectal anastomosis,
+• proctocolectomy with ileo-anal "pouch" - S, J, W or H.
+The first of the proposed procedures is the most radical but later the risk of recurrence is very low. However, such treatment is highly traumatising and frequently leads to urinary tract abnormalities and sexual dysfunction.
+Colectomy with ileorectal anastomosis does not lead to such complications but should be followed by frequent examinations due to the risk of cancer in the unresected fragment of bowel.
+Proctocoloctomy with ileo-anal "pouch" S, J, W or H is a method with a relatively short history so it is difficult to conclude about it definitely.
+In females with Lynch syndrome undergoing surgery due to CRC and at perimenopausal age or older, due to increased risk of primary endometrial and ovarian cancers, it is recommended to consider extension of the surgery by hysterectomy and adnexectomy [17,22].
+All of the above procedures are characterized by increasing frequency of complications. However, they are recommended in the treatment of HNPCC because the really important problem for this patient is the high risk of second primary CRC.
+It has been shown that the application of appropriate programmes of management in families with HNPCC leads to increased detection of early asymptomatic CRC. Additionally, prospective studies have confirmed that due to appropriate management the lifetime risk of CRC decreases, from 80 to 30%, and there is a higher proportion of healing and longer survival time of patients with CRC from families with Lynch syndrome. Correct management applied in carriers of MSH2/MLH1 mutations means that such persons cannot die due to CRC [23].

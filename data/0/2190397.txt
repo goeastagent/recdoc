@@ -1,0 +1,4 @@
+Murine t factors: an association between alleles at t and at H-2
+
+Lymphocytes from tx-mutant mice have a definite and consistent pattern of reactivity in MLR. Cells from t-mutant mice within a complementation group usually fail to stimulate each other, while cells from mutants in different complementation groups stimulate each other strongly. This indicates that tx-mutant types are associated with certain H-2 haplotypes, and that members of any give complementation group share the same H-2 haplotype.
+

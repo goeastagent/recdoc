@@ -1,0 +1,9 @@
+Influence of the pressure support slope on the respiratory parameters of intensive care unit patients
+
+
+The possibility of changing the pressure slope during pressure support ventilation is a characteristic of the new generation of ICU ventilators. However, the influence of the slope changes on the respiratory parameters in ICU patients is still under investigation.
+To analyze the effects of two different pressure slopes (150 or 300 ms) of pressure support ventilation on the respiratory parameters of ICU mechanically ventilated patients.
+We prospectively evaluated ICU patients recovering from acute respiratory failure that could be comfortably ventilated with pressure support of 15 cmH2O, PEEP of 5 cmH2O and FIO2 of 40%. The patients were submitted to two different pressure slopes of pressure support with 150 and 300 ms delays. The respiratory rate (RR), expiratory tidal volume (VTe), minute ventilation (MV), VCO2, VTCO2, ETCO2, SpO2, mean arterial pressure (MAP) and heart rate (HR) were measured in these different conditions.
+Comparisons between different pressure slopes did not result in any statistically significant changes for the evaluated variables. There were no significant changes in blood pressure or HR under any experimental conditions (Table 1).
+Respiratory and hemodynamic variables measured with two pressure slopes
+The slope changes from 150 to 300 ms of pressure support ventilation did not affect the respiratory parameters of mechanically ventilated ICU patients.

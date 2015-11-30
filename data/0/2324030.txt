@@ -1,0 +1,6 @@
+Controlled Cardiac Computed Tomography
+
+Recommended by Yibin Zheng
+This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Cardiac computed tomography (CT) has been a hot topic for yearsbecause of the clinical importance of cardiacdiseases and the rapid evolution of CT systems. In this paper, wepropose a novel strategy for controlled cardiac CT that mayeffectively reduce image artifacts due to cardiac and respiratorymotions. Our approach is radically different from existing onesand is based on controlling the X-ray source rotation velocity andpowering status in reference to the cardiac motion. Wetheoretically show that by such a control-based intervention thedata acquisition process can be optimized for cardiac CT in thecases of periodic and quasiperiodic cardiac motions.Specifically, we formulate the corresponding coordination/controlschemes for either exact or approximate matches between the idealand actual source positions, and report representative simulationresults that support our analytic findings.
+

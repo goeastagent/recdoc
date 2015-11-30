@@ -1,0 +1,47 @@
+Clinical Emergency Medicine Algorithms: Vaginal Bleeding in Early Pregnancy (Less than 20 weeks)
+
+
+“Clinical Emergency Medicine (EM) Algorithms” was born out of my frustration with the educational process in medicine. Throughout medical school, professors teach us by a disease-based system. We read textbooks and learn about Takayasu’s Arteritis and Diphyllobrohtium latum. We then enter our clinical rotations with such confidence that we know the minutiae about the most uncommon disease processes, and that is when it hits us--patients don’t walk into the hospital saying they are having acute mesenteric ischemia in the distribution of their superior mesenteric artery; they say their stomach hurts. This is when we learned of the “differential diagnosis,” which lists the diseases that cause a certain symptom. This is just what I needed, a patient with low back pain and I see zebras like Scheurmann’s disease on the same list next to common entities like Spondylolisthesis, which is next to emergent entities like Abdominal Aortic Aneurysm. I am no better off in my understanding of how to approach these complaints. What I need is an algorithm but when I look through different textbooks for algorithms, I become even more confused.
+Algorithms seem so complicated with arrows in every direction. This is where the concept of “Clinical EM Algorithms” was born. The goal was to structure them in a way that an emergency physician thinks about a patient’s complaint. They are very simple in their structure and comply with the EM mantra of “worst first.” In constructing them, I have found that each complaint is approached in its own unique way and that “one size does not fit all.” They are not meant to be all-inclusive, but rather to provide a framework upon which to build future knowledge. They are ideal for those new to medicine or just beginning emergency medicine training. They can even help more experienced practitioners to be more thorough and more efficient
+There is no set structure for each algorithm, much like an emergency physician will approach each chief complaint (Chest pain, Syncope etc.) differently. While each algorithm is structured based upon how an emergency physician thinks about each complaint, there are some general guidelines. The primary boxes in black ask general questions about the complaint, usually starting with ABCs and primary resuscitation. The secondary boxes in gray expand on questions from the primary boxes. For many complaints, you rule out life-threatening disease processes using the History & Physical. These aspects are portrayed in the boxes with the darkened outline. At certain points throughout the algorithm there are numbers in brackets. These refer to the numbers on the accompanying text page that will expand on that item. For example, in the vaginal bleed algorithm, the number [4] next to the (+) Ectopic refers to the ultrasound findings in ectopic pregnancy and statistics. The text page includes evidence-based explanations along with encountered pitfalls. The goal of the algorithms is to provide a basic framework upon which to build. It starts with a very simple broad algorithm but allows the reader to delve into controversial evidence-based decisions.
+The approach to vaginal bleeding in early pregnancy can be broken down into five basic steps (black boxes). The first step, as in most algorithms, is the initial resuscitation including ABCs and consideration of transfusion. The aggressiveness of resuscitation is based on the clinical comfort of the individual emergency physician, and can vary widely. The next step is to rule out ectopic pregnancy, which is done by obtaining a pelvic ultrasound and β-HCG level (gray boxes). The algorithm can then diverge based on the ultrasound results. If there is an ectopic, Gynecology will need to be involved for either surgical or medical management. If the ultrasound is indeterminate, the β-HCG level will classify the ultrasound results further into non-diagnostic or abnormal pregnancy. This is done by comparing the β-HCG level to the discriminatory zone (DZ), which is the β-HCG level in which we would expect to see an IUP on ultrasound. If the β-HCG is less than DZ, the results are indeterminate and serial β-HCGs must be obtained to determine viability of the pregnancy. If the β-HCG is greater than the DZ, the pregnancy can be classified as abnormal and Gynecology would again need to be involved for determination of medical or surgical management. If there is an intrauterine pregnancy (IUP), then there is no longer concern for ectopic pregnancy and the patient can then be evaluated for spontaneous abortion (SAB). SAB can be classified into four types, depending on the cervical OS and location of the products of conception (POC) on physical exam (gray). Further management and gynecology consultation would then depend on the type of SAB. The final steps are to consider RhoGAM if the mother is Rh negative and evaluate for other more benign causes of vaginal bleeding.
+1. The approach: 5 basic steps (double-lined boxes). Start with initial resuscitation and ABCs. Then rule out ectopic pregnancy using pelvic ultrasound and HCG level (dashed boxes). If ultrasound shows IUP and no concern for ectopic, then evaluate for SAB based on os and POC on exam (dashed boxes). Final steps are to consider RhoGAM and other benign causes for vaginal bleeding.
+2. R/O Ectopic: based on results of U/S→3 possibilities: If U/S shows ectopic, call gynecology. If U/S shows IUP and no concern for heterotopic, evaluate for SAB. If U/S is indeterminate, classify into non-diagnostic or abnormal pregnancy based on β-HCG level.1
+3. U/S criteria for IUP (see below for normal u/s appearance in pregnancy)
+Gestational sac + “double decidual sac” sign is earliest sign of pregnancy, although some believe it is the yolk sac.
+Table 1: Normal ultrasound findings and β-HCG levels compared to gestational age.2
+Gestational AgeTransabdominal LandmarksTransvaginal Landmarksβ-hCG Level (mIU/ml)4–5 weeks± Gestational sacGestational sac10005 weeksGestational sac ± yolk sacGestational sac with yolk sac, ± fetal pole1000–20006 weeksYolk sac and fetal poleYolk sac and fetal pole with cardiac activity10,000–20,000
+Pitfall: Pseudosacs are false sacs that can be confused with gestational sacs; pseudosacs can occur in 10–20% of ectopic pregnancies (centrally located) compared to eccentric location of true gestational sacs.2
+4. U/S signs suggestive of ectopic pregnancy2
+Definite: Extrauterine embryo with cardiac activity (seen in 15–20% of EPs)
+Suggestive: Free pelvic/Intraperitoneal fluid, tubal ring, complex adnexal mass
+5. Incidence of heterotopic in1
+general population: 1:4,000–30,000
+Incidence in assisted reproduction: 1 in 100, therefore cannot exclude ectopic and further work-up needed in this population1
+6. Discriminatory zone for β-HCG for transvaginal U/S is usually 1,000–1,500 (depending on institution)1
+7. Indeterminate U/S below DZ: Non Diagnostic1
+Ddx: early viable IUP vs nonviable IUP vs ectopic
+If pt stable: can d/c home, obtain serial β-HCG, repeat U/S when β-HCG above DZ after GYN consult
+Pitfall: U/S should still be obtained if β-HCG is below discriminatory zone because may still be able to diagnose both IUP and ectopic (Level C ACEP Recommendation)3
+8. Indeterminate U/S above the discriminatory zone: Abnormal pregnancy1
+Ddx: recent spontaneous AB or ectopic pregnancy is likely (86–100%)
+Indeterminate U/S + β-HCG> 2,000 virtually diagnostic of ectopic pregnancy4
+Ectopic pregnancy can resolve spontaneously by tubal abortion or regression, but >90% of women with ectopic and β-HCG>2,000 will require surgery.5
+Follow-up needed in abnormal pregnancy because of increased likelihood of ectopic (Level B ACEP Recommendation)3
+9. Thinking 2 steps ahead: Standard approach for serial β-HCG is looking for a rise of 66% of 48hours, considered normal, although:
+A normal rise may be seen in up to 15% of ectopics6
+An abnormal rise (<66%) may be seen in 15% of IUPs
+10. Serial β-HCG values at 48h1: (Level B ACEP Recommendation)3
+• 66%: IUP, EP(15%)• Plateau: nonviable IUP, EP• <66: EP, SAB, nl IUP (15%)• Decreasing: SAB, tubal AB
+11. Evaluate for spontaneous abortion in the patient with an IUP and vaginal bleeding
+Classify into type of SAB based on OS and POC
+12. Incidence of miscarriage:7
+21% bleed before 20th wk
+57% of those will miscarry
+80% of those will miscarry before 12 weeks
+13. After detection of fetal cardiac activity, <5% of pregnancies with normal sonographic appearance will abort.3
+14. RhoGAM 50 mcg for Rh(−) women at loss of first trimester pregnancy (Level BACEP Recommendation)3
+No recommendations for after first trimester, but standard dose is 300 mcg IM
+15. Other Dx
+Molar pregnancy dx by U/S showing “snowstorm” pattern or cystic structures
+Implantation bleeding is spotting from implantation of embryo around the time normal period occurs.

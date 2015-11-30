@@ -1,0 +1,7 @@
+Corrigendum to “Medical image analysis methods in MR/CT-imaged acute–subacute ischemic stroke lesion: Segmentation, prediction and insights into dynamic evolution simulation models. A critical appraisal” [NeuroImage: Clinical 1 (2012) 164–178]
+
+
+The authors regret that the reference:
+“F. Scalzo, Q. Hao, J.A. Hu. Regional prediction of tissue fate in acute ischemic stroke. Annals of Biomedical Engineering (2012), pp. 1–11.” appeared incorrect.
+It should be:
+“F. Scalzo, Q. Hao, J. Alger, X. Hu, D. Liebeskind. Regional prediction of tissue fate in acute ischemic stroke. Annals of Biomedical Engineering (2012), Oct;40(10):2177–87.”

@@ -1,0 +1,4 @@
+P-glycoprotein and metallothionein expression and resistance to chemotherapy in osteosarcoma.
+
+The expression of the drug resistance (DR) mediators P-glycoprotein (P-gp) and the metallothioneins (MT) was assessed immunohistochemically in biopsy material from patients with high-grade malignant osteosarcoma (OS). No significant difference was found in survival rate between expressors of both P-gp and MT and non-expressors. Thus, it was concluded that lack of expression of these two drug resistance-related proteins does not appear to confer any advantage in terms of patient survival in osteosarcoma.
+

@@ -1,0 +1,8 @@
+Progressive loss of cortical gray matter in schizophrenia: a meta-analysis and meta-regression of longitudinal MRI studies
+
+
+Correction to: Translational Psychiatry (2012) 2, e190; doi:10.1038/tp.2012.116; published online 20 November 2012
+Following publication of this paper, the authors noticed that references 9, 41 and 59 are incorrect. The correct references are listed below:
+Ref. 9 (this is ref. 41 in the published paper): Takahashi T, Suzuki M, Zhou SY, Tanino R, Nakamura K, Kawasaki Y et al. A follow-up MRI study of the superior temporal subregions in schizotypal disorder and first-episode schizophrenia. Schizophr Res 2010; 119: 65–74.
+Ref. 41: Takahashi T, Wood SJ, Kawasaki Y, Suzuki M, Velakoulis D, Pantelis C. Lack of progressive gray matter reduction of the superior temporal subregions in chronic schizophrenia. Schizophr Res 2010; 117: 101–102.
+Ref. 59: Kasai K, Shenton ME, Salisbury DF, Hirayasu Y, Lee CU, Ciszewski AA et al. Progressive decrease of left superior temporal gyrus gray matter volume in patients with first-episode schizophrenia. Am J Psychiatry 2003; 160: 156–164.

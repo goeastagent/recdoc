@@ -1,0 +1,104 @@
+Functional evaluation protocol
+
+
+Correct deglutition is the result of a precise coordinationof the many structures present in the head and neck, indeed,although the deglutition sequence can be influencedand controlled by inputs from the cortical centres, it is,first and foremost, a semiautomatic mechanism 1.
+These mechanisms need correct sensory information fromthe muscles and mucosae of the areas involved, to generatea coordinated sequence of muscle contractions thatgenerate the act of deglutition.
+Consequently, any involvement of the sensory or motorintegrity of the oral cavity, pharynx or larynx can causedysphagia.
+Therefore, surgery on the above areas can potentiallycause dysphagia of varying severity.
+This calls for the need to evaluate the impact that surgerycan have in terms of dysphagia and, when possible, the needto quantify it, in relation also to the patient’s quality of life.
+Despite the increasing application of the “organ saving”concept, surgical treatment, often followed by radiotherapy,remains the treatment of choice for most cancer sitesin the head and neck.
+Radiotherapy too can cause worsening, with the appearanceor exacerbation of dysphagia secondary to xerostomyor radio-treated soft tissue fibrosis.
+Given the current increasingly careful attention of surgeonsto functional aspects, surgery must always take intoaccount the need for surgical radicality, the strategy foroptimally preserving swallowing, speech and respiratoryfunction, to optimise the patient’s quality of life.
+Since all patients having pharyngeal-laryngeal cancer surgeryare at risk of dysphagia, it is fundamental to performan evaluation before restoring oral feeding, also consideringthat according to recent studies, patients with dysphagiaalways tend to underestimate their condition.
+For this reason, the patient should undergo an initial “bedside”assessment, followed by a more detailed and thoroughstudy able to identify any episodes of silent aspiration.
+This evaluation must be scheduled according to the typeof procedure, local oedema, the presence of postoperativecomplications (such as pharyngocutaneous fistula) andthe patient’s psychological conditions.
+The functional protocol can be broken down into the analysisof the fundamental functions of the pharyngolaryngealorgan, i.e., an evaluation of swallowing, speech and respiratory functions, which together contribute to influencingthe patient’s quality of life.
+FEES (Flexible endoscopic evaluation of swallowing)was described for the first time by Langmore, Schatz andOlsen, in 1988 2 3, and allows evaluation using a flexiblerhinofibrolaryngoscope via the transnasal route (optionallycombined with a stroboscopic light source and, bydigital video camera, to a video recorder) and, therefore,can only be conducted by a team of phoniatrists-speechtherapists working in a fully-equipped clinic.
+The tip of the fibroscope is introduced as far as theoropharynx, from which point the attitude of the structuresthat control swallowing are studied. Coloured jelledwater can also be used.
+The potential interference of local anaesthetic on thisfunctional evaluation is controversial.
+This technique allows a careful evaluation of:
+the anatomical integrity of the nasopharyngeo-laryngohypopharyngealarea;
+the sensitive integrity of the pharyngolaryngeal structures;
+the patient’s ability to protect his/her respiratory tract;
+the symmetry of pharyngeal constrictive ability and thesimultaneous contribution of the lingual phase;
+programming of an injective functional therapy;
+the possibility to evaluate food residues in the pharynx,aspiration and incorrect ingestion.
+In the evaluation of deglutition, in addition to FEES, videofluoroscopy4 5 is a fundamental method as the analysisof the deglutition dynamic makes it possible to identifyorganic and functional abnormalities, thus allowing importanttherapeutic reflexes and giving the therapist suggestionsconcerning the compensation mechanisms thatfacilitate the act of deglutition, in an attempt to improvepatients’ quality of life.
+Various types of contrast agent (small boli of fluid barium,small boli of high density barium, barium paste, solidmeal) can be used for videofluoroscopy, thus allowing adetailed study of the various phases of deglutition (oral,pharyngeal, laryngeal and hypopharangeo-oesophageal).
+This allows us to identify various types of aspiration:
+predeglutition (before deglutition);
+intradeglutition (during deglutition);
+postdeglutition (after deglutition).
+This technique also makes it possible to assess the morphologyof the spine (marked kyphosis or DISH syndrome,for example, can favour episodes of aspiration)and obtain important information (in terms of bolus volumeand viscosity, head position alterations) for rehabilitationstrategy purposes.
+Compared to videofluoroscopy, FEES has the following:
+Advantages:
+It is a safer method when there is a high risk of inhalation;
+It guarantees visual feedback for the patient;
+It can be performed on an outpatient basis even in subjectswho cannot be transferred to a radiology centre;
+Absence of repeated exposure to radiations.
+Disadvantages:
+It is difficult to evaluate bolus management in the oralcavity;
+Visualisation is difficult during the act of deglutition,close to the base of the tongue and on the rear wall ofthe pharynx;
+It is more difficult to evaluate microaspiration or boluspenetration very close to the act of deglutition.
+The patients we analysed underwent self-assessment oftheir dysphagia, in particular using the “MDADI”.
+This test investigates the patient’s deglutition abilities, forwhich he/she is asked to choose the score that best describestheir situation (from 1 to 5: strongly agree, agree,no opinion, disagree, strongly disagree).
+My swallowing ability limits my day-to-day activities.
+I am embarrassed by my eating habits.
+People have difficulty cooking for me.
+Swallowing is more difficult at the end of the day.
+I do not feel self-conscious when I eat.
+I am upset by my swallowing problem.
+Swallowing takes great effort.
+I do not go out because of my swallowing problem.
+My swallowing difficulty has caused me to lose income.
+It takes me longer to eat because of my swallowingproblem.
+People ask me, “Why can’t you eat that?”
+Other people are irritated by my swallowing problem.
+I cough when I try to drink liquids.
+My swallowing problems limit my social and personallife.
+I feel free to go out to eat with my friends, neighboursand relatives.
+I limit my food intake because of my swallowing difficulty.
+I cannot maintain my weight because of my swallowingproblem.
+I have low self-esteem because of my swallowingproblem.
+I feel that I am swallowing a huge amount of food.
+I feel excluded because of my eating habits.
+This allows us to assess the influence of the various typesof partial resection of the laryngeal structures and identifiesany influence of concomitant chronic bronchitis onthe alteration of the flow-volume curve following partiallaryngectomy surgery.
+It is fundamentally based on conventional spirometrywith the flow-volume curve represented according to theclassification proposed by Miller and Hyatt (1973) 7 andMiller (1985) 8.
+It would thus be useful to standardise periodic spirometricevaluation in protocols that assess the various unitsafter the stabilisation of the post-surgical functional situation.
+Perceptive assessment of dysphonia is performed usingthe G.I.R.B.A.S. scale 9 10.
+Grade: 1 mild, 2 moderate, 3 severe.
+Instability: 1 mild, 2 moderate, 3 severe.
+Roughness: 1 mild, 2 moderate, 3 severe (with diplophonia:d).
+Breathiness: 1 mild, 2 moderate, 3 severe.
+Astenicity: 1 mild, 2 moderate, 3 severe.
+Strain: 1 mild, 2 moderate, 3 severe (with tremor: t).
+We perform the spectroacoustic voice examination usingthe “Sifel protocol” 11:
+Registration of a standard message containing: nameand surname; the numbers 1 to 10; the five vowels /i/,/e/, /a/, /o/, /u/ held for 4 seconds; a short line from asong (“Frère Jacques”);
+Multiparametric analysis of the vowel /a/ usingMDV P;
+Spectrogram of the same vowel /a/ analysed withMDV P, assessing the H/N Ratio, the noise componentsaccording to the spectrographic classification of dysphonia(modified Yanagihara’s classification), checkingfor the presence of diplophonia and/or tremors;
+Spectrogram of the word /aiuole/, evaluating the meanFo and noise components according to the spectrographicevaluation of dysphonia;
+Automatic phonetogram with glissandos of the vowel/a/;
+Maximum phonatory time (normal value > 10 sec.).
+All patients are then asked to do self-assessment tests fortheir dysphonia, in particular we use:
+Instructions: indicate the answer you believe to be mosttruthful in your experience
+0 = never; 1 = almost never; 2 = sometimes; 3 = almostalways; 4 = always
+F 1. My voice makes it difficult for people to hear me.
+     0 1 2 3 4
+P 2. I run out of air when I talk.
+     0 1 2 3 4
+F 3. People have difficulty understanding me in a noisyroom.
+     0 1 2 3 4
+P 4. The sound of my voice varies throughout the day.
+     0 1 2 3 4
+F 5. My family has difficulty hearing me when I call themthroughout the house.
+     0 1 2 3 4
+F 6. I use the phone less often than I would like to.
+     0 1 2 3 4
+E 7. I’m tense when talking to others because of my voice.
+     0 1 2 3 4
+F 8. I tend to avoid groups of people because of my voice.
+     0 1 2 3 4
+E 9. People seem irritated with my voice.
+     0 1 2 3 4
+P 10. People ask: “What’s wrong with your voice?”
+     0 1 2 3 4

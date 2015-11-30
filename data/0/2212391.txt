@@ -1,0 +1,4 @@
+
+
+
+Hydrogen bond interactions between the class II α helices and the peptide main chain are critical for the integrity and function of the MHC class II molecule. Shown is a schematic representation of the structure of the I-Ad class II molecule with bound peptide,  where hydrogen bond interactions are shown by dotted lines (adapted from Scott, C.A., P.A. Peterson, L. Teyton, and I.A. Wilson. 1998.  Immunity. 8:319–329). A single amino acid change at β81 (His→ Asn) is predicted to disrupt one hydrogen bond between the class II molecule and bound peptide. The loss of this single hydrogen bond was found to have profound consequences on stable peptide acquisition by  the class II molecule and its intracellular trafficking. See related article in this issue by Ceman et al., pp. 2139–2149.

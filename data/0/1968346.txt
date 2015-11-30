@@ -1,0 +1,4 @@
+The reliability of Cancer Registry records.
+
+Data from the Thames Cancer Registry were compared with data independently abstracted from medical records for 466 patients with confirmed cancer of the bladder diagnosed in 1982. High levels of agreement were observed for five continuous variables and for tumour morphology. Data concerning tumour stage did not clearly distinguish superficial from invasive tumours. Cancer registry data were found to be reliable except for tumour stage which may not be clearly documented in clinical records.
+

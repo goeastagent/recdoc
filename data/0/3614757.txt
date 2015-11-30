@@ -1,0 +1,36 @@
+Clinical Outcome of High Risk Gastrointestinal Stromal Tumor in a Meckel’s Diverticulum
+
+Note: Supported by Associazione Prevenzione Tumori di Guastalla.
+We describe a seven years follow-up of a high risk gastrointestinal stromal tumor in a Meckel’s diverticulum in a 68-year-old man with abdominal pain and vomiting. The patient was operated in emergency for peritonitis due to perforation of small intestine and treated with imatinib mesylate. The metastatic progression of the disease demonstrated the value of prognostic indicators (mitotic rate >10/50 high power field, necrosis and 8 cm in maximum diameter) for assessing risk of aggressive behaviour. Computed tomography was a valuable procedure for detection of local recurrence, the distant metastases and for surveillance after surgery in the follow-up. The review of the literature shows that this case has the longest follow up and consents the comparisons of the same neoplasm in other sites most frequent and better described than Meckel’s diverticulum.
+
+Gastrointestinal stromal tumors (GISTs) may be defined as mesenchymal tumors that express KIT protein or have an activating mutation in a class III receptor tyrosine kinase gene, the PDGFR-α gene, which encodes the platelet derived growth factor receptor-alpha, a tyrosine kinase protein. The KIT protein can be detected by immunohistochemical assays for the CD117 antigen (1).
+Incidence of GISTs within the Meckel’s diverticulum (MD) is 0.5 to 3.2% (2, 3). To our knowledge, only six cases have been previously reported. Presenting symptoms, radiologic and clinical findings have been described, but not the behaviour of the disease (Table 1) (2-12).
+Gastrointestinal stromal tumor in Meckel’s diverticulum: review of the literature
+CT, computed tomography; HPF, high power field; MD, Meckel’s diverticulum; PD, preoperative diagnosis; US, ultrasound.
+We present the clinical outcome of a high risk GIST in a MD, treated with imatinib mesylate, with a follow-up of seven years, as a first example of “disease biologic progression model” suggested by prognostic indicators.
+A 68-year-old man was referred to our institution in August 2001 because of abdominal pain and vomiting.
+A plain X-ray of the abdomen showed distension of the small intestine and colon; no air-fluid levels or subphrenic free air was revealed.
+Ultrasonography of the abdomen showed a voluminous (8 cm in maximum diameter) solid, heterogeneous, pelvic mass to the posterior side of the urinary bladder, probably arising from the small intestine (Fig. 1).
+Pelvic ultrasound shows a 8 cm solid,heterogeneous, pelvic mass (arrow) to the posterior side of the urinary bladder.
+A moderate amount of free fluid in the right iliac fossa was revealed. As a result of the symptoms and radiological findings, preoperative diagnosis of peritonitis due to small intestine perforation and MD tumor with intratumoral necrosis was performed. The patient underwent an emergency surgical resection of the 4 cm ileum with MD neoplasm and lateral ileo-ileal anastomosis.
+The surgical specimen showed a well-circumscribed mass, measuring 8 × 3 cm, arising from the MD wall.
+The pathology report was of high risk GIST (mitotic rate >10/50 high power field, necrosis and 8 cm in maximum diameter) (Fig. 2). All margins were negative.
+Spindle and epithelioid tumor cell were pleomophic (H&E 200X). Insert: strongly positive reaction for the antibody CD117 (c-kit) was diffusely seen in the neoplasm (200X).
+Twelve hours after surgery a fecal peritonitis due to perforation of the perianastomotic ileum was revealed.
+A second surgical operation with latero-lateral ileo-ileal anastomosis was performed.
+After 10 days the patient was discharged in good condition. Abdominopelvic helical Computerized Tomography (CT), performed 8-months after surgery, revealed a voluminous mass (10.5 cm in maximum diameter) in the right iliac fossa and two contiguous masses of 10 cm and of 2.8 cm in maximum diameter in the pelvis.
+On precontrast CT the masses were solid with heterogeneous content, well-defined margins and heterogeneous enhancement after intravenous contrast material administration (Fig. 3). No distant or lymph nodes metastases were revealed.
+Abdominopelvic helical Computed Tomography, performed 8-months after surgery, revealed a voluminous mass in the right iliac fossa (arrow). After intravenous contrast material administration the masses showed heterogeneous enhancement and well-defined margins.
+The patient was treated with imatinib mesylate (400 mg/die for 4 weeks) and he did not present adverse effects to the therapy.
+Abdominopelvic helical CT, performed 18 months after surgery, revealed marked reduction in size of the masses. The histology of these masses showed regressive features as fibrosis and necrosis due to the therapy with the tyrosine kinase inhibitors (Fig. 4).
+Regressive features as fibrosis and necrosis due to the therapy with the tyrosine kinase inhibitors (H&E 200X).
+Appearance and size of the lesions did not change on CT scans obtained 5-years after surgery.
+In January 2008 the patient was referred to our institution because of fecal occult blood.
+Abdominopelvic helical CT, showed increase in size (11 cm in maximum diameter) of the mass localized in the upper abdomen and multiple hepatic metastases. The abdominal and pelvic masses were resected. The histology showed a proliferative pattern of high risk GIST metastases.
+The patient was discharged from the hospital 9 days after surgery.
+Today, on the basis of the pathological and immunohistochemical features, most gastrointestinal mesenchymal tumors are classified as GISTs (13).
+Since other mesenchymal tumors as leiomiosarcomas (14), fibrosarcomas (15) and not other specified stromal tumors arising from MD have been reported more frequently than GIST, probably the application of the new histological and immunohistochemical techniques could modify the original diagnosis.
+In our case the outcome shows that the site is very important in determining the prognosis. Patients with a small bowel localization do worse than those with stomach GIST as reported by DeMatteo et al (16).
+In a case of a MD localization, the treatment with imatinib mesylate has been reported by Khoury II et al (8), but the impact on the clinical behaviour of disease has not been described. In the present report the metastatic progression of disease demonstrated the value of prognostic indicators for assessing risk of aggressive behaviour of GIST also in MD, despite the small number of cases reported. Imatinib mesylate controlled the disease and for the first time we document the histological effects of the therapy.
+CT is a valuable procedure for detection of local recurrence, distant metastases and for surveillance after surgery. If a localized recurrence is detected, the patient may be treated with repeated resection to prevent complications and to attempt a cure.
+In conclusion, our case illustrated the first long term-follow-up in a high-grade GIST in MD and the histological features of the treatment with imatinib mesylate.

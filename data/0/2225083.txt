@@ -1,0 +1,4 @@
+FOUR-STRANDED DNA AS DETERMINED BY ELECTRON MICROSCOPY
+
+ Pneumococcus DNA, of weight-average molecular weight 1.6 million by light scattering, had a weight-average length of 4300 A by electron microscopy. Thus, the average mass per unit length was 370 molecular-weight units per A, or approximately two times that expected (208) for a Watson-Crick double helix. This corresponds to an average of 3.6 strands per molecule, which is close to that obtained by other methods. Morphologically, all the particles in the micrographs were relatively stiff, and had a cross-sectional height of 20 to 30 A. Some divided into two stiff branches of the same height, apparently double helical. Where the branches combined into one (minimally four-stranded) structure they apparently lay side by side in close association. 
+

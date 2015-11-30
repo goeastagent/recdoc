@@ -1,0 +1,4 @@
+Survey of plasmids in various mycoplasmas.
+
+Thirty-three strains representing 15 distinct Mycoplasma, Acholeplasma, and Spiroplasma species were examined for the presence of plasmid DNA by agarose gel electrophoresis. The electrophoretic patterns of the DNAs of three strains, Mycoplasma sp. strain 747, Spiroplasma mirum strain SMCA, and M. hominis strain 1257, suggested the presence of a plasmid with molecular weights of approximately 70, 10, and 9 megadaltons, respectively. The functions of these plasmids are currently unknown.
+

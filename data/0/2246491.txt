@@ -1,0 +1,3 @@
+Prognostic value of continuous variables in breast cancer and head and neck cancer. Dependence on the cut-off level.
+
+
