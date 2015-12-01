@@ -22,25 +22,11 @@
 		"pmcid":{
 		    "type":"string"
 		},
-		"title":{
+		"document":{
 		    "analyzer":"my_bm25_analyzer",
 		    "type":"string",
 		    "similarity": "BM25",
-		    "term_vector" : "with_positions_offsets_payloads",
-		    "store" : true
-		},
-		"abstract":{
-		    "analyzer":"my_bm25_analyzer",
-		    "type":"string",
-		    "similarity": "BM25",
-		    "term_vector" : "with_positions_offsets_payloads",
-		    "store" : true
-		},
-		"body":{
-		    "analyzer":"my_bm25_analyzer",
-		    "type":"string",
-		    "similarity": "BM25",
-		    "term_vector" : "with_positions_offsets_payloads",
+		    "term_vector" : "yes",
 		    "store" : true
 		}
             }

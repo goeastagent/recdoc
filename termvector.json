@@ -1,0 +1,7 @@
+{
+    "fields" : ["document"],
+    "offsets" : true,
+    "payloads" : true,
+    "positions" : true,
+    "term_statistics" : true,
+}

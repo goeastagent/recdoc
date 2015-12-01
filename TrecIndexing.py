@@ -1,6 +1,6 @@
 from elasticsearch import Elasticsearch
 import pandas as pd
-
+import os 
 
 class TrecIndexing:
     def __init__(self):
@@ -31,32 +31,21 @@ class TrecIndexing:
         return (title,abstract,body)
         
 
-
     def doIndex(self):
-        cnt = len(self.ans)
+        for d in os.listdir('data'):
+            cnt = os.listdir('data/'+d)
+            i = 0
+            for f in os.listdir('data/'+d):
+                document = open('data/'+d+'/'+f).read()
+                pmcid = f.split('.')[0]
+                docin = {'pmcid':pmcid,
+                         'document' : document
+                }
 
-        for i,posts in enumerate(self.ans):
-            pmcid = posts['pmcid']
-            if self.coll.find({"articleMeta.pmcid" : str(pmcid)}).count() == 0:
-                print "Data doesn't exist:",pmcid
-                continue
-
-            (title,abstract,body) = self.getDocument(pmcid)
-                   
-            docin = {"title" : title,
-                     "pmcid" : pmcid,
-                     "abstract" : abstract,
-                     "body" : body,
-                     "topicnum" : posts['topicnum'],
-                     "relevancy" : posts['FIELD4']
-                     }
+                res = self.es.index(index='bm25',doc_type='article',id=pmcid,body=docin)
+                print res['created'],i,'/',cnt
+                i += 1
+            break
             
-            ID = str(posts['topicnum']) + '_' + str(pmcid)
-            # self.es.index(index="bm25_garam",doc_type="article",id=ID,body=docin)
-            # self.es.index(index="dfr_garam",doc_type="article",id=ID,body=docin)
-            # self.es.index(index="ib_garam",doc_type="article",id=ID,body=docin)
-            # self.es.index(index="lmd_garam",doc_type="article",id=ID,body=docin)
-            # self.es.index(index="lmj_garam",doc_type="article",id=ID,body=docin)
-            res = self.es.index(index="tfidf_garam",doc_type="article",id=ID,body=docin)
-            print res['created'],str(i)+"/"+str(cnt)
-
+t = TrecIndexing()
+t.doIndex()
