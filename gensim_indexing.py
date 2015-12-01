@@ -6,6 +6,8 @@ def buildCorpus():
     
     corpus = []
     for d in os.listdir('data'):
+        if not d == '0':
+            continue
         cnt = os.listdir('data/'+d)
         i = 0
         for f in os.listdir('data/'+d):
@@ -21,5 +23,5 @@ corpus = buildCorpus()
 
 server = SessionServer('myserver')
 
-server.train(corpus,method='lsi')
+#server.train(corpus,method='lsi')
 server.index(corpus)
